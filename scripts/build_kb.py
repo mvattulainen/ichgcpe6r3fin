@@ -882,7 +882,7 @@ def write_indexes(sections: list[dict[str, Any]], glossary: list[dict[str, Any]]
         write_text(path, f"{yaml_frontmatter(front)}\n\n# {title}\n\n{links or '- Sisältöä ei ole.'}")
     branches = "\n".join(f"- [[{folder}/index|{title}]]" for folder, title in FOLDERS.items())
     front = {"title": "ICH E6(R3) – suomenkielinen tietopohja", "id": "ich-e6-r3-website", "content_type": "index", "language": "fi", "lang": "fi", "schema_type": "WebSite", "publish": True, "permalink": "/"}
-    notice = "Suomenkielinen käännös on epävirallinen. Englanninkielinen lähde on oikeudellisesti sitova. Lähdeteksti, automaattisesti johdettu sisältö ja asiantuntijan tarkistama tulkinta esitetään erillään."
+    notice = "Suomenkielinen käännös on epävirallinen. Englanninkielinen lähde on oikeudellisesti sitova. Lähdeteksti ja automaattisesti johdettu sisältö esitetään erillään. Sivuston sisältö on epävirallinen eikä sivusto ole ICH tai FIMEA arvioima tai hyväksymä."
     write_text(CONTENT / "index.md", f"{yaml_frontmatter(front)}\n\n# Sisällysluettelo\n\n> [!important] Lähde- ja käyttöhuomautus\n> {notice}\n\n{branches}")
 
 

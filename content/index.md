@@ -12,7 +12,7 @@ permalink: "/"
 # Sisällysluettelo
 
 > [!important] Lähde- ja käyttöhuomautus
-> Suomenkielinen käännös on epävirallinen. Englanninkielinen lähde on oikeudellisesti sitova. Lähdeteksti, automaattisesti johdettu sisältö ja asiantuntijan tarkistama tulkinta esitetään erillään.
+> Suomenkielinen käännös on epävirallinen. Englanninkielinen lähde on oikeudellisesti sitova. Lähdeteksti ja automaattisesti johdettu sisältö esitetään erillään. Sivuston sisältö on epävirallinen eikä sivusto ole ICH tai FIMEA arvioima tai hyväksymä.
 
 - [[01-johdanto/index|Johdanto]]
 - [[02-gcp-periaatteet/index|ICH:n määrittelemät hyvän kliinisen tutkimustavan periaatteet]]
