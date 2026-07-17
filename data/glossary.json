@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "ich-e6-r3-glossary-haittatapahtumat-adverse-events-aes-ja-haittavaikutuksiin-adverse-reaction-liittyvat-maaritelmat",
+    "slug": "haittatapahtumat-adverse-events-aes-ja-haittavaikutuksiin-adverse-reaction-liittyvat-maaritelmat",
+    "preferred_term_fi": "Haittatapahtumat (adverse events, AEs) ja haittavaikutuksiin (adverse reaction) liittyvät määritelmät",
+    "preferred_term_en": null,
+    "abbreviations": [],
+    "definition_fi": "Haittatapahtuma: Mikä tahansa epäsuotuisa lääketieteellinen tapahtuma tutkimukseen osallistujalla, jolle on annettu tutkimusvalmistetta. Haittatapahtumalla ei välttämättä ole syy- yhteyttä hoitoon.",
+    "definition_en": null,
+    "source_pages_fi": [
+      95
+    ],
+    "source_pages_en": [],
+    "schema_type": "DefinedTerm",
+    "review_status": "english_alignment_pending"
+  },
+  {
+    "id": "ich-e6-r3-glossary-laakkeen-haittavaikutus",
+    "slug": "laakkeen-haittavaikutus",
+    "preferred_term_fi": "Lääkkeen haittavaikutus",
+    "preferred_term_en": "adverse drug reaction",
+    "abbreviations": [],
+    "definition_fi": "• Ennen myyntiluvan hyväksymistä kertyneessä kliinisessä kokemuksessa uudesta tutkimusvalmisteesta tai sen uusista käyttötarkoituksista (erityisesti silloin, kun terapeuttista hoitoannosta ei ole vielä voitu määrittää): epäsuotuisa ja tahaton vaste, kuten mittausarvo (esim. laboratoriotulokset), oire tai sairaus, joka liittyy mihin tahansa lääkevalmisteen annokseen ja jossa lääkevalmisteen ja haittatapahtuman välinen syy- seuraussuhde on kohtuudella mahdollista. Varmuuden taso lääkkeen haittavaikutuksen yhteydestä tutkimusvalmisteeseen vaihtelee. Jos haittavaikutuksen epäillään liittyvän tutkimusvalmisteeseen suurella varmuudella, se tulee sisällyttää turvallisuutta koskeviin viitetietoihin (RSI) ja/tai tutkijan tietopakettiin. • Markkinoilla olevat lääkevalmisteet: haitallinen ja tahaton reaktio lääkkeeseen, joka esiintyy annoksilla, joita tavallisesti käytetään ihmisillä sairauksien ennaltaehkäisyyn, diagnosointiin tai sairauden hoitoon tai fysiologisen toiminnon muuttamiseen. (Katso ohje ICH E2A Clinical Safety Data Management: Definitions and Standards for Expedited Reporting.)",
+    "definition_en": "• In the pre-approval clinical experience with a new investigational product or its new usages (particularly as the therapeutic dose(s) may not be established): unfavourable and unintended responses, such as a sign (e.g., laboratory results), symptom or disease related to any dose of a medicinal product where a causal relationship between a medicinal product and an adverse event is a reasonable possibility. The level of certainty about the relatedness of the adverse drug reaction to an investigational product will vary. If the ADR is suspected to be medicinal product- related with a high level of certainty, it should be included in the reference safety information (RSI) and/or the Investigator’s Brochure (IB). • For marketed medicinal products: a response to a drug that is noxious and unintended and that occurs at doses normally used in humans for prophylaxis, diagnosis or therapy of diseases or for modification of physiological function. (See ICH E2A Clinical Safety Data Management: Definitions and Standards for Expedited Reporting.)",
+    "source_pages_fi": [
+      95
+    ],
+    "source_pages_en": [
+      64
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-vakava-haittatapahtuma",
+    "slug": "vakava-haittatapahtuma",
+    "preferred_term_fi": "Vakava haittatapahtuma",
+    "preferred_term_en": "serious adverse event, SAE",
+    "abbreviations": [
+      "SAE"
+    ],
+    "definition_fi": "Mikä tahansa epäsuotuisa lääketieteellinen tapahtuma, joka katsotaan vakavaksi annoksesta riippumatta, jos se: • johtaa kuolemaan, • on hengenvaarallinen, • vaatii sairaalahoidon aloittamista tai jatkamista, • aiheuttaa pysyvän tai merkittävän vamman tai haitan, • aiheuttaa synnynnäisen anomalian tai epämuodostuman. (katso ICH E2A) Merkittävää lääketieteellistä tapahtumaa, joka ei välttämättä ole välittömästi hengenvaarallinen tai johda kuolemaan tai sairaalahoitoon, mutta joka voi vaarantaa tutkimukseen osallistujan tai edellyttää interventiota vakavien tapahtumien ehkäisemiseksi (ks. ICH E2A ja E19), tulee yleensä pitää vakavana.",
+    "definition_en": "Any unfavourable medical occurrence that is considered serious at any dose if it: • Results in death, • Is life-threatening, • Requires inpatient hospitalisation or prolongation of existing hospitalisation, • Results in persistent or significant disability/incapacity, or • Is a congenital anomaly/birth defect. (see ICH E2A) An important medical event that may not be immediately life-threatening or result in death or hospitalisation, that may jeopardise the participant or that may require intervention to prevent serious outcomes (see ICH E2A and E19) should generally be considered as serious.",
+    "source_pages_fi": [
+      95
+    ],
+    "source_pages_en": [
+      64
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-epailty-odottamaton-vakava-haittavaikutus",
+    "slug": "epailty-odottamaton-vakava-haittavaikutus",
+    "preferred_term_fi": "Epäilty odottamaton vakava haittavaikutus",
+    "preferred_term_en": "suspected unexpected serious adverse reaction, SUSAR",
+    "abbreviations": [
+      "SUSAR"
+    ],
+    "definition_fi": "haittavaikutus, joka täyttää kolme kriteeriä: epäilty, odottamaton ja vakava. • Epäilty: On olemassa kohtuullinen mahdollisuus, että lääke on aiheuttanut haittavaikutuksen. • Odottamaton: Haittavaikutus, jonka luonne tai vakavuus ei vastaa sovellettavia valmistetietoja (esim. tutkijan tietopaketti tai vaihtoehtoiset muut lainsäädännön vaatimukset täyttävät sovellettavat asiakirjat; ks. turvallisuutta koskevat viitetiedot, RSI). • Vakava: Ks. vakava haittatapahtuma edellä.",
+    "definition_en": "an adverse reaction that meets three criteria: suspected, unexpected and serious. • Suspected: There is a reasonable possibility that the drug caused the adverse drug reaction. • Unexpected: An adverse reaction, the nature or severity of which is not consistent with the applicable product information (e.g., Investigator’s Brochure or alternative documents according to applicable regulatory requirements; see RSI). • Serious: See above for SAE.",
+    "source_pages_fi": [
+      96
+    ],
+    "source_pages_en": [
+      64
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-sopimus",
+    "slug": "sopimus",
+    "preferred_term_fi": "Sopimus",
+    "preferred_term_en": "agreement",
+    "abbreviations": [],
+    "definition_fi": "Asiakirja tai asiakirjakokonaisuus, jossa kuvataan yksityiskohtaisesti kahden tai useamman osapuolen väliset järjestelyt, jotka koskevat toimintojen delegointia tai siirtämistä, jakamista ja/tai jaettuja järjestelyitä sekä tarvittaessa taloudellisia seikkoja. Tämä voi olla sopimuksen muodossa. Tutkimussuunnitelma voi toimia sopimuksen perustana.",
+    "definition_en": "A document or set of documents describing the details of any arrangements on delegation or transfer, distribution and/or sharing of activities and, if appropriate, on financial matters between two or more parties. This could be in the form of a contract. The protocol may serve as the basis of an agreement. Applicable Regulatory Requirement(s) Any law(s) and regulation(s) addressing the conduct of clinical trials of investigational products.",
+    "source_pages_fi": [
+      96
+    ],
+    "source_pages_en": [
+      65
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-lainsaadannon-vaatimukset",
+    "slug": "lainsaadannon-vaatimukset",
+    "preferred_term_fi": "Lainsäädännön vaatimukset",
+    "preferred_term_en": "applicable regulatory requirements",
+    "abbreviations": [],
+    "definition_fi": "Kaikki lait ja asetukset, jotka koskevat tutkimusvalmisteiden kliinisten lääketutkimusten toteuttamista.",
+    "definition_en": null,
+    "source_pages_fi": [
+      96
+    ],
+    "source_pages_en": [],
+    "schema_type": "DefinedTerm",
+    "review_status": "english_alignment_pending"
+  },
+  {
+    "id": "ich-e6-r3-glossary-alaikaisen-suostumus",
+    "slug": "alaikaisen-suostumus",
+    "preferred_term_fi": "Alaikäisen suostumus",
+    "preferred_term_en": "assent",
+    "abbreviations": [],
+    "definition_fi": "Alaikäisen suostumus osallistua kliiniseen lääketutkimukseen. Hyväksynnän tai kieltäytymisen ilmaisematta jättämistä ei tule tulkita alaikäisen suostumukseksi.",
+    "definition_en": "Affirmative agreement of a minor to participate in clinical trial. The absence of expression of agreement or disagreement should not be interpreted as assent.",
+    "source_pages_fi": [
+      96
+    ],
+    "source_pages_en": [
+      65
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-auditointi",
+    "slug": "auditointi",
+    "preferred_term_fi": "Auditointi",
+    "preferred_term_en": "audit",
+    "abbreviations": [],
+    "definition_fi": "Tutkimukseen liittyvän toiminnan ja kirjattujen tietojen systemaattinen ja riippumaton tarkastelu. Auditoinnin suorittaa toimeksiantaja, palveluntarjoaja (mukaan lukien sopimustutkimusorganisaatio, CRO) tai tutkimuslaitos. Sen tarkoitus on määrittää, onko arvioitu tutkimukseen liittyvä toiminta toteutettu ja tiedot kirjattu, analysoitu ja raportoitu tarkasti tutkimussuunnitelman, vakioitujen toimintaohjeiden (SOP), hyvän kliinisen tutkimustavan (GCP) ja lainsäädännön vaatimusten mukaisesti.",
+    "definition_en": "A systematic and independent examination of trial-related activities and records performed by the sponsor, service provider (including contract research organisation (CRO)) or institution to determine whether the evaluated trial-related activities were conducted and the data were recorded, analysed and accurately reported according to the protocol, applicable standard operating procedures (SOPs), Good Clinical Practice (GCP) and the applicable regulatory requirement(s).",
+    "source_pages_fi": [
+      96
+    ],
+    "source_pages_en": [
+      65
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-auditointitodistus",
+    "slug": "auditointitodistus",
+    "preferred_term_fi": "Auditointitodistus",
+    "preferred_term_en": "audit certificate",
+    "abbreviations": [],
+    "definition_fi": "Auditoijan antama todistus, jolla hän vahvistaa, että auditointi on suoritettu.",
+    "definition_en": "A declaration of confirmation by the auditor that an audit has taken place.",
+    "source_pages_fi": [
+      96
+    ],
+    "source_pages_en": [
+      65
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-auditointiraportti",
+    "slug": "auditointiraportti",
+    "preferred_term_fi": "Auditointiraportti",
+    "preferred_term_en": "audit report",
+    "abbreviations": [],
+    "definition_fi": "Tallenne, jossa kuvataan auditoinnin suorittaminen ja sen tulokset.",
+    "definition_en": "A record describing the conduct and outcome of the audit.",
+    "source_pages_fi": [
+      96
+    ],
+    "source_pages_en": [
+      65
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-jaljitettavyysketju",
+    "slug": "jaljitettavyysketju",
+    "preferred_term_fi": "Jäljitettävyysketju",
+    "preferred_term_en": "audit trail",
+    "abbreviations": [],
+    "definition_fi": "Metatiedon tallenteet, jotka mahdollistavat tapahtumien kulun asianmukaisen arvioinnin tallentamalla yksityiskohtaisia tietoja suoritetuista toimista (manuaalisista tai automatisoiduista), jotka liittyvät tiedonkeruuseen ja tarpeen mukaan tietokoneistettujen järjestelmien toimintoihin. Jäljitettävyysketjusta tulee käydä ilmi tehdyt toimenpiteet, alkuperäiset kirjaukset, tietokenttiin tai kirjattuihin tietoihin tehdyt muutokset, kuka ne on tehnyt, milloin ja tarvittaessa miksi. Tietokoneistetuissa järjestelmissä jäljitettävyysketjun tulee olla tietoturvallinen, tietokoneella luotu ja aikaleimattu.",
+    "definition_en": "Metadata records that allow the appropriate evaluation of the course of events by capturing details on actions (manual or automated) performed relating to information and data collection and, where applicable, to activities in computerised systems. The audit trail should show activities, initial entry and changes to data fields or records, by whom, when and, where applicable, why. In computerised systems, the audit trail should be secure, computer-generated and time stamped.",
+    "source_pages_fi": [
+      96,
+      97
+    ],
+    "source_pages_en": [
+      65
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-sokkoutus",
+    "slug": "sokkoutus",
+    "preferred_term_fi": "Sokkoutus",
+    "preferred_term_en": "blinding/masking",
+    "abbreviations": [],
+    "definition_fi": "Menetelmä, jossa yksi tai useampi tutkimukseen osallistuvista tahoista ei ole tietoinen annetusta (määritellystä) hoidosta. Yksinkertainen sokkoutus tarkoittaa yleensä sitä, että tutkimukseen osallistujat eivät ole tietoisia heille määritellystä hoidosta. Kaksoissokkoutus tarkoittaa yleensä sitä, että tutkimukseen osallistujat, tutkijat ja, jos sovellettavissa, muu tutkimusta suorittava henkilöstö tai toimeksiantajan henkilöstö eivät ole tietoisia määritellyistä hoidoista.",
+    "definition_en": "A procedure in which one or more parties to the trial are kept unaware of the treatment assignment(s). Single-blinding usually refers to the participant(s) being unaware, and double-blinding usually refers to the participant(s) and investigator(s) and, if appropriate, other investigator site staff or sponsor staff being unaware of the treatment assignment(s).",
+    "source_pages_fi": [
+      97
+    ],
+    "source_pages_en": [
+      65
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tietojenkeruulomake",
+    "slug": "tietojenkeruulomake",
+    "preferred_term_fi": "Tietojenkeruulomake",
+    "preferred_term_en": "case report form, CRF",
+    "abbreviations": [
+      "CRF"
+    ],
+    "definition_fi": "Tiedonkeruutyökalu, joka on suunniteltu kirjaamaan tutkimussuunnitelmassa määritellyt vaadittavat tiedot, jotka tutkija raportoi toimeksiantajalle kustakin tutkimukseen osallistujasta (ks. tiedonkeruutyökalu).",
+    "definition_en": "A data acquisition tool designed to record protocol-required information to be reported by the investigator to the sponsor on each trial participant (see Data Acquisition Tool).",
+    "source_pages_fi": [
+      97
+    ],
+    "source_pages_en": [
+      65
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-varmennettu-kopio",
+    "slug": "varmennettu-kopio",
+    "preferred_term_fi": "Varmennettu kopio",
+    "preferred_term_en": "certified copy",
+    "abbreviations": [],
+    "definition_fi": "Alkuperäisen tallenteen kopio (käytetyn tietovälineen tyypistä riippumatta), jonka on varmennettu sisältävän samat tiedot kuin alkuperäinen tallenne, mukaan lukien olennaiset metatiedot soveltuvin osin. Varmennus voidaan tehdä päivätyllä allekirjoituksella tai tuottamalla kopio validoidun prosessin kautta.",
+    "definition_en": "A copy (irrespective of the type of media used) of the original record that has been verified (i.e., by a dated signature or by generation through a validated process) to have the same information as the original, including relevant metadata, where applicable.",
+    "source_pages_fi": [
+      97
+    ],
+    "source_pages_en": [
+      65
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-kliininen-laaketutkimus",
+    "slug": "kliininen-laaketutkimus",
+    "preferred_term_fi": "Kliininen lääketutkimus",
+    "preferred_term_en": "clinical trial",
+    "abbreviations": [],
+    "definition_fi": "Mikä tahansa ihmiseen kohdistuva interventiotutkimus, jonka tarkoituksena on löytää tai varmentaa tutkimusvalmisteiden kliiniset, farmakologiset ja/tai muut farmakodynaamiset vaikutukset ja/tai osoittaa niiden haittavaikutukset ja/tai tutkia niiden imeytymistä, jakautumista, metaboliaa ja erittymistä tavoitteena tutkimusvalmisteiden turvallisuuden ja/tai tehokkuuden varmistaminen.",
+    "definition_en": "Any interventional investigation in human participants intended to discover or verify the clinical, pharmacological and/or other pharmacodynamic effects of an investigational product(s); and/or to identify any adverse reactions to an investigational product(s); and/or to study absorption, distribution, metabolism and excretion of an investigational product(s) with the object of ascertaining its safety and/or efficacy.",
+    "source_pages_fi": [
+      97
+    ],
+    "source_pages_en": [
+      66
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-kliinisen-laaketutkimuksen-raportti",
+    "slug": "kliinisen-laaketutkimuksen-raportti",
+    "preferred_term_fi": "Kliinisen lääketutkimuksen raportti",
+    "preferred_term_en": "clinical trial/study report, CSR",
+    "abbreviations": [
+      "CSR"
+    ],
+    "definition_fi": "Dokumentoitu kuvaus mitä tahansa tutkimusvalmistetta koskevasta ihmisellä tehdystä tutkimuksesta, jossa kliininen ja tilastollinen kuvaus, esitykset ja analyysit on kokonaisuudessaan sisällytetty yhteen raporttiin (ks. ICH E3 Structure and Content of Clinical Study Reports).",
+    "definition_en": "A documented description of a trial of any investigational product conducted in human participants, in which the clinical and statistical description, presentations and analyses are fully integrated into a single report (see ICH E3 Structure and Content of Clinical Study Reports).",
+    "source_pages_fi": [
+      97
+    ],
+    "source_pages_en": [
+      66
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-vertailuvalmiste",
+    "slug": "vertailuvalmiste",
+    "preferred_term_fi": "Vertailuvalmiste",
+    "preferred_term_en": "comparator",
+    "abbreviations": [],
+    "definition_fi": "Tutkimusvalmiste tai myyntiluvan saanut lääke (esim. aktiivinen vertailuvalmiste), lumelääke (plasebo) tai standardihoito, jota käytetään kliinisen lääketutkimuksen verrokkina.",
+    "definition_en": "An investigational or authorised medicinal product (i.e., active control), placebo or standard of care used as a reference in a clinical trial.",
+    "source_pages_fi": [
+      97,
+      98
+    ],
+    "source_pages_en": [
+      66
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-vaatimustenmukaisuus",
+    "slug": "vaatimustenmukaisuus",
+    "preferred_term_fi": "Vaatimustenmukaisuus",
+    "preferred_term_en": "compliance, tutkimusten yhteydessä",
+    "abbreviations": [],
+    "definition_fi": "Tutkimusta ja hyvää kliinistä tutkimustapaa koskevien vaatimusten sekä lainsäädännön vaatimusten noudattaminen.",
+    "definition_en": null,
+    "source_pages_fi": [
+      98
+    ],
+    "source_pages_en": [],
+    "schema_type": "DefinedTerm",
+    "review_status": "english_alignment_pending"
+  },
+  {
+    "id": "ich-e6-r3-glossary-luottamuksellisuus",
+    "slug": "luottamuksellisuus",
+    "preferred_term_fi": "Luottamuksellisuus",
+    "preferred_term_en": "confidentiality",
+    "abbreviations": [],
+    "definition_fi": "Toimeksiantajan yksinoikeuteen kuuluvien tietojen tai tutkimukseen osallistujan henkilöllisyyden tai heidän luottamuksellisten tietojensa paljastumisen estäminen muilta kuin tietojen saantiin oikeutetuilta henkilöiltä.",
+    "definition_en": "Prevention of disclosure to other than authorised individuals of a sponsor’s proprietary information or of a participant’s identity or their confidential information.",
+    "source_pages_fi": [
+      98
+    ],
+    "source_pages_en": [
+      66
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-koordinoiva-tutkija",
+    "slug": "koordinoiva-tutkija",
+    "preferred_term_fi": "Koordinoiva tutkija",
+    "preferred_term_en": "coordinating investigator",
+    "abbreviations": [],
+    "definition_fi": "Tutkija, jolle on annettu vastuu monikeskustutkimukseen osallistuvien eri tutkimuspaikkojen tutkijoiden työn koordinoinnista.",
+    "definition_en": "An investigator assigned the responsibility for the coordination of investigators at different investigator sites participating in a multicentre trial.",
+    "source_pages_fi": [
+      98
+    ],
+    "source_pages_en": [
+      66
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tietokoneistettujen-jarjestelmien-validointi",
+    "slug": "tietokoneistettujen-jarjestelmien-validointi",
+    "preferred_term_fi": "Tietokoneistettujen järjestelmien validointi",
+    "preferred_term_en": "computerized system validation",
+    "abbreviations": [],
+    "definition_fi": "Prosessi, jossa osoitetaan ja dokumentoidaan, että tietokoneistettu järjestelmä täyttää määritellyt vaatimukset johdonmukaisesti järjestelmän suunnittelusta sen käytöstä poistamiseen tai uuteen järjestelmään siirtymiseen saakka. Validointitavan tulee perustua riskinarviointiin, jossa huomioidaan järjestelmän aiottu käyttötarkoitus sekä järjestelmän mahdollinen vaikutus tutkimukseen osallistujien suojaukseen ja tutkimustulosten luotettavuuteen.",
+    "definition_en": null,
+    "source_pages_fi": [
+      98
+    ],
+    "source_pages_en": [],
+    "schema_type": "DefinedTerm",
+    "review_status": "english_alignment_pending"
+  },
+  {
+    "id": "ich-e6-r3-glossary-sopimustutkimusorganisaatio",
+    "slug": "sopimustutkimusorganisaatio",
+    "preferred_term_fi": "Sopimustutkimusorganisaatio",
+    "preferred_term_en": "contract research organization, CRO",
+    "abbreviations": [
+      "CRO"
+    ],
+    "definition_fi": "Katso palveluntarjoaja (service provider).",
+    "definition_en": "A paper or electronic tool designed to collect data and associated metadata from a data originator in a clinical trial according to the protocol and to report the data to the sponsor. The data originator may be a human (e.g., the participant or trial staff), a machine (e.g., wearables and sensors) or a computer system from which the electronic transfer of data from one system to another has been undertaken (e.g., extraction of data from an electronic health record or laboratory system). Examples of DATs include but are not limited to CRFs, interactive response technologies (IRTs), clinical outcome assessments (COAs), including patient-reported outcomes (PROs) and wearable devices, irrespective of the media used.",
+    "source_pages_fi": [
+      98
+    ],
+    "source_pages_en": [
+      66
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tiedonkeruutyokalu",
+    "slug": "tiedonkeruutyokalu",
+    "preferred_term_fi": "Tiedonkeruutyökalu",
+    "preferred_term_en": "data acquisition tool, DAT",
+    "abbreviations": [
+      "DAT"
+    ],
+    "definition_fi": "Paperinen tai sähköinen työkalu, joka on suunniteltu kliinisessä lääketutkimuksessa keräämään tietoja ja niihin liittyviä metatietoja tietojen alkuperäiseltä tuottajalta tutkimussuunnitelman mukaisesti sekä raportoimaan tiedot toimeksiantajalle. Tietojen alkuperäinen tuottaja voi olla ihminen (esim. tutkimukseen osallistuja tai tutkimusta toteuttava henkilöstö), kone (esim. puettava elektroninen laite ja anturi) tai tietokoneistettu järjestelmä, josta tietojen siirto järjestelmästä toiseen on tehty sähköisesti (esim. tietojen poimiminen sähköisestä potilasasiakirjasta tai laboratorion järjestelmästä). Esimerkkejä tiedonkeruutyökaluista ovat muun muassa tiedonkeruulomakkeet (CRF), vuorovaikutteiset vastausjärjestelmät (Interactive Response Technologies, IRT), kliinisten lopputulosten arvioinnit (COA), mukaan lukien potilaan itse raportoimat hoitotulokset (PRO) ja puettavat elektroniset laitteet, käytetyistä tietovälineistä riippumatta.",
+    "definition_en": null,
+    "source_pages_fi": [
+      98
+    ],
+    "source_pages_en": [],
+    "schema_type": "DefinedTerm",
+    "review_status": "english_alignment_pending"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tietojen-eheys",
+    "slug": "tietojen-eheys",
+    "preferred_term_fi": "Tietojen eheys",
+    "preferred_term_en": "data integrity",
+    "abbreviations": [],
+    "definition_fi": "Tietojen eheydellä tarkoitetaan sitä, missä määrin tiedot täyttävät keskeiset kriteerit, jotta ne soveltuvat käyttötarkoitukseensa. Keskeisten kriteerien mukaan tietojen on oltava jäljitettävissä/kohdennettavissa tekijäänsä (attributable), luettavissa (legible), ajantasaisesti/samanaikaisesti kirjattuja (contemporaneous), alkuperäisiä (original), täsmällisiä/tarkkoja (accurate), täydellisiä (complete), turvallisia/suojattuja (secure) ja luotettavia (reliable).",
+    "definition_en": "Data integrity includes the degree to which data fulfil key criteria of being attributable, legible, contemporaneous, original, accurate, complete, secure and reliable such that data are fit for purpose.",
+    "source_pages_fi": [
+      98,
+      99
+    ],
+    "source_pages_en": [
+      67
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-suora-paasy",
+    "slug": "suora-paasy",
+    "preferred_term_fi": "Suora pääsy",
+    "preferred_term_en": "direct access",
+    "abbreviations": [],
+    "definition_fi": "Lupa tutkia, analysoida ja varmentaa kliinisen lääketutkimuksen arvioinnin kannalta tärkeitä tallenteita, joita voidaan tehdä tutkimuspaikassa tai etänä. Jokaisen tahon (esim. koti- tai ulkomaiset valvontaviranomaiset, toimeksiantajan monitoroijat ja auditoijat), joilla on suora pääsy, tulee käyttää kohtuullisia varotoimia lainsäädännön vaatimusten asettamien rajoitusten mukaisesti tutkimukseen osallistujien henkilöllisyyden ja heidän tietojensa sekä toimeksiantajan omistamien tietojen luottamuksellisuuden turvaamiseksi.",
+    "definition_en": "Permission to examine, analyse and verify records that are important to the evaluation of a clinical trial and may be performed on-site or remotely. Any party (e.g., domestic and foreign regulatory authorities, sponsor’s monitors and auditors) with direct access should take reasonable precautions within the constraints of the applicable regulatory requirement(s) to maintain the confidentiality of participants’ identities and their data and sponsor’s proprietary information.",
+    "source_pages_fi": [
+      99
+    ],
+    "source_pages_en": [
+      67
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-oleelliset-tallenteet",
+    "slug": "oleelliset-tallenteet",
+    "preferred_term_fi": "Oleelliset tallenteet",
+    "preferred_term_en": "essential records",
+    "abbreviations": [],
+    "definition_fi": "Oleelliset tallenteet ovat missä tahansa muodossa olevia asiakirjoja ja tietoja (ja asiaankuuluvaa metatietoa), jotka liittyvät kliiniseen lääketutkimukseen. Ne helpottavat tutkimuksen jatkuvaa hallinnointia ja yhdessä käytettynä mahdollistavat käytettyjen menetelmien, tutkimukseen vaikuttavien tekijöiden ja tutkimuksen aikana tehtyjen toimenpiteiden arvioinnin. Niiden avulla voidaan varmistaa tuotettujen tutkimustulosten luotettavuus ja se, että tutkimus on toteutettu hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisesti (ks. täydentävä liite C).",
+    "definition_en": "Essential records are the documents and data (and relevant metadata), in any format, associated with a clinical trial that facilitate the ongoing management of the trial and collectively allow the evaluation of the methods used, the factors affecting a trial and the actions taken during the trial conduct to determine the reliability of the trial results produced and the verification that the trial was conducted in accordance with GCP and applicable regulatory requirements (see Appendix C).",
+    "source_pages_fi": [
+      99
+    ],
+    "source_pages_en": [
+      67
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-hyva-kliininen-tutkimustapa",
+    "slug": "hyva-kliininen-tutkimustapa",
+    "preferred_term_fi": "Hyvä kliininen tutkimustapa",
+    "preferred_term_en": "good clinical practice, GCP",
+    "abbreviations": [
+      "GCP"
+    ],
+    "definition_fi": "Kliinisten lääketutkimusten suunnittelua, aloittamista, toteuttamista, kirjaamista, valvontaa, arviointia, analysointia ja raportointia koskeva normi, joka antaa varmuuden siitä, että tiedot ja raportoidut tulokset ovat luotettavia ja että tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi on turvattu.",
+    "definition_en": "A standard for the planning, initiating, performing, recording, oversight, evaluation, analysis and reporting of clinical trials that provides assurance that the data and reported results are reliable and that the rights, safety and well-being of trial participants are protected.",
+    "source_pages_fi": [
+      99
+    ],
+    "source_pages_en": [
+      67
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-puolueeton-todistaja",
+    "slug": "puolueeton-todistaja",
+    "preferred_term_fi": "Puolueeton todistaja",
+    "preferred_term_en": "impartial witness",
+    "abbreviations": [],
+    "definition_fi": "Tutkimuksen ulkopuolinen henkilö, johon tutkimukseen liittyvät henkilöt eivät voi vaikuttaa epäoikeudenmukaisesti ja joka osallistuu suostumusprosessiin tutkimukseen osallistujan ja/tai tämän laillisen edustajan avustajana, jos jompikumpi heistä ei kykene lukemaan. Henkilö lukee tietoon perustuvaa suostumusta koskevan lomakkeen ja muut dokumentoidut tutkimustiedot tutkimukseen osallistujalle ja/tai tämän lailliselle edustajalle.",
+    "definition_en": "A person who is independent of the trial who cannot be unfairly influenced by people involved with the trial, who attends the informed consent process if the participant or the participant’s legally acceptable representative cannot read, and who reads the informed consent form and any other documented information supplied or read to the participant and/or their legally acceptable representative.",
+    "source_pages_fi": [
+      99
+    ],
+    "source_pages_en": [
+      67
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-riippumaton-tietojenseurantatoimikunta",
+    "slug": "riippumaton-tietojenseurantatoimikunta",
+    "preferred_term_fi": "Riippumaton tietojenseurantatoimikunta",
+    "preferred_term_en": "independent data monitoring committee, IDMC",
+    "abbreviations": [
+      "IDMC"
+    ],
+    "definition_fi": "Riippumaton tietojenseurantatoimikunta (esim. turvallisuustietojen seurannasta vastaava ryhmä), jonka toimeksiantaja saattaa perustaa arvioimaan määräajoin kliinisen lääketutkimuksen edistymistä, turvallisuutta ja merkityksellisiä tehokkuustietoja ja suosittelemaan toimeksiantajalle voidaanko tutkimusta jatkaa, tuleeko sitä muuttaa tai tulisiko se lopettaa.",
+    "definition_en": "An independent data monitoring committee (e.g., data safety monitoring board) that may be established by the sponsor to assess at intervals the progress of a clinical trial, the safety and relevant efficacy data, and to recommend to the sponsor whether to continue, modify or stop a trial.",
+    "source_pages_fi": [
+      99,
+      100
+    ],
+    "source_pages_en": [
+      67
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tietoon-perustuva-suostumus",
+    "slug": "tietoon-perustuva-suostumus",
+    "preferred_term_fi": "Tietoon perustuva suostumus",
+    "preferred_term_en": "informed consent",
+    "abbreviations": [],
+    "definition_fi": "Prosessi, jossa tutkimukseen osallistuja tai tämän laillinen edustaja vapaaehtoisesti vahvistaa halukkuutensa osallistua tiettyyn tutkimukseen sen jälkeen, kun hän on saanut tiedot tutkimuksesta ja hänelle on tarjottu mahdollisuus keskustella kaikista tutkimukseen liittyvistä seikoista, joilla on merkitystä hänen osallistumispäätökseensä. Erilaisia tapoja antaa tietoa ja keskustella tutkimuksesta voidaan hyödyntää. Niitä voivat olla esimerkiksi eri muodossa olevien tekstien, kuvien ja videoiden tarjoaminen sekä puhelin- tai videoneuvottelut tutkimusta suorittavan henkilöstön kanssa. Tietoon perustuva suostumus dokumentoidaan kirjallisella (paperisella tai sähköisellä) suostumuslomakkeella, joka allekirjoitetaan ja päivätään. Suostumuksen saamista etänä voidaan harkita silloin, kun se on soveltuvaa.",
+    "definition_en": "A process by which a participant or their legally acceptable representative voluntarily confirms their willingness to participate in a trial after having been informed and been provided with the opportunity to discuss all aspects of the trial that are relevant to the participant’s decision to participate. Varied approaches to the provision of information and the discussion about the trial can be used. This may include, for example, providing text in different formats, images and videos and using telephone or video conferencing with investigator site staff. Informed consent is documented by means of a written (paper or electronic), signed and dated informed consent form. Obtaining consent remotely may be considered when appropriate.",
+    "source_pages_fi": [
+      100
+    ],
+    "source_pages_en": [
+      67
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-viranomaistarkastus-tarkastus",
+    "slug": "viranomaistarkastus-tarkastus",
+    "preferred_term_fi": "Viranomaistarkastus, tarkastus",
+    "preferred_term_en": "inspection",
+    "abbreviations": [],
+    "definition_fi": "Valvontaviranomaisen suorittama asiakirjojen, tilojen, tallenteiden ja muiden sellaisten resurssien virallinen arviointi, joiden viranomainen katsoo liittyvän kliiniseen lääketutkimukseen ja joihin voidaan päästä tutkimuspaikassa, toimeksiantajan ja/tai palveluntarjoajan (mukaan lukien sopimustutkimusorganisaation) tiloissa tai muissa paikoissa, joita viranomainen pitää tarkoituksenmukaisena tarkastaa. Osa tarkastuksesta voidaan suorittaa etänä.",
+    "definition_en": "The act by a regulatory authority(ies) of conducting an official review of documents, facilities, records and any other resources that are deemed by the authority(ies) to be related to the clinical trial and that may be accessed at the investigator site, at the sponsor’s and/or service provider’s (including CRO’s) facilities, or at other establishments deemed appropriate by the regulatory authority(ies). Some aspects of the inspection may be conducted remotely.",
+    "source_pages_fi": [
+      100
+    ],
+    "source_pages_en": [
+      68
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkimuslaitos",
+    "slug": "tutkimuslaitos",
+    "preferred_term_fi": "Tutkimuslaitos",
+    "preferred_term_en": "institution",
+    "abbreviations": [],
+    "definition_fi": "Mikä tahansa julkinen tai yksityinen organisaatio tai virasto, tai lääketieteellinen tai hammaslääketieteellinen laitos, jonka vastuualueella kliiniset lääketutkimukset suoritetaan.",
+    "definition_en": "Any public or private entity or agency or medical or dental organisation in whose remit clinical trials are conducted.",
+    "source_pages_fi": [
+      100
+    ],
+    "source_pages_en": [
+      68
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkimuslaitoksen-arviointilautakunta-riippumaton-eettinen-toimikunta",
+    "slug": "tutkimuslaitoksen-arviointilautakunta-riippumaton-eettinen-toimikunta",
+    "preferred_term_fi": "Tutkimuslaitoksen arviointilautakunta / riippumaton eettinen toimikunta",
+    "preferred_term_en": "Institutional Review Board, IRB /Independent Ethics Committee, IEC",
+    "abbreviations": [
+      "IRB",
+      "IEC"
+    ],
+    "definition_fi": "Riippumaton toimielin (arviointilautakunta tai komitea, organisaatiokohtainen, alueellinen, kansallinen tai ylikansallinen toimielin), joka koostuu lääketieteen ammattilaisista ja maallikoista ja jonka tehtävänä on varmistaa tutkimukseen osallistujien oikeuksien, turvallisuuden ja hyvinvoinnin turvaaminen sekä tuottaa näiden turvaamisen perustaksi julkinen vakuus ja puoltava lausunto arvioimalla muun muassa tutkimussuunnitelma, tutkijoiden soveltuvuus, tilat, käytetyt tutkimusmenetelmät ja tutkimukseen osallistujien tietoon perustuvan suostumuksen hankkimisessa ja dokumentoinnissa käytettävät menetelmät ja materiaalit. Eettisen toimikunnan oikeudellinen asema, kokoonpano, tehtävä ja toiminta ja niitä koskevat lainsäädännön vaatimukset voivat vaihdella eri maiden välillä, mutta eettisen toimikunnan tulee voida toimia tässä ohjeessa kuvatun hyvän kliinisen tutkimustavan mukaisesti.",
+    "definition_en": "An independent body (a review board or a committee, institutional, regional, national or supranational) constituted of medical professionals and non-medical members whose responsibility it is to ensure the protection of the rights, safety and well-being of human participants involved in a trial and to provide public assurance of that protection by, among other things, reviewing and approving/providing favourable opinion on the trial protocol, the suitability of the investigator(s), the facilities, and the methods and material to be used in obtaining and documenting informed consent of the trial participants. The legal status, composition, function, operations and regulatory requirements pertaining to IRBs/IECs may differ among countries but should allow the IRB/IEC to act in agreement with GCP as described in this guideline.",
+    "source_pages_fi": [
+      100,
+      101
+    ],
+    "source_pages_en": [
+      68
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-kliinisen-laaketutkimuksen-valiraportti",
+    "slug": "kliinisen-laaketutkimuksen-valiraportti",
+    "preferred_term_fi": "Kliinisen lääketutkimuksen väliraportti",
+    "preferred_term_en": "interim clinical trial/study report",
+    "abbreviations": [],
+    "definition_fi": "Tutkimuksen kuluessa tehtävä raportti välivaiheen tuloksista ja niiden arviointi tutkimuksen aikana suoritettujen analyysien perusteella.",
+    "definition_en": "A report of intermediate results and their evaluation based on analyses performed during the course of a trial.",
+    "source_pages_fi": [
+      101
+    ],
+    "source_pages_en": [
+      68
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkimusvalmiste",
+    "slug": "tutkimusvalmiste",
+    "preferred_term_fi": "Tutkimusvalmiste",
+    "preferred_term_en": "investigational product",
+    "abbreviations": [],
+    "definition_fi": "Kliinisessä lääketutkimuksessa käytettävä valmiste, joka sisältää farmaseuttisessa muodossa olevaa vaikuttavaa ainetta tai vertailuvalmisteena käytettävä lumelääke, mukaan luettuna myyntiluvan saanut valmiste, jota käytetään tutkimuksessa eri pakkaus- tai valmistemuodossa (formulaatio tai pakkaus) tai eri käyttöaiheeseen kuin mitä sen myyntiluvassa on hyväksytty, tai jos valmistetta käytetään lisätietojen saamiseksi sille hyväksytyssä käyttöaiheessa. Tutkimusvalmisteita tulee pitää synonyyminä lääkkeiden, lääkevalmisteiden, rokotteiden ja biologisten tuotteiden kanssa.",
+    "definition_en": "A pharmaceutical form of an active ingredient or placebo being tested or used as a reference in a clinical trial, including a product with a marketing authorisation when used or assembled (formulated or packaged) in a way different from the approved form, or when used for an unapproved indication, or when used to gain further information about an approved use. Investigational products should be considered synonymous with drugs, medicines, medicinal products, vaccines and biological products.",
+    "source_pages_fi": [
+      101
+    ],
+    "source_pages_en": [
+      68
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkija",
+    "slug": "tutkija",
+    "preferred_term_fi": "Tutkija",
+    "preferred_term_en": "investigator",
+    "abbreviations": [],
+    "definition_fi": "Henkilö, joka on vastuussa kliinisen lääketutkimuksen toteuttamisesta, sekä niistä tutkimukseen osallistujista, jotka ovat hänen vastuullaan tutkimuksen ajan. Jos tutkimuksen suorittaa useista henkilöistä koostuva ryhmä, tutkija on ryhmän vastuullinen johtaja, ja häntä voidaan kutsua päätutkijaksi tai johtavaksi tutkijaksi (principal investigator). Tämän ohjeen kohdissa, joissa viitataan tutkijaan/tutkimuslaitokseen, kuvataan edellytyksiä, jotka voivat koskea tutkijaa ja/tai tutkimuslaitosta joillakin alueilla (eri maissa). Siellä missä lainsäädännön vaatimukset vaativat, niin ”tutkija” tulee tulkita ”tutkijaksi ja/tai tutkimuslaitokseksi”.",
+    "definition_en": "A person responsible for the conduct of the clinical trial, including the trial participants for whom that person has responsibility during the conduct of the trial. If a trial is conducted by a team of individuals, the investigator is the responsible leader of the team and may be called the principal investigator. Where an investigator/institution is referenced in this guideline, it describes expectations that may be applicable to the investigator and/or the institution in some regions. Where required by the applicable regulatory requirements, the “investigator” should be read as “investigator and/or the institution.”",
+    "source_pages_fi": [
+      101
+    ],
+    "source_pages_en": [
+      68
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkijan-tietopaketti",
+    "slug": "tutkijan-tietopaketti",
+    "preferred_term_fi": "Tutkijan tietopaketti",
+    "preferred_term_en": "Investigator’s Brochure, IB",
+    "abbreviations": [
+      "IB"
+    ],
+    "definition_fi": "Yhteenveto tutkimusvalmistetta koskevista kliinisistä ja ei-kliinisistä tiedoista, jotka ovat merkityksellisiä tutkittaessa kyseisen tutkimusvalmisteen vaikutuksia ihmisessä (ks. täydentävä liite A).",
+    "definition_en": "A compilation of the clinical and nonclinical data on the investigational product(s) that is relevant to the study of the investigational product(s) in human participants (see Appendix A).",
+    "source_pages_fi": [
+      101
+    ],
+    "source_pages_en": [
+      68
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkimuspaikka",
+    "slug": "tutkimuspaikka",
+    "preferred_term_fi": "Tutkimuspaikka",
+    "preferred_term_en": "investigator site",
+    "abbreviations": [],
+    "definition_fi": "Paikka, jossa tutkimukseen liittyviä toimia toteutetaan ja/tai koordinoidaan tutkijan/tutkimuslaitoksen valvonnassa.",
+    "definition_en": "The location(s) where trial-related activities are conducted and/or coordinated under the investigator’s/institution’s oversight.",
+    "source_pages_fi": [
+      101
+    ],
+    "source_pages_en": [
+      68
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-laillinen-edustaja",
+    "slug": "laillinen-edustaja",
+    "preferred_term_fi": "Laillinen edustaja",
+    "preferred_term_en": "Legally acceptable representative",
+    "abbreviations": [],
+    "definition_fi": "Luonnollinen tai juridinen henkilö tai muu taho, jolla on voimassa olevan lainsäädännön nojalla oikeus antaa mahdollisen tutkimukseen osallistujan puolesta suostumus tämän osallistumisesta kliiniseen lääketutkimukseen. Kun laillinen edustaja antaa suostumuksen mahdollisen tutkimukseen osallistujan puolesta, suostumuksen antamiseen (ja tarvittaessa uudelleensuostumukseen) liittyviä toimia sekä tässä ohjeessa kuvattuun suostumuksen peruuttamiseen liittyviä toimia, sovelletaan tutkimukseen osallistujan lailliseen edustajaan.",
+    "definition_en": "An individual or juridical or other body authorised under applicable law to consent, on behalf of a prospective participant, to the participant’s participation in the clinical trial. When a legally acceptable representative provides consent on behalf of a prospective participant, activities related to the consenting process (and re-consent, if applicable) and, where relevant, activities associated with the withdrawal of consent described in this guideline are applicable to the participant’s legally acceptable representative.",
+    "source_pages_fi": [
+      101,
+      102
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-metatieto",
+    "slug": "metatieto",
+    "preferred_term_fi": "Metatieto",
+    "preferred_term_en": "metadata",
+    "abbreviations": [],
+    "definition_fi": "Tietyn tietoelementin ymmärtämiseksi tarvittavat kontekstitiedot. Metatieto on jäsenneltyä tietoa, joka kuvaa, selittää tai muutoin helpottaa tietojen hakemista, käyttöä tai hallintaa. Tässä ohjeessa käytetty merkityksellinen metatieto on tietoa, jota tarvitaan tutkimuksen toteuttamisen asianmukaiseen arviointiin.",
+    "definition_en": "The contextual information required to understand a given data element. Metadata is structured information that describes, explains or otherwise makes it easier to retrieve, use or manage data. For the purpose of this guideline, relevant metadata are those needed to allow the appropriate evaluation of the trial conduct.",
+    "source_pages_fi": [
+      102
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-monitorointi",
+    "slug": "monitorointi",
+    "preferred_term_fi": "Monitorointi",
+    "preferred_term_en": "monitoring",
+    "abbreviations": [],
+    "definition_fi": "Kliinisen lääketutkimuksen edistymisen valvonta ja varmistaminen, että tutkimus toteutetaan, kirjataan ja raportoidaan tutkimussuunnitelman, vakioitujen toimintaohjeiden, hyvän kliinisen tutkimustavan sekä lainsäädännön vaatimusten mukaisesti.",
+    "definition_en": "The act of overseeing the progress of a clinical trial and of ensuring that the clinical trial is conducted, recorded and reported in accordance with the protocol, SOPs, GCP and the applicable regulatory requirement(s).",
+    "source_pages_fi": [
+      102
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-monitorointisuunnitelma",
+    "slug": "monitorointisuunnitelma",
+    "preferred_term_fi": "Monitorointisuunnitelma",
+    "preferred_term_en": "monitoring plan",
+    "abbreviations": [],
+    "definition_fi": "Asiakirja, joka kuvaa tutkimuksen monitorointistrategian ja -menetelmät sekä monitoroinnin vastuut ja vaatimukset.",
+    "definition_en": "A document that describes the strategy, methods, responsibilities and requirements for monitoring the trial.",
+    "source_pages_fi": [
+      102
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-monitorointiraportti",
+    "slug": "monitorointiraportti",
+    "preferred_term_fi": "Monitorointiraportti",
+    "preferred_term_en": "monitoring report",
+    "abbreviations": [],
+    "definition_fi": "Dokumentoitu raportti paikan päällä ja/tai keskitetysti suoritetuista monitorointitoimista.",
+    "definition_en": "A documented report following site and/or centralised monitoring activities.",
+    "source_pages_fi": [
+      102
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-monikeskustutkimus",
+    "slug": "monikeskustutkimus",
+    "preferred_term_fi": "Monikeskustutkimus",
+    "preferred_term_en": "multicentre trial",
+    "abbreviations": [],
+    "definition_fi": "Kliininen lääketutkimus, joka toteutetaan yhden tutkimussuunnitelman mukaisesti useammassa kuin yhdessä tutkimuspaikassa.",
+    "definition_en": "A clinical trial conducted according to a single protocol but at more than one investigator site.",
+    "source_pages_fi": [
+      102
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-ei-kliininen-tutkimus",
+    "slug": "ei-kliininen-tutkimus",
+    "preferred_term_fi": "Ei-kliininen tutkimus",
+    "preferred_term_en": "nonclinical study",
+    "abbreviations": [],
+    "definition_fi": "Biolääketieteelliset tutkimukset, joita ei tehdä ihmisillä.",
+    "definition_en": "Biomedical studies not performed on human participants.",
+    "source_pages_fi": [
+      102
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkimussuunnitelma",
+    "slug": "tutkimussuunnitelma",
+    "preferred_term_fi": "Tutkimussuunnitelma",
+    "preferred_term_en": "protocol",
+    "abbreviations": [],
+    "definition_fi": "Asiakirja, jossa esitetään tutkimuksen tavoitteet, tutkimusasetelma, menetelmät, tilastolliset näkökohdat ja tutkimuksen rakenne. Tutkimussuunnitelmassa esitetään yleensä myös tutkimuksen taustat ja tieteelliset syyt, mutta ne voidaan esittää myös muissa tutkimussuunnitelmassa viitatuissa asiakirjoissa. ICH:n hyvää kliinistä tutkimustapaa koskevissa ohjeissa tutkimussuunnitelmalla tarkoitetaan tutkimussuunnitelmaa ja sen muutosversioita.",
+    "definition_en": "A document that describes the objective(s), design, methodology, statistical considerations and organisation of a trial. The protocol usually also gives the background and rationale for the trial, but these could be provided in other protocol referenced documents. Throughout the ICH GCP Guideline, the term “protocol” refers to protocol and protocol amendments.",
+    "source_pages_fi": [
+      102
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkimussuunnitelman-muutos",
+    "slug": "tutkimussuunnitelman-muutos",
+    "preferred_term_fi": "Tutkimussuunnitelman muutos",
+    "preferred_term_en": "protocol amendment",
+    "abbreviations": [],
+    "definition_fi": "Tutkimussuunnitelman muutoksia koskeva kirjallinen selostus.",
+    "definition_en": "A documented description of a change(s) to a protocol.",
+    "source_pages_fi": [
+      102
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-laadunvarmistus",
+    "slug": "laadunvarmistus",
+    "preferred_term_fi": "Laadunvarmistus",
+    "preferred_term_en": "quality assurance, QA",
+    "abbreviations": [
+      "QA"
+    ],
+    "definition_fi": "Kaikki suunnitellut ja järjestelmälliset toimenpiteet, joilla voidaan varmistaa, että tutkimuksen toteuttaminen sekä tuotettu tutkimustieto on tallennettu ja raportoitu hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisesti.",
+    "definition_en": "All those planned and systematic actions that are established to ensure that the trial is performed and the data are generated, documented (recorded) and reported in compliance with GCP and the applicable regulatory requirement(s).",
+    "source_pages_fi": [
+      102,
+      103
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-laadunvalvonta",
+    "slug": "laadunvalvonta",
+    "preferred_term_fi": "Laadunvalvonta",
+    "preferred_term_en": "quality control, QC",
+    "abbreviations": [
+      "QC"
+    ],
+    "definition_fi": "Laadunvarmistusjärjestelmän mukaiset menetelmät ja toimenpiteet, joilla varmistutaan siitä, että tutkimuksiin liittyvän toiminnan laatuvaatimuksia on noudatettu.",
+    "definition_en": "The operational techniques and activities undertaken to verify that the requirements for quality of the trial-related activities have been fulfilled.",
+    "source_pages_fi": [
+      103
+    ],
+    "source_pages_en": [
+      69
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-satunnaistaminen",
+    "slug": "satunnaistaminen",
+    "preferred_term_fi": "Satunnaistaminen",
+    "preferred_term_en": "randomisation",
+    "abbreviations": [],
+    "definition_fi": "Prosessi, jossa tutkimukseen osallistujat osoitetaan tarkoituksella sattumanvaraisesti ryhmiin, saamaan erilaista hoitoa, jotta voidaan vähentää tutkimusharhaa.",
+    "definition_en": "The process of deliberately including an element of chance when assigning participants to groups that receive different treatments in order to reduce bias.",
+    "source_pages_fi": [
+      103
+    ],
+    "source_pages_en": [
+      70
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-turvallisuutta-koskevat-viitetiedot",
+    "slug": "turvallisuutta-koskevat-viitetiedot",
+    "preferred_term_fi": "Turvallisuutta koskevat viitetiedot",
+    "preferred_term_en": "reference safety information, RSI",
+    "abbreviations": [
+      "RSI"
+    ],
+    "definition_fi": "Sisältää kumulatiivisen luettelon tutkimusvalmisteen haittavaikutuksista, joita kliiniseen lääketutkimukseen osallistuvilla henkilöillä odotetaan ilmenevän tutkimuksen aikana. Turvallisuutta koskevat viitetiedot sisältyvät tutkijan tietopakettiin tai vaihtoehtoisiin asiakirjoihin lainsäädännön vaatimusten mukaisesti. Katso lisätietoja turvallisuutta koskevista viitetiedoista ICH E2F Development Safety Update Report -ohjeesta.",
+    "definition_en": "Contains a cumulative list of ADRs that are expected for the investigational product being administered to participants in a clinical trial. The RSI is included in the Investigator’s Brochure or alternative documents according to applicable regulatory requirements. Refer to ICH E2F Development Safety Update Report for more information about RSI.",
+    "source_pages_fi": [
+      103
+    ],
+    "source_pages_en": [
+      70
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-valvontaviranomaiset",
+    "slug": "valvontaviranomaiset",
+    "preferred_term_fi": "Valvontaviranomaiset",
+    "preferred_term_en": "regulatory authorities",
+    "abbreviations": [],
+    "definition_fi": "Valvontavallan omaavat toimielimet, mukaan lukien ne, jotka arvioivat toimitettuja tutkimussuunnitelmia ja kliinisiä tietoja sekä ne, jotka tekevät tarkastuksia. Näitä toimielimiä kutsutaan toisinaan toimivaltaisiksi viranomaisiksi (competent authorities).",
+    "definition_en": "Bodies having the power to regulate, including those that review submitted protocols and clinical data and those that conduct inspections. These bodies are sometimes referred to as competent authorities.",
+    "source_pages_fi": [
+      103
+    ],
+    "source_pages_en": [
+      70
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-palveluntarjoaja",
+    "slug": "palveluntarjoaja",
+    "preferred_term_fi": "Palveluntarjoaja",
+    "preferred_term_en": "Service provider",
+    "abbreviations": [],
+    "definition_fi": "Henkilö tai organisaatio (kaupallinen, akateeminen tai muu), joka tarjoaa palvelua, jota toimeksiantaja tai tutkija käyttää toteuttaakseen tutkimukseen liittyviä toimia.",
+    "definition_en": "A person or organisation (commercial, academic or other) providing a service used by either the sponsor or the investigator to fulfil trial-related activities.",
+    "source_pages_fi": [
+      103
+    ],
+    "source_pages_en": [
+      70
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-allekirjoitus",
+    "slug": "allekirjoitus",
+    "preferred_term_fi": "Allekirjoitus",
+    "preferred_term_en": "signature",
+    "abbreviations": [],
+    "definition_fi": "Yksilöllinen merkki, tunnus tai merkintä, jonka yksilö (henkilö) on tehnyt, hyväksynyt tai valtuuttanut lainsäädännön vaatimusten mukaisesti ja/tai käytäntö, jolla allekirjoittajan tahdonilmaisu ja henkilöllisyys voidaan todentaa (muodostaa korkean varmuuden siitä, että tiedon on allekirjoittanut väitetty allekirjoittaja). Allekirjoitus voi olla fyysinen tai sähköinen.",
+    "definition_en": "A unique mark, symbol or entry executed, adopted or authorised by an individual, in accordance with applicable regulatory requirements and/or practice to show expression of will and allow authentication of the signatory (i.e., establish a high degree of certainty that a record was signed by the claimed signatory). A signature may be physical or electronic.",
+    "source_pages_fi": [
+      103
+    ],
+    "source_pages_en": [
+      70
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-lahdetallenteet",
+    "slug": "lahdetallenteet",
+    "preferred_term_fi": "Lähdetallenteet",
+    "preferred_term_en": "source records",
+    "abbreviations": [],
+    "definition_fi": "Alkuperäiset asiakirjat tai tiedot (jotka sisältävät asiaankuuluvat metatiedot) tai varmennetut kopiot alkuperäisestä asiakirjasta tai tiedoista, käytetyistä tietovälineistä riippumatta. Näillä voidaan tarkoittaa tutkimukseen osallistujien lääketieteellisiä ja terveyteen liittyviä tallenteita/kirjauksia/asiakirjoja, tutkimukseen osallistujien toimittamia/syöttämiä tietoja (esim. potilaan sähköisesti raportoimia tuloksia, ePRO), terveydenhuollon ammattilaisten kirjauksia apteekeista, laboratorioista ja muilta kliiniseen lääketutkimukseen osallistuvilta tahoilta sekä automatisoiduista välineistä, kuten puettavista elektronisista laitteista ja antureista saatuja tietoja.",
+    "definition_en": "Original documents or data (which includes relevant metadata) or certified copies of the original documents or data, irrespective of the media used. This may include trial participants’ medical/health records/notes/charts; data provided/entered by trial participants (e.g., electronic patient-reported outcomes (ePROs)); healthcare professionals’ records from pharmacies, laboratories and other facilities involved in the clinical trial; and data from automated instruments, such as wearables and sensors.",
+    "source_pages_fi": [
+      103
+    ],
+    "source_pages_en": [
+      70
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-toimeksiantaja",
+    "slug": "toimeksiantaja",
+    "preferred_term_fi": "Toimeksiantaja",
+    "preferred_term_en": "sponsor",
+    "abbreviations": [],
+    "definition_fi": "Yksityinen henkilö, yritys, laitos tai organisaatio, joka vastaa kliinisen lääketutkimuksen aloittamisesta, hallinnoinnista ja tutkimusrahoituksen järjestämisestä. Kliinisellä lääketutkimuksella voi olla yksi tai useampi toimeksiantaja, jos se on sallittua lainsäädännön vaatimusten mukaisesti. Kaikilla toimeksiantajilla on tässä ohjeessa määritellyt toimeksiantajan vastuut. Lainsäädännön vaatimusten mukaisesti toimeksiantajat voivat päättää omat vastuualueensa dokumentoidussa sopimuksessa. Jos sopimuksessa ei täsmennetä, kenelle toimeksiantajalle jokin tietty vastuu kuuluu, vastuu on kaikilla toimeksiantajilla.",
+    "definition_en": "An individual, company, institution or organisation that takes responsibility for the initiation, management and arrangement of the financing of a clinical trial. A clinical trial may have one or several sponsors where permitted under regulatory requirements. All sponsors have the responsibilities of a sponsor set out in this guideline. In accordance with applicable regulatory requirements, sponsors may decide in a documented agreement setting out their respective responsibilities. Where the documented agreement does not specify to which sponsor a given responsibility is attributed, that responsibility lies with all sponsors.",
+    "source_pages_fi": [
+      104
+    ],
+    "source_pages_en": [
+      70
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-toimeksiantaja-tutkija",
+    "slug": "toimeksiantaja-tutkija",
+    "preferred_term_fi": "Toimeksiantaja-tutkija",
+    "preferred_term_en": "sponsor-investigator",
+    "abbreviations": [],
+    "definition_fi": "Henkilö, joka sekä käynnistää että toteuttaa kliinisen lääketutkimuksen joko yksin tai muiden kanssa ja jonka välittömässä johdossa tutkimusvalmistetta annostellaan tai annetaan tutkimukseen osallistujalle tai tutkimukseen osallistujien käyttöön. Tämä määritelmä koskee ainoastaan yksilöitä (henkilöitä, ei esimerkiksi yhtiöitä tai laitoksia). Toimeksiantaja-tutkijan velvollisuuksiin kuuluvat sekä toimeksiantajan että tutkijan velvollisuudet.",
+    "definition_en": "An individual who both initiates and conducts, alone or with others, a clinical trial, and under whose immediate direction the investigational product is administered to, dispensed to or used by a participant. The term does not include any person other than an individual (e.g., the term does not include a corporation or an agency). The obligations of a sponsor-investigator include both those of a sponsor and those of an investigator.",
+    "source_pages_fi": [
+      104
+    ],
+    "source_pages_en": [
+      70
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-vakioidut-toimintaohjeet",
+    "slug": "vakioidut-toimintaohjeet",
+    "preferred_term_fi": "Vakioidut toimintaohjeet",
+    "preferred_term_en": "standard operating procedures, SOPs",
+    "abbreviations": [],
+    "definition_fi": "Yksityiskohtaiset kirjalliset ohjeet, joiden mukaan tietty toiminto voidaan suorittaa yhdenmukaisesti.",
+    "definition_en": "Detailed, documented instructions to achieve uniformity of the performance of a specific activity.",
+    "source_pages_fi": [
+      104
+    ],
+    "source_pages_en": [
+      71
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-avustava-tutkija",
+    "slug": "avustava-tutkija",
+    "preferred_term_fi": "Avustava tutkija",
+    "preferred_term_en": "sub-investigator",
+    "abbreviations": [],
+    "definition_fi": "Kaikki kliinisen lääketutkimusryhmän yksittäiset jäsenet, jotka tutkija on nimennyt suorittamaan merkittäviä tutkimukseen liittyviä toimia ja/tai tekemään tärkeitä tutkimusta koskevia päätöksiä ja joiden toimintaa hän valvoo (mm. avustavat lähikollegat, apulaislääkärit, tutkimusta tekevät erikoistuvat lääkärit).",
+    "definition_en": "Any individual member of the clinical trial team designated and under the oversight of the investigator to perform significant trial-related procedures and/or to make important trial-related decisions (e.g., associates, residents, research fellows).",
+    "source_pages_fi": [
+      104
+    ],
+    "source_pages_en": [
+      71
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkimukseen-osallistuja",
+    "slug": "tutkimukseen-osallistuja",
+    "preferred_term_fi": "Tutkimukseen osallistuja",
+    "preferred_term_en": "trial participant",
+    "abbreviations": [],
+    "definition_fi": "Henkilö, joka osallistuu kliiniseen lääketutkimukseen ja jonka odotetaan saavan tutkimusvalmistetta tai joka osallistuu verrokkina. Tässä ohjeessa tutkittavalla, osallistujalla ja tutkimukseen osallistujalla tarkoitetaan samaa henkilöä.",
+    "definition_en": "An individual who participates in a clinical trial who is expected to receive the investigational product(s) or as a control. In this guideline, trial participant and participant are used interchangeably.",
+    "source_pages_fi": [
+      104
+    ],
+    "source_pages_en": [
+      71
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-tutkimukseen-osallistujan-tunnistekoodi",
+    "slug": "tutkimukseen-osallistujan-tunnistekoodi",
+    "preferred_term_fi": "Tutkimukseen osallistujan tunnistekoodi",
+    "preferred_term_en": "trial participant identification code",
+    "abbreviations": [],
+    "definition_fi": "Kullekin tutkimukseen osallistujalle annettu yksilöllinen tunniste, joka suojaa tämän henkilöllisyyttä ja jota käytetään tutkimukseen osallistujan nimen sijasta silloin, kun tutkija raportoi haittatapahtumista ja/tai muista tutkimukseen liittyvistä tiedoista.",
+    "definition_en": "A unique identifier assigned to each trial participant to protect the participant’s identity and used in lieu of the participant’s name when the investigator reports adverse events and/or other trial-related data.",
+    "source_pages_fi": [
+      104
+    ],
+    "source_pages_en": [
+      71
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  },
+  {
+    "id": "ich-e6-r3-glossary-haavoittuvassa-asemassa-olevat-tutkimukseen-osallistujat",
+    "slug": "haavoittuvassa-asemassa-olevat-tutkimukseen-osallistujat",
+    "preferred_term_fi": "Haavoittuvassa asemassa olevat tutkimukseen osallistujat",
+    "preferred_term_en": "vulnerable participants",
+    "abbreviations": [],
+    "definition_fi": "Henkilöt, joiden halukkuuteen osallistua vapaaehtoisesti kliiniseen lääketutkimukseen voi vaikuttaa epäasianmukaisesti joko odotus osallistumiseen liittyvistä hyödyistä tai pelko hierarkiassa ylempänä olevien henkilöiden vastatoimista, jos he kieltäytyvät osallistumasta, riippumatta siitä, ovatko tällaiset odotukset perusteltuja vai eivät. Tällaisia rakenteeltaan hierarkkisia ryhmiä ja niiden jäseniä ovat esimerkiksi lääketieteen, farmasian, hammaslääketieteen tai hoitoalan opiskelijat, sairaaloiden tai laboratorioiden alaisasemassa olevat henkilöt, lääketeollisuuden työntekijät, sekä puolustusvoimissa olevat henkilöt ja vangit. Muita haavoittuvassa asemassa olevia tutkimukseen osallistujia ovat hoitokodeissa olevat henkilöt, työttömät tai varattomat henkilöt, hätätilanteessa olevat potilaat, etniset vähemmistöt, kodittomat, paimentolaiset, pakolaiset, alaikäiset tai henkilöt, jotka eivät kykene ilmaisemaan suostumustaan.",
+    "definition_en": "Individuals whose willingness to volunteer in a clinical trial may be unduly influenced by the expectation, whether justified or not, of benefits associated with participation or of a retaliatory response from senior members of a hierarchy in case of refusal to participate. Examples are members of a group with a hierarchical structure, such as medical, pharmacy, dental and nursing students; subordinate hospital and laboratory personnel; employees of the pharmaceutical industry; members of the armed forces; and persons kept in detention. Other vulnerable participants may include persons in nursing homes, unemployed or impoverished persons, patients in emergency situations, ethnic minority groups, homeless persons, nomads, refugees, minors and those incapable of giving consent.",
+    "source_pages_fi": [
+      104,
+      105
+    ],
+    "source_pages_en": [
+      71
+    ],
+    "schema_type": "DefinedTerm",
+    "review_status": "source_extracted"
+  }
+]

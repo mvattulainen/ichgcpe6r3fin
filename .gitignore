@@ -1,0 +1,12 @@
+node_modules/
+.quartz/
+public/
+tmp/
+.vendor/
+.pnpm-store/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.DS_Store
+/ICH_E6(R3)_GCP_suomenkielinen käännös_v1 9.7.2026.pdf
+/ich-e6-r3-guideline-good-clinical-practice-gcp-step-5_en.pdf

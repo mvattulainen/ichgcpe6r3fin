@@ -1,0 +1,208 @@
+---
+title: "EN–FI-termisanasto"
+id: "ich-e6-r3-index-termisanasto"
+content_type: "index"
+language: "fi"
+lang: "fi"
+schema_type: "CollectionPage"
+publish: true
+permalink: "/termisanasto/"
+---
+
+# EN–FI-termisanasto
+
+- **access control** – käyttöoikeuksien hallinta
+- **activity / activities** – toimi / toimet (sisältää tehtävät, vastuut ja toiminnot)
+- **adaptability** – joustavuus, mukautuvuus
+- **adjudication committee** – arviointitoimikunta
+- **adverse drug reaction** – lääkkeen haittavaikutus
+- **adverse drug reaction patterns** – lääkkeen haittavaikutusten esiintymismallit
+- **adverse event** – haittatapahtuma
+- **adverse reaction** – haittavaikutus
+- **aggregate** – koota yhteen
+- **analysis sets decisions** – analyysijoukkojen valintapäätökset
+- **annex** – liite
+- **appendix** – täydentävä liite
+- **appropriate decision making** – asianmukainen päätöksenteko
+- **assent** – alaikäisen suostumus
+- **assessment of efficacy** – tehokkuuden arviointi
+- **assessment of safety** – turvallisuuden arviointi
+- **audit** – auditointi
+- **audit certificate** – auditointitodistus
+- **audit frequency** – auditointiväli (kuinka usein auditoidaan)
+- **audit report** – auditointiraportti
+- **audit trail** – jäljitettävyysketju
+- **basic product information brochure** – valmisteyhteenveto (tai muut olemassa olevat hyväksytyt tuotetiedot)
+- **bias** – harha
+- **bioavailability** – biologinen hyötyosuus
+- **biostatistician** – biostatistikko
+- **blinding / masking** – sokkoutus
+- **case report form** – tietojenkeruulomake
+- **central image reading facility** – keskitetty kuvantamisen tulkinnan yksikkö
+- **centralised monitoring** – keskitetty monitorointi
+- **certified copy** – varmennettu kopio
+- **clinical development** – kliininen kehitys
+- **clinical management** – kliininen hoito
+- **clinical research** – kliininen tutkimus
+- **clinical trial** – kliininen lääketutkimus
+- **clinical trial protocol** – (kliinisen lääketutkimuksen) tutkimussuunnitelma
+- **clinical trial/study report (CSR)** – kliinisen lääketutkimuksen raportti (CSR)
+- **comparator** – vertailuvalmiste
+- **compliance** – vaatimustenmukaisuus
+- **compound** – yhdiste
+- **computerized system** – tietokoneistettu järjestelmä
+- **computerized system validation** – tietokoneistettujen järjestelmien validointi
+- **contract research organization (CRO)** – sopimustutkimusorganisaatio (CRO)
+- **coordinating investigator** – koordinoiva tutkija
+- **criticality (higher criticality)** – kriittisyys (kriittisempi)
+- **critical to quality factor** – kriittinen laatutekijä
+- **data acquisition tool** – tiedonkeruutyökalu
+- **data analytics** – data-analytiikka
+- **database lock checklist** – tietokannan lukituksen tarkistuslista
+- **data handling** – tietojen käsittely
+- **data integrity** – tietojen eheys
+- **data management** – tiedonhallinta
+- **data management plan** – tiedonhallintasuunnitelma
+- **data manager** – tiedonhallinnan asiantuntija (data manager)
+- **data outlier** – oudokki
+- **data scientist** – data-analyytikko
+- **data set** – tietoaineisto / datajoukko
+- **decentralised elements** – hajautetut elementit
+- **decentralised settings** – hajautetut toimintaympäristöt
+- **decoding, emergency decoding** – koodin purku, koodin purku hätätilanteissa
+- **direct access** – suora pääsy
+- **dose** – annos
+- **dose interval** – annosväli
+- **drug** – lääke
+- **duration of dosing** – annostelun kesto
+- **efficacy endpoint** – tehoon liittyvä päätetapahtuma
+- **electronic health records** – sähköiset potilasasiakirjat (asiakastiedot)
+- **eligible trial participant** – tutkimukseen soveltuva osallistuja
+- **elimination** – eliminaatio
+- **endpoint assessment** – päätetapahtuman arviointi
+- **enrolment log** – lista tutkimukseen otetuista osallistujista
+- **ePRO** – potilaan sähköisesti raportoima(t) tulos/tulokset (ePRO)
+- **escalation** – eskalointi
+- **essential records** – oleelliset tallenteet
+- **estimand** – estimandi
+- **expectedness** – odotettavuus
+- **expedited reporting** – nopeutettu raportointi
+- **favourable opinion** – puoltava lausunto
+- **fitness for purpose** – tarkoitukseen sopivuus
+- **formulation** – formulaatio
+- **frequency** – esiintymistiheys
+- **genotoxicity** – genotoksisuus
+- **good clinical practise (GCP)** – hyvä kliininen tutkimustapa (GCP)
+- **human equivalent dose** – vastaava ihmisannos
+- **Identification code** – tunnistekoodi
+- **impaired organ function** – elimen toimintahäiriö
+- **Impartial witness** – puolueeton todistaja
+- **implement** – toteuttaa, ottaa käyttöön, panna täytäntöön
+- **Important protocol deviation** – merkittävä poikkeama tutkimussuunnitelmasta
+- **Incident** – tapahtuma
+- **Independent Data Monitoring Committee (IDMC)** – riippumaton tietojenseurantatoimikunta (IDMC)
+- **Independent Ethics Committee (IEC)** – riippumaton eettinen toimikunta
+- **indication** – käyttöaihe
+- **Informed consent** – tietoon perustuva suostumus
+- **injury** – henkilövahinko, haitta
+- **inspection** – (viranomais)tarkastus
+- **institution** – tutkimuslaitos
+- **Institutional Review Board (IRB)** – tutkimuslaitoksen arviointilautakunta
+- **Interactive Response Technologies (IRT)** – vuorovaikutteiset vastausjärjestelmät (IRT)
+- **interface** – rajapinta
+- **Interim clinical trial/study report** – kliinisen lääketutkimuksen väliraportti
+- **investigational product** – tutkimusvalmiste
+- **investigator** – tutkija
+- **investigator-initiated** – tutkijalähtöinen
+- **investigator's brochure (IB)** – tutkijan tietopaketti (IB)
+- **investigator site** – tutkimuspaikka
+- **investigator site file** – tutkijan kantatiedosto
+- **investigator site staff** – tutkimusta suorittava henkilö(stö)
+- **intercurrent event** – Tutkimushoidon aloittamisen jälkeen ilmenevä tapahtuma, joka vaikuttaa kliinisen tutkimuskysymyksen kannalta olennaisiin mittauksiin, niiden tulkintaan tai olemassaoloon [ks. ICH E9(R1)]
+- **interventional clinical trial** – interventiotutkimus
+- **issue** – asia, poikkeama, ongelma
+- **labelling** – pakkausmerkintä
+- **legally acceptable representative** – laillinen edustaja
+- **line listings** – (rivikohtainen) listaus
+- **malpractice** – hoitovirhe, virheellinen menettely
+- **medicine** – lääke
+- **metadata** – metatieto, metatiedot
+- **monitor** – monitoroija
+- **monitoring** – monitorointi
+- **monitoring plan** – monitorointisuunnitelma
+- **monitoring report** – monitorointiraportti
+- **multicentre trial** – monikeskustutkimus
+- **nonclinical pharmacology** – ei-kliininen farmakologia
+- **nonclinical study** – ei-kliininen tutkimus
+- **noncompliance** – vaatimusten laiminlyönti
+- **oversight measures, oversight processes** – valvontamenettelyt, valvontatoimet
+- **participant** – (tutkimukseen) osallistuja
+- **penetration testing** – tunkeutumistestaus
+- **performance metrics** – toiminnan tunnusluvut, suorituskykymittarit
+- **pharmacological class** – farmakologinen luokka
+- **placebo** – lumelääke, plasebo
+- **principal investigator** – johtava tutkija, päätutkija
+- **product** – valmiste
+- **product specifications** – valmisteyhteenveto
+- **proportionate risk-based approach** – oikeasuhtainen riskiperusteinen lähestymistapa
+- **protocol** – tutkimussuunnitelma
+- **protocol amendment** – tutkimussuunnitelman muutos
+- **provision** – vaatimus, määräys, säännös
+- **quality assurance (QA)** – laadunvarmistus
+- **quality by design** – laadun suunnittelu
+- **quality control (QC)** – laadunvalvonta
+- **quality culture** – laatukulttuuri
+- **quality tolerance limits** – laatutoleranssirajat
+- **query** – tarkistuspyyntö
+- **query resolution** – selvitetty tarkistuspyyntö
+- **randomization** – satunnaistaminen
+- **real-world source** – tosielämän tietolähde
+- **reconciliation** – ristiintarkistus
+- **record** – tallenne
+- **recruit** – rekrytoida
+- **reference dosage form** – vertailuannostelumuoto
+- **reference point** – viitekohta
+- **reference safety information (RSI)** – turvallisuutta koskevat viitetiedot (RSI)
+- **regulatory authorities** – valvontaviranomaiset
+- **regulatory requirements, applicable regulatory requirements** – lainsäädännön vaatimukset
+- **repository** – tietokanta, tallennuspaikka, arkisto
+- **rescue medication** – tutkimussuunnitelman mukaisesti otettava (hätä)lääke
+- **reversibility** – palautuvuus
+- **revised** – päivitetty
+- **risk based strategies** – riskiperusteinen strategia
+- **risk-benefit assessment** – riskien ja hyötyjen arviointi
+- **risk management** – riskienhallinta
+- **risk mitigation** – riskien vähentäminen
+- **root cause analysis** – juurisyyanalyysi
+- **route of administration** – antoreitti
+- **SAE reconciliation** – Vakavien haittatapahtumien (SAE) tietojen ristiintarkistus
+- **safety monitoring** – turvallisuusseuranta
+- **sample size** – otoskoko
+- **screening log** – lista seulotuista osallistujista
+- **serious adverse event (SAE)** – vakava haittatapahtuma (SAE)
+- **service provider** – palveluntarjoaja
+- **signature** – allekirjoitus
+- **source data** – lähdetiedot
+- **source records** – lähdetallenteet
+- **species** – laji
+- **sponsor** – toimeksiantaja
+- **sponsor-investigator** – toimeksiantaja-tutkija
+- **standard operating procedure (SOP)** – vakioitu toimintaohje (SOP)
+- **sub-investigator** – avustava tutkija
+- **suspected unexpected serious adverse reaction (SUSAR)** – epäilty odottamaton vakava haittavaikutus (SUSAR)
+- **system defect** – järjestelmävirhe
+- **systemic distribution** – jakautuminen elimistössä / systeeminen jakautuminen
+- **terminal medical records** – kuolintodistus
+- **trial conduct** – lääketutkimuksen organisointi, toteuttaminen tai suorittaminen
+- **trial master file** – lääketutkimuksen kantatiedosto
+- **trial participant** – tutkimukseen osallistuja
+- **trial participant identification code** – tutkimukseen osallistujan tunnistekoodi
+- **unbiased** – harhaton
+- **unblinding** – sokkoutuksen purkaminen
+- **unfavourable and unintended effect** – epäsuotuisa ja tahaton vaikutus
+- **unfavourable medical event** – (tutkimuksen kannalta) epäsuotuisa lääketieteellinen
+tapahtuma
+- **unit dose** – kerta-annos
+- **validation status** – validoinnin tila
+- **validity** – pätevyys
+- **vulnerable participant** – haavoittuvassa asemassa oleva osallistuja

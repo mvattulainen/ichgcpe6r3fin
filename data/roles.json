@@ -1,0 +1,11 @@
+{
+  "roles": [
+    "tutkija",
+    "toimeksiantaja",
+    "tutkimuspaikan-henkilosto",
+    "monitoroija",
+    "riippumaton-eettinen-toimikunta",
+    "tiedonhallinta-ja-tietokoneistetut-jarjestelmat",
+    "palveluntarjoaja"
+  ]
+}

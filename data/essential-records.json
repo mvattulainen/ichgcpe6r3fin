@@ -1,0 +1,856 @@
+[
+  {
+    "id": "essential-record-001",
+    "name_fi": "Tutkijan tietopaketti tai olemassa olevat, hyväksytyt tuotetiedot (esim. valmisteyhteenveto, pakkausseloste tai pakkausmerkinnät)",
+    "name_en": "Investigator’s Brochure or basic product information brochure (e.g., summary of product characteristics, package leaflet or labelling)",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-002",
+    "name_fi": "Allekirjoitettu tutkimussuunnitelma ja siihen myöhemmin tutkimuksen aikana tehdyt muutokset",
+    "name_en": "Signed protocol and subsequent amendments during the trial",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-003",
+    "name_fi": "Eettiseltä toimikunnalta saatu päivätty, dokumentoitu hyväksyntä / puoltava lausunto eettiselle toimikunnalle toimitetuista tiedoista",
+    "name_en": "Dated, documented approval/favourable opinion of IRB/IEC of information provided to the IRB/IEC",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-004",
+    "name_fi": "Eettisen toimikunnan kokoonpano",
+    "name_en": "IRB/IEC composition",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-005",
+    "name_fi": "Valvontaviranomaisilta saatu valtuutus, hyväksyntä ja/tai ilmoitus tutkimussuunnitelmasta ja siihen myöhemmin tutkimuksen aikana tehdyistä muutoksista (jos tehty)",
+    "name_en": "Regulatory authority(ies) authorisation, approval and/or notification of the protocol and of subsequent amendments during the trial (where required)",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-006",
+    "name_fi": "Täytetyt, allekirjoitetut ja päivätyt tietoon perustuvan suostumuksen asiakirjat",
+    "name_en": "Completed signed and dated informed consent forms",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-007",
+    "name_fi": "Täytetty tutkimukseen osallistujien tunnistekoodiluettelo ja lista tutkimukseen otetuista osallistujista",
+    "name_en": "Completed participant identification code list and enrolment log",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-008",
+    "name_fi": "Ilmoituksen tehneen tutkijan toimeksiantajalle tekemä ilmoitus vakavista haittatapahtumista ja niihin liittyvistä raporteista, kun niitä edellytetään",
+    "name_en": "Notification by originating investigator to sponsor of serious adverse events (SAEs) and related reports, where required",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-009",
+    "name_fi": "Toimeksiantajan ja/tai tutkijan ilmoitus valvontaviranomaisille ja eettiselle toimikunnalle epäillyistä odottamattomista vakavista haittavaikutuksista (SUSAR) ja muista turvallisuustiedoista (kun niitä edellytetään)",
+    "name_en": "Notification by sponsor and/or investigator, where required, to regulatory authority(ies) and IRB(s)/IEC(s) of suspected unexpected serious adverse reactions (SUSARs) and of other safety information",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-010",
+    "name_fi": "Toimeksiantajan ilmoitus turvallisuustiedoista tutkijoille (kun niitä edellytetään)",
+    "name_en": "Notification by sponsor to investigators of safety information, where required",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-011",
+    "name_fi": "Väliraportit tai vuosiraportit eettiselle toimikunnalle ja valvontaviranomaisille (kun niitä edellytetään)",
+    "name_en": "Interim or annual reports to IRB/IEC and regulatory authority(ies) (where required)",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-012",
+    "name_fi": "Lähdetallenteet",
+    "name_en": "Source records",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-013",
+    "name_fi": "Tiedot ja merkitykselliset metatiedot (mukaan lukien tietojen korjausten dokumentointi) tiedonkeruutyökaluissa",
+    "name_en": "Data and relevant metadata (including documentation of data corrections) in the data acquisition tools",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-014",
+    "name_fi": "Loppuraportti eettiselle toimikunnalle ja valvontaviranomaisille (kun sitä edellytetään)",
+    "name_en": "Final report to IRB/IEC and regulatory authority(ies), where required",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-015",
+    "name_fi": "Väliraportti (jos tehty) ja lopulliset kliinisen lääketutkimuksen loppuraportit",
+    "name_en": "Interim (where applicable) and final clinical trial reports",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      91
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-016",
+    "name_fi": "Mallit tiedonkeruutyökaluista (esim. tietojenkeruulomakkeet, päiväkirjat, kliinisten lopputulosten arvioinnit, mukaan lukien potilaiden raportoimat tulokset), jotka toimitetaan tutkijalle ja/tai eettiselle toimikunnalle",
+    "name_en": "Sample of data acquisition tools (e.g., case report forms (CRFs), diaries, clinical outcome assessments, including patient-reported outcomes) that are provided to the investigator and/or IRB/IEC",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-017",
+    "name_fi": "Malli tutkimukseen osallistujille annetuista tiedoista",
+    "name_en": "Sample of information given to trial participants",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-018",
+    "name_fi": "Tietoon perustuvan suostumuksen materiaali (mukaan lukien kaikki soveltuvat käännökset)",
+    "name_en": "Informed consent materials (including all applicable translations)",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-019",
+    "name_fi": "Muut dokumentoidut tiedot (esim. tutkimusvalmisteen tai laitteen käyttöohjeet)",
+    "name_en": "Any other documented information (e.g., instructions for use of an investigational product or a device)",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-020",
+    "name_fi": "Tutkimukseen osallistujien rekrytointi-ilmoitus",
+    "name_en": "Advertisement for participant recruitment",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-021",
+    "name_fi": "Osapuolten väliset järjestelyt tutkimuksen taloudellisista näkökohdista",
+    "name_en": "Arrangement between parties on the financial aspects of the trial",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      61
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-022",
+    "name_fi": "Vakuutustodistus",
+    "name_en": "Insurance statement",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-023",
+    "name_fi": "Osapuolten välinen allekirjoitettu sopimus,esimerkiksi:",
+    "name_en": "Signed agreement between involved parties, for example:",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-024",
+    "name_fi": "Tutkija/tutkimuslaitos ja toimeksiantaja Tutkija/tutkimuslaitos ja palveluntarjoajat",
+    "name_en": "Investigator/institution and sponsor",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-025",
+    "name_fi": "Toimeksiantaja ja palveluntarjoajat",
+    "name_en": "Investigator/institution and service providers",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-026",
+    "name_fi": "Toimeksiantajan ja riippumattoman tietojenseurantatoimikunnan (IDMC) ja/tai arviointitoimikunnan jäsenet",
+    "name_en": "Sponsor and service providers",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-027",
+    "name_fi": "Tärkeitä tutkimukseen liittyviä toimia hoitavien palveluntarjoajien valinnan, arvioinnin ja valvonnan dokumentointi",
+    "name_en": "Sponsor and IDMC and/or adjudication committee members",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-028",
+    "name_fi": "Asiaankuuluvat asiakirjat, joilla osoitetaan tutkimuksessa mukana olevien tutkijoiden ja avustavien tutkijoiden pätevyys (esim. ansioluettelo)",
+    "name_en": "Documentation of selection, assessment and oversight of service providers conducting important trial- related activities",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-029",
+    "name_fi": "Tutkimuskohtaiset koulutustallenteet",
+    "name_en": "Relevant documents evidencing qualifications of investigator(s) and sub-investigator(s) (e.g., curriculum vitae) involved in conducting the trial",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-030",
+    "name_fi": "Dokumentaatio tutkijan delegoimista tutkimukseen liittyvistä toimista",
+    "name_en": "Trial-specific training records",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-031",
+    "name_fi": "Allekirjoituslomake, jossa on allekirjoitukset ja nimikirjaimet, paitsi jos käytössä on vain sähköisiä allekirjoituksia (tutkijan ja tutkijan valtuuttamien henkilöiden allekirjoitukset ja nimikirjaimet) (voidaan yhdistää edellä mainitun delegoinnin dokumentaation kanssa)",
+    "name_en": "Documentation of delegation of trial-related activities by the investigator",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-032",
+    "name_fi": "Normaaliarvo(t)/alue(et) lääketieteellisille/teknisille toimenpiteille ja laboratoriotoimenpiteille ja/tai testeille, jotka sisältyvät tutkimussuunnitelmaan",
+    "name_en": "Signature sheet documenting signatures and initials, unless only electronic signatures are used (of investigator and individuals delegated by the investigator) (can be combined with documentation of delegation above)",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-033",
+    "name_fi": "Sertifiointi tai akkreditointi tai muut asiakirjat, mukaan lukien validointiasiakirjat (kun tarpeen), jotka vahvistavat tutkimuksen toteuttamisen aikana käytettyjen lääketieteellisten/teknisten toimenpiteiden/testien ja laboratoriotoimenpiteiden/-testien soveltuvuuden",
+    "name_en": "Normal value(s)/range(s) for medical/laboratory/technical procedure(s) and/or test(s) included in the protocol",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      92
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-034",
+    "name_fi": "Ruumiinnesteiden/kudosnäytteiden keräämisen, käsittelyn ja kuljetuksen dokumentointi",
+    "name_en": "Certification or accreditation or other documentation including of validation (where required) to confirm the suitability of medical/laboratory/technical procedures/tests used during the trial conduct",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-035",
+    "name_fi": "Ruumiinnesteiden/kudosnäytteiden säilytysolosuhteiden dokumentointi",
+    "name_en": "Documentation of collection, processing and shipment of body fluids/tissue samples",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-036",
+    "name_fi": "Tiedot ruumiinnesteiden/kudosnäytteiden säilyttämisestä tutkimuksen lopussa",
+    "name_en": "Documentation of body fluids/tissue samples storage conditions",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-037",
+    "name_fi": "Näyte tutkimusvalmistepakkauksiin kiinnitetyistä etiketeistä",
+    "name_en": "Record of retained body fluids/tissue samples at the end of the trial",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-038",
+    "name_fi": "Tutkimusvalmisteiden ja tutkimukseen liittyvien materiaalien käsittelyohjeet (jos ne eivät sisälly tutkimussuunnitelmaan tai tutkijan tietopakettiin), esim. apteekkikäsikirja",
+    "name_en": "Sample of label(s) attached to investigational product container(s)",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-039",
+    "name_fi": "Tutkimusvalmisteiden ja tutkimukseen liittyvien materiaalien lähetysasiakirjat",
+    "name_en": "Instructions for handling of investigational product(s) and trial-related materials (if not included in protocol or Investigator’s Brochure), for example, pharmacy manual",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-040",
+    "name_fi": "Lähetettyjen tutkimusvalmisteiden analyysitodistukset",
+    "name_en": "Shipping records for investigational product(s) and trial-related materials",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-041",
+    "name_fi": "Tutkimusvalmisteiden kulutusseuranta tutkimuspaikassa",
+    "name_en": "Certificate(s) of analysis of investigational product(s) shipped",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-042",
+    "name_fi": "Tutkimusvalmisteiden varastointiolosuhteiden dokumentointi, myös lähetyksen aikana",
+    "name_en": "Investigational product(s) accountability at investigator site",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-043",
+    "name_fi": "Tutkimusvalmisteiden uudelleenmerkintää koskevat asiakirjat tutkimuspaikassa",
+    "name_en": "Documentation of investigational product storage conditions, including during shipment",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-044",
+    "name_fi": "Tutkimusvalmisteiden tuhoamisen tai vaihtoehtoisen järjestelyn dokumentointi",
+    "name_en": "Records of relabelling of investigational product at the investigator site",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      62
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-045",
+    "name_fi": "Sokkoutettujen tutkimusten hätätilanteita koskevat menettelyt koodin purkamiseksi",
+    "name_en": "Documentation of investigational product destruction or alternative disposition",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-046",
+    "name_fi": "Pääsatunnaistamisluettelo",
+    "name_en": "Emergency decoding procedures for blinded trials",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-047",
+    "name_fi": "Ohjeet tärkeiden tutkimuskohtaisten järjestelmien käyttöön (esim. vuorovaikutteisen vastusjärjestelmän (Interactive Response technologies, IRT, käyttöopas, sähköisen tiedonkeruulomakkeen käyttöopas)",
+    "name_en": "Master randomisation list",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-048",
+    "name_fi": "Tallenteet, jotka osoittavat tärkeisiin tutkimukseen liittyviin toimiin käytettyjen laitteiden tarkoitukseen sopivuuden (esim. huolto ja kalibrointi)",
+    "name_en": "Instructions for use of important trial-specific systems (e.g., interactive response technologies (IRTs) user manual, electronic CRF (eCRF) manual)",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-049",
+    "name_fi": "Hoidon osoittamista ja koodinpurkua koskeva dokumentaatio",
+    "name_en": "Records demonstrating fitness for purpose (e.g., maintenance and calibration) for equipment used for important trial activities",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-050",
+    "name_fi": "Lista seulotuista osallistujista",
+    "name_en": "Treatment allocation and decoding documentation",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-051",
+    "name_fi": "Tutkimuspaikan monitorointiraportit (mukaan lukien tutkimuspaikan valinta, aloitus, rutiini ja sulkeminen)",
+    "name_en": "Completed participants screening log",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-052",
+    "name_fi": "Keskitetyn monitoroinnin raportit",
+    "name_en": "Site monitoring reports (including site selection, initiation, routine and close-out)",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      93
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-053",
+    "name_fi": "Kirjatut tiedot ja raportit vaatimusten laiminlyönneistä, mukaan lukien poikkeamat tutkimussuunnitelmasta sekä korjaavat ja ehkäisevät toimenpiteet",
+    "name_en": "Centralised monitoring reports",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      94
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-054",
+    "name_fi": "Asiaankuuluvan viestinnän ja kokousten dokumentointi",
+    "name_en": "Records and reports of noncompliance including protocol deviations and corrective and preventative actions",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      94
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-055",
+    "name_fi": "Auditointitodistus",
+    "name_en": "Documentation of relevant communications and meetings",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      94
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-056",
+    "name_fi": "Analysoitavien tietojen viimeistelyyn liittyvä dokumentointi (esim. selvitetyt tarkistuspyynnöt, vakavien haittatapahtumien (SAE) tietojen ristiintarkistus, laadunvalvontaraportit, koodauksen loppuunsaattaminen, tuotetut tietoaineistot)",
+    "name_en": "Audit certificate",
+    "required_before_trial_start": false,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      94
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-057",
+    "name_fi": "Tutkimuskohtaisen tietokoneistetun järjestelmän validoinnin dokumentointi (esim. spesifikaatiot, testaus, validointiraportti, muutoksenhallinta)",
+    "name_en": "Documentation relating to data finalisation for analysis (e.g., query resolutions, SAE reconciliation, quality control reports, coding completion, output data sets)",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      94
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-058",
+    "name_fi": "Tutkimuksessa käytettävien muiden kuin tutkimuskohtaisten tietokoneistettujen järjestelmien tarkoitukseen sopivuuden arvioinnin dokumentointi (esim. rutiinikäytössä olevat tietokoneistetut järjestelmät)",
+    "name_en": "Documentation of trial-specific computerised system validation (e.g., specifications, testing, validation report, change control)",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      94
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-059",
+    "name_fi": "Tilastollisiin näkökohtiin ja analyyseihin liittyvät asiakirjat (esim. otoskokolaskelmat, analyysijoukkojen valintapäätökset, analyysiaineistot, analyysiohjelmat, laadunvalvontaa koskevat kirjaukset ja tuotokset)",
+    "name_en": "Documentation of the assessment of fitness for purpose for non-trial-specific computerised systems used in the trial (e.g., clinical practice computerised systems)",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      94
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-060",
+    "name_fi": "Tutkimuskohtaiset suunnitelmat (esim. riskienhallinta, monitorointi, turvallisuus, tiedonhallinta, tietojen validointi ja tilastollinen analyysi) ja menettelyt",
+    "name_en": "Documentation relating to the statistical considerations and analysis (e.g., sample size calculations, analysis sets decisions, analysis data sets, analysis programs, quality control records and outputs)",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      94
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  },
+  {
+    "id": "essential-record-061",
+    "name_fi": "Menettelyt, kokouspöytäkirjat ja riippumattomalle tietojenseurantatoimikunnalle (IDMC) / arviointitoimikunnalle lähetetyt tiedot",
+    "name_en": "Trial-specific plans (e.g., risk management, monitoring, safety, data management, data validation and statistical analysis) and procedures",
+    "required_before_trial_start": true,
+    "source_section": "C.3",
+    "source_pages_fi": [
+      94
+    ],
+    "source_pages_en": [
+      63
+    ],
+    "review_status": "automatically_aligned_by_table_order"
+  }
+]

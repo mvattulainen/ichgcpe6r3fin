@@ -1,0 +1,436 @@
+{
+  "haittatapahtumat-adverse-events-aes-ja-haittavaikutuksiin-adverse-reaction-liittyvat-maaritelmat": {
+    "preferred": "Haittatapahtumat (adverse events, AEs) ja haittavaikutuksiin (adverse reaction) liittyvät määritelmät",
+    "variants": [
+      "Haittatapahtumat (adverse events, AEs) ja haittavaikutuksiin (adverse reaction) liittyvät määritelmät"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "laakkeen-haittavaikutus": {
+    "preferred": "Lääkkeen haittavaikutus",
+    "variants": [
+      "Lääkkeen haittavaikutus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "vakava-haittatapahtuma": {
+    "preferred": "Vakava haittatapahtuma",
+    "variants": [
+      "Vakava haittatapahtuma"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "epailty-odottamaton-vakava-haittavaikutus": {
+    "preferred": "Epäilty odottamaton vakava haittavaikutus",
+    "variants": [
+      "Epäilty odottamaton vakava haittavaikutus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "sopimus": {
+    "preferred": "Sopimus",
+    "variants": [
+      "Sopimus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "lainsaadannon-vaatimukset": {
+    "preferred": "Lainsäädännön vaatimukset",
+    "variants": [
+      "Lainsäädännön vaatimukset"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "alaikaisen-suostumus": {
+    "preferred": "Alaikäisen suostumus",
+    "variants": [
+      "Alaikäisen suostumus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "auditointi": {
+    "preferred": "Auditointi",
+    "variants": [
+      "Auditointi"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "auditointitodistus": {
+    "preferred": "Auditointitodistus",
+    "variants": [
+      "Auditointitodistus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "auditointiraportti": {
+    "preferred": "Auditointiraportti",
+    "variants": [
+      "Auditointiraportti"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "jaljitettavyysketju": {
+    "preferred": "Jäljitettävyysketju",
+    "variants": [
+      "Jäljitettävyysketju"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "sokkoutus": {
+    "preferred": "Sokkoutus",
+    "variants": [
+      "Sokkoutus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tietojenkeruulomake": {
+    "preferred": "Tietojenkeruulomake",
+    "variants": [
+      "Tietojenkeruulomake"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "varmennettu-kopio": {
+    "preferred": "Varmennettu kopio",
+    "variants": [
+      "Varmennettu kopio"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "kliininen-laaketutkimus": {
+    "preferred": "Kliininen lääketutkimus",
+    "variants": [
+      "Kliininen lääketutkimus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "kliinisen-laaketutkimuksen-raportti": {
+    "preferred": "Kliinisen lääketutkimuksen raportti",
+    "variants": [
+      "Kliinisen lääketutkimuksen raportti"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "vertailuvalmiste": {
+    "preferred": "Vertailuvalmiste",
+    "variants": [
+      "Vertailuvalmiste"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "vaatimustenmukaisuus": {
+    "preferred": "Vaatimustenmukaisuus",
+    "variants": [
+      "Vaatimustenmukaisuus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "luottamuksellisuus": {
+    "preferred": "Luottamuksellisuus",
+    "variants": [
+      "Luottamuksellisuus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "koordinoiva-tutkija": {
+    "preferred": "Koordinoiva tutkija",
+    "variants": [
+      "Koordinoiva tutkija"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tietokoneistettujen-jarjestelmien-validointi": {
+    "preferred": "Tietokoneistettujen järjestelmien validointi",
+    "variants": [
+      "Tietokoneistettujen järjestelmien validointi"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "sopimustutkimusorganisaatio": {
+    "preferred": "Sopimustutkimusorganisaatio",
+    "variants": [
+      "Sopimustutkimusorganisaatio"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tiedonkeruutyokalu": {
+    "preferred": "Tiedonkeruutyökalu",
+    "variants": [
+      "Tiedonkeruutyökalu"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tietojen-eheys": {
+    "preferred": "Tietojen eheys",
+    "variants": [
+      "Tietojen eheys"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "suora-paasy": {
+    "preferred": "Suora pääsy",
+    "variants": [
+      "Suora pääsy"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "oleelliset-tallenteet": {
+    "preferred": "Oleelliset tallenteet",
+    "variants": [
+      "Oleelliset tallenteet"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "hyva-kliininen-tutkimustapa": {
+    "preferred": "Hyvä kliininen tutkimustapa",
+    "variants": [
+      "Hyvä kliininen tutkimustapa"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "puolueeton-todistaja": {
+    "preferred": "Puolueeton todistaja",
+    "variants": [
+      "Puolueeton todistaja"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "riippumaton-tietojenseurantatoimikunta": {
+    "preferred": "Riippumaton tietojenseurantatoimikunta",
+    "variants": [
+      "Riippumaton tietojenseurantatoimikunta"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tietoon-perustuva-suostumus": {
+    "preferred": "Tietoon perustuva suostumus",
+    "variants": [
+      "Tietoon perustuva suostumus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "viranomaistarkastus-tarkastus": {
+    "preferred": "Viranomaistarkastus, tarkastus",
+    "variants": [
+      "Viranomaistarkastus, tarkastus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkimuslaitos": {
+    "preferred": "Tutkimuslaitos",
+    "variants": [
+      "Tutkimuslaitos"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkimuslaitoksen-arviointilautakunta-riippumaton-eettinen-toimikunta": {
+    "preferred": "Tutkimuslaitoksen arviointilautakunta / riippumaton eettinen toimikunta",
+    "variants": [
+      "Tutkimuslaitoksen arviointilautakunta / riippumaton eettinen toimikunta"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "kliinisen-laaketutkimuksen-valiraportti": {
+    "preferred": "Kliinisen lääketutkimuksen väliraportti",
+    "variants": [
+      "Kliinisen lääketutkimuksen väliraportti"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkimusvalmiste": {
+    "preferred": "Tutkimusvalmiste",
+    "variants": [
+      "Tutkimusvalmiste"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkija": {
+    "preferred": "Tutkija",
+    "variants": [
+      "Tutkija"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkijan-tietopaketti": {
+    "preferred": "Tutkijan tietopaketti",
+    "variants": [
+      "Tutkijan tietopaketti"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkimuspaikka": {
+    "preferred": "Tutkimuspaikka",
+    "variants": [
+      "Tutkimuspaikka"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "laillinen-edustaja": {
+    "preferred": "Laillinen edustaja",
+    "variants": [
+      "Laillinen edustaja"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "metatieto": {
+    "preferred": "Metatieto",
+    "variants": [
+      "Metatieto"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "monitorointi": {
+    "preferred": "Monitorointi",
+    "variants": [
+      "Monitorointi"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "monitorointisuunnitelma": {
+    "preferred": "Monitorointisuunnitelma",
+    "variants": [
+      "Monitorointisuunnitelma"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "monitorointiraportti": {
+    "preferred": "Monitorointiraportti",
+    "variants": [
+      "Monitorointiraportti"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "monikeskustutkimus": {
+    "preferred": "Monikeskustutkimus",
+    "variants": [
+      "Monikeskustutkimus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "ei-kliininen-tutkimus": {
+    "preferred": "Ei-kliininen tutkimus",
+    "variants": [
+      "Ei-kliininen tutkimus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkimussuunnitelma": {
+    "preferred": "Tutkimussuunnitelma",
+    "variants": [
+      "Tutkimussuunnitelma"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkimussuunnitelman-muutos": {
+    "preferred": "Tutkimussuunnitelman muutos",
+    "variants": [
+      "Tutkimussuunnitelman muutos"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "laadunvarmistus": {
+    "preferred": "Laadunvarmistus",
+    "variants": [
+      "Laadunvarmistus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "laadunvalvonta": {
+    "preferred": "Laadunvalvonta",
+    "variants": [
+      "Laadunvalvonta"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "satunnaistaminen": {
+    "preferred": "Satunnaistaminen",
+    "variants": [
+      "Satunnaistaminen"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "turvallisuutta-koskevat-viitetiedot": {
+    "preferred": "Turvallisuutta koskevat viitetiedot",
+    "variants": [
+      "Turvallisuutta koskevat viitetiedot"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "valvontaviranomaiset": {
+    "preferred": "Valvontaviranomaiset",
+    "variants": [
+      "Valvontaviranomaiset"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "palveluntarjoaja": {
+    "preferred": "Palveluntarjoaja",
+    "variants": [
+      "Palveluntarjoaja"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "allekirjoitus": {
+    "preferred": "Allekirjoitus",
+    "variants": [
+      "Allekirjoitus"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "lahdetallenteet": {
+    "preferred": "Lähdetallenteet",
+    "variants": [
+      "Lähdetallenteet"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "toimeksiantaja": {
+    "preferred": "Toimeksiantaja",
+    "variants": [
+      "Toimeksiantaja"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "toimeksiantaja-tutkija": {
+    "preferred": "Toimeksiantaja-tutkija",
+    "variants": [
+      "Toimeksiantaja-tutkija"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "vakioidut-toimintaohjeet": {
+    "preferred": "Vakioidut toimintaohjeet",
+    "variants": [
+      "Vakioidut toimintaohjeet"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "avustava-tutkija": {
+    "preferred": "Avustava tutkija",
+    "variants": [
+      "Avustava tutkija"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkimukseen-osallistuja": {
+    "preferred": "Tutkimukseen osallistuja",
+    "variants": [
+      "Tutkimukseen osallistuja"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "tutkimukseen-osallistujan-tunnistekoodi": {
+    "preferred": "Tutkimukseen osallistujan tunnistekoodi",
+    "variants": [
+      "Tutkimukseen osallistujan tunnistekoodi"
+    ],
+    "status": "source_attested_exact_form"
+  },
+  "haavoittuvassa-asemassa-olevat-tutkimukseen-osallistujat": {
+    "preferred": "Haavoittuvassa asemassa olevat tutkimukseen osallistujat",
+    "variants": [
+      "Haavoittuvassa asemassa olevat tutkimukseen osallistujat"
+    ],
+    "status": "source_attested_exact_form"
+  }
+}

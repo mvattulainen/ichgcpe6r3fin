@@ -1,0 +1,56 @@
+---
+title: "3.10.1.2 Riskien arviointi"
+id: "ich-e6-r3-a1-3.10.1.2"
+content_type: "guideline_section"
+document_id: "ich-e6-r3-fi-v1"
+section_number: "3.10.1.2"
+parent_id: "ich-e6-r3-a1-3.10.1"
+language: "fi"
+lang: "fi"
+translation_status: "unofficial"
+authoritative_language: "en"
+finnish_pages:
+  - 44
+english_pages:
+  - 29
+english_section_number: "3.10.1.2"
+permalink: "/03-liite-1/3-10-1-2-riskien-arviointi/"
+aliases:
+  - "Riskien arviointi"
+tags:
+  - "ich-e6-r3"
+roles:
+  - "toimeksiantaja"
+review_status: "source_extracted"
+publish: true
+schema_type: "TechArticle"
+is_based_on:
+  - "ich-e6-r3-fi-v1"
+  - "ich-e6-r3-en-step5"
+---
+
+# 3.10.1.2 Riskien arviointi
+
+Toimeksiantajan tulee arvioida tunnistetut riskit ja käytössä olevat valvontatoimet, joilla voidaan hallita ja vähentää riskejä ottaen huomioon seuraavat seikat:
+
+- (a) haitan/vaaran todennäköisyys; ^ich-e6-r3-a1-3-10-1-2-item-a
+
+- (b) missä määrin tällainen haitta/vaara olisi havaittavissa; ^ich-e6-r3-a1-3-10-1-2-item-b
+
+- (c) tällaisen haitan/vaaran vaikutus tutkimukseen osallistujien turvallisuuteen ja tutkimustulosten luotettavuuteen. ^ich-e6-r3-a1-3-10-1-2-item-c
+
+> [!quote]- Alkuperäinen englanninkielinen lähdeteksti
+>
+> <div lang="en">
+>
+> The sponsor should evaluate identified risks and existing controls in place to mitigate the risk by considering:
+>
+> - (a) The likelihood of harm/hazard occurring;
+>
+> - (b) The extent to which such harm/hazard would be detectable;
+>
+> - (c) The impact of such harm/hazard on trial participant protection and the reliability of trial results.
+>
+> </div>
+>
+> **Lähde:** ICH E6(R3), section 3.10.1.2, pages 29–29.

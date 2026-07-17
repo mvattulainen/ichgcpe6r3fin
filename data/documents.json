@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ich-e6-r3-fi-v1",
+    "language": "fi",
+    "filename": "ich-e6-r3-fi-v1-2026-07-09.pdf",
+    "version": "1",
+    "translation_date": "2026-07-09",
+    "status": "unofficial_translation",
+    "authoritative_language": "en",
+    "canonical_url": "https://www.ema.europa.eu/en/ich-e6-good-clinical-practice-scientific-guideline",
+    "canonical_url_status": "source_document_links_to_ema_landing_page",
+    "sha256": "2b99bce11935ad7d9da3a986391febf8c0696d77222ab04e2a798456697495a3"
+  },
+  {
+    "id": "ich-e6-r3-en-step5",
+    "language": "en",
+    "filename": "ich-e6-r3-en-step5-2025-01-23.pdf",
+    "version": "Step 5",
+    "publication_date": "2025-01-23",
+    "effective_date": "2025-07-23",
+    "status": "authoritative_source",
+    "canonical_url": "https://www.ema.europa.eu/en/ich-e6-good-clinical-practice-scientific-guideline",
+    "sha256": "ce622ac2897caa34f41b9b5fbff6c3d0fa0d6813cdb24821849e006ac4740220"
+  }
+]
