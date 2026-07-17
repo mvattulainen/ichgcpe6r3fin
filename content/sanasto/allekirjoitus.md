@@ -29,9 +29,9 @@ A unique mark, symbol or entry executed, adopted or authorised by an individual,
 ## Esiintyminen ohjeessa
 
 - [[03-liite-1/2-8-tutkimukseen-osallistujien-tietoon-perustuva-suostumus|2.8 Tutkimukseen osallistujien tietoon perustuva suostumus]]
-- [[04-liite-a-tutkijan-tietopaketti/A-2-1-kansilehti|A.2.1 Kansilehti]]
-- [[06-liite-c-oleelliset-tallenteet/C-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[04-liite-a-tutkijan-tietopaketti/a-2-1-kansilehti|A.2.1 Kansilehti]]
+- [[06-liite-c-oleelliset-tallenteet/c-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

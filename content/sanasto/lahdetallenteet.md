@@ -31,8 +31,8 @@ Original documents or data (which includes relevant metadata) or certified copie
 - [[03-liite-1/2-12-tallenteet|2.12 Tallenteet]]
 - [[03-liite-1/3-6-sopimukset|3.6 Sopimukset]]
 - [[03-liite-1/4-2-4-tietojen-korjaukset|4.2.4 Tietojen korjaukset]]
-- [[06-liite-c-oleelliset-tallenteet/C-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[06-liite-c-oleelliset-tallenteet/c-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

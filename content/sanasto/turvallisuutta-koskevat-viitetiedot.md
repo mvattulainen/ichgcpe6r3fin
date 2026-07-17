@@ -28,7 +28,7 @@ Contains a cumulative list of ADRs that are expected for the investigational pro
 
 ## Esiintyminen ohjeessa
 
-- [[04-liite-a-tutkijan-tietopaketti/A-1-2-turvallisuutta-koskevat-viitetiedot-seka-riskien-ja-hyotyjen-arviointi|A.1.2 Turvallisuutta koskevat viitetiedot sekä riskien ja hyötyjen arviointi]]
+- [[04-liite-a-tutkijan-tietopaketti/a-1-2-turvallisuutta-koskevat-viitetiedot-seka-riskien-ja-hyotyjen-arviointi|A.1.2 Turvallisuutta koskevat viitetiedot sekä riskien ja hyötyjen arviointi]]
 
 ## Lähdeviitteet
 

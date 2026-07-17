@@ -32,7 +32,7 @@ The contextual information required to understand a given data element. Metadata
 - [[03-liite-1/4-2-2-merkityksellinen-metatieto-mukaan-lukien-jaljitettavyysketjut|4.2.2 Merkityksellinen metatieto, mukaan lukien jäljitettävyysketjut]]
 - [[03-liite-1/4-2-5-tietojen-siirto-vaihto-ja-tuominen-toiseen-jarjestelmaan|4.2.5 Tietojen siirto, vaihto ja tuominen toiseen järjestelmään]]
 - [[03-liite-1/4-2-7-tietojen-sailytys-ja-paasy-tietoihin|4.2.7 Tietojen säilytys ja pääsy tietoihin]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

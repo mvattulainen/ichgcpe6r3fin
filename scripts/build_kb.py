@@ -720,7 +720,10 @@ def write_section_pages(sections: list[dict[str, Any]]) -> None:
     for section in sections:
         number = section["section_number"]
         title_without_number = re.sub(r"^(?:[ABC]\.)?\d+(?:\.\d+)*\.?\s+", "", section["title_fi"])
-        filename = f"{number.replace('.', '-')}-{ascii_slug(title_without_number)[:70]}.md"
+        # Public paths must have identical casing on Windows and Linux. Annex
+        # identifiers use capital letters in the source text, but filenames and
+        # wikilinks are deliberately lowercase.
+        filename = f"{number.replace('.', '-').lower()}-{ascii_slug(title_without_number)[:70]}.md"
         if section["kind"] == "intro":
             filename = f"{ascii_slug(number)}.md"
         elif section["kind"] == "principle":

@@ -35,7 +35,7 @@ A process by which a participant or their legally acceptable representative volu
 - [[03-liite-1/1-2-vastuut|1.2 Vastuut]]
 - [[03-liite-1/2-8-tutkimukseen-osallistujien-tietoon-perustuva-suostumus|2.8 Tutkimukseen osallistujien tietoon perustuva suostumus]]
 - [[03-liite-1/3-11-4-5-2-tutkimuspaikan-valinta-aloitus-hallinnointi-ja-sulkeminen|3.11.4.5.2 Tutkimuspaikan valinta, aloitus, hallinnointi ja sulkeminen]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

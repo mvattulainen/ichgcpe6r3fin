@@ -47,10 +47,10 @@ An individual who participates in a clinical trial who is expected to receive th
 - [[03-liite-1/3-16-2-tilastollinen-kasittely-ja-tietojen-analysointi|3.16.2 Tilastollinen käsittely ja tietojen analysointi]]
 - [[03-liite-1/3-16-4-paasy-tallenteisiin|3.16.4 Pääsy tallenteisiin]]
 - [[03-liite-1/4-2-2-merkityksellinen-metatieto-mukaan-lukien-jaljitettavyysketjut|4.2.2 Merkityksellinen metatieto, mukaan lukien jäljitettävyysketjut]]
-- [[04-liite-a-tutkijan-tietopaketti/A-1-2-turvallisuutta-koskevat-viitetiedot-seka-riskien-ja-hyotyjen-arviointi|A.1.2 Turvallisuutta koskevat viitetiedot sekä riskien ja hyötyjen arviointi]]
-- [[05-liite-b-tutkimussuunnitelma/B-4-tutkimusasetelma|B.4 Tutkimusasetelma]]
-- [[05-liite-b-tutkimussuunnitelma/B-6-tutkimusinterventioiden-keskeyttaminen-ja-tutkimukseen-osallistujan-ve|B.6 Tutkimusinterventioiden keskeyttäminen ja tutkimukseen osallistujan vetäytyminen]]
-- [[05-liite-b-tutkimussuunnitelma/B-7-tutkimukseen-osallistujille-annettava-hoito-ja-interventiot|B.7 Tutkimukseen osallistujille annettava hoito ja interventiot]]
+- [[04-liite-a-tutkijan-tietopaketti/a-1-2-turvallisuutta-koskevat-viitetiedot-seka-riskien-ja-hyotyjen-arviointi|A.1.2 Turvallisuutta koskevat viitetiedot sekä riskien ja hyötyjen arviointi]]
+- [[05-liite-b-tutkimussuunnitelma/b-4-tutkimusasetelma|B.4 Tutkimusasetelma]]
+- [[05-liite-b-tutkimussuunnitelma/b-6-tutkimusinterventioiden-keskeyttaminen-ja-tutkimukseen-osallistujan-ve|B.6 Tutkimusinterventioiden keskeyttäminen ja tutkimukseen osallistujan vetäytyminen]]
+- [[05-liite-b-tutkimussuunnitelma/b-7-tutkimukseen-osallistujille-annettava-hoito-ja-interventiot|B.7 Tutkimukseen osallistujille annettava hoito ja interventiot]]
 
 ## Lähdeviitteet
 

@@ -33,10 +33,10 @@ Essential records are the documents and data (and relevant metadata), in any for
 - [[03-liite-1/2-12-tallenteet|2.12 Tallenteet]]
 - [[03-liite-1/3-6-sopimukset|3.6 Sopimukset]]
 - [[03-liite-1/3-16-3-tallenteiden-yllapito-ja-sailyttaminen|3.16.3 Tallenteiden ylläpito ja säilyttäminen]]
-- [[05-liite-b-tutkimussuunnitelma/B-16-julkaisukaytannot|B.16 Julkaisukäytännöt]]
-- [[06-liite-c-oleelliset-tallenteet/C-1-johdanto|C.1 Johdanto]]
-- [[06-liite-c-oleelliset-tallenteet/C-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[05-liite-b-tutkimussuunnitelma/b-16-julkaisukaytannot|B.16 Julkaisukäytännöt]]
+- [[06-liite-c-oleelliset-tallenteet/c-1-johdanto|C.1 Johdanto]]
+- [[06-liite-c-oleelliset-tallenteet/c-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

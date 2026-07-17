@@ -40,8 +40,8 @@ A procedure in which one or more parties to the trial are kept unaware of the tr
 - [[03-liite-1/3-17-2-kliinisen-laaketutkimuksen-raportit|3.17.2 Kliinisen lääketutkimuksen raportit]]
 - [[03-liite-1/4-tietojenhallinta-tutkija-ja-toimeksiantaja|4 Tietojenhallinta – tutkija ja toimeksiantaja]]
 - [[03-liite-1/4-3-8-kayttajahallinta|4.3.8 Käyttäjähallinta]]
-- [[05-liite-b-tutkimussuunnitelma/B-4-tutkimusasetelma|B.4 Tutkimusasetelma]]
-- [[06-liite-c-oleelliset-tallenteet/C-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
+- [[05-liite-b-tutkimussuunnitelma/b-4-tutkimusasetelma|B.4 Tutkimusasetelma]]
+- [[06-liite-c-oleelliset-tallenteet/c-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
 
 ## Lähdeviitteet
 

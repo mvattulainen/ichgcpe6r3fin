@@ -29,7 +29,7 @@ A declaration of confirmation by the auditor that an audit has taken place.
 ## Esiintyminen ohjeessa
 
 - [[03-liite-1/3-11-2-2-auditointimenettelyt|3.11.2.2 Auditointimenettelyt]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

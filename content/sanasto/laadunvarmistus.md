@@ -32,7 +32,7 @@ All those planned and systematic actions that are established to ensure that the
 - [[03-liite-1/3-11-laadunvarmistus-ja-laadunvalvonta|3.11 Laadunvarmistus ja laadunvalvonta]]
 - [[03-liite-1/3-11-1-laadunvarmistus|3.11.1 Laadunvarmistus]]
 - [[03-liite-1/3-16-1-tietojen-kasittely|3.16.1 Tietojen käsittely]]
-- [[05-liite-b-tutkimussuunnitelma/B-12-laadunvalvonta-ja-laadunvarmistus|B.12 Laadunvalvonta ja laadunvarmistus]]
+- [[05-liite-b-tutkimussuunnitelma/b-12-laadunvalvonta-ja-laadunvarmistus|B.12 Laadunvalvonta ja laadunvarmistus]]
 
 ## Lähdeviitteet
 

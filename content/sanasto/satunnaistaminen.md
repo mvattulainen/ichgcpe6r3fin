@@ -30,7 +30,7 @@ The process of deliberately including an element of chance when assigning partic
 
 - [[03-liite-1/3-10-1-1-riskien-tunnistaminen|3.10.1.1 Riskien tunnistaminen]]
 - [[03-liite-1/4-tietojenhallinta-tutkija-ja-toimeksiantaja|4 Tietojenhallinta – tutkija ja toimeksiantaja]]
-- [[05-liite-b-tutkimussuunnitelma/B-4-tutkimusasetelma|B.4 Tutkimusasetelma]]
+- [[05-liite-b-tutkimussuunnitelma/b-4-tutkimusasetelma|B.4 Tutkimusasetelma]]
 
 ## Lähdeviitteet
 

@@ -30,7 +30,7 @@ Permission to examine, analyse and verify records that are important to the eval
 
 - [[03-liite-1/2-12-tallenteet|2.12 Tallenteet]]
 - [[03-liite-1/3-6-sopimukset|3.6 Sopimukset]]
-- [[05-liite-b-tutkimussuunnitelma/B-11-suora-paasy-lahdetallenteisiin|B.11 Suora pääsy lähdetallenteisiin]]
+- [[05-liite-b-tutkimussuunnitelma/b-11-suora-paasy-lahdetallenteisiin|B.11 Suora pääsy lähdetallenteisiin]]
 
 ## Lähdeviitteet
 

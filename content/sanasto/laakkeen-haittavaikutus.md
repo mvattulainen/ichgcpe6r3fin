@@ -28,7 +28,7 @@ permalink: "/sanasto/laakkeen-haittavaikutus/"
 
 ## Esiintyminen ohjeessa
 
-- [[04-liite-a-tutkijan-tietopaketti/A-3-6-vaikutukset-ihmisissa|A.3.6 Vaikutukset ihmisissä]]
+- [[04-liite-a-tutkijan-tietopaketti/a-3-6-vaikutukset-ihmisissa|A.3.6 Vaikutukset ihmisissä]]
 
 ## Lähdeviitteet
 

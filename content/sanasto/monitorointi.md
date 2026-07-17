@@ -44,9 +44,9 @@ The act of overseeing the progress of a clinical trial and of ensuring that the 
 - [[03-liite-1/3-11-4-6-monitorointiraportti|3.11.4.6 Monitorointiraportti]]
 - [[03-liite-1/3-16-2-tilastollinen-kasittely-ja-tietojen-analysointi|3.16.2 Tilastollinen käsittely ja tietojen analysointi]]
 - [[03-liite-1/3-16-4-paasy-tallenteisiin|3.16.4 Pääsy tallenteisiin]]
-- [[05-liite-b-tutkimussuunnitelma/B-12-laadunvalvonta-ja-laadunvarmistus|B.12 Laadunvalvonta ja laadunvarmistus]]
-- [[06-liite-c-oleelliset-tallenteet/C-1-johdanto|C.1 Johdanto]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[05-liite-b-tutkimussuunnitelma/b-12-laadunvalvonta-ja-laadunvarmistus|B.12 Laadunvalvonta ja laadunvarmistus]]
+- [[06-liite-c-oleelliset-tallenteet/c-1-johdanto|C.1 Johdanto]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

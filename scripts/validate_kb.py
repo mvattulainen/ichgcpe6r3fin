@@ -57,6 +57,10 @@ def main() -> None:
         errors.append(f"Kanonisia aineistoja puuttuu: {missing_data}")
 
     markdown_files = list(CONTENT.rglob("*.md"))
+    exact_targets = {
+        path.relative_to(CONTENT).as_posix()[:-3]
+        for path in markdown_files
+    }
     all_text = ""
     permalink_values: list[str] = []
     for path in markdown_files:
@@ -83,6 +87,12 @@ def main() -> None:
             errors.append(f"Englanninkieliseen lainaukseen lisättiin sanastolinkki: {path.relative_to(ROOT)}")
 
         for target in re.findall(r"\[\[([^\]|#]+)", raw):
+            target = target.replace("\\", "/")
+            if "/" in target and target not in exact_targets and f"{target}/index" not in exact_targets:
+                errors.append(
+                    f"Rikkinäinen wikilinkki tai väärä kirjainkoko {target!r}: {path.relative_to(ROOT)}"
+                )
+                continue
             target_path = CONTENT / (target + ".md")
             target_index = CONTENT / target / "index.md"
             if not target_path.exists() and not target_index.exists():

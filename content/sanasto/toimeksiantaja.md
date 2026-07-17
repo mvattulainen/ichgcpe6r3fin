@@ -90,14 +90,14 @@ An individual, company, institution or organisation that takes responsibility fo
 - [[03-liite-1/4-tietojenhallinta-tutkija-ja-toimeksiantaja|4 Tietojenhallinta – tutkija ja toimeksiantaja]]
 - [[03-liite-1/4-1-sokkouttamisen-turvaaminen-tietojenhallinnassa|4.1 Sokkouttamisen turvaaminen tietojenhallinnassa]]
 - [[03-liite-1/4-3-tietokoneistetut-jarjestelmat|4.3 Tietokoneistetut järjestelmät]]
-- [[04-liite-a-tutkijan-tietopaketti/A-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]
-- [[04-liite-a-tutkijan-tietopaketti/A-2-1-kansilehti|A.2.1 Kansilehti]]
-- [[04-liite-a-tutkijan-tietopaketti/A-2-2-tietojen-salassapito|A.2.2 Tietojen salassapito]]
-- [[05-liite-b-tutkimussuunnitelma/B-1-yleiset-tiedot|B.1 Yleiset tiedot]]
-- [[05-liite-b-tutkimussuunnitelma/B-11-suora-paasy-lahdetallenteisiin|B.11 Suora pääsy lähdetallenteisiin]]
-- [[06-liite-c-oleelliset-tallenteet/C-1-johdanto|C.1 Johdanto]]
-- [[06-liite-c-oleelliset-tallenteet/C-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[04-liite-a-tutkijan-tietopaketti/a-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]
+- [[04-liite-a-tutkijan-tietopaketti/a-2-1-kansilehti|A.2.1 Kansilehti]]
+- [[04-liite-a-tutkijan-tietopaketti/a-2-2-tietojen-salassapito|A.2.2 Tietojen salassapito]]
+- [[05-liite-b-tutkimussuunnitelma/b-1-yleiset-tiedot|B.1 Yleiset tiedot]]
+- [[05-liite-b-tutkimussuunnitelma/b-11-suora-paasy-lahdetallenteisiin|B.11 Suora pääsy lähdetallenteisiin]]
+- [[06-liite-c-oleelliset-tallenteet/c-1-johdanto|C.1 Johdanto]]
+- [[06-liite-c-oleelliset-tallenteet/c-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

@@ -30,7 +30,7 @@ A document or set of documents describing the details of any arrangements on del
 
 - [[03-liite-1/2-5-tutkimussuunnitelman-noudattaminen|2.5 Tutkimussuunnitelman noudattaminen]]
 - [[03-liite-1/3-6-sopimukset|3.6 Sopimukset]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

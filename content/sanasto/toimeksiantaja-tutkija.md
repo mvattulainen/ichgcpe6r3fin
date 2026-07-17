@@ -28,7 +28,7 @@ An individual who both initiates and conducts, alone or with others, a clinical 
 
 ## Esiintyminen ohjeessa
 
-- [[04-liite-a-tutkijan-tietopaketti/A-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]
+- [[04-liite-a-tutkijan-tietopaketti/a-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]
 
 ## Lähdeviitteet
 

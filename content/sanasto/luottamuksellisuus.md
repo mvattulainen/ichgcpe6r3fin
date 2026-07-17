@@ -34,7 +34,7 @@ Prevention of disclosure to other than authorised individuals of a sponsor’s p
 - [[03-liite-1/3-16-1-tietojen-kasittely|3.16.1 Tietojen käsittely]]
 - [[03-liite-1/4-tietojenhallinta-tutkija-ja-toimeksiantaja|4 Tietojenhallinta – tutkija ja toimeksiantaja]]
 - [[03-liite-1/4-2-5-tietojen-siirto-vaihto-ja-tuominen-toiseen-jarjestelmaan|4.2.5 Tietojen siirto, vaihto ja tuominen toiseen järjestelmään]]
-- [[04-liite-a-tutkijan-tietopaketti/A-2-2-tietojen-salassapito|A.2.2 Tietojen salassapito]]
+- [[04-liite-a-tutkijan-tietopaketti/a-2-2-tietojen-salassapito|A.2.2 Tietojen salassapito]]
 
 ## Lähdeviitteet
 

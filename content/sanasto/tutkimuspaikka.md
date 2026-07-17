@@ -33,7 +33,7 @@ The location(s) where trial-related activities are conducted and/or coordinated 
 - [[03-liite-1/3-11-4-5-2-tutkimuspaikan-valinta-aloitus-hallinnointi-ja-sulkeminen|3.11.4.5.2 Tutkimuspaikan valinta, aloitus, hallinnointi ja sulkeminen]]
 - [[03-liite-1/3-11-4-6-monitorointiraportti|3.11.4.6 Monitorointiraportti]]
 - [[03-liite-1/4-3-5-jarjestelman-vapautus|4.3.5 Järjestelmän vapautus]]
-- [[04-liite-a-tutkijan-tietopaketti/A-3-7-yhteenveto-tiedoista-ja-ohjeista|A.3.7 Yhteenveto tiedoista ja ohjeista]]
+- [[04-liite-a-tutkijan-tietopaketti/a-3-7-yhteenveto-tiedoista-ja-ohjeista|A.3.7 Yhteenveto tiedoista ja ohjeista]]
 
 ## Lähdeviitteet
 

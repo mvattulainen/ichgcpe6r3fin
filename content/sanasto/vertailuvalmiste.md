@@ -29,7 +29,7 @@ An investigational or authorised medicinal product (i.e., active control), place
 ## Esiintyminen ohjeessa
 
 - [[03-liite-1/3-15-2-tutkimusvalmisteen-valmistus-pakkaaminen-merkinta-ja-koodaus|3.15.2 Tutkimusvalmisteen valmistus, pakkaaminen, merkintä ja koodaus]]
-- [[05-liite-b-tutkimussuunnitelma/B-4-tutkimusasetelma|B.4 Tutkimusasetelma]]
+- [[05-liite-b-tutkimussuunnitelma/b-4-tutkimusasetelma|B.4 Tutkimusasetelma]]
 
 ## Lähdeviitteet
 

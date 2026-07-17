@@ -33,8 +33,8 @@ Englanninkielistä määritelmää ei voitu kohdistaa automaattisesti.
 - [[03-liite-1/3-11-4-5-1-viestinta-tutkimuksen-toteuttajien-kanssa|3.11.4.5.1 Viestintä tutkimuksen toteuttajien kanssa]]
 - [[03-liite-1/3-16-1-tietojen-kasittely|3.16.1 Tietojen käsittely]]
 - [[03-liite-1/4-2-1-tietojen-keraaminen|4.2.1 Tietojen kerääminen]]
-- [[05-liite-b-tutkimussuunnitelma/B-14-tietojen-kasittely-ja-tutkimukseen-liittyvien-tallenteiden-yllapito|B.14 Tietojen käsittely ja tutkimukseen liittyvien tallenteiden ylläpito]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[05-liite-b-tutkimussuunnitelma/b-14-tietojen-kasittely-ja-tutkimukseen-liittyvien-tallenteiden-yllapito|B.14 Tietojen käsittely ja tutkimukseen liittyvien tallenteiden ylläpito]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

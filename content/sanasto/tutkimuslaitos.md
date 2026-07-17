@@ -36,9 +36,9 @@ Any public or private entity or agency or medical or dental organisation in whos
 - [[03-liite-1/3-8-2-eettisen-toimikunnan-antamat-vahvistukset-arvioinnista|3.8.2 Eettisen toimikunnan antamat vahvistukset arvioinnista]]
 - [[03-liite-1/3-12-vaatimusten-laiminlyonti|3.12 Vaatimusten laiminlyönti]]
 - [[03-liite-1/3-16-4-paasy-tallenteisiin|3.16.4 Pääsy tallenteisiin]]
-- [[05-liite-b-tutkimussuunnitelma/B-11-suora-paasy-lahdetallenteisiin|B.11 Suora pääsy lähdetallenteisiin]]
-- [[06-liite-c-oleelliset-tallenteet/C-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[05-liite-b-tutkimussuunnitelma/b-11-suora-paasy-lahdetallenteisiin|B.11 Suora pääsy lähdetallenteisiin]]
+- [[06-liite-c-oleelliset-tallenteet/c-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 

@@ -35,13 +35,13 @@ A compilation of the clinical and nonclinical data on the investigational produc
 - [[03-liite-1/3-13-2-turvallisuusraportointi|3.13.2 Turvallisuusraportointi]]
 - [[03-liite-1/3-15-1-tutkimusvalmistetta-koskevat-tiedot|3.15.1 Tutkimusvalmistetta koskevat tiedot]]
 - [[03-liite-1/4-3-8-kayttajahallinta|4.3.8 Käyttäjähallinta]]
-- [[04-liite-a-tutkijan-tietopaketti/A-1-johdanto|A.1 Johdanto]]
-- [[04-liite-a-tutkijan-tietopaketti/A-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]
-- [[04-liite-a-tutkijan-tietopaketti/A-1-2-turvallisuutta-koskevat-viitetiedot-seka-riskien-ja-hyotyjen-arviointi|A.1.2 Turvallisuutta koskevat viitetiedot sekä riskien ja hyötyjen arviointi]]
-- [[04-liite-a-tutkijan-tietopaketti/A-2-2-tietojen-salassapito|A.2.2 Tietojen salassapito]]
-- [[04-liite-a-tutkijan-tietopaketti/A-3-7-yhteenveto-tiedoista-ja-ohjeista|A.3.7 Yhteenveto tiedoista ja ohjeista]]
-- [[06-liite-c-oleelliset-tallenteet/C-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
-- [[06-liite-c-oleelliset-tallenteet/C-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
+- [[04-liite-a-tutkijan-tietopaketti/a-1-johdanto|A.1 Johdanto]]
+- [[04-liite-a-tutkijan-tietopaketti/a-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]
+- [[04-liite-a-tutkijan-tietopaketti/a-1-2-turvallisuutta-koskevat-viitetiedot-seka-riskien-ja-hyotyjen-arviointi|A.1.2 Turvallisuutta koskevat viitetiedot sekä riskien ja hyötyjen arviointi]]
+- [[04-liite-a-tutkijan-tietopaketti/a-2-2-tietojen-salassapito|A.2.2 Tietojen salassapito]]
+- [[04-liite-a-tutkijan-tietopaketti/a-3-7-yhteenveto-tiedoista-ja-ohjeista|A.3.7 Yhteenveto tiedoista ja ohjeista]]
+- [[06-liite-c-oleelliset-tallenteet/c-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]
+- [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]
 
 ## Lähdeviitteet
 
