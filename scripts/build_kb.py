@@ -948,13 +948,16 @@ def main() -> None:
     manual_index = CONTENT / "index.md"
     if not manual_index.exists():
         raise SystemExit("Manuaalisesti ylläpidettävä content/index.md puuttuu.")
+    manual_root_entries = set(CONTENT.glob("*.md")) | {
+        child for child in CONTENT.iterdir() if child.name.startswith(".")
+    }
     for directory in [DATA, REPORTS]:
         if directory.exists():
             shutil.rmtree(directory)
         directory.mkdir(parents=True)
     CONTENT.mkdir(parents=True, exist_ok=True)
     for child in CONTENT.iterdir():
-        if child == manual_index:
+        if child in manual_root_entries:
             continue
         if child.is_dir():
             shutil.rmtree(child)

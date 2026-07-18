@@ -21,7 +21,7 @@ Versioitu, kaksikielinen ja koneellisesti luettava tietopohja Fimean tarkistamas
 
 ## Manuaalisesti ylläpidettävä etusivu
 
-Sivuston etusivua muokataan tiedostossa `content/index.md`. Generointiputki säilyttää tämän tiedoston muuttamattomana eikä kirjoita sitä uudelleen. Muut `content/`-hakemiston sivut tuotetaan automaattisesti.
+Sivuston etusivua muokataan tiedostossa `content/index.md`. Generointiputki säilyttää tämän tiedoston, muut `content/`-hakemiston juuressa olevat Markdown-sivut sekä piilotetut sovellusasetushakemistot muuttamattomina. Muut alikansioiden sivut tuotetaan automaattisesti.
 
 `npm run validate` tarkistaa lisäksi, että julkaistavaksi tarkoitettu suomen- ja englanninkielinen lähdeteksti vastaa PDF-poimintaa. Tulokset tallennetaan tiedostoon `reports/source-exactness-report.md`.
 

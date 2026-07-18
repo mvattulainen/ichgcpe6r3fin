@@ -1,7 +1,7 @@
 # Koontiraportti
 
 - Tietopohjan validointi: **HYVÄKSYTTY**
-- Markdown-sivuja: 225
+- Markdown-sivuja: 226
 - Rakenteellisia lähdeosioita: 145
 - Sanastomerkintöjä: 62
 - Termikohdistuksia: 194
@@ -12,14 +12,14 @@ Kaikki tietopohjan paikalliset hyväksymistarkistukset läpäistiin.
 
 ## Quartz-tuotantokoonti
 
-- Tila: **HYLÄTTY**
-- HTML-sivuja: 228
-- Kelvollisia JSON-LD-lohkoja: 228
-- Velvoiterekisterin sanastolinkki ei ole klikattava.
+- Tila: **HYVÄKSYTTY**
+- HTML-sivuja: 229
+- Kelvollisia JSON-LD-lohkoja: 229
+- Edustavan osion 2.8 kieli-, otsikko- ja semantiikkatarkistukset läpäistiin.
 
 ## Quartz-tuotantokoonti
 
 - Tila: **HYVÄKSYTTY**
-- HTML-sivuja: 228
-- Kelvollisia JSON-LD-lohkoja: 228
+- HTML-sivuja: 229
+- Kelvollisia JSON-LD-lohkoja: 229
 - Edustavan osion 2.8 kieli-, otsikko- ja semantiikkatarkistukset läpäistiin.
