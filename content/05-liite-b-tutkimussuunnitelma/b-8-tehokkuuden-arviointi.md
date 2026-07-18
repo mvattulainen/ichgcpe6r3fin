@@ -28,13 +28,15 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.8 Tehokkuuden arviointi
+<a id="ich-e6-r3-app-b-8-b-8-1"></a>
 
-### B.8.1 ^ich-e6-r3-app-b-8-b-8-1
+### B.8.1
 
 Tehokkuusparametrien määrittely tarvittaessa.
 
-### B.8.2 ^ich-e6-r3-app-b-8-b-8-2
+<a id="ich-e6-r3-app-b-8-b-8-2"></a>
+
+### B.8.2
 
 Tehokkuusparametrien arvioinnin, kirjaamisen ja analysoinnin menetelmät ja ajoitus. Mikäli tutkimukseen liittyviä komiteoita (esim. riippumatonta tietojenseurantatoimikuntaa (IDMC)/arviointitoimikuntaa) käytetään tehokkuustietojen arviointiin, komiteoiden menettelyt, ajoitus ja toimet tulee kuvata tutkimussuunnitelmassa tai erillisessä asiakirjassa.
 

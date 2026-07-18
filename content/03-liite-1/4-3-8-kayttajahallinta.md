@@ -32,13 +32,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.3.8 Käyttäjähallinta
+<a id="ich-e6-r3-a1-4-3-8-item-a"></a>
 
-- (a) Käyttöoikeuksien hallinta on olennainen osa kliinisissä lääketutkimuksissa käytettäviä tietokoneistettuja järjestelmiä. Sen avulla järjestelmiin pääsy voidaan rajoittaa valtuutetuille käyttäjille ja tiedot voidaan jäljittää yksittäisiin henkilöihin. Tietoturvatoimien tulee olla sellaisia, että niillä saavutetaan suunniteltu turvallisuustaso. ^ich-e6-r3-a1-4-3-8-item-a
+- (a) Käyttöoikeuksien hallinta on olennainen osa kliinisissä lääketutkimuksissa käytettäviä tietokoneistettuja järjestelmiä. Sen avulla järjestelmiin pääsy voidaan rajoittaa valtuutetuille käyttäjille ja tiedot voidaan jäljittää yksittäisiin henkilöihin. Tietoturvatoimien tulee olla sellaisia, että niillä saavutetaan suunniteltu turvallisuustaso.
 
-- (b) Käytössä tulee olla menettelyitä, joilla varmistetaan, että käyttöoikeudet on asianmukaisesti annettu käyttäjän velvollisuuksien ja tehtävien, sokkoutusjärjestelyiden ja sen organisaation perusteella, johon käyttäjät kuuluvat. Käyttöoikeudet tulee poistaa, kun niitä ei enää tarvita. Käytössä tulee olla prosessi, jolla varmistetaan, että käyttäjien pääsyoikeudet ja heille annetut roolit ja käyttöoikeudet tarkastetaan tarvittaessa säännöllisesti. ^ich-e6-r3-a1-4-3-8-item-b
+<a id="ich-e6-r3-a1-4-3-8-item-b"></a>
 
-- (c) Valtuutetut käyttäjät ja käyttöoikeudet tulee dokumentoida selkeästi, ja tietoja tulee ylläpitää ja säilyttää. Näiden tietojen tulee sisältää käyttäjän roolien ja käyttöoikeuksien mahdolliset päivitykset sekä käyttöluvan myöntämisajankohta (esim. aikaleima). Täydentävät liitteet Täydentävä liite A. [[sanasto/tutkijan-tietopaketti|Tutkijan tietopaketti]] ^ich-e6-r3-a1-4-3-8-item-c
+- (b) Käytössä tulee olla menettelyitä, joilla varmistetaan, että käyttöoikeudet on asianmukaisesti annettu käyttäjän velvollisuuksien ja tehtävien, sokkoutusjärjestelyiden ja sen organisaation perusteella, johon käyttäjät kuuluvat. Käyttöoikeudet tulee poistaa, kun niitä ei enää tarvita. Käytössä tulee olla prosessi, jolla varmistetaan, että käyttäjien pääsyoikeudet ja heille annetut roolit ja käyttöoikeudet tarkastetaan tarvittaessa säännöllisesti.
+
+<a id="ich-e6-r3-a1-4-3-8-item-c"></a>
+
+- (c) Valtuutetut käyttäjät ja käyttöoikeudet tulee dokumentoida selkeästi, ja tietoja tulee ylläpitää ja säilyttää. Näiden tietojen tulee sisältää käyttäjän roolien ja käyttöoikeuksien mahdolliset päivitykset sekä käyttöluvan myöntämisajankohta (esim. aikaleima). Täydentävät liitteet Täydentävä liite A. [[sanasto/tutkijan-tietopaketti|Tutkijan tietopaketti]]
 
 ## Liittyvät käsitteet
 

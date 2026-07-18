@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/monitorointisuunnitelma/"
 ---
 
-# Monitorointisuunnitelma
-
 **Englanniksi:** monitoring plan
 
 ## Suomenkielinen määritelmä

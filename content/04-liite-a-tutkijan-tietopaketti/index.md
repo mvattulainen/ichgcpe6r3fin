@@ -9,8 +9,6 @@ publish: true
 permalink: "/04-liite-a-tutkijan-tietopaketti/"
 ---
 
-# Täydentävä liite A – Tutkijan tietopaketti
-
 - [[04-liite-a-tutkijan-tietopaketti/a-1-johdanto|A.1 Johdanto]]
 - [[04-liite-a-tutkijan-tietopaketti/a-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]
 - [[04-liite-a-tutkijan-tietopaketti/a-1-2-turvallisuutta-koskevat-viitetiedot-seka-riskien-ja-hyotyjen-arviointi|A.1.2 Turvallisuutta koskevat viitetiedot sekä riskien ja hyötyjen arviointi]]

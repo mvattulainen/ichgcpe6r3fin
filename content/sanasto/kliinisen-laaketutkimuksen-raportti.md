@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/kliinisen-laaketutkimuksen-raportti/"
 ---
 
-# Kliinisen lääketutkimuksen raportti
-
 **Englanniksi:** clinical trial/study report, CSR
 
 ## Suomenkielinen määritelmä

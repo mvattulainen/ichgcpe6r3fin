@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.13 Raportit
-
 Kun tutkimus on saatu päätökseen, tutkijan tulee ilmoittaa siitä tutkimuslaitokselle, siten kuin tarpeellista. Tutkijan/tutkimuslaitoksen tulee toimittaa eettiselle toimikunnalle yhteenveto tutkimuksen tuloksesta ja tarvittaessa myös valvontaviranomaisille kaikki niiden edellyttämät raportit.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

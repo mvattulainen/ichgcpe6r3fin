@@ -32,21 +32,27 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2. Tietoon perustuva suostumus on olennainen osa tutkimuksen eettistä toteuttamista. Kliiniseen lääketutkimukseen osallistumisen tulee olla vapaaehtoista ja perustua suostumusprosessiin, jolla varmistetaan, että tutkimukseen osallistujat (tai tarvittaessa heidän lailliset edustajansa) ovat saaneet kaiken tarvittavan tiedon.
+<a id="ich-e6-r3-principle-02-2-1"></a>
 
-### 2.1 ^ich-e6-r3-principle-02-2-1
+### 2.1
 
 Vapaasta tahdosta annettu [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]] tulee saada ja dokumentoida kaikilta tutkimukseen osallistujilta ennen kliiniseen lääketutkimukseen osallistumista. Jos kyseessä on mahdollinen [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]], joka ei pysty antamaan tietoon perustuvaa suostumusta, tämän eduksi toimivan laillisen edustajan tulee antaa suostumus ennen kliiniseen lääketutkimukseen osallistumista. Tällaisille mahdollisille tutkimukseen osallistujille tulee tiedottaa tutkimuksesta tavalla, joka helpottaa heidän ymmärrystään. Jos osallistuja on alaikäinen, [[sanasto/alaikaisen-suostumus|alaikäisen suostumus]] tulee pyytää tarvittaessa ja paikallisten lainsäädännön vaatimusten mukaisesti [ks. ICH E11(R1) Clinical Investigation of Medicinal Products in the Pediatric Population].
 
-### 2.2 ^ich-e6-r3-principle-02-2-2
+<a id="ich-e6-r3-principle-02-2-2"></a>
+
+### 2.2
 
 Prosessit ja toimitettavat tiedot tulee suunnitella siten, että niiden ensisijaisena tavoitteena on antaa mahdollisille tutkimukseen osallistujille mahdollisuus arvioida tutkimukseen osallistumisen hyötyjä, riskejä ja rasitteita sekä tehdä tietoon perustuva päätös tutkimukseen osallistumisesta. Suostumusprosessin aikana annettavien tietojen tulee olla selkeitä ja tiiviitä, jotta mahdolliset tutkimukseen osallistujat tai lailliset edustajat ymmärtävät ne.
 
-### 2.3 ^ich-e6-r3-principle-02-2-3
+<a id="ich-e6-r3-principle-02-2-3"></a>
+
+### 2.3
 
 Suostumusprosessissa tulee ottaa huomioon tutkimuksen olennaiset näkökohdat, kuten tutkimukseen osallistujien erityispiirteet, tutkimusasetelma, lääketieteellisistä interventioista syntyvät odotetut hyödyt ja riskit, tutkimuksen toteutusasetelma ja - ympäristö (esim. tutkimukset hätätilanteissa) ja sellaisen teknologian mahdollinen käyttö, jolla tutkimukseen osallistujille (tai heidän laillisille edustajilleen) välitetään tietoa tai jolla heiltä hankitaan [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]].
 
-### 2.4 ^ich-e6-r3-principle-02-2-4
+<a id="ich-e6-r3-principle-02-2-4"></a>
+
+### 2.4
 
 Hätätilanteissa, joissa suostumusta ei voida saada ennen tutkimukseen osallistumista, suostumus tulee saada tutkimukseen osallistujalta tai hänen lailliselta edustajaltaan heti, kun se on mahdollista lainsäädännön vaatimusten ja eettisen toimikunnan hyväksymän prosessin mukaisesti.
 

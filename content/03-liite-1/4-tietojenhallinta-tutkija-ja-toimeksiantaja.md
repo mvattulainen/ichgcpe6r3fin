@@ -29,17 +29,23 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4 Tietojenhallinta – tutkija ja toimeksiantaja
-
 Tässä kappaleessa annetaan vastuutahoille (eli tutkijoille ja toimeksiantajille) ohjeita tietojen eheyden ja jäljitettävyyden sekä tietoturvan asianmukaisesta hallinnasta, jolla mahdollistetaan kliiniseen lääketutkimukseen liittyvien tietojen tarkka raportointi, todentaminen ja tulkinta. Tätä kappaletta tulee lukea yhdessä tutkijan ja toimeksiantajan vastaavien, kappaleissa 2 ja 3 määriteltyjen vastuiden kanssa sekä yhdessä seuraavien ohjeiden kanssa: ICH E8(R1), ICH E9 ja ICH E9(R1). Kliinisessä lääketutkimuksessa tuotettujen tietojen laadun ja määrän tulee olla riittävää tutkimuksen tavoitteisiin nähden ja tukea tutkimustulosten luotettavuutta ja hyvää päätöksentekoa. Laadun varmistavat järjestelmät ja prosessit tulee suunnitella ja toteuttaa tavalla, joka on oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja tutkimustulosten luotettavuuteen. Seuraavien keskeisten prosessien tulee kattaa tietojen koko elinkaari ja keskittyä tietojen kriittisyyteen, ja ne tulee toteuttaa oikeasuhtaisesti ja dokumentoida asianmukaisesti:
 
-- (a) prosessit, joilla varmistetaan tutkimukseen osallistujien tietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]]; ^ich-e6-r3-a1-4-item-a
+<a id="ich-e6-r3-a1-4-item-a"></a>
 
-- (b) prosessit tietokoneistettujen järjestelmien hallintaa varten, jotta ne ovat käyttötarkoitukseen sopivia ja jotta niiden asianmukainen käyttö voidaan varmistaa; ^ich-e6-r3-a1-4-item-b
+- (a) prosessit, joilla varmistetaan tutkimukseen osallistujien tietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]];
 
-- (c) prosessit, joilla turvataan kliinisen lääketutkimuksen olennaiset osat, kuten [[sanasto/satunnaistaminen|satunnaistaminen]], annoksen säätäminen ja [[sanasto/sokkoutus|sokkoutus]]; ^ich-e6-r3-a1-4-item-c
+<a id="ich-e6-r3-a1-4-item-b"></a>
 
-- (d) prosessit, joilla tuetaan keskeistä päätöksentekoa, kuten tietojen viimeistelyä ennen analyysiä, sokkoutuksen purkamista, tietojen kohdentamista analyysiaineistoihin, muutoksia kliinisen lääketutkimuksen koeasetelmaan, ja mikäli sovellettavissa, esimerkiksi riippumattoman tietojenseurantatoimikunnan (IDMC) toimia. ^ich-e6-r3-a1-4-item-d
+- (b) prosessit tietokoneistettujen järjestelmien hallintaa varten, jotta ne ovat käyttötarkoitukseen sopivia ja jotta niiden asianmukainen käyttö voidaan varmistaa;
+
+<a id="ich-e6-r3-a1-4-item-c"></a>
+
+- (c) prosessit, joilla turvataan kliinisen lääketutkimuksen olennaiset osat, kuten [[sanasto/satunnaistaminen|satunnaistaminen]], annoksen säätäminen ja [[sanasto/sokkoutus|sokkoutus]];
+
+<a id="ich-e6-r3-a1-4-item-d"></a>
+
+- (d) prosessit, joilla tuetaan keskeistä päätöksentekoa, kuten tietojen viimeistelyä ennen analyysiä, sokkoutuksen purkamista, tietojen kohdentamista analyysiaineistoihin, muutoksia kliinisen lääketutkimuksen koeasetelmaan, ja mikäli sovellettavissa, esimerkiksi riippumattoman tietojenseurantatoimikunnan (IDMC) toimia.
 
 ## Liittyvät käsitteet
 

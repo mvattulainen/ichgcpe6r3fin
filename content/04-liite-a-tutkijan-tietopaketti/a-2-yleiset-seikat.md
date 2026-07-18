@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.2 Yleiset seikat
-
 Tässä kuvataan ne tiedot, jotka tutkijan tietopaketin tulee vähintään sisältää. On odotettavissa, että saatavilla olevien tietojen ominaisuudet ja laajuus vaihtelevat tutkimusvalmisteen kehitysvaiheen mukaisesti. Tutkijan tietopaketin tulee sisältää:
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

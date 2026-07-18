@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.2.5 Tietojen siirto, vaihto ja tuominen toiseen järjestelmään
-
 Käytössä tulee olla validoituja prosesseja ja/tai muita asianmukaisia prosesseja, kuten ristiintarkistus, jotta voidaan varmistaa, että tietokoneistettujen järjestelmien välillä siirrettävien sähköisten tietojen, mukaan lukien asiaankuuluvien metatietojen, eheys ja [[sanasto/luottamuksellisuus|luottamuksellisuus]] säilyy. Tietojen vaihto-/siirtoprosessi tai tuominen toiseen järjestelmään tulee dokumentoida jäljitettävyyden varmistamiseksi, ja tietojen ristiintarkistus tulee toteuttaa tarpeen mukaan siten, että vältetään tietojen häviäminen ja tahattomat muutokset.
 
 ## Liittyvät käsitteet

@@ -29,17 +29,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.14 Tietojen käsittely ja tutkimukseen liittyvien tallenteiden ylläpito
+<a id="ich-e6-r3-app-b-14-b-14-1"></a>
 
-### B.14.1 ^ich-e6-r3-app-b-14-b-14-1
+### B.14.1
 
 Kerättävien tietojen ja tietojenkeruumenetelmän määrittely. Lisätietoja näistä voidaan esittää muissa kliinisen lääketutkimuksen asiakirjoissa.
 
-### B.14.2 ^ich-e6-r3-app-b-14-b-14-2
+<a id="ich-e6-r3-app-b-14-b-14-2"></a>
+
+### B.14.2
 
 Suoraan tiedonkeruutyökaluihin kirjattavien ja lähdetallenteina pidettävien tietojen tunnistaminen, kun tiedoista ei ole aiempaa kirjallista tai sähköistä tallennetta.
 
-### B.14.3 ^ich-e6-r3-app-b-14-b-14-3
+<a id="ich-e6-r3-app-b-14-b-14-3"></a>
+
+### B.14.3
 
 Lausunto siitä, että tallenteita tulee säilyttää lainsäädännön vaatimusten mukaisesti.
 

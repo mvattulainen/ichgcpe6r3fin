@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.3.1 Sisällysluettelo
-
 
 
 > [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.

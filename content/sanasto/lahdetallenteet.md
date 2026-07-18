@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/lahdetallenteet/"
 ---
 
-# Lähdetallenteet
-
 **Englanniksi:** source records
 
 ## Suomenkielinen määritelmä

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/monikeskustutkimus/"
 ---
 
-# Monikeskustutkimus
-
 **Englanniksi:** multicentre trial
 
 ## Suomenkielinen määritelmä

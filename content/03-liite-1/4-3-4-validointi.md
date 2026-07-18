@@ -31,25 +31,41 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.3.4 Validointi
+<a id="ich-e6-r3-a1-4-3-4-item-a"></a>
 
-- (a) Vastuutaho vastaa järjestelmän validoinnin tilasta koko sen elinkaaren ajan. Tietokoneistettujen järjestelmien validointitavan tulee perustua riskinarviointiin. Riskinarvioinnissa tulee ottaa huomioon järjestelmän aiottu käyttötarkoitus, järjestelmässä kerättävien/tuotettavien tietojen/tallenteiden sekä järjestelmässä ylläpidettävien ja säilytettävien tietojen/tallenteiden tarkoitus ja merkitys sekä järjestelmän mahdollisuus vaikuttaa tutkimukseen osallistujien hyvinvointiin, oikeuksiin ja turvallisuuteen ja tutkimustulosten luotettavuuteen. ^ich-e6-r3-a1-4-3-4-item-a
+- (a) Vastuutaho vastaa järjestelmän validoinnin tilasta koko sen elinkaaren ajan. Tietokoneistettujen järjestelmien validointitavan tulee perustua riskinarviointiin. Riskinarvioinnissa tulee ottaa huomioon järjestelmän aiottu käyttötarkoitus, järjestelmässä kerättävien/tuotettavien tietojen/tallenteiden sekä järjestelmässä ylläpidettävien ja säilytettävien tietojen/tallenteiden tarkoitus ja merkitys sekä järjestelmän mahdollisuus vaikuttaa tutkimukseen osallistujien hyvinvointiin, oikeuksiin ja turvallisuuteen ja tutkimustulosten luotettavuuteen.
 
-- (b) Validoinnissa tulee osoittaa, että järjestelmä täyttää täydellisyydelle, tarkkuudelle ja luotettavuudelle asetetut vaatimukset ja että sen suorituskyky vastaa käyttötarkoitusta. ^ich-e6-r3-a1-4-3-4-item-b
+<a id="ich-e6-r3-a1-4-3-4-item-b"></a>
 
-- (c) Järjestelmät tulee validoida asianmukaisesti ennen käyttöä. Myöhemmin järjestelmään tehdyt muutokset tulee validoida riskiperusteisesti. Validoinnissa tulee ottaa huomioon sekä aiemmin kerätyt tiedot että uudet tiedot muutoksenhallintamenettelyiden mukaisesti. ^ich-e6-r3-a1-4-3-4-item-c
+- (b) Validoinnissa tulee osoittaa, että järjestelmä täyttää täydellisyydelle, tarkkuudelle ja luotettavuudelle asetetut vaatimukset ja että sen suorituskyky vastaa käyttötarkoitusta.
 
-- (d) Määräaikaistarkistukset voivat olla riittäviä sen varmistamiseksi, että tietokoneistetut järjestelmät pysyvät validoituina koko järjestelmän elinkaaren ajan. ^ich-e6-r3-a1-4-3-4-item-d
+<a id="ich-e6-r3-a1-4-3-4-item-c"></a>
 
-- (e) Sekä järjestelmän vakiotoiminnallisuudet että tutkimussuunnitelmakohtaiset konfiguraatiot ja mukautukset, mukaan lukien automaattiset tiedonsyötön tarkistukset ja laskelmat, tulee validoida. Myös järjestelmien väliset rajapinnat tulee määritellä ja validoida. Validoinnin laajuus voi vaihdella sen mukaan, onko kyse räätälöidystä järjestelmästä, konfiguroitavaksi suunnitellusta järjestelmästä vai järjestelmästä, johon ei tarvita muutoksia. ^ich-e6-r3-a1-4-3-4-item-e
+- (c) Järjestelmät tulee validoida asianmukaisesti ennen käyttöä. Myöhemmin järjestelmään tehdyt muutokset tulee validoida riskiperusteisesti. Validoinnissa tulee ottaa huomioon sekä aiemmin kerätyt tiedot että uudet tiedot muutoksenhallintamenettelyiden mukaisesti.
 
-- (f) Validointimenettelyiden tulee kattaa (käytöstä poistamiseen asti) seuraavat asiat, jos sovellettavissa: järjestelmäsuunnittelu, järjestelmävaatimukset, toiminnallisuuden testaus, konfigurointi, julkaisu, asennus, käyttöönotto ja muutosten hallinta. ^ich-e6-r3-a1-4-3-4-item-f
+<a id="ich-e6-r3-a1-4-3-4-item-d"></a>
 
-- (g) Vastuullisen osapuolen tulee varmistaa, että tietokoneistetut järjestelmät, mukaan lukien muiden osapuolten kehittämät järjestelmät, on validoitu tarkoitukseensa sopiviksi tutkimuskäyttöä varten. Vastuullisen osapuolen tulee varmistaa, että validointidokumentaatiota ylläpidetään ja säilytetään asianmukaisesti. ^ich-e6-r3-a1-4-3-4-item-g
+- (d) Määräaikaistarkistukset voivat olla riittäviä sen varmistamiseksi, että tietokoneistetut järjestelmät pysyvät validoituina koko järjestelmän elinkaaren ajan.
 
-- (h) Validoinnin tulee yleensä sisältää järjestelmää koskevien vaatimusten ja spesifikaatioiden määrittely ja testaaminen sekä niihin liittyvä dokumentaatio, jotta voidaan varmistaa, että järjestelmä soveltuu käyttötarkoitukseensa tutkimuksessa. Tämä koskee erityisesti kriittisiä toiminnallisuuksia, kuten satunnaistamista, annostelua, annosten muuttamista ja vähentämistä sekä päätetapahtumatietojen keräämistä. ^ich-e6-r3-a1-4-3-4-item-h
+<a id="ich-e6-r3-a1-4-3-4-item-e"></a>
 
-- (i) Mahdolliset ratkaisemattomat asiat tulee perustella ja, jos tarpeen, niihin liittyviin tunnistettuihin riskeihin tulee puuttua vähentämisstrategioiden avulla ennen järjestelmän käyttöä ja/tai järjestelmän käytön jatkamisen aikana. ^ich-e6-r3-a1-4-3-4-item-i
+- (e) Sekä järjestelmän vakiotoiminnallisuudet että tutkimussuunnitelmakohtaiset konfiguraatiot ja mukautukset, mukaan lukien automaattiset tiedonsyötön tarkistukset ja laskelmat, tulee validoida. Myös järjestelmien väliset rajapinnat tulee määritellä ja validoida. Validoinnin laajuus voi vaihdella sen mukaan, onko kyse räätälöidystä järjestelmästä, konfiguroitavaksi suunnitellusta järjestelmästä vai järjestelmästä, johon ei tarvita muutoksia.
+
+<a id="ich-e6-r3-a1-4-3-4-item-f"></a>
+
+- (f) Validointimenettelyiden tulee kattaa (käytöstä poistamiseen asti) seuraavat asiat, jos sovellettavissa: järjestelmäsuunnittelu, järjestelmävaatimukset, toiminnallisuuden testaus, konfigurointi, julkaisu, asennus, käyttöönotto ja muutosten hallinta.
+
+<a id="ich-e6-r3-a1-4-3-4-item-g"></a>
+
+- (g) Vastuullisen osapuolen tulee varmistaa, että tietokoneistetut järjestelmät, mukaan lukien muiden osapuolten kehittämät järjestelmät, on validoitu tarkoitukseensa sopiviksi tutkimuskäyttöä varten. Vastuullisen osapuolen tulee varmistaa, että validointidokumentaatiota ylläpidetään ja säilytetään asianmukaisesti.
+
+<a id="ich-e6-r3-a1-4-3-4-item-h"></a>
+
+- (h) Validoinnin tulee yleensä sisältää järjestelmää koskevien vaatimusten ja spesifikaatioiden määrittely ja testaaminen sekä niihin liittyvä dokumentaatio, jotta voidaan varmistaa, että järjestelmä soveltuu käyttötarkoitukseensa tutkimuksessa. Tämä koskee erityisesti kriittisiä toiminnallisuuksia, kuten satunnaistamista, annostelua, annosten muuttamista ja vähentämistä sekä päätetapahtumatietojen keräämistä.
+
+<a id="ich-e6-r3-a1-4-3-4-item-i"></a>
+
+- (i) Mahdolliset ratkaisemattomat asiat tulee perustella ja, jos tarpeen, niihin liittyviin tunnistettuihin riskeihin tulee puuttua vähentämisstrategioiden avulla ennen järjestelmän käyttöä ja/tai järjestelmän käytön jatkamisen aikana.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

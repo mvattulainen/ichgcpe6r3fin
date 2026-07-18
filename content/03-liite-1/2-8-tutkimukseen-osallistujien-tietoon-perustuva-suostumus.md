@@ -40,111 +40,189 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.8 Tutkimukseen osallistujien tietoon perustuva suostumus
+<a id="ich-e6-r3-a1-2-8-1"></a>
 
-### 2.8.1 ^ich-e6-r3-a1-2-8-1
+### 2.8.1
 
 Tutkijan tulee noudattaa tietoon perustuvan suostumuksen hankkimisessa ja dokumentoinnissa (paperilla tai sähköisessä muodossa) lainsäädännön vaatimuksia, hyvää kliinistä tutkimustapaa ja Helsingin julistuksen eettisiä periaatteita. Tietoon perustuvan suostumusprosessin tulee sisältää seuraavat seikat:
 
-- (a) Tutkijalla tulee olla eettisen toimikunnan hyväksyntä / puoltava lausunto tietoon perustuvan suostumuksen materiaalista ja prosessista ennen tutkimukseen osallistujan suostumuksen pyytämistä ja tutkimukseen rekrytoimista; ^ich-e6-r3-a1-2-8-item-a
+<a id="ich-e6-r3-a1-2-8-item-a"></a>
 
-- (b) Tiedon tulee olla kirjoitettu yksinkertaisella kielellä mahdollisimman selkeästi ja ytimekkäästi, ja siinä tulee välttää tarpeetonta monimutkaisuutta. Näin varmistetaan, että tutkimukseen osallistujat tai heidän lailliset edustajansa ymmärtävät riittävällä tasolla tutkimuksen tavoitteet, vaihtoehtoiset hoidot, mahdolliset hyödyt ja riskit, rasitteet, omat oikeutensa ja sen, mitä tutkimukseen osallistujilta odotetaan, jotta he pystyvät tekemään tietoon perustuvan päätöksen tutkimukseen osallistumisesta; ^ich-e6-r3-a1-2-8-item-b
+- (a) Tutkijalla tulee olla eettisen toimikunnan hyväksyntä / puoltava lausunto tietoon perustuvan suostumuksen materiaalista ja prosessista ennen tutkimukseen osallistujan suostumuksen pyytämistä ja tutkimukseen rekrytoimista;
 
-- (c) Tietoon perustavassa suostumusprosessissa ja tietojen antamisessa tutkimukseen osallistujille voidaan käyttää erilaisia lähestymistapoja (esim. teksti, kuvat, videot ja muut interaktiiviset menetelmät). Mahdollisen tutkittavan ryhmän erityispiirteet (esim. tutkimukseen osallistujilla saattaa olla puutteelliset valmiudet käyttää tietokoneistettuja järjestelmiä) ja menetelmän sopivuus suostumuksen hankintaan tulee huomioida kehitettäessä tietoon perustuvan suostumuksen materiaaleja ja prosesseja. Kun tietoon perustuvan suostumuksen saamiseksi käytetään tietokoneistettuja järjestelmiä, tutkimukseen osallistujille voidaan tarjota paperipohjaista vaihtoehtoa; ^ich-e6-r3-a1-2-8-item-c
+<a id="ich-e6-r3-a1-2-8-item-b"></a>
 
-- (d) Suostumuksen hankintaa etänä voidaan harkita, kun sitä pidetään soveltuvana; ^ich-e6-r3-a1-2-8-item-d
+- (b) Tiedon tulee olla kirjoitettu yksinkertaisella kielellä mahdollisimman selkeästi ja ytimekkäästi, ja siinä tulee välttää tarpeetonta monimutkaisuutta. Näin varmistetaan, että tutkimukseen osallistujat tai heidän lailliset edustajansa ymmärtävät riittävällä tasolla tutkimuksen tavoitteet, vaihtoehtoiset hoidot, mahdolliset hyödyt ja riskit, rasitteet, omat oikeutensa ja sen, mitä tutkimukseen osallistujilta odotetaan, jotta he pystyvät tekemään tietoon perustuvan päätöksen tutkimukseen osallistumisesta;
 
-- (e) Tapahtuipa tietoon perustuvan suostumuksen saaminen henkilökohtaisesti tai etänä, tutkijan tulee varmistaa tutkimukseen osallistujan (tai laillisen edustajan) henkilöllisyys lainsäädännön vaatimusten mukaisesti. ^ich-e6-r3-a1-2-8-item-e
+<a id="ich-e6-r3-a1-2-8-item-c"></a>
 
-### 2.8.2 ^ich-e6-r3-a1-2-8-2
+- (c) Tietoon perustavassa suostumusprosessissa ja tietojen antamisessa tutkimukseen osallistujille voidaan käyttää erilaisia lähestymistapoja (esim. teksti, kuvat, videot ja muut interaktiiviset menetelmät). Mahdollisen tutkittavan ryhmän erityispiirteet (esim. tutkimukseen osallistujilla saattaa olla puutteelliset valmiudet käyttää tietokoneistettuja järjestelmiä) ja menetelmän sopivuus suostumuksen hankintaan tulee huomioida kehitettäessä tietoon perustuvan suostumuksen materiaaleja ja prosesseja. Kun tietoon perustuvan suostumuksen saamiseksi käytetään tietokoneistettuja järjestelmiä, tutkimukseen osallistujille voidaan tarjota paperipohjaista vaihtoehtoa;
+
+<a id="ich-e6-r3-a1-2-8-item-d"></a>
+
+- (d) Suostumuksen hankintaa etänä voidaan harkita, kun sitä pidetään soveltuvana;
+
+<a id="ich-e6-r3-a1-2-8-item-e"></a>
+
+- (e) Tapahtuipa tietoon perustuvan suostumuksen saaminen henkilökohtaisesti tai etänä, tutkijan tulee varmistaa tutkimukseen osallistujan (tai laillisen edustajan) henkilöllisyys lainsäädännön vaatimusten mukaisesti.
+
+<a id="ich-e6-r3-a1-2-8-2"></a>
+
+### 2.8.2
 
 Tutkimukseen osallistujalle tai hänen lailliselle edustajalleen tulee ilmoittaa hyvissä ajoin, mikäli tulee uutta tietoa, jolla voi olla merkitystä tutkimukseen osallistujan halukkuudelle jatkaa tutkimukseen osallistumista. Tiedonanto ja vahvistus halukkuudesta jatkaa tutkimukseen osallistumista tulee dokumentoida. Uusia tietoja, jotka voivat vaikuttaa tutkimukseen osallistujan halukkuuteen jatkaa osallistumista, tulee arvioida sen määrittämiseksi, tarvitaanko uusi suostumus (esim. tutkimuksen vaiheen mukaisesti tulee pohtia, ovatko uudet tiedot merkityksellisiä vain uusille osallistujille vai tutkimukseen jo osallistuville). Jos uusi suostumus tarvitaan (esim. tietoa uusista turvallisuushuolista), uudet tiedot tulee yksilöidä selkeästi päivitetyissä tietoon perustuvan suostumuksen materiaaleissa. Päivitetyille tietoon perustuvan suostumuksen materiaaleille tulee saada eettisen toimikunnan hyväksyntä / puoltava lausunto, ennen kuin niitä käytetään.
 
-### 2.8.3 ^ich-e6-r3-a1-2-8-3
+<a id="ich-e6-r3-a1-2-8-3"></a>
+
+### 2.8.3
 
 [[sanasto/tutkija|Tutkija]] tai tutkimusta suorittava henkilöstö eivät saa pakottaa tai painostaa tutkimukseen osallistujaa osallistumaan tutkimukseen tai jatkamaan osallistumistaan.
 
-### 2.8.4 ^ich-e6-r3-a1-2-8-4
+<a id="ich-e6-r3-a1-2-8-4"></a>
+
+### 2.8.4
 
 Mikään tieto, joka tutkimukseen osallistujalle tai tutkimukseen osallistujan lailliselle edustajalle on annettu tietoon perustuvan suostumuksen hankkimisen aikana, ei saa sisältää tekstiä, jonka mukaan [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] tai hänen laillinen edustajansa luopuu tai vaikuttaisi luopuvan laillisista oikeuksistaan tai joka vapauttaa tai näyttäisi vapauttavan tutkijan, tutkimuslaitoksen, toimeksiantajan tai näiden palveluntarjoajat huolimattomuudesta aiheutuvasta vastuustaan.
 
-### 2.8.5 ^ich-e6-r3-a1-2-8-5
+<a id="ich-e6-r3-a1-2-8-5"></a>
+
+### 2.8.5
 
 Tutkijan tai hänen valtuuttamansa tutkimusta suorittavan henkilön tulee toteuttaa tietoon perustuvan suostumuksen hankkiminen lainsäädännön vaatimusten mukaisesti. Jos [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] ei pysty itse antamaan suostumusta (esim. alaikäiset ja potilaat, joilla on merkittävästi heikentynyt päätöksentekokyky), tutkimukseen osallistujan laillisen edustajan tulee antaa suostumus tutkimukseen osallistujan puolesta.
 
-### 2.8.6 ^ich-e6-r3-a1-2-8-6
+<a id="ich-e6-r3-a1-2-8-6"></a>
+
+### 2.8.6
 
 Ennen kuin [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]] voidaan saada, tutkijan tai hänen nimeämänsä tutkimusta suorittavan henkilöstön tulee antaa tutkimussuunnitelman ja eettisen toimikunnan puoltavan lausunnon ehtojen mukaisesti tutkimukseen osallistujalle tai tämän lailliselle edustajalle riittävästi aikaa, paitsi jos se ei ole mahdollista (esim. hätätilanteessa), sekä mahdollisuus tiedustella tutkimuksen yksityiskohtia ja harkita päätöstä tutkimukseen osallistumisesta tai siitä kieltäytymisestä. Tutkimusta koskeviin kysymyksiin tulee vastata tutkimukseen osallistujaa tai tämän laillista edustajaa tyydyttävällä tavalla.
 
-### 2.8.7 ^ich-e6-r3-a1-2-8-7
+<a id="ich-e6-r3-a1-2-8-7"></a>
+
+### 2.8.7
 
 Ennen tutkimukseen osallistumista tutkimukseen osallistujan tai hänen laillisen edustajansa, tulee allekirjoittaa ja päivätä suostumuslomake. Puolueettoman todistajan, mikäli tarpeen, sekä sen tutkijan tai tutkimusta suorittavan henkilön, jonka kanssa tietoon perustuvasta suostumuksesta on keskusteltu, tulee allekirjoittaa ja päivätä suostumuslomake. Allekirjoittamalla suostumuslomakkeen [[sanasto/tutkija|tutkija]] tai tutkimusta suorittava henkilö todistaa, että [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] tai tämän [[sanasto/laillinen-edustaja|laillinen edustaja]] on antanut tietoon perustuvan suostumuksen vapaaehtoisesti, että suostumustiedot oli selostettu tarkasti hänelle ja että [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] oli ilmeisesti ymmärtänyt ne. Tietoon perustuvan suostumuksen prosessiin voi liittyä fyysinen tai sähköinen [[sanasto/allekirjoitus|allekirjoitus]] ja päivämäärä (ks. sanaston termi ”[[sanasto/allekirjoitus|allekirjoitus]]”).
 
-### 2.8.8 ^ich-e6-r3-a1-2-8-8
+<a id="ich-e6-r3-a1-2-8-8"></a>
+
+### 2.8.8
 
 Jos tutkimukseen osallistujalta ei ole mahdollista hätätilanteessa saada suostumusta etukäteen ja hänen laillinen edustajansa on läsnä, tulee tältä pyytää suostumusta. Jos tutkimukseen osallistujalta ei ole mahdollista saada suostumusta etukäteen, eikä hänen laillinen edustajansa ole tavoitettavissa, tutkimukseen osallistuminen edellyttää tutkimussuunnitelmassa ja/tai muutoin kuvattua menettelyä, josta on eettisen toimikunnan kirjallinen puoltava lausunto, jotta varmistetaan tutkimukseen osallistujan oikeudet, turvallisuus ja hyvinvointi sekä lainsäädännön vaatimusten noudattaminen. Tutkimukseen osallistujalle tai hänen lailliselle edustajalleen tulee ilmoittaa tutkimuksesta mahdollisimman pian, ja hänen suostumustaan tulee pyytää mahdollisuuksien mukaan.
 
-### 2.8.9 ^ich-e6-r3-a1-2-8-9
+<a id="ich-e6-r3-a1-2-8-9"></a>
+
+### 2.8.9
 
 Jos [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] tai tämän [[sanasto/laillinen-edustaja|laillinen edustaja]] ei pysty lukemaan, koko tietoon perustuvaa suostumusta käsittelevän keskustelun ajan tulee olla paikalla [[sanasto/puolueeton-todistaja|puolueeton todistaja]] (etänä tai henkilökohtaisesti). Kun tutkimukseen osallistujalle annettava suostumuslomake ja muu tiedotusmateriaali on luettu ja selitetty tutkimukseen osallistujalle tai hänen lailliselle edustajalleen, ja kun hän on antanut suullisen suostumuksensa tutkimukseen osallistumisesta ja allekirjoittanut ja päivännyt suostumuslomakkeen, mikäli hän kykenee sen tekemään, todistajan tulee allekirjoittaa ja päivätä suostumuslomake. Allekirjoittamalla suostumuslomakkeen todistaja vakuuttaa, että suostumusta koskevat tiedot on selostettu tarkasti ja että [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] tai tämän [[sanasto/laillinen-edustaja|laillinen edustaja]] on ilmeisesti ymmärtänyt ne, ja että [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] tai tämän [[sanasto/laillinen-edustaja|laillinen edustaja]] on antanut tietoon perustuvan suostumuksen vapaaehtoisesti.
 
-### 2.8.10 ^ich-e6-r3-a1-2-8-10
+<a id="ich-e6-r3-a1-2-8-10"></a>
+
+### 2.8.10
 
 Tietoon perustuvaa suostumusta käsittelevässä keskustelussa ja tutkimukseen osallistujille annettavissa materiaaleissa tulee selittää seuraavat seikat soveltuvin osin:
 
-- (a) tutkimuksen tarkoitus; ^ich-e6-r3-a1-2-8-item-a
+<a id="ich-e6-r3-a1-2-8-item-a"></a>
 
-- (b) tieto siitä, että tutkimukseen sisältyy kokeellisuutta, ja yhteenveto tutkimuksen kokeellisista näkökohdista; ^ich-e6-r3-a1-2-8-item-b
+- (a) tutkimuksen tarkoitus;
 
-- (c) tutkimuksen [[sanasto/tutkimusvalmiste|tutkimusvalmiste]](et) ja tarvittaessa satunnaistamiseen perustuva todennäköisyys saada tutkimusvalmistetta; ^ich-e6-r3-a1-2-8-item-c
+<a id="ich-e6-r3-a1-2-8-item-b"></a>
 
-- (d) noudatettavat tutkimustoimenpiteet, mukaan lukien kaikki kajoavat toimenpiteet; ^ich-e6-r3-a1-2-8-item-d
+- (b) tieto siitä, että tutkimukseen sisältyy kokeellisuutta, ja yhteenveto tutkimuksen kokeellisista näkökohdista;
 
-- (e) mitä tutkimukseen osallistujilta odotetaan; ^ich-e6-r3-a1-2-8-item-e
+<a id="ich-e6-r3-a1-2-8-item-c"></a>
 
-- (f) tutkimukseen osallistujille ja eräissä tapauksissa tutkimukseen osallistujan kumppanille, alkiolle, sikiölle tai imeväisikäiselle lapselle kohtuudella ennakoitavissa olevat riskit ja haitat; ^ich-e6-r3-a1-2-8-item-f
+- (c) tutkimuksen [[sanasto/tutkimusvalmiste|tutkimusvalmiste]](et) ja tarvittaessa satunnaistamiseen perustuva todennäköisyys saada tutkimusvalmistetta;
 
-- (g) kohtuudella odotettavissa olevat hyödyt. Jos tutkimukseen osallistujan ei odoteta saavan mitään kliinistä hyötyä, osallistujalle tulee kertoa siitä; ^ich-e6-r3-a1-2-8-item-g
+<a id="ich-e6-r3-a1-2-8-item-d"></a>
 
-- (h) tutkimukseen osallistujan saatavilla olevat mahdolliset vaihtoehtoiset toimenpiteet tai hoidot ja niiden mahdolliset merkittävät hyödyt ja riskit; ^ich-e6-r3-a1-2-8-item-h
+- (d) noudatettavat tutkimustoimenpiteet, mukaan lukien kaikki kajoavat toimenpiteet;
 
-- (i) tutkimukseen osallistujalle tutkimukseen liittyvän henkilövahingon vuoksi annettava korvaus ja/tai hoito; ^ich-e6-r3-a1-2-8-item-i
+<a id="ich-e6-r3-a1-2-8-item-e"></a>
 
-- (j) tutkimukseen osallistujille ennakoitavissa oleva ja määräsuhteessa maksettu korvaus tutkimukseen osallistumisesta; ^ich-e6-r3-a1-2-8-item-j
+- (e) mitä tutkimukseen osallistujilta odotetaan;
 
-- (k) tutkimukseen osallistujille tutkimukseen osallistumisesta aiheutuvat ennakoitavissa olevat kustannukset; ^ich-e6-r3-a1-2-8-item-k
+<a id="ich-e6-r3-a1-2-8-item-f"></a>
 
-- (l) tieto siitä, että osallistuminen tutkimukseen on vapaaehtoista ja että [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] voi lopettaa tutkimushoidon tai vetäytyä tutkimuksesta milloin tahansa ilman seuraamuksia ja menettämättä niitä etuja, joihin hän olisi muutoin oikeutettu; ^ich-e6-r3-a1-2-8-item-l
+- (f) tutkimukseen osallistujille ja eräissä tapauksissa tutkimukseen osallistujan kumppanille, alkiolle, sikiölle tai imeväisikäiselle lapselle kohtuudella ennakoitavissa olevat riskit ja haitat;
 
-- (m) seurantatoimet niille osallistujille, jotka lopettivat tutkimushoidon, vetäytyivät tutkimuksesta tai keskeyttivät tutkimuksen; ^ich-e6-r3-a1-2-8-item-m
+<a id="ich-e6-r3-a1-2-8-item-g"></a>
 
-- (n) prosessi, jolla tutkimukseen osallistujan tietoja käsitellään, myös silloin, kun osallistuminen peruutetaan tai lopetetaan, lainsäädännön vaatimusten mukaisesti; ^ich-e6-r3-a1-2-8-item-n
+- (g) kohtuudella odotettavissa olevat hyödyt. Jos tutkimukseen osallistujan ei odoteta saavan mitään kliinistä hyötyä, osallistujalle tulee kertoa siitä;
 
-- (o) osallistumalla [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] tai hänen laillinen edustajansa sallii suoran pääsyn lähdetallenteisiin edellyttäen, että tutkimukseen osallistujan potilastietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]] turvataan. Tämä pääsyoikeus on rajattu valvontaviranomaisille ja toimeksiantajan edustajille, esimerkiksi monitoroijille tai auditoijille tai lainsäädännön vaatimusten mukaisesti eettiselle toimikunnalle, tutkimustoiminnan arvioimiseksi ja/tai tietojen ja tallenteiden tarkastelemiseksi tai varmentamiseksi; ^ich-e6-r3-a1-2-8-item-o
+<a id="ich-e6-r3-a1-2-8-item-h"></a>
 
-- (p) tieto siitä, että tutkimukseen osallistujan tunnistetiedot pidetään luottamuksellisena, eikä niitä anneta julkisuuteen lainsäädännön vaatimusten rajoissa. Jos tutkimustulokset julkaistaan, tutkimukseen osallistujan henkilöllisyys säilyy luottamuksellisena. Tutkimus voidaan rekisteröidä julkisesti saatavilla oleviin ja tunnustettuihin tietokantoihin lainsäädännön vaatimusten mukaisesti; ^ich-e6-r3-a1-2-8-item-p
+- (h) tutkimukseen osallistujan saatavilla olevat mahdolliset vaihtoehtoiset toimenpiteet tai hoidot ja niiden mahdolliset merkittävät hyödyt ja riskit;
 
-- (q) tutkimukseen osallistujalle tai hänen lailliselle edustajalleen ilmoitetaan hyvissä ajoin, mikäli esille tulee sellaisia tietoa, jolla voi olla merkitystä halukkuudelle jatkaa tutkimukseen osallistumista; ^ich-e6-r3-a1-2-8-item-q
+<a id="ich-e6-r3-a1-2-8-item-i"></a>
 
-- (r) henkilöt, joilta saa lisätietoja tutkimuksesta ja tutkimukseen osallistujien oikeuksista ja joihin voi ottaa yhteyttä epäillyn tutkimukseen liittyvän henkilövahingon vuoksi; ^ich-e6-r3-a1-2-8-item-r
+- (i) tutkimukseen osallistujalle tutkimukseen liittyvän henkilövahingon vuoksi annettava korvaus ja/tai hoito;
 
-- (s) ennakoitavissa olevat olosuhteet ja/tai syyt, joiden vuoksi tutkimukseen osallistujan osallistuminen tutkimukseen voidaan keskeyttää; ^ich-e6-r3-a1-2-8-item-s
+<a id="ich-e6-r3-a1-2-8-item-j"></a>
 
-- (t) tutkimukseen osallistujan osallistumisen oletettu kesto; ^ich-e6-r3-a1-2-8-item-t
+- (j) tutkimukseen osallistujille ennakoitavissa oleva ja määräsuhteessa maksettu korvaus tutkimukseen osallistumisesta;
 
-- (u) tutkimukseen osallistuvien arvioitu määrä; ^ich-e6-r3-a1-2-8-item-u
+<a id="ich-e6-r3-a1-2-8-item-k"></a>
 
-- (v) tutkimustulokset ja tarvittaessa tiedot tutkimukseen osallistujan tosiasiallisesta hoidosta, jos mahdollista, saatetaan heidän tietoonsa, jos he sitä toivovat, kun nämä tiedot ovat saatavilla toimeksiantajalta. ^ich-e6-r3-a1-2-8-item-v
+- (k) tutkimukseen osallistujille tutkimukseen osallistumisesta aiheutuvat ennakoitavissa olevat kustannukset;
 
-### 2.8.11 ^ich-e6-r3-a1-2-8-11
+<a id="ich-e6-r3-a1-2-8-item-l"></a>
+
+- (l) tieto siitä, että osallistuminen tutkimukseen on vapaaehtoista ja että [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] voi lopettaa tutkimushoidon tai vetäytyä tutkimuksesta milloin tahansa ilman seuraamuksia ja menettämättä niitä etuja, joihin hän olisi muutoin oikeutettu;
+
+<a id="ich-e6-r3-a1-2-8-item-m"></a>
+
+- (m) seurantatoimet niille osallistujille, jotka lopettivat tutkimushoidon, vetäytyivät tutkimuksesta tai keskeyttivät tutkimuksen;
+
+<a id="ich-e6-r3-a1-2-8-item-n"></a>
+
+- (n) prosessi, jolla tutkimukseen osallistujan tietoja käsitellään, myös silloin, kun osallistuminen peruutetaan tai lopetetaan, lainsäädännön vaatimusten mukaisesti;
+
+<a id="ich-e6-r3-a1-2-8-item-o"></a>
+
+- (o) osallistumalla [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] tai hänen laillinen edustajansa sallii suoran pääsyn lähdetallenteisiin edellyttäen, että tutkimukseen osallistujan potilastietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]] turvataan. Tämä pääsyoikeus on rajattu valvontaviranomaisille ja toimeksiantajan edustajille, esimerkiksi monitoroijille tai auditoijille tai lainsäädännön vaatimusten mukaisesti eettiselle toimikunnalle, tutkimustoiminnan arvioimiseksi ja/tai tietojen ja tallenteiden tarkastelemiseksi tai varmentamiseksi;
+
+<a id="ich-e6-r3-a1-2-8-item-p"></a>
+
+- (p) tieto siitä, että tutkimukseen osallistujan tunnistetiedot pidetään luottamuksellisena, eikä niitä anneta julkisuuteen lainsäädännön vaatimusten rajoissa. Jos tutkimustulokset julkaistaan, tutkimukseen osallistujan henkilöllisyys säilyy luottamuksellisena. Tutkimus voidaan rekisteröidä julkisesti saatavilla oleviin ja tunnustettuihin tietokantoihin lainsäädännön vaatimusten mukaisesti;
+
+<a id="ich-e6-r3-a1-2-8-item-q"></a>
+
+- (q) tutkimukseen osallistujalle tai hänen lailliselle edustajalleen ilmoitetaan hyvissä ajoin, mikäli esille tulee sellaisia tietoa, jolla voi olla merkitystä halukkuudelle jatkaa tutkimukseen osallistumista;
+
+<a id="ich-e6-r3-a1-2-8-item-r"></a>
+
+- (r) henkilöt, joilta saa lisätietoja tutkimuksesta ja tutkimukseen osallistujien oikeuksista ja joihin voi ottaa yhteyttä epäillyn tutkimukseen liittyvän henkilövahingon vuoksi;
+
+<a id="ich-e6-r3-a1-2-8-item-s"></a>
+
+- (s) ennakoitavissa olevat olosuhteet ja/tai syyt, joiden vuoksi tutkimukseen osallistujan osallistuminen tutkimukseen voidaan keskeyttää;
+
+<a id="ich-e6-r3-a1-2-8-item-t"></a>
+
+- (t) tutkimukseen osallistujan osallistumisen oletettu kesto;
+
+<a id="ich-e6-r3-a1-2-8-item-u"></a>
+
+- (u) tutkimukseen osallistuvien arvioitu määrä;
+
+<a id="ich-e6-r3-a1-2-8-item-v"></a>
+
+- (v) tutkimustulokset ja tarvittaessa tiedot tutkimukseen osallistujan tosiasiallisesta hoidosta, jos mahdollista, saatetaan heidän tietoonsa, jos he sitä toivovat, kun nämä tiedot ovat saatavilla toimeksiantajalta.
+
+<a id="ich-e6-r3-a1-2-8-11"></a>
+
+### 2.8.11
 
 Ennen kuin [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] osallistuu tutkimukseen, hänelle tai hänen lailliselle edustajalleen tulee antaa (paperilla tai sähköisesti) kopio allekirjoitetusta ja päivätystä suostumuslomakkeesta ja kaikesta muusta tietoon perustuvan suostumuksen materiaalista lainsäädännön vaatimusten mukaisesti. Tutkimukseen osallistumisen aikana tutkimukseen osallistujalle tai hänen lailliselle edustajalleen tulee toimittaa kopio päivitetyistä suostumuslomakkeista ja muista mahdollisista tietoon perustuvan suostumuksen materiaalien päivityksistä.
 
-### 2.8.12 ^ich-e6-r3-a1-2-8-12
+<a id="ich-e6-r3-a1-2-8-12"></a>
+
+### 2.8.12
 
 Jos alaikäinen osallistuu tutkimukseen, hänelle tulee antaa ikätasoiset alaikäisen suostumusta koskevat tiedot ja hänen kanssaan tulee keskustella osana suostumusprosessia. Tarvittaessa [[sanasto/alaikaisen-suostumus|alaikäisen suostumus]] tutkimukseen osallistumiselle tulee hankkia. Suostumuksen hankkimista tulee harkita lainsäädännön vaatimusten mukaisesti, jos alaikäinen saavuttaa tutkimuksen aikana oikeudellisen suostumuksen iän.
 
-### 2.8.13 ^ich-e6-r3-a1-2-8-13
+<a id="ich-e6-r3-a1-2-8-13"></a>
+
+### 2.8.13
 
 Jos kliiniseen lääketutkimukseen osallistuu henkilöitä, jotka voivat osallistua tutkimukseen vain laillisen edustajan suostumuksella, tutkimukseen osallistujille tulee tiedottaa tutkimuksesta tavalla, joka tukee heidän ymmärrystään ja, jos [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] kykenee, hänen tulee tarvittaessa allekirjoittaa ja päivätä tietoon perustuvan suostumuksen lomake tai alaikäisen/vajaakykyisen suostumuslomake.
 

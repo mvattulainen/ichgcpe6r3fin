@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/allekirjoitus/"
 ---
 
-# Allekirjoitus
-
 **Englanniksi:** signature
 
 ## Suomenkielinen määritelmä

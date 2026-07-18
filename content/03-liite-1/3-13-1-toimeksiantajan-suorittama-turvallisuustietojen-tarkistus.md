@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.13.1 Toimeksiantajan suorittama turvallisuustietojen tarkistus
-
 Toimeksiantajan tulee tarvittaessa koota yhteen ja tarkastella asiaankuuluvia turvallisuustietoja oikea-aikaisesti. Tähän kuuluu raportoitujen, tutkimukseen osallistujilla havaittujen tutkimuksen kannalta epäsuotuisien lääketieteellisten tapahtumien tarkastelu ennen tutkimusvalmisteen antamista (esim. seulonnan aikana). Tämä voi johtaa tutkimussuunnitelman, tutkijan tietopaketin, tietoon perustuvan suostumuksen materiaalien ja muiden asiakirjojen päivittämiseen. Toimeksiantajan tulee tarkastella saatavilla olevia uusia ja esiin tulevia turvallisuustietoja arvioidakseen, onko olemassa uusia tietoja, jotka voivat vaikuttaa tutkimukseen osallistujan halukkuuteen jatkaa tutkimuksessa tai jotka voivat vaikuttaa tutkimuksen kulkuun tai muuttaa eettisen toimikunnan ja/tai valvontaviranomaisten hyväksyntää/puoltavaa lausuntoa uusien tietojen edellyttämällä tavalla. Tällaiset tiedot tulee välittää tutkimukseen osallistujille, tutkijalle, eettiselle toimikunnalle ja valvontaviranomaisille soveltuvin osin ja oikea-aikaisesti.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

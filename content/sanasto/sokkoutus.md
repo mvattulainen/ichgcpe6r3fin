@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/sokkoutus/"
 ---
 
-# Sokkoutus
-
 **Englanniksi:** blinding/masking
 
 ## Suomenkielinen määritelmä

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/ei-kliininen-tutkimus/"
 ---
 
-# Ei-kliininen tutkimus
-
 **Englanniksi:** nonclinical study
 
 ## Suomenkielinen määritelmä

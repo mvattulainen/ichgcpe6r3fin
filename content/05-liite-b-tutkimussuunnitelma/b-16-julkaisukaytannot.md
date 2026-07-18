@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.16 Julkaisukäytännöt
-
 Julkaisukäytännöt, ellei niitä määritellä erillisessä sopimuksessa. Täydentävä liite C. [[sanasto/oleelliset-tallenteet|Oleelliset tallenteet]] kliinisen lääketutkimuksen toteuttamista varten
 
 ## Liittyvät käsitteet

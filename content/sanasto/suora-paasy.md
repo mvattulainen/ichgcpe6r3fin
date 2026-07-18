@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/suora-paasy/"
 ---
 
-# Suora pääsy
-
 **Englanniksi:** direct access
 
 ## Suomenkielinen määritelmä

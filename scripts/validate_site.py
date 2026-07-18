@@ -74,6 +74,23 @@ def main() -> None:
                 errors.append(f"Virheellinen JSON-LD ({exc}): {relative}")
         if relative != "404.html" and "<title>Nimetön" in text:
             errors.append(f"Sivun otsikkoa ei luettu frontmatterista: {relative}")
+        if relative.endswith("/index.html") and not relative.startswith("tags/"):
+            if "page-listing" in text or re.search(r"\d+ kohdetta? tässä kansiossa", text):
+                errors.append(f"Kansiosivulla on automaattinen kohdeluettelo: {relative}")
+        if relative not in {"404.html", "index.html"} and not relative.startswith("tags/"):
+            if len(re.findall(r"<h1(?:\s|>)", text)) != 1 or '<h1 class="article-title">' not in text:
+                errors.append(f"Sivulla on puuttuva tai toistuva pääotsikko: {relative}")
+        if re.search(r"<h[1-6][^>]*>[^<]*\^ich-", text):
+            errors.append(f"Otsikossa näkyy tekninen ankkuritunniste: {relative}")
+        if relative.startswith("roolipohjaiset-nakymat/") and relative != "roolipohjaiset-nakymat/index.html":
+            if "Keskeiset velvoitteet" in text:
+                errors.append(f"Roolinäkymässä on Keskeiset velvoitteet -osio: {relative}")
+            for notice in (
+                "sivu tulee käsitellä kokeellisena",
+                "Sivua ei ole sisältötarkastettu",
+            ):
+                if notice not in text:
+                    errors.append(f"Roolinäkymästä puuttuu ilmoitus {notice!r}: {relative}")
         parser = LinkParser()
         parser.feed(text)
         for href in parser.hrefs:
@@ -88,6 +105,29 @@ def main() -> None:
         for token in ["2.8 Tutkimukseen osallistujien tietoon perustuva suostumus", '<div lang="en">', '"@type":"TechArticle"', '"identifier":"ich-e6-r3-a1-2.8"']:
             if token not in text:
                 errors.append(f"Edustavan osion HTML-tarkistus epäonnistui: {token}")
+
+    principle = PUBLIC / "02-gcp-periaatteet" / "periaate-01.html"
+    if not principle.exists():
+        errors.append("Edustava periaatesivu puuttuu Quartz-tulosteesta.")
+    else:
+        principle_text = principle.read_text(encoding="utf-8")
+        if '<a id="ich-e6-r3-principle-01-1-1"></a>' not in principle_text:
+            errors.append("Periaatteen 1.1 piilotettu vakaa ankkuri puuttuu.")
+        if "1.1 ^ich-e6-r3" in principle_text:
+            errors.append("Periaatteen 1.1 tekninen ankkuri näkyy otsikossa.")
+
+    register = PUBLIC / "vastuutaulukot" / "index.html"
+    if not register.exists():
+        errors.append("Velvoite- ja näyttörekisteri puuttuu Quartz-tulosteesta.")
+    else:
+        register_text = register.read_text(encoding="utf-8")
+        for removed_header in ("<th>Modaliteetti</th>", "<th>Tarkistus</th>"):
+            if removed_header in register_text:
+                errors.append(f"Velvoiterekisterissä näkyy poistettu sarake: {removed_header}")
+        if "[[sanasto/" in register_text:
+            errors.append("Velvoiterekisterissä on käsittelemätön wikilinkki.")
+        if not re.search(r'href="\.\./(?:\./)?sanasto/luottamuksellisuus"', register_text):
+            errors.append("Velvoiterekisterin sanastolinkki ei ole klikattava.")
 
     broken = [x for x in errors if "linkki" in x.casefold()]
     (REPORTS / "broken-link-report.md").write_text(

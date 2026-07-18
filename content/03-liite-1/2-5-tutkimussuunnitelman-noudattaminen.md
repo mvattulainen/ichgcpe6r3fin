@@ -30,25 +30,33 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.5 Tutkimussuunnitelman noudattaminen
+<a id="ich-e6-r3-a1-2-5-1"></a>
 
-### 2.5.1 ^ich-e6-r3-a1-2-5-1
+### 2.5.1
 
 Tutkijan/tutkimuslaitoksen tulee allekirjoittaa [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] tai vaihtoehtoinen [[sanasto/sopimus|sopimus]], jolla vahvistetaan [[sanasto/sopimus|sopimus]] toimeksiantajan kanssa.
 
-### 2.5.2 ^ich-e6-r3-a1-2-5-2
+<a id="ich-e6-r3-a1-2-5-2"></a>
+
+### 2.5.2
 
 Tutkijan tulee noudattaa tutkimussuunnitelmaa, hyvää kliinistä tutkimustapaa ja lainsäädännön vaatimuksia.
 
-### 2.5.3 ^ich-e6-r3-a1-2-5-3
+<a id="ich-e6-r3-a1-2-5-3"></a>
+
+### 2.5.3
 
 Tutkijan tulee dokumentoida kaikki poikkeamat tutkimussuunnitelmasta. Tutkijan itsensä havaitsemien poikkeamien ohella myös [[sanasto/toimeksiantaja|toimeksiantaja]] voi ilmoittaa tutkijalle merkityksellisistä poikkeamista, jotka liittyvät tutkimukseen osallistujiin ja tutkimuksen toteuttamiseen (ks. kappaleen 3.11.4.5.1 kohdan alakohta b). Kummassakin tapauksessa tutkijan tulee arvioida poikkeamia, ja tutkijan tulee selittää merkittäviksi katsotut poikkeamat ja toteuttaa asianmukaiset toimenpiteet toistumisen estämiseksi, mikäli mahdollista (ks. kappale 3.9.3).
 
-### 2.5.4 ^ich-e6-r3-a1-2-5-4
+<a id="ich-e6-r3-a1-2-5-4"></a>
+
+### 2.5.4
 
 Tutkijan tulee noudattaa tutkimussuunnitelmaa ja poiketa siitä vain, jos poikkeaminen on välttämätöntä tutkimukseen osallistujiin kohdistuvan välittömän vaaran poistamiseksi. Jos tutkimussuunnitelmasta poiketaan tutkimukseen osallistujiin kohdistuvan välittömän vaaran poistamiseksi, tutkijan tulee viipymättä ilmoittaa asiasta toimeksiantajalle.
 
-### 2.5.5 ^ich-e6-r3-a1-2-5-5
+<a id="ich-e6-r3-a1-2-5-5"></a>
+
+### 2.5.5
 
 Tutkijan tulee raportoida eettiselle toimikunnalle ja tarvittaessa myös valvontaviranomaisille tiedot välittömästä vaarasta, toteutetusta muutoksesta ja mahdollisesta tutkimussuunnitelmaan myöhemmin tehtävästä muutosehdotuksesta (ks. kappale 1.1).
 

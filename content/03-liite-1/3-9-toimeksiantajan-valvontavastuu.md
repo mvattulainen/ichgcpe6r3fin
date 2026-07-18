@@ -31,41 +31,57 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.9 Toimeksiantajan valvontavastuu
+<a id="ich-e6-r3-a1-3-9-1"></a>
 
-### 3.9.1 ^ich-e6-r3-a1-3-9-1
+### 3.9.1
 
 Toimeksiantajan tulee varmistaa, että tutkimusasetelma, tutkimuksen toteuttaminen, toimintatavat ja tuotettu tieto ovat riittävän laadukkaita varmistamaan luotettavat tutkimustulokset, tutkimukseen osallistujien turvallisuuden ja asianmukaisen päätöksenteon.
 
-### 3.9.2 ^ich-e6-r3-a1-3-9-2
+<a id="ich-e6-r3-a1-3-9-2"></a>
+
+### 3.9.2
 
 Toimeksiantajan tulee varmistaa, että tutkimus toteutetaan tutkimussuunnitelman, siihen liittyvien asiakirjojen sekä lainsäädännön vaatimusten ja eettisten standardien mukaisesti.
 
-### 3.9.3 ^ich-e6-r3-a1-3-9-3
+<a id="ich-e6-r3-a1-3-9-3"></a>
+
+### 3.9.3
 
 Toimeksiantajan tulee määrittää tarvittavat tutkimuskohtaiset kriteerit, joiden perusteella poikkeamat tutkimussuunnitelmasta luokitellaan merkittäviksi. Tällaisia poikkeamia tutkimussuunnitelmasta ovat poikkeamat, jotka voivat merkittävästi vaikuttaa tutkimustietojen täydellisyyteen, tarkkuuteen ja/tai luotettavuuteen tai jotka voivat merkittävästi vaikuttaa tutkimukseen osallistujien oikeuksiin, turvallisuuteen tai hyvinvointiin.
 
-### 3.9.4 ^ich-e6-r3-a1-3-9-4
+<a id="ich-e6-r3-a1-3-9-4"></a>
+
+### 3.9.4
 
 Tutkimukseen liittyvät päätökset tulee arvioida asianmukaisesti sen suhteen, miten ne vaikuttavat tutkimukseen osallistujan oikeuksiin, turvallisuuteen tai hyvinvointiin sekä tutkimustulosten luotettavuuteen. Tällaisiin päätöksiin liittyviä riskejä tulee hallinnoida asianmukaisesti koko tutkimuksen suunnittelun, toteutuksen ja raportoinnin ajan.
 
-### 3.9.5 ^ich-e6-r3-a1-3-9-5
+<a id="ich-e6-r3-a1-3-9-5"></a>
+
+### 3.9.5
 
 Valvontatoimenpiteiden laajuuden ja kattavuuden tulee olla tarkoitukseen sopiva ja huomioida tutkimuksen monimutkaisuus sekä siihen liittyvät riskit. Tutkijoiden ja palveluntarjoajien valinta ja valvonta ovat valvontaprosessin keskeisiä toimenpiteitä. Tutkijoiden ja palveluntarjoajien tutkimukseen liittyvien toimien [[sanasto/laadunvarmistus|laadunvarmistus]] ja [[sanasto/laadunvalvonta|laadunvalvonta]] kuuluvat toimeksiantajan valvontaan.
 
-### 3.9.6 ^ich-e6-r3-a1-3-9-6
+<a id="ich-e6-r3-a1-3-9-6"></a>
+
+### 3.9.6
 
 Toimeksiantajan tulee varmistaa ongelmakohtien asianmukainen ja oikea-aikainen eskalointi ja seuranta, jotta asianmukaiset toimet voidaan toteuttaa ajallaan/oikeaan aikaan.
 
-### 3.9.7 ^ich-e6-r3-a1-3-9-7
+<a id="ich-e6-r3-a1-3-9-7"></a>
+
+### 3.9.7
 
 [[sanasto/toimeksiantaja|Toimeksiantaja]] voi harkintansa mukaan perustaa riippumattoman tietojenseurantatoimikunnan (IDMC), joka määräajoin arvioi kliinisen lääketutkimuksen edistymistä, mukaan lukien turvallisuustietoja sekä keskeisiä tehoon liittyviä päätetapahtumia, ja suosittelee toimeksiantajalle tutkimuksen jatkamista, muuttamista tai keskeyttämistä.
 
-### 3.9.8 ^ich-e6-r3-a1-3-9-8
+<a id="ich-e6-r3-a1-3-9-8"></a>
+
+### 3.9.8
 
 Toimeksiantajat voivat tarvittaessa myös perustaa tiettyihin tutkimuksiin (päätetapahtuman) arviointitoimikunnan, joka tarkastaa tutkijoiden raportoimat päätetapahtumat ja arvioi, vastaavatko ne tutkimussuunnitelmassa määriteltyjä kriteereitä. Harhan minimoimiseksi tällaisten komiteoiden tulee yleensä arvioida annetut hoidot sokkoutettuina riippumatta siitä, toteutetaanko itse tutkimus sokkoutettuna.
 
-### 3.9.9 ^ich-e6-r3-a1-3-9-9
+<a id="ich-e6-r3-a1-3-9-9"></a>
+
+### 3.9.9
 
 Komiteoissa, jotka tarkastelevat tekijöitä, jotka voivat vaikuttaa tutkimukseen osallistujien turvallisuuteen tai tutkimustulosten luotettavuuteen, tulee olla jäseniä, joilla on asiaankuuluvaa asiantuntemusta ja joilla ei ole eturistiriitoja. Komiteoilla tulee olla kirjalliset toimintaohjeet, ja niiden tulee dokumentoida päätöksensä.
 

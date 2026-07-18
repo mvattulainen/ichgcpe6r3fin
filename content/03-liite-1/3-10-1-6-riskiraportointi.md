@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.10.1.6 Riskiraportointi
-
 Toimeksiantajan tulee esittää yhteenveto ja raportoida tärkeät laatuongelmat (mukaan lukien tapaukset, joissa hyväksyttävät vaihteluvälit ylittyvät kappaleessa 3.10.1.3 kuvatulla tavalla) sekä toteutetut korjaavat toimenpiteet ja kirjata ne kliinisen lääketutkimuksen raporttiin (ks. ICH E3).
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

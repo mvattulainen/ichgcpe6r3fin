@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.3.2 Yhteenveto
-
 Lyhyt yhteenveto (joka ei saisi olla yli kahden sivun pituinen), jossa mainitaan ne käytettävissä olevat tärkeät fysikaaliset, kemialliset, farmaseuttiset, farmakologiset, toksikologiset, farmakokineettiset, metaboliset ja kliiniset tiedot, jotka ovat olennaisia tutkimusvalmisteen kliinisen kehitysvaiheen kannalta.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

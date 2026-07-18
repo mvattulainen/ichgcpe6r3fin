@@ -9,8 +9,6 @@ publish: true
 permalink: "/03-liite-1/"
 ---
 
-# Liite 1
-
 - [[03-liite-1/1-4-toimintatavat|1.4 Toimintatavat]]
 - [[03-liite-1/1-5-tallenteet|1.5 Tallenteet]]
 - [[03-liite-1/2-1-patevyys-ja-koulutus|2.1 Pätevyys ja koulutus]]

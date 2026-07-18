@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/metatieto/"
 ---
 
-# Metatieto
-
 **Englanniksi:** metadata
 
 ## Suomenkielinen määritelmä

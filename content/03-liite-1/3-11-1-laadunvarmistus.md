@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.1 Laadunvarmistus
-
 Laadunvarmistusta tulee toteuttaa koko kliinisen lääketutkimuksen ajan. Siihen kuuluu riskiperusteinen strategia, jolla tunnistetaan mahdolliset tai todelliset vakavat vaatimusten laiminlyönnit tutkimussuunnitelman, hyvän kliinisen tutkimustavan ja/tai lainsäädännön vaatimusten noudattamisessa siten, että mahdollistetaan korjaavat ja ehkäisevät toimenpiteet.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

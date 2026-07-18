@@ -29,15 +29,19 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.10.1.2 Riskien arviointi
-
 Toimeksiantajan tulee arvioida tunnistetut riskit ja käytössä olevat valvontatoimet, joilla voidaan hallita ja vähentää riskejä ottaen huomioon seuraavat seikat:
 
-- (a) haitan/vaaran todennäköisyys; ^ich-e6-r3-a1-3-10-1-2-item-a
+<a id="ich-e6-r3-a1-3-10-1-2-item-a"></a>
 
-- (b) missä määrin tällainen haitta/vaara olisi havaittavissa; ^ich-e6-r3-a1-3-10-1-2-item-b
+- (a) haitan/vaaran todennäköisyys;
 
-- (c) tällaisen haitan/vaaran vaikutus tutkimukseen osallistujien turvallisuuteen ja tutkimustulosten luotettavuuteen. ^ich-e6-r3-a1-3-10-1-2-item-c
+<a id="ich-e6-r3-a1-3-10-1-2-item-b"></a>
+
+- (b) missä määrin tällainen haitta/vaara olisi havaittavissa;
+
+<a id="ich-e6-r3-a1-3-10-1-2-item-c"></a>
+
+- (c) tällaisen haitan/vaaran vaikutus tutkimukseen osallistujien turvallisuuteen ja tutkimustulosten luotettavuuteen.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

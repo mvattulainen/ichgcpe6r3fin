@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.2.8 Tuhoaminen
-
 Tutkimustiedot ja metatiedot voidaan hävittää pysyvästi, kun niitä ei enää tarvita lainsäädännön vaatimusten mukaisesti.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.2.2 Tietojen salassapito
-
 [[sanasto/toimeksiantaja|Toimeksiantaja]] voi halutessaan liittää tutkijan tietopakettiin luottamuksellisuuslausekkeen, jossa tutkijoita/vastaanottajia kehotetaan pitämään tutkijan tietopakettia luottamuksellisena asiakirjana, joka on tarkoitettu yksinomaan tutkijan/tutkimuslaitoksen, tutkimusta suorittavan henkilöstön, valvontaviranomaisten ja eettisen toimikunnan tiedoksi ja käyttöön.
 
 ## Liittyvät käsitteet

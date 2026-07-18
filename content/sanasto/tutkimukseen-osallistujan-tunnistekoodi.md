@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkimukseen-osallistujan-tunnistekoodi/"
 ---
 
-# Tutkimukseen osallistujan tunnistekoodi
-
 **Englanniksi:** trial participant identification code
 
 ## Suomenkielinen määritelmä

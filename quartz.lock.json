@@ -80,10 +80,10 @@
       "installedAt": "2026-07-17T14:52:51.945Z"
     },
     "folder-page": {
-      "source": "github:quartz-community/folder-page",
-      "resolved": "https://github.com/quartz-community/folder-page.git",
-      "commit": "93304d22e1d7f09f93a33658ec273f7cb8d17793",
-      "installedAt": "2026-07-17T14:52:57.997Z"
+      "source": "./plugins/folder-page",
+      "resolved": "C:\\Users\\marku\\Desktop\\gcpfin\\plugins\\folder-page",
+      "commit": "local",
+      "installedAt": "2026-07-18T05:38:38.574Z"
     },
     "fonts": {
       "source": "github:quartz-community/fonts",

@@ -31,8 +31,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.1 Pätevyys ja koulutus
-
 dokumentoida kaikilta tutkimukseen osallistujilta ennen kliiniseen lääketutkimukseen osallistumista. Jos kyseessä on mahdollinen [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]], joka ei pysty antamaan tietoon perustuvaa suostumusta, tämän eduksi toimivan laillisen edustajan tulee antaa suostumus ennen kliiniseen lääketutkimukseen osallistumista. Tällaisille mahdollisille tutkimukseen osallistujille tulee tiedottaa tutkimuksesta tavalla, joka helpottaa heidän ymmärrystään. Jos osallistuja on alaikäinen, [[sanasto/alaikaisen-suostumus|alaikäisen suostumus]] tulee pyytää tarvittaessa ja paikallisten lainsäädännön vaatimusten mukaisesti [ks. ICH E11(R1) Clinical Investigation of Medicinal Products in the Pediatric Population].
 
 ## Liittyvät käsitteet

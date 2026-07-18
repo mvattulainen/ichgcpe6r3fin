@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkimuslaitos/"
 ---
 
-# Tutkimuslaitos
-
 **Englanniksi:** institution
 
 ## Suomenkielinen määritelmä

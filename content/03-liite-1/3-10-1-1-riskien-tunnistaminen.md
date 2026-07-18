@@ -31,8 +31,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.10.1.1 Riskien tunnistaminen
-
 Toimeksiantajan tulee ennen tutkimuksen aloittamista ja koko tutkimuksen toteuttamisen ajan tunnistaa riskit, jotka voivat vaikuttaa merkittävästi kriittisiin laatutekijöihin. Riskit tulee ottaa huomioon kliinisen lääketutkimuksen kaikissa toiminnoissa ja tutkimuksessa käytettävissä järjestelmissä, mukaan lukien tietokoneistetut järjestelmät (esim. tutkimusasetelma, tutkimukseen osallistujien valinta, suostumusprosessi, [[sanasto/satunnaistaminen|satunnaistaminen]], [[sanasto/sokkoutus|sokkoutus]], tutkimusvalmisteen antaminen, tietojen käsittely ja palveluntarjoajan toiminta).
 
 ## Liittyvät käsitteet

@@ -30,17 +30,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.7 Tutkimukseen osallistujille annettava hoito ja interventiot
+<a id="ich-e6-r3-app-b-7-b-7-1"></a>
 
-### B.7.1 ^ich-e6-r3-app-b-7-b-7-1
+### B.7.1
 
 Tutkimukseen osallistujille annettavat hoidot, kuten kaikkien valmisteiden nimet, annokset, antoreitit, annosteluaikataulut, kriteerit annostelun muutoksille, antotapa ja hoitojaksot, mukaan luettuna seurantajaksot kaikilla tutkimusvalmisteilla/ kaikissa hoitoryhmissä/tutkimushaaroissa.
 
-### B.7.2 ^ich-e6-r3-app-b-7-b-7-2
+<a id="ich-e6-r3-app-b-7-b-7-2"></a>
+
+### B.7.2
 
 Sallittu ja kielletty lääkitys/hoito (mukaan luettuna samanaikainen lääkitys ja tutkimussuunnitelman mukaisesti otettava lääke/hätälääke) ennen tutkimusta ja/tai tutkimuksen aikana.
 
-### B.7.3 ^ich-e6-r3-app-b-7-b-7-3
+<a id="ich-e6-r3-app-b-7-b-7-3"></a>
+
+### B.7.3
 
 Strategiat, joilla seurataan tutkimukseen osallistujan sitoutumista hoitoon.
 

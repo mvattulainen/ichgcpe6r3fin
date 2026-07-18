@@ -31,23 +31,37 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.15.2 Tutkimusvalmisteen valmistus, pakkaaminen, merkintä ja koodaus
+<a id="ich-e6-r3-a1-3-15-2-item-a"></a>
 
-- (a) Toimeksiantajan tulee varmistaa, että tutkimusvalmisteen (mukaan lukien mahdollinen aktiivinen [[sanasto/vertailuvalmiste|vertailuvalmiste]] ja lumelääke) kuvaus vastaa valmisteen kehitysvaihetta, ja että [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] valmistetaan sovellettavien hyvien tuotantotapojen mukaisesti sekä koodataan ja merkitään tarvittaessa sokkoutusta suojaavalla tavalla. Lisäksi pakkausmerkinnän tulee noudattaa lainsäädännön vaatimuksia. ^ich-e6-r3-a1-3-15-2-item-a
+- (a) Toimeksiantajan tulee varmistaa, että tutkimusvalmisteen (mukaan lukien mahdollinen aktiivinen [[sanasto/vertailuvalmiste|vertailuvalmiste]] ja lumelääke) kuvaus vastaa valmisteen kehitysvaihetta, ja että [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] valmistetaan sovellettavien hyvien tuotantotapojen mukaisesti sekä koodataan ja merkitään tarvittaessa sokkoutusta suojaavalla tavalla. Lisäksi pakkausmerkinnän tulee noudattaa lainsäädännön vaatimuksia.
 
-- (b) Toimeksiantajan tulee määrittää tutkimusvalmisteelle sopivat säilytyslämpötilat ja säilytysolosuhteet (esim. valolta suojaaminen) ja säilyvyysaika, käyttökuntoon saattamiseen liittyvät nesteet ja menettelyt sekä mahdolliset valmisteen antolaitteet. Toimeksiantajan tulee tiedottaa näistä määrityksistä kaikille osapuolille (esim. monitoroijille, tutkijoille, proviisoreille/farmaseuteille ja varastopäälliköille). ^ich-e6-r3-a1-3-15-2-item-b
+<a id="ich-e6-r3-a1-3-15-2-item-b"></a>
 
-- (c) [[sanasto/tutkimusvalmiste|Tutkimusvalmiste]] tulee pakata siten, että se ei kontaminoidu tai että sen laatu ei heikkene kuljetuksen ja varastoinnin aikana. ^ich-e6-r3-a1-3-15-2-item-c
+- (b) Toimeksiantajan tulee määrittää tutkimusvalmisteelle sopivat säilytyslämpötilat ja säilytysolosuhteet (esim. valolta suojaaminen) ja säilyvyysaika, käyttökuntoon saattamiseen liittyvät nesteet ja menettelyt sekä mahdolliset valmisteen antolaitteet. Toimeksiantajan tulee tiedottaa näistä määrityksistä kaikille osapuolille (esim. monitoroijille, tutkijoille, proviisoreille/farmaseuteille ja varastopäälliköille).
 
-- (d) Sokkoutetuissa lääketutkimuksissa toimeksiantajan tulee ottaa käyttöön: ^ich-e6-r3-a1-3-15-2-item-d
+<a id="ich-e6-r3-a1-3-15-2-item-c"></a>
 
-- (i) prosessi, jonka avulla tarvittavat henkilöt, kuten toimeksiantajan henkilökunta, tutkimukseen osallistujat, tutkijat ja/tai tutkimusta suorittavat henkilöt sokkoutetaan tutkimusvalmisteen ja tutkimushaaran suhteen, sekä prosessi epäasianmukaisen sokkoutuksen purkamisen ehkäisemiseksi ja havaitsemiseksi; ^ich-e6-r3-a1-3-15-2-item-i
+- (c) [[sanasto/tutkimusvalmiste|Tutkimusvalmiste]] tulee pakata siten, että se ei kontaminoidu tai että sen laatu ei heikkene kuljetuksen ja varastoinnin aikana.
 
-- (ii) menettely ja mekanismi, jonka avulla [[sanasto/tutkija|tutkija]] voi nopeasti tunnistaa valmisteen lääkinnällisessä hätätilanteessa, jossa sokkoutuksen purkamista pidetään tarpeellisena, samalla kun muiden tutkimukseen osallistujien sokkoutetut tiedot suojataan; ^ich-e6-r3-a1-3-15-2-item-ii
+<a id="ich-e6-r3-a1-3-15-2-item-d"></a>
 
-- (iii) mekanismi, joka suojaa tutkimuksen sokkoutusta, jos tutkimukseen osallistujan hoidon [[sanasto/sokkoutus|sokkoutus]] puretaan valvontaviranomaisille ja/tai eettiselle toimikunnalle tehtävän turvallisuusraportoinnin vuoksi. ^ich-e6-r3-a1-3-15-2-item-iii
+- (d) Sokkoutetuissa lääketutkimuksissa toimeksiantajan tulee ottaa käyttöön:
 
-- (e) Jos tutkimusvalmisteeseen tehdään kliinisen kehityksen aikana merkittäviä formulaatiomuutoksia (mukaan lukien mahdollinen aktiivinen [[sanasto/vertailuvalmiste|vertailuvalmiste]] ja lumelääke), formuloidun valmisteen mahdollisten lisätutkimusten tulokset (esim. stabiilius, liukenemisnopeus, biologinen hyötyosuus) tarvitaan sen arvioimiseksi,muuttaisivatko kyseiset muutokset merkittävästi valmisteen farmakokineettistä profiilia. Tulosten tulee olla saatavilla ennen uuden formulaation käyttöä kliinisissä lääketutkimuksissa. ^ich-e6-r3-a1-3-15-2-item-e
+<a id="ich-e6-r3-a1-3-15-2-item-i"></a>
+
+- (i) prosessi, jonka avulla tarvittavat henkilöt, kuten toimeksiantajan henkilökunta, tutkimukseen osallistujat, tutkijat ja/tai tutkimusta suorittavat henkilöt sokkoutetaan tutkimusvalmisteen ja tutkimushaaran suhteen, sekä prosessi epäasianmukaisen sokkoutuksen purkamisen ehkäisemiseksi ja havaitsemiseksi;
+
+<a id="ich-e6-r3-a1-3-15-2-item-ii"></a>
+
+- (ii) menettely ja mekanismi, jonka avulla [[sanasto/tutkija|tutkija]] voi nopeasti tunnistaa valmisteen lääkinnällisessä hätätilanteessa, jossa sokkoutuksen purkamista pidetään tarpeellisena, samalla kun muiden tutkimukseen osallistujien sokkoutetut tiedot suojataan;
+
+<a id="ich-e6-r3-a1-3-15-2-item-iii"></a>
+
+- (iii) mekanismi, joka suojaa tutkimuksen sokkoutusta, jos tutkimukseen osallistujan hoidon [[sanasto/sokkoutus|sokkoutus]] puretaan valvontaviranomaisille ja/tai eettiselle toimikunnalle tehtävän turvallisuusraportoinnin vuoksi.
+
+<a id="ich-e6-r3-a1-3-15-2-item-e"></a>
+
+- (e) Jos tutkimusvalmisteeseen tehdään kliinisen kehityksen aikana merkittäviä formulaatiomuutoksia (mukaan lukien mahdollinen aktiivinen [[sanasto/vertailuvalmiste|vertailuvalmiste]] ja lumelääke), formuloidun valmisteen mahdollisten lisätutkimusten tulokset (esim. stabiilius, liukenemisnopeus, biologinen hyötyosuus) tarvitaan sen arvioimiseksi,muuttaisivatko kyseiset muutokset merkittävästi valmisteen farmakokineettistä profiilia. Tulosten tulee olla saatavilla ennen uuden formulaation käyttöä kliinisissä lääketutkimuksissa.
 
 ## Liittyvät käsitteet
 

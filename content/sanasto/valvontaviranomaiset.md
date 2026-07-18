@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/valvontaviranomaiset/"
 ---
 
-# Valvontaviranomaiset
-
 **Englanniksi:** regulatory authorities
 
 ## Suomenkielinen määritelmä

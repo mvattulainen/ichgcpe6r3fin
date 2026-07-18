@@ -40,69 +40,125 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# C.3 Tutkimuksen tallenteiden oleellisuus
+<a id="ich-e6-r3-app-c-3-c-3-1"></a>
 
-### C.3.1 ^ich-e6-r3-app-c-3-c-3-1
+### C.3.1
 
 Sen arvioimisessa, onko tallenne oleellinen ja tuleeko sitä säilyttää, tulee ottaa huomioon jäljempänä luetellut kriteerit. Vaikka tällainen arviointi onkin tärkeää, sen dokumentoimista ei vaadita. Tietokannan/tallennuspaikan sisältöluetteloa voidaan käyttää määrittämään [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] ennakoivasti. Oleellinen tallenne:
 
-- (a) on asiakirja, joka lähetetään valvontaviranomaiselle tai eettiselle toimikunnalle tai jonka valvontaviranomainen tai eettinen toimikunta myöntää, mukaan lukien asiaan liittyvä kirjeenvaihto ja asiakirjat, joissa dokumentoidaan viranomaispäätökset tai hyväksynnät/puoltavat lausunnot; ^ich-e6-r3-app-c-3-item-a
+<a id="ich-e6-r3-app-c-3-item-a"></a>
 
-- (b) on tutkimuskohtainen menettely tai suunnitelma; ^ich-e6-r3-app-c-3-item-b
+- (a) on asiakirja, joka lähetetään valvontaviranomaiselle tai eettiselle toimikunnalle tai jonka valvontaviranomainen tai eettinen toimikunta myöntää, mukaan lukien asiaan liittyvä kirjeenvaihto ja asiakirjat, joissa dokumentoidaan viranomaispäätökset tai hyväksynnät/puoltavat lausunnot;
 
-- (c) on merkityksellistä kirjeenvaihtoa tai kokousten dokumentointia liittyen tärkeisiin keskusteluihin ja/tai tutkimukseen liittyviin päätöksiin, jotka on tehty tutkimuksen toteuttamisesta ja käytettävistä prosesseista; ^ich-e6-r3-app-c-3-item-c
+<a id="ich-e6-r3-app-c-3-item-b"></a>
 
-- (d) dokumentoi merkityksellisten tutkimusmenettelyiden toteuttamisen (esim. tietokannan lukituksen tarkistuslista, joka on tuotettu tiedonhallinnan vakioitujen toimintaohjeiden mukaisesti); ^ich-e6-r3-app-c-3-item-d
+- (b) on tutkimuskohtainen menettely tai suunnitelma;
 
-- (e) dokumentoi osapuolten väliset järjestelyt ja vakuutus-/korvausjärjestelyt; ^ich-e6-r3-app-c-3-item-e
+<a id="ich-e6-r3-app-c-3-item-c"></a>
 
-- (f) dokumentoi vaatimusten ja mahdollisten valvontaviranomaisilta saatujen hyväksymisehtojen tai eettisen toimikunnan puoltavan lausunnon noudattamisen; ^ich-e6-r3-app-c-3-item-f
+- (c) on merkityksellistä kirjeenvaihtoa tai kokousten dokumentointia liittyen tärkeisiin keskusteluihin ja/tai tutkimukseen liittyviin päätöksiin, jotka on tehty tutkimuksen toteuttamisesta ja käytettävistä prosesseista;
 
-- (g) dokumentoi kaikkien tutkimuksen hyväksymiseen tai sen toteuttamiseen osallistuvien toimikuntien kokoonpanon sekä tarvittaessa niiden tehtävät, kirjeenvaihdon ja päätökset; ^ich-e6-r3-app-c-3-item-g
+<a id="ich-e6-r3-app-c-3-item-d"></a>
 
-- (h) osoittaa, että tutkimuskohtainen tietokoneistettu järjestelmä on validoitu ja että muut kuin tutkimuskohtaiset järjestelmät (esim. rutiinikäytössä olevat tietokoneistetut järjestelmät) on arvioitu soveltuviksi niiden aiottuun käyttötarkoitukseen tutkimuksessa; ^ich-e6-r3-app-c-3-item-h
+- (d) dokumentoi merkityksellisten tutkimusmenettelyiden toteuttamisen (esim. tietokannan lukituksen tarkistuslista, joka on tuotettu tiedonhallinnan vakioitujen toimintaohjeiden mukaisesti);
 
-- (i) on toimeksiantajan ja/tai tutkijan hyväksymä/allekirjoittama asiakirja, joka vahvistaa tarkistuksen tai hyväksynnän; ^ich-e6-r3-app-c-3-item-i
+<a id="ich-e6-r3-app-c-3-item-e"></a>
 
-- (j) on dokumentointia, josta käy ilmi merkittävissä tutkimukseen liittyvissä toimissa, esimerkiksi tietojenkeruutyökalujen täyttämisessä, toimivien henkilöiden allekirjoitukset/nimikirjaimet; ^ich-e6-r3-app-c-3-item-j
+- (e) dokumentoi osapuolten väliset järjestelyt ja vakuutus-/korvausjärjestelyt;
 
-- (k) dokumentoi, mitä tietoja mahdollisille tutkimukseen osallistujille annettiin ja että tutkimukseen osallistujien [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]] saatiin ja ylläpidettiin asianmukaisesti; ^ich-e6-r3-app-c-3-item-k
+<a id="ich-e6-r3-app-c-3-item-f"></a>
 
-- (l) dokumentoi, että tutkimuksen toteuttamiseen osallistuva toimeksiantajan henkilöstö sekä toimeksiantajan puolesta merkittäviä tutkimukseen liittyviä toimia suorittavat henkilöt ovat tutkintonsa, koulutuksensa ja kokemuksensa perusteella päteviä suorittamaan kyseiset toimet; ^ich-e6-r3-app-c-3-item-l
+- (f) dokumentoi vaatimusten ja mahdollisten valvontaviranomaisilta saatujen hyväksymisehtojen tai eettisen toimikunnan puoltavan lausunnon noudattamisen;
 
-- (m) dokumentoi, että tutkijalla ja niillä henkilöillä, joille on delegoitu merkittäviä tutkimukseen liittyviä toimia, on tutkinto-, koulutus- ja kokemustaustan antama pätevyys harjoittaa toimiaan erityisesti silloin, kun toimet eivät ole osa heidän normaalia rooliaan; ^ich-e6-r3-app-c-3-item-m
+<a id="ich-e6-r3-app-c-3-item-g"></a>
 
-- (n) sisältää sekä tietoja että merkityksellistä metatietoa, joita tarvitaan, jotta tutkimuksen asianmukainen toteuttaminen voidaan arvioida; ^ich-e6-r3-app-c-3-item-n
+- (g) dokumentoi kaikkien tutkimuksen hyväksymiseen tai sen toteuttamiseen osallistuvien toimikuntien kokoonpanon sekä tarvittaessa niiden tehtävät, kirjeenvaihdon ja päätökset;
 
-- (o) on asiakirja, joka liittyy toimeksiantajan tai tutkijan suorittamaan tutkimukseen osallistujien turvallisuuden valvontaan tutkimuksen aikana. Tämä sisältää myös turvallisuusraportointivaatimusten noudattamisen toimeksiantajien ja tutkijoiden, valvontaviranomaisten ja eettisen toimikunnan välillä sekä turvallisuustiedoista tiedottamisen tutkimukseen osallistujille tarvittaessa; ^ich-e6-r3-app-c-3-item-o
+<a id="ich-e6-r3-app-c-3-item-h"></a>
 
-- (p) dokumentoi, että palveluntarjoajilla on asianmukainen pätevyys heille delegoitujen tai siirrettyjen toimien suorittamiseen; ^ich-e6-r3-app-c-3-item-p
+- (h) osoittaa, että tutkimuskohtainen tietokoneistettu järjestelmä on validoitu ja että muut kuin tutkimuskohtaiset järjestelmät (esim. rutiinikäytössä olevat tietokoneistetut järjestelmät) on arvioitu soveltuviksi niiden aiottuun käyttötarkoitukseen tutkimuksessa;
 
-- (q) dokumentoi, että laboratoriotoiminta ja muut tutkimuksessa käytettävät testit ovat tarkoitukseen sopivia; ^ich-e6-r3-app-c-3-item-q
+<a id="ich-e6-r3-app-c-3-item-i"></a>
 
-- (r) dokumentoi, että [[sanasto/toimeksiantaja|toimeksiantaja]] valvoo tutkimuspaikan valintaa sekä monitoroi ja auditoi tutkimusta tarvittaessa ja antaa tietoa esiin tulleista ongelmista / vaatimusten laiminlyönneistä ja havaituista poikkeamista sekä korjaavien ja ehkäisevien toimien toteuttamisesta; ^ich-e6-r3-app-c-3-item-r
+- (i) on toimeksiantajan ja/tai tutkijan hyväksymä/allekirjoittama asiakirja, joka vahvistaa tarkistuksen tai hyväksynnän;
 
-- (s) dokumentoi, että tietojen hallinnointi ja tilastollinen analyysi sekä mahdollisen väliraportin ja loppuraportin tekeminen tapahtuu tutkimussuunnitelman ja/tai toimintaohjeiden mukaisesti; ^ich-e6-r3-app-c-3-item-s
+<a id="ich-e6-r3-app-c-3-item-j"></a>
 
-- (t) dokumentoi biologisten näytteiden keräämisen, hallussapitoketjun, käsittelyn, analysoinnin ja säilyttämisen tai hävittämisen; ^ich-e6-r3-app-c-3-item-t
+- (j) on dokumentointia, josta käy ilmi merkittävissä tutkimukseen liittyvissä toimissa, esimerkiksi tietojenkeruutyökalujen täyttämisessä, toimivien henkilöiden allekirjoitukset/nimikirjaimet;
 
-- (u) antaa tärkeitä tietoja tutkimusvalmisteesta ja sen pakkausmerkinnöistä; ^ich-e6-r3-app-c-3-item-u
+<a id="ich-e6-r3-app-c-3-item-k"></a>
 
-- (v) antaa tietoja tutkimusvalmisteen kuljetuksesta, varastoinnista, pakkaamisesta, annostelusta, satunnaistamisesta ja sokkoutuksesta; ^ich-e6-r3-app-c-3-item-v
+- (k) dokumentoi, mitä tietoja mahdollisille tutkimukseen osallistujille annettiin ja että tutkimukseen osallistujien [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]] saatiin ja ylläpidettiin asianmukaisesti;
 
-- (w) antaa tarvittaessa tietoa tutkimusvalmisteen jäljitettävyydestä ja kulutusseurannasta aina tutkimusvalmisteen vapauttamisesta valmistajalta sen jakeluun, antamiseen tutkimukseen osallistujille, palauttamiseen ja tuhoamiseen tai vaihtoehtoiseen järjestelyyn saakka; ^ich-e6-r3-app-c-3-item-w
+<a id="ich-e6-r3-app-c-3-item-l"></a>
 
-- (x) antaa tietoa tutkimuksessa käytetyn tutkimusvalmisteen ominaisuuksista ja laadusta; ^ich-e6-r3-app-c-3-item-x
+- (l) dokumentoi, että tutkimuksen toteuttamiseen osallistuva toimeksiantajan henkilöstö sekä toimeksiantajan puolesta merkittäviä tutkimukseen liittyviä toimia suorittavat henkilöt ovat tutkintonsa, koulutuksensa ja kokemuksensa perusteella päteviä suorittamaan kyseiset toimet;
 
-- (y) dokumentoi sokkoutuksen purkamiseen liittyvät prosessit ja toimet; ^ich-e6-r3-app-c-3-item-y
+<a id="ich-e6-r3-app-c-3-item-m"></a>
 
-- (z) dokumentoi osallistujien rekrytoinnin tutkimukseen, esiseulonnan ja suostumusprosessin. Dokumentoi heidän henkilöllisyytensä ja kronologisen sisäänottojärjestyksensä mahdollisuuksien mukaan; (aa) dokumentoi tutkimukseen osallistujien olemassaolon ja todistaa kerättyjen tutkimustietojen eheyden. Sisältää tutkimukseen ja tutkimukseen osallistujien lääkehoitoihin/lääketieteelliseen historiaan liittyvät [[sanasto/lahdetallenteet|lähdetallenteet]]; (bb) määrittelee tietoturvaloukkauksen sattuessa käytettävät prosessit/käytännöt, jotta tutkimukseen osallistujien oikeuksia, turvallisuutta ja hyvinvointia sekä tietojen eheyttä voidaan suojella. ^ich-e6-r3-app-c-3-item-z
+- (m) dokumentoi, että tutkijalla ja niillä henkilöillä, joille on delegoitu merkittäviä tutkimukseen liittyviä toimia, on tutkinto-, koulutus- ja kokemustaustan antama pätevyys harjoittaa toimiaan erityisesti silloin, kun toimet eivät ole osa heidän normaalia rooliaan;
 
-### C.3.2 ^ich-e6-r3-app-c-3-c-3-2
+<a id="ich-e6-r3-app-c-3-item-n"></a>
+
+- (n) sisältää sekä tietoja että merkityksellistä metatietoa, joita tarvitaan, jotta tutkimuksen asianmukainen toteuttaminen voidaan arvioida;
+
+<a id="ich-e6-r3-app-c-3-item-o"></a>
+
+- (o) on asiakirja, joka liittyy toimeksiantajan tai tutkijan suorittamaan tutkimukseen osallistujien turvallisuuden valvontaan tutkimuksen aikana. Tämä sisältää myös turvallisuusraportointivaatimusten noudattamisen toimeksiantajien ja tutkijoiden, valvontaviranomaisten ja eettisen toimikunnan välillä sekä turvallisuustiedoista tiedottamisen tutkimukseen osallistujille tarvittaessa;
+
+<a id="ich-e6-r3-app-c-3-item-p"></a>
+
+- (p) dokumentoi, että palveluntarjoajilla on asianmukainen pätevyys heille delegoitujen tai siirrettyjen toimien suorittamiseen;
+
+<a id="ich-e6-r3-app-c-3-item-q"></a>
+
+- (q) dokumentoi, että laboratoriotoiminta ja muut tutkimuksessa käytettävät testit ovat tarkoitukseen sopivia;
+
+<a id="ich-e6-r3-app-c-3-item-r"></a>
+
+- (r) dokumentoi, että [[sanasto/toimeksiantaja|toimeksiantaja]] valvoo tutkimuspaikan valintaa sekä monitoroi ja auditoi tutkimusta tarvittaessa ja antaa tietoa esiin tulleista ongelmista / vaatimusten laiminlyönneistä ja havaituista poikkeamista sekä korjaavien ja ehkäisevien toimien toteuttamisesta;
+
+<a id="ich-e6-r3-app-c-3-item-s"></a>
+
+- (s) dokumentoi, että tietojen hallinnointi ja tilastollinen analyysi sekä mahdollisen väliraportin ja loppuraportin tekeminen tapahtuu tutkimussuunnitelman ja/tai toimintaohjeiden mukaisesti;
+
+<a id="ich-e6-r3-app-c-3-item-t"></a>
+
+- (t) dokumentoi biologisten näytteiden keräämisen, hallussapitoketjun, käsittelyn, analysoinnin ja säilyttämisen tai hävittämisen;
+
+<a id="ich-e6-r3-app-c-3-item-u"></a>
+
+- (u) antaa tärkeitä tietoja tutkimusvalmisteesta ja sen pakkausmerkinnöistä;
+
+<a id="ich-e6-r3-app-c-3-item-v"></a>
+
+- (v) antaa tietoja tutkimusvalmisteen kuljetuksesta, varastoinnista, pakkaamisesta, annostelusta, satunnaistamisesta ja sokkoutuksesta;
+
+<a id="ich-e6-r3-app-c-3-item-w"></a>
+
+- (w) antaa tarvittaessa tietoa tutkimusvalmisteen jäljitettävyydestä ja kulutusseurannasta aina tutkimusvalmisteen vapauttamisesta valmistajalta sen jakeluun, antamiseen tutkimukseen osallistujille, palauttamiseen ja tuhoamiseen tai vaihtoehtoiseen järjestelyyn saakka;
+
+<a id="ich-e6-r3-app-c-3-item-x"></a>
+
+- (x) antaa tietoa tutkimuksessa käytetyn tutkimusvalmisteen ominaisuuksista ja laadusta;
+
+<a id="ich-e6-r3-app-c-3-item-y"></a>
+
+- (y) dokumentoi sokkoutuksen purkamiseen liittyvät prosessit ja toimet;
+
+<a id="ich-e6-r3-app-c-3-item-z"></a>
+
+- (z) dokumentoi osallistujien rekrytoinnin tutkimukseen, esiseulonnan ja suostumusprosessin. Dokumentoi heidän henkilöllisyytensä ja kronologisen sisäänottojärjestyksensä mahdollisuuksien mukaan; (aa) dokumentoi tutkimukseen osallistujien olemassaolon ja todistaa kerättyjen tutkimustietojen eheyden. Sisältää tutkimukseen ja tutkimukseen osallistujien lääkehoitoihin/lääketieteelliseen historiaan liittyvät [[sanasto/lahdetallenteet|lähdetallenteet]]; (bb) määrittelee tietoturvaloukkauksen sattuessa käytettävät prosessit/käytännöt, jotta tutkimukseen osallistujien oikeuksia, turvallisuutta ja hyvinvointia sekä tietojen eheyttä voidaan suojella.
+
+<a id="ich-e6-r3-app-c-3-c-3-2"></a>
+
+### C.3.2
 
 Kappaleessa C.3.1 esitettyjen kriteerien mukaisesti oleellisiksi tallenteiksi katsotut tutkimuksen tallenteet on lueteltu oleellisten tallenteiden taulukossa, ja ne tulee säilyttää, kun ne on tuotettu. Tämä taulukko ei ole kattava luettelo, ja [[sanasto/toimeksiantaja|toimeksiantaja]] tai [[sanasto/tutkija|tutkija]] voi myös pitää muita tutkimuksen tallenteita oleellisina.
 
-### C.3.3 ^ich-e6-r3-app-c-3-c-3-3
+<a id="ich-e6-r3-app-c-3-c-3-3"></a>
+
+### C.3.3
 
 Joidenkin taulukossa lueteltujen oleellisten tallenteiden olemassaolo ja luonne riippuvat tutkimusasetelmasta, tutkimuksen toteutuksesta sekä tutkimuksen riskiperusteisesta ja oikeasuhtaisesta hallinnasta, eikä niitä välttämättä tuoteta. Oleellisten tallenteiden taulukko Jos nämä tutkimuksen tallenteet tuotetaan, niitä pidetään oleellisina, ja ne tulee säilyttää (ks. kappaleet C3.1 ja C3.2). Huomautus: Tähdellä (*) yksilöidään ne [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]], joiden yleensä tulee olla käytettävissä ennen tutkimuksen aloittamista (ks. kappale C2.5). [[sanasto/tutkijan-tietopaketti|Tutkijan tietopaketti]] tai olemassa olevat, hyväksytyt tuotetiedot (esim. valmisteyhteenveto, pakkausseloste tai pakkausmerkinnät)* Allekirjoitettu [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]]* ja siihen myöhemmin tutkimuksen aikana tehdyt muutokset Eettiseltä toimikunnalta saatu päivätty, dokumentoitu hyväksyntä / puoltava lausunto eettiselle toimikunnalle toimitetuista tiedoista* Eettisen toimikunnan kokoonpano* Valvontaviranomaisilta saatu valtuutus, hyväksyntä ja/tai ilmoitus tutkimussuunnitelmasta* ja siihen myöhemmin tutkimuksen aikana tehdyistä muutoksista (jos tehty) Täytetyt, allekirjoitetut ja päivätyt tietoon perustuvan suostumuksen asiakirjat Täytetty tutkimukseen osallistujien tunnistekoodiluettelo ja lista tutkimukseen otetuista osallistujista Ilmoituksen tehneen tutkijan toimeksiantajalle tekemä ilmoitus vakavista haittatapahtumista ja niihin liittyvistä raporteista, kun niitä edellytetään Toimeksiantajan ja/tai tutkijan ilmoitus valvontaviranomaisille ja eettiselle toimikunnalle epäillyistä odottamattomista vakavista haittavaikutuksista (SUSAR) ja muista turvallisuustiedoista (kun niitä edellytetään) Toimeksiantajan ilmoitus turvallisuustiedoista tutkijoille (kun niitä edellytetään) Väliraportit tai vuosiraportit eettiselle toimikunnalle ja valvontaviranomaisille (kun niitä edellytetään) [[sanasto/lahdetallenteet|Lähdetallenteet]] Tiedot ja merkitykselliset metatiedot (mukaan lukien tietojen korjausten dokumentointi) tiedonkeruutyökaluissa Loppuraportti eettiselle toimikunnalle ja valvontaviranomaisille (kun sitä edellytetään) Väliraportti (jos tehty) ja lopulliset kliinisen lääketutkimuksen loppuraportit Mallit tiedonkeruutyökaluista (esim. tietojenkeruulomakkeet, päiväkirjat, kliinisten lopputulosten arvioinnit, mukaan lukien potilaiden raportoimat tulokset), jotka toimitetaan tutkijalle ja/tai eettiselle toimikunnalle* Malli tutkimukseen osallistujille annetuista tiedoista Tietoon perustuvan suostumuksen materiaali (mukaan lukien kaikki soveltuvat käännökset) Muut dokumentoidut tiedot (esim. tutkimusvalmisteen tai laitteen käyttöohjeet) Tutkimukseen osallistujien rekrytointi-ilmoitus* Osapuolten väliset järjestelyt tutkimuksen taloudellisista näkökohdista* Vakuutustodistus* Oleellisten tallenteiden taulukko Jos nämä tutkimuksen tallenteet tuotetaan, niitä pidetään oleellisina, ja ne tulee säilyttää (ks. kappaleet C3.1 ja C3.2). Huomautus: Tähdellä (*) yksilöidään ne [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]], joiden yleensä tulee olla käytettävissä ennen tutkimuksen aloittamista (ks. kappale C2.5). Osapuolten välinen allekirjoitettu [[sanasto/sopimus|sopimus]],*esimerkiksi: [[sanasto/tutkija|Tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] ja [[sanasto/toimeksiantaja|toimeksiantaja]] [[sanasto/tutkija|Tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] ja palveluntarjoajat [[sanasto/toimeksiantaja|Toimeksiantaja]] ja palveluntarjoajat Toimeksiantajan ja riippumattoman tietojenseurantatoimikunnan (IDMC) ja/tai arviointitoimikunnan jäsenet Tärkeitä tutkimukseen liittyviä toimia hoitavien palveluntarjoajien valinnan, arvioinnin* ja valvonnan dokumentointi Asiaankuuluvat asiakirjat, joilla osoitetaan tutkimuksessa mukana olevien tutkijoiden ja avustavien tutkijoiden pätevyys (esim. ansioluettelo)* Tutkimuskohtaiset koulutustallenteet* Dokumentaatio tutkijan delegoimista tutkimukseen liittyvistä toimista* Allekirjoituslomake, jossa on allekirjoitukset ja nimikirjaimet, paitsi jos käytössä on vain sähköisiä allekirjoituksia (tutkijan ja tutkijan valtuuttamien henkilöiden allekirjoitukset ja nimikirjaimet)* (voidaan yhdistää edellä mainitun delegoinnin dokumentaation kanssa) Normaaliarvo(t)/alue(et) lääketieteellisille/teknisille toimenpiteille ja laboratoriotoimenpiteille ja/tai testeille, jotka sisältyvät tutkimussuunnitelmaan* Sertifiointi tai akkreditointi tai muut asiakirjat, mukaan lukien validointiasiakirjat (kun tarpeen), jotka vahvistavat tutkimuksen toteuttamisen aikana käytettyjen lääketieteellisten/teknisten toimenpiteiden/testien ja laboratoriotoimenpiteiden/-testien soveltuvuuden* Ruumiinnesteiden/kudosnäytteiden keräämisen, käsittelyn ja kuljetuksen dokumentointi Ruumiinnesteiden/kudosnäytteiden säilytysolosuhteiden dokumentointi Tiedot ruumiinnesteiden/kudosnäytteiden säilyttämisestä tutkimuksen lopussa Näyte tutkimusvalmistepakkauksiin kiinnitetyistä etiketeistä Tutkimusvalmisteiden ja tutkimukseen liittyvien materiaalien käsittelyohjeet (jos ne eivät sisälly tutkimussuunnitelmaan tai tutkijan tietopakettiin), esim. apteekkikäsikirja* Tutkimusvalmisteiden ja tutkimukseen liittyvien materiaalien lähetysasiakirjat* Lähetettyjen tutkimusvalmisteiden analyysitodistukset* Tutkimusvalmisteiden kulutusseuranta tutkimuspaikassa Tutkimusvalmisteiden varastointiolosuhteiden dokumentointi, myös lähetyksen aikana Tutkimusvalmisteiden uudelleenmerkintää koskevat asiakirjat tutkimuspaikassa Tutkimusvalmisteiden tuhoamisen tai vaihtoehtoisen järjestelyn dokumentointi Oleellisten tallenteiden taulukko Jos nämä tutkimuksen tallenteet tuotetaan, niitä pidetään oleellisina, ja ne tulee säilyttää (ks. kappaleet C3.1 ja C3.2). Huomautus: Tähdellä (*) yksilöidään ne [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]], joiden yleensä tulee olla käytettävissä ennen tutkimuksen aloittamista (ks. kappaleC2.5). Sokkoutettujen tutkimusten hätätilanteita koskevat menettelyt koodin purkamiseksi* Pääsatunnaistamisluettelo* Ohjeet tärkeiden tutkimuskohtaisten järjestelmien käyttöön (esim. vuorovaikutteisen vastusjärjestelmän (Interactive Response technologies, IRT, käyttöopas, sähköisen tiedonkeruulomakkeen käyttöopas)* Tallenteet, jotka osoittavat tärkeisiin tutkimukseen liittyviin toimiin käytettyjen laitteiden tarkoitukseen sopivuuden (esim. huolto ja kalibrointi)* Hoidon osoittamista ja koodinpurkua koskeva dokumentaatio Lista seulotuista osallistujista Tutkimuspaikan monitorointiraportit (mukaan lukien tutkimuspaikan valinta*, aloitus*, rutiini ja sulkeminen) Keskitetyn monitoroinnin raportit Kirjatut tiedot ja raportit vaatimusten laiminlyönneistä, mukaan lukien poikkeamat tutkimussuunnitelmasta sekä korjaavat ja ehkäisevät toimenpiteet Asiaankuuluvan viestinnän ja kokousten dokumentointi [[sanasto/auditointitodistus|Auditointitodistus]] Analysoitavien tietojen viimeistelyyn liittyvä dokumentointi (esim. selvitetyt tarkistuspyynnöt, vakavien haittatapahtumien (SAE) tietojen ristiintarkistus, laadunvalvontaraportit, koodauksen loppuunsaattaminen, tuotetut tietoaineistot) Tutkimuskohtaisen tietokoneistetun järjestelmän validoinnin dokumentointi (esim. spesifikaatiot, testaus, validointiraportti, muutoksenhallinta)* Tutkimuksessa käytettävien muiden kuin tutkimuskohtaisten tietokoneistettujen järjestelmien tarkoitukseen sopivuuden arvioinnin dokumentointi (esim. rutiinikäytössä olevat tietokoneistetut järjestelmät)* Tilastollisiin näkökohtiin ja analyyseihin liittyvät asiakirjat (esim. otoskokolaskelmat*, analyysijoukkojen valintapäätökset, analyysiaineistot, analyysiohjelmat, laadunvalvontaa koskevat kirjaukset ja tuotokset) Tutkimuskohtaiset suunnitelmat (esim. riskienhallinta*, [[sanasto/monitorointi|monitorointi]]*, turvallisuus*, tiedonhallinta*, tietojen validointi* ja tilastollinen analyysi) ja menettelyt Menettelyt*, kokouspöytäkirjat ja riippumattomalle tietojenseurantatoimikunnalle (IDMC) / arviointitoimikunnalle lähetetyt tiedot
 

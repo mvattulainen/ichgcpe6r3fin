@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.11 Satunnaistamismenettelyt ja sokkoutuksen purkaminen
-
 Tutkijan tulee noudattaa tutkimuksen satunnaistamismenettelyitä, jos näitä on, ja jos kyseessä on tutkijalta sokkoutettu tutkimus, tutkijan tulee huolehtia siitä, että hoidon satunnaistamiskoodi avataan ainoastaan tutkimussuunnitelman mukaisesti. Tutkijan tulee olla valmis ja kykenevä purkamaan [[sanasto/sokkoutus|sokkoutus]] tutkimuksen alusta alkaen ilman aiheetonta viivästystä ja esteitä, jos kyseessä on hätätilanne ja tutkimukseen osallistujien turvallisuutta on suojeltava. Tutkijan tulee viipymättä dokumentoida ja selittää toimeksiantajalle tutkimusvalmisteen sokkoutuksen ennenaikainen purkaminen (esim. tahaton sokkoutuksen purkaminen, sokkoutuksen purkaminen hätätilanteessa tutkimukseen osallistujien suojelemiseksi, sokkoutuksen purkaminen vakavan haittatapahtuman vuoksi).
 
 ## Liittyvät käsitteet

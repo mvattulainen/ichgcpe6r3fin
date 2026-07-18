@@ -33,53 +33,75 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# C.2 Oleellisten tallenteiden hallinta
+<a id="ich-e6-r3-app-c-2-c-2-1"></a>
 
-### C.2.1 ^ich-e6-r3-app-c-2-c-2-1
+### C.2.1
 
 Tallenteiden tulee olla yksilöitävissä ja versiohallittuja, kun se on tarkoituksenmukaista. Niissä tulee soveltuvin osin olla tiedot tekijöistä, tarkistajista ja hyväksyjistä sekä tarvittaessa päiväys ja [[sanasto/allekirjoitus|allekirjoitus]] (sähköinen tai fyysinen).
 
-### C.2.2 ^ich-e6-r3-app-c-2-c-2-2
+<a id="ich-e6-r3-app-c-2-c-2-2"></a>
+
+### C.2.2
 
 Kun [[sanasto/toimeksiantaja|toimeksiantaja]] tai [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] on siirtänyt tai delegoinut toimia palveluntarjoajille, tulee tehdä järjestelyt oleellisiin tallenteisiin pääsyä ja niiden hallintaa varten koko tutkimuksen ajaksi sekä niiden säilyttämiseksi tutkimuksen päättymisen jälkeen.
 
-### C.2.3 ^ich-e6-r3-app-c-2-c-2-3
+<a id="ich-e6-r3-app-c-2-c-2-3"></a>
+
+### C.2.3
 
 Näitä oleellisia tallenteita tulee ylläpitää tai niihin tulee viitata toimeksiantajan ja tutkijan/tutkimuslaitoksen pitämissä tietokannoissa/tallennuspaikoissa kummankin omien tallenteiden osalta. Näitä tallennuspaikkoja voidaan kutsua tutkimuksen kantatiedostoksi (Trial Master File, TMF). Tutkijan/tutkimuslaitoksen pitämää tietokantaa/tallennuspaikkaa voidaan kutsua myös tutkijan kantatiedostoksi (Investigator site file, ISF).
 
-### C.2.4 ^ich-e6-r3-app-c-2-c-2-4
+<a id="ich-e6-r3-app-c-2-c-2-4"></a>
+
+### C.2.4
 
 Toimeksiantajan ja tutkijan/tutkimuslaitoksen tulee pitää luetteloa siitä, missä [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] sijaitsevat, mukaan lukien [[sanasto/lahdetallenteet|lähdetallenteet]]. Tutkimuksen aikana ja arkistointiin käytettävien säilytysjärjestelmien tulee käytettävästä tallennusvälineestä riippumatta mahdollistaa tutkimusasiakirjojen asianmukainen tunnistaminen, versiohistorian ylläpito, haku ja avaaminen.
 
-### C.2.5 ^ich-e6-r3-app-c-2-c-2-5
+<a id="ich-e6-r3-app-c-2-c-2-5"></a>
+
+### C.2.5
 
 Toimeksiantajan ja tutkijan/tutkimuslaitoksen tulee varmistaa, että [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] kerätään ja arkistoidaan oikea-aikaisesti, mikä voi auttaa merkittävästi tutkimuksen onnistuneessa hallinnassa. Joidenkin oleellisten tallenteiden tulee yleensä olla käytössä ennen tutkimuksen aloittamista, ja niitä voidaan päivittää myöhemmin tutkimuksen aikana.
 
-### C.2.6 ^ich-e6-r3-app-c-2-c-2-6
+<a id="ich-e6-r3-app-c-2-c-2-6"></a>
+
+### C.2.6
 
 Toimeksiantajan ja tutkijan/tutkimuslaitoksen tulee säilyttää [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] siten, että ne pysyvät täydellisinä, luettavissa ja helposti saatavilla sekä suoraan saatavilla valvontaviranomaisten, monitoroijien ja auditoijien pyynnöstä. Oleellisiin tallenteisiin tehtyjen muutosten tulee olla jäljitettävissä.
 
-### C.2.7 ^ich-e6-r3-app-c-2-c-2-7
+<a id="ich-e6-r3-app-c-2-c-2-7"></a>
+
+### C.2.7
 
 Toimeksiantajan ja tutkijan/tutkimuslaitoksen on varmistettava, että heidän vastuunsa täyttämiseen tarvittavat [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] säilytetään. Alkuperäiset tallenteet tulee yleensä säilyttää sen vastuullisen osapuolen toimesta, joka on ne tuottanut.
 
-### C.2.8 ^ich-e6-r3-app-c-2-c-2-8
+<a id="ich-e6-r3-app-c-2-c-2-8"></a>
+
+### C.2.8
 
 Jotta [[sanasto/toimeksiantaja|toimeksiantaja]] ja [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] voivat täyttää velvollisuutensa tutkimuksen toteuttamisessa, he voivat tarvita pääsyn toistensa oleellisiin tallenteisiin tai niiden kopioihin ennen tutkimusta ja sen aikana. Tutkimuksen päätyttyä kummankin osapuolen tulee säilyttää omat oleelliset tallenteensa (ks. kappale 2.12.11 ja 3.16.3(a)). Tallenteen sijainti voi vaihdella tutkimuksen aikana tallenteen luonteen mukaan. [[sanasto/tutkija|Tutkija]] voi esimerkiksi päästä toimeksiantajan oleellisiin tallenteisiin, kuten epäiltyjä odottamattomia vakavia haittavaikutuksia (SUSAR) koskeviin raportteihin, toimeksiantajan tarjoaman portaalin kautta. Tutkimuksen päättyessä tutkijan/tutkimuslaitoksen tulee säilyttää nämä [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]].
 
-### C.2.9 ^ich-e6-r3-app-c-2-c-2-9
+<a id="ich-e6-r3-app-c-2-c-2-9"></a>
+
+### C.2.9
 
 Jos alkuperäisen oleellisen tallenteen korvaamiseen käytetään pysyvästi kopiota, tulee tämän täyttää varmennettuja kopioita koskevat vaatimukset.
 
-### C.2.10 ^ich-e6-r3-app-c-2-c-2-10
+<a id="ich-e6-r3-app-c-2-c-2-10"></a>
+
+### C.2.10
 
 Joitakin tallenteita ylläpitää ja säilyttää tyypillisesti vain [[sanasto/toimeksiantaja|toimeksiantaja]] (esim. ne tallenteet, jotka liittyvät ainoastaan toimeksiantajan toimintoihin, kuten tietojen analysointiin) tai vain [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] (esim. ne tallenteet, jotka sisältävät luottamuksellisia tietoja tutkimukseen osallistujista). Joitakin tallenteita voi säilyttää [[sanasto/toimeksiantaja|toimeksiantaja]] ja/tai [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]].
 
-### C.2.11 ^ich-e6-r3-app-c-2-c-2-11
+<a id="ich-e6-r3-app-c-2-c-2-11"></a>
+
+### C.2.11
 
 Tallenteiden jakamista on harkittava huolellisesti silloin, kun niihin liittyy sokkoutusta koskevia näkökohtia tai kun tallenteisiin sovelletaan tietosuojalainsäädäntöä. Oleellisten tallenteiden jakaminen palveluntarjoajien kanssa, ks. kappale C.2.2.
 
-### C.2.12 ^ich-e6-r3-app-c-2-c-2-12
+<a id="ich-e6-r3-app-c-2-c-2-12"></a>
+
+### C.2.12
 
 Tietyt [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] eivät välttämättä ole tutkimuskohtaisia, vaan ne voivat liittyä tutkimusvalmisteeseen, tiloihin tai prosesseihin ja järjestelmiin, mukaan lukien tietokoneistetut järjestelmät, joita käytetään useiden tutkimusten toteuttamisessa. Tällaisia tallenteita voidaan säilyttää tutkimuskohtaisten tietokantojen/tallennuspaikkojen ulkopuolella (esim. [[sanasto/tutkijan-tietopaketti|tutkijan tietopaketti]], palveluiden puitesopimukset, toimintaohjeet, validointitiedot).
 

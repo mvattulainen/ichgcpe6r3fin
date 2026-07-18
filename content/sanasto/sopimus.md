@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/sopimus/"
 ---
 
-# Sopimus
-
 **Englanniksi:** agreement
 
 ## Suomenkielinen määritelmä

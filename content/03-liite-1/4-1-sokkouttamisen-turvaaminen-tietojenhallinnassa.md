@@ -33,21 +33,27 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.1 Sokkouttamisen turvaaminen tietojenhallinnassa
+<a id="ich-e6-r3-a1-4-1-1"></a>
 
-### 4.1.1 ^ich-e6-r3-a1-4-1-1
+### 4.1.1
 
 Sokkoutuksen säilyttäminen on tärkeää kaikissa tutkimuksen asianmukaisissa vaiheissa. Se on erityisen tärkeää järjestelmien suunnittelussa, käyttäjätilien hallinnassa, vastuiden jakamisessa tiedon käsittelyn osalta ja tutkimuspaikkojen tietojen saatavuuden varmistamisessa, tiedonsiirroissa, tietokantojen tarkastelussa ennen suunniteltua sokkoutuksen purkamista sekä tilastollisessa analyysissä.
 
-### 4.1.2 ^ich-e6-r3-a1-4-1-2
+<a id="ich-e6-r3-a1-4-1-2"></a>
+
+### 4.1.2
 
 Kaikkien asianomaisten osapuolien roolit, vastuut ja menettelyt, jotka liittyvät sokkouttamattomien tietojen käyttöoikeuksiin, tulee määritellä ja dokumentoida tutkimussuunnitelman mukaisesti. Tämä tieto voi sisältyä myös tiedonhallintasuunnitelmiin ja tilastollisten analyysien suunnitelmiin tai muihin tutkimuskohtaisiin suunnitelmiin/ohjeisiin ja tutkimusta suorittavan henkilöstön vastuiden jakoa koskeviin tallenteisiin. Esimerkiksi sokkoutetuissa tutkimuksissa toimeksiantajan henkilöstöllä tai palveluntarjoajilla, jotka osallistuvat tutkimuksen toteuttamiseen ja ovat joko suoraan tai välillisesti yhteydessä tutkimusta suorittavaan henkilöstöön, ei tule olla pääsyä sokkouttamattomiin tietoihin, paitsi jos se on perusteltua tutkimussuunnitelman perusteella (esim. sokkouttamattomien monitoroijien käyttö).
 
-### 4.1.3 ^ich-e6-r3-a1-4-1-3
+<a id="ich-e6-r3-a1-4-1-3"></a>
+
+### 4.1.3
 
 Tällaisissa tapauksissa tulee toteuttaa asianmukaisia toimenpiteitä, joilla voidaan vähentää sokkoutuksen tahattoman purkautumisen riskiä sokkoutetun tutkimusta suorittavan henkilöstön osalta.
 
-### 4.1.4 ^ich-e6-r3-a1-4-1-4
+<a id="ich-e6-r3-a1-4-1-4"></a>
+
+### 4.1.4
 
 Mahdollisen sokkoutuksen purkautumisen tulee olla osa sokkoutetun tutkimuksen riskinarviointia. Kaikki suunnitellut tai suunnittelemattomat sokkoutuksen purkamiset, myös tahaton sokkoutuksen purkautuminen tai sokkoutuksen purkaminen hätätilanteessa, tulee dokumentoida. Kaikkien suunnittelemattomien sokkoutuksen purkautumisten vaikutukset tutkimustuloksiin tulee arvioida, ja tarvittaviin toimenpiteisiin tulee ryhtyä.
 

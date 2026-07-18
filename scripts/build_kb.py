@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import html
 import json
 import re
 import shutil
@@ -280,8 +281,8 @@ def publication_text(lines: list[PageLine], section_id: str, language: str) -> s
     def flush() -> None:
         nonlocal current, current_anchor
         if current.strip():
-            suffix = f" ^{current_anchor}" if current_anchor and language == "fi" else ""
-            paragraphs.append(current.strip() + suffix)
+            hidden_anchor = f'<a id="{current_anchor}"></a>\n\n' if current_anchor and language == "fi" else ""
+            paragraphs.append(hidden_anchor + current.strip())
         current = ""
         current_anchor = None
 
@@ -292,7 +293,11 @@ def publication_text(lines: list[PageLine], section_id: str, language: str) -> s
         if clause:
             flush()
             cid, rest = clause.groups()
-            paragraphs.append(f"### {cid} ^{anchor(section_id, cid)}" if language == "fi" else f"**{cid}**")
+            paragraphs.append(
+                f'<a id="{anchor(section_id, cid)}"></a>\n\n### {cid}'
+                if language == "fi"
+                else f"**{cid}**"
+            )
             current = rest
         elif letter:
             flush()
@@ -501,11 +506,17 @@ def roles_for(section: str, text: str) -> list[str]:
 
 
 def extract_clauses(text: str) -> dict[str, str]:
-    matches = list(re.finditer(r"(?m)^###\s+((?:\d+|[ABC])(?:\.\d+)+)\s+\^[^\n]+\n\n", text))
+    matches = list(
+        re.finditer(
+            r'(?m)^(?:<a id="[^"]+"></a>\n\n)?###\s+((?:\d+|[ABC])(?:\.\d+)+)\s*\n\n',
+            text,
+        )
+    )
     result: dict[str, str] = {}
     for index, match in enumerate(matches):
         end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
-        result[match.group(1)] = re.sub(r"\s+", " ", text[match.end():end]).strip()
+        clause_text = re.sub(r'<a id="[^"]+"></a>', "", text[match.end():end])
+        result[match.group(1)] = re.sub(r"\s+", " ", clause_text).strip()
     return result
 
 
@@ -650,15 +661,17 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
         fi_body = strip_heading(fi_unit, item["fi_title"])
         en_body = strip_heading(en_unit, item["en_title"])
         sid = stable_id(item["number"])
-        fi_text = publication_text(fi_body, sid, "fi")
-        en_text = publication_text(en_body, sid, "en")
-        fi_text, links = link_glossary(fi_text, glossary)
+        exact_text_fi = publication_text(fi_body, sid, "fi")
+        exact_text_en = publication_text(en_body, sid, "en")
+        fi_text, links = link_glossary(exact_text_fi, glossary)
         sections.append({
             "id": sid, "kind": "main", "section_number": item["number"],
             "title_fi": f"{item['number']} {item['fi_title']}", "title_en": f"{item['number']} {item['en_title']}" if item["en_title"] else None,
             "parent_id": parent_id(item["number"], "main"), "folder": section_folder(item["number"]),
             "finnish_pages": sorted(set(x.page for x in fi_unit)), "english_pages": sorted(set(x.page for x in en_unit)),
-            "text_fi": fi_text, "text_en": en_text, "raw_text_fi": "\n".join(x.text for x in fi_unit),
+            "text_fi": fi_text, "text_en": exact_text_en, "exact_text_fi": exact_text_fi,
+            "exact_text_en": exact_text_en, "raw_body_fi": "\n".join(x.text for x in fi_body),
+            "raw_body_en": "\n".join(x.text for x in en_body), "raw_text_fi": "\n".join(x.text for x in fi_unit),
             "raw_text_en": "\n".join(x.text for x in en_unit), "glossary_link_count": links,
             "alignment_status": "automatically_verified" if en_unit else "unresolved",
         })
@@ -676,7 +689,8 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
         end = intro_boundaries[i + 1][2] if i + 1 < len(intro_boundaries) else intro_end
         unit = fi_lines[start:end]
         sid = stable_id(key, "intro")
-        fi_text, links = link_glossary(publication_text(unit[1:], sid, "fi"), glossary)
+        exact_text_fi = publication_text(unit[1:], sid, "fi")
+        fi_text, links = link_glossary(exact_text_fi, glossary)
         en_unit = en_lines[en_intro_start:en_intro_end] if key == "johdanto" else []
         en_text = publication_text(en_unit[1:], sid, "en") if en_unit else ""
         sections.append({
@@ -684,6 +698,8 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
             "title_en": "I. Introduction" if key == "johdanto" else None, "parent_id": None,
             "folder": "01-johdanto", "finnish_pages": sorted(set(x.page for x in unit)),
             "english_pages": sorted(set(x.page for x in en_unit)), "text_fi": fi_text, "text_en": en_text,
+            "exact_text_fi": exact_text_fi, "exact_text_en": en_text,
+            "raw_body_fi": "\n".join(x.text for x in unit[1:]), "raw_body_en": "\n".join(x.text for x in en_unit[1:]),
             "raw_text_fi": "\n".join(x.text for x in unit), "raw_text_en": "\n".join(x.text for x in en_unit),
             "glossary_link_count": links, "alignment_status": "automatically_verified" if en_unit else "finnish_only_structure",
         })
@@ -704,12 +720,16 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
         fi_title = " ".join(re.sub(rf"^{number}\.\s+", "", x.text) if i == 0 else x.text for i, x in enumerate(fi_unit[:fi_clause]))
         en_title = " ".join(re.sub(rf"^{number}\.\s+", "", x.text) if i == 0 else x.text for i, x in enumerate(en_unit[:en_clause]))
         sid = stable_id(str(number), "principle")
-        fi_text, links = link_glossary(publication_text(fi_unit[fi_clause:], sid, "fi"), glossary)
+        exact_text_fi = publication_text(fi_unit[fi_clause:], sid, "fi")
+        exact_text_en = publication_text(en_unit[en_clause:], sid, "en")
+        fi_text, links = link_glossary(exact_text_fi, glossary)
         sections.append({
             "id": sid, "kind": "principle", "section_number": str(number), "title_fi": f"{number}. {fi_title}",
             "title_en": f"{number}. {en_title}", "parent_id": None, "folder": "02-gcp-periaatteet",
             "finnish_pages": sorted(set(x.page for x in fi_unit)), "english_pages": sorted(set(x.page for x in en_unit)),
-            "text_fi": fi_text, "text_en": publication_text(en_unit[en_clause:], sid, "en"),
+            "text_fi": fi_text, "text_en": exact_text_en, "exact_text_fi": exact_text_fi,
+            "exact_text_en": exact_text_en, "raw_body_fi": "\n".join(x.text for x in fi_unit[fi_clause:]),
+            "raw_body_en": "\n".join(x.text for x in en_unit[en_clause:]),
             "raw_text_fi": "\n".join(x.text for x in fi_unit), "raw_text_en": "\n".join(x.text for x in en_unit),
             "glossary_link_count": links, "alignment_status": "automatically_verified",
         })
@@ -741,7 +761,7 @@ def write_section_pages(sections: list[dict[str, Any]]) -> None:
         }
         related = "\n\n## Liittyvät käsitteet\n\nKatso tekstissä linkitetyt sanastokäsitteet." if section["glossary_link_count"] else ""
         callout = quote_callout(section["text_en"], section["english_pages"], str(number))
-        body = f"{yaml_frontmatter(frontmatter)}\n\n# {section['title_fi']}\n\n{section['text_fi']}{related}\n\n{callout}"
+        body = f"{yaml_frontmatter(frontmatter)}\n\n{section['text_fi']}{related}\n\n{callout}"
         path = CONTENT / section["folder"] / filename
         write_text(path, body)
         section["path"] = path.relative_to(ROOT).as_posix()
@@ -762,7 +782,7 @@ def write_glossary_pages(glossary: list[dict[str, Any]], sections: list[dict[str
         links = "\n".join(f"- [[{s['path'][8:-3]}|{s['title_fi']}]]" for s in occurrences) or "- Ei tunnistettuja esiintymiä."
         en = entry["definition_en"] or "Englanninkielistä määritelmää ei voitu kohdistaa automaattisesti."
         body = (
-            f"{yaml_frontmatter(front)}\n\n# {entry['preferred_term_fi']}\n\n"
+            f"{yaml_frontmatter(front)}\n\n"
             f"**Englanniksi:** {entry['preferred_term_en'] or 'Kohdistus avoin'}\n\n"
             f"## Suomenkielinen määritelmä\n\n{entry['definition_fi']}\n\n"
             f"## Alkuperäinen englanninkielinen määritelmä\n\n<div lang=\"en\">\n\n{en}\n\n</div>\n\n"
@@ -793,10 +813,9 @@ def write_role_pages(obligations: list[dict[str, Any]]) -> None:
         }
         body = f"""{yaml_frontmatter(front)}
 
-# {labels[role]}
-
 > [!warning] Johdettu näkymä
-> Tämä sivu on muodostettu lähdetekstistä automaattisesti ja odottaa asiantuntijan tarkistusta.
+> Tämä sivu on muodostettu lähdetekstistä automaattisesti ja sivu tulee käsitellä kokeellisena.
+> Sivua ei ole sisältötarkastettu.
 
 ## Keskeiset vastuut
 
@@ -818,10 +837,6 @@ Katso lähdeviitteiset velvoitteet ja niiden ehdot vastuutaulukosta.
 
 {evidence}
 
-## Keskeiset velvoitteet
-
-{list_items}
-
 ## Lähdekohdat
 
 {', '.join(sorted({x['source_section'] for x in items})) or 'Kohdistus avoin'}
@@ -833,14 +848,42 @@ Katso ohjeen lähdesivujen sanastolinkit.
         write_text(CONTENT / "roolipohjaiset-nakymat" / f"{role}.md", body)
 
 
-def write_register(obligations: list[dict[str, Any]]) -> None:
+def wikilinks_to_html(value: str) -> str:
+    """Render Obsidian wikilinks inside raw HTML table cells as real links."""
+    result: list[str] = []
+    start = 0
+    for match in re.finditer(r"\[\[([^\]|#]+(?:#[^\]|]+)?)(?:\|([^\]]+))?\]\]", value):
+        result.append(html.escape(value[start:match.start()]))
+        target = match.group(1)
+        label = match.group(2) or target.rsplit("/", 1)[-1].split("#", 1)[0]
+        result.append(f'<a href="../{html.escape(target, quote=True)}">{html.escape(label)}</a>')
+        start = match.end()
+    result.append(html.escape(value[start:]))
+    return "".join(result)
+
+
+def obligation_source_targets(sections: list[dict[str, Any]]) -> dict[str, str]:
+    targets: dict[str, str] = {}
+    for section in sections:
+        base = f"../{section['path'][8:-3]}"
+        targets.setdefault(str(section["section_number"]), base)
+        for clause in extract_clauses(section["exact_text_fi"]):
+            targets[clause] = f"{base}#{anchor(section['id'], clause)}"
+    return targets
+
+
+def write_register(obligations: list[dict[str, Any]], sections: list[dict[str, Any]]) -> None:
+    source_targets = obligation_source_targets(sections)
     rows = []
     for item in obligations:
+        source_section = str(item["source_section"])
+        source_cell = html.escape(source_section)
+        if target := source_targets.get(source_section):
+            source_cell = f'<a href="{html.escape(target, quote=True)}">{source_cell}</a>'
         rows.append(
-            f"<tr id=\"{ascii_slug(item['obligation_id'])}\"><td>{item['obligation_id']}</td>"
-            f"<td>{', '.join(item['responsible_actor'])}</td><td>{item['source_section']}</td>"
-            f"<td>{item['modality_fi']}</td><td>{item['normalized_action_fi']}</td>"
-            f"<td>{item['review_status']}</td></tr>"
+            f"<tr id=\"{ascii_slug(item['obligation_id'])}\"><td>{html.escape(item['obligation_id'])}</td>"
+            f"<td>{html.escape(', '.join(item['responsible_actor']))}</td><td>{source_cell}</td>"
+            f"<td>{wikilinks_to_html(item['normalized_action_fi'])}</td></tr>"
         )
     front = {
         "title": "Velvoite- ja näyttörekisteri", "id": "ich-e6-r3-obligation-register", "content_type": "obligation_register",
@@ -849,12 +892,10 @@ def write_register(obligations: list[dict[str, Any]]) -> None:
     }
     body = f"""{yaml_frontmatter(front)}
 
-# Velvoite- ja näyttörekisteri
-
 > [!warning] Johdettu aineisto
 > Normalisoidut toimet ja esimerkkitallenteet ovat automaattisesti johdettuja. Esimerkkitallenteet eivät ole lähdevaatimuksia.
 
-<table><thead><tr><th>Tunniste</th><th>Vastuutaho</th><th>Lähdekohta</th><th>Modaliteetti</th><th>Toimi</th><th>Tarkistus</th></tr></thead><tbody>
+<table><thead><tr><th>Tunniste</th><th>Vastuutaho</th><th>Lähdekohta</th><th>Toimi</th></tr></thead><tbody>
 {''.join(rows)}
 </tbody></table>
 """
@@ -879,11 +920,7 @@ def write_indexes(sections: list[dict[str, Any]], glossary: list[dict[str, Any]]
             "schema_type": "DefinedTermSet" if folder == "sanasto" else "CollectionPage", "publish": True,
             "permalink": f"/{folder}/",
         }
-        write_text(path, f"{yaml_frontmatter(front)}\n\n# {title}\n\n{links or '- Sisältöä ei ole.'}")
-    branches = "\n".join(f"- [[{folder}/index|{title}]]" for folder, title in FOLDERS.items())
-    front = {"title": "ICH E6(R3) – suomenkielinen tietopohja", "id": "ich-e6-r3-website", "content_type": "index", "language": "fi", "lang": "fi", "schema_type": "WebSite", "publish": True, "permalink": "/"}
-    notice = "Suomenkielinen käännös on epävirallinen. Englanninkielinen lähde on oikeudellisesti sitova. Lähdeteksti ja automaattisesti johdettu sisältö esitetään erillään. Sivuston sisältö on epävirallinen eikä sivusto ole ICH tai FIMEA arvioima tai hyväksymä."
-    write_text(CONTENT / "index.md", f"{yaml_frontmatter(front)}\n\n# Sisällysluettelo\n\n> [!important] Lähde- ja käyttöhuomautus\n> {notice}\n\n{branches}")
+        write_text(path, f"{yaml_frontmatter(front)}\n\n{links or '- Sisältöä ei ole.'}")
 
 
 def write_reports(documents: list[dict[str, Any]], sections: list[dict[str, Any]], glossary: list[dict[str, Any]], obligations: list[dict[str, Any]]) -> None:
@@ -898,6 +935,7 @@ def write_reports(documents: list[dict[str, Any]], sections: list[dict[str, Any]
         "unresolved-term-report.md": "# Ratkaisemattomien termien raportti\n\n- Suomen taivutusmuotoja ei tuotettu arvaamalla. `term-variants.json` sisältää vain lähdeaineistossa varmennetut täsmälliset muodot.\n- Asiantuntijan tulee täydentää taivutusmuodot ennen kuin linkkikattavuus voidaan merkitä täydelliseksi.",
         "obligation-review-report.md": f"# Velvoitteiden tarkistusraportti\n\n- Poimittuja ehdokkaita: {len(obligations)}\n- Matalamman varmuuden tai yhdistelmäkohtia: {sum(x['confidence'] < .9 for x in obligations)}\n- Kaikki kohdat odottavat asiantuntijan tarkistusta.",
         "role-view-review-report.md": "# Roolinäkymien tarkistusraportti\n\n- Seitsemän hallittua roolia on luotu.\n- Kaikki roolinäkymät on merkitty AI-tuotetuiksi ja asiantuntijan tarkistusta odottaviksi.\n- Kuvitteellisia ajantasaisia tehtävä- tai tilatietoja ei ole lisätty.",
+        "source-exactness-report.md": "# Lähdetekstin täsmällisyysraportti\n\nRaportti päivitetään komennolla `python scripts/validate_kb.py`.",
         "broken-link-report.md": "# Rikkinäisten linkkien raportti\n\nRaportti päivitetään komennolla `python scripts/validate_kb.py`.",
         "build-report.md": "# Koontiraportti\n\nRaportti päivitetään validoinnin ja Quartz-koonnin yhteydessä.",
     }
@@ -907,10 +945,21 @@ def write_reports(documents: list[dict[str, Any]], sections: list[dict[str, Any]
 
 def main() -> None:
     documents = verify_manifest()
-    for directory in [DATA, CONTENT, REPORTS]:
+    manual_index = CONTENT / "index.md"
+    if not manual_index.exists():
+        raise SystemExit("Manuaalisesti ylläpidettävä content/index.md puuttuu.")
+    for directory in [DATA, REPORTS]:
         if directory.exists():
             shutil.rmtree(directory)
         directory.mkdir(parents=True)
+    CONTENT.mkdir(parents=True, exist_ok=True)
+    for child in CONTENT.iterdir():
+        if child == manual_index:
+            continue
+        if child.is_dir():
+            shutil.rmtree(child)
+        else:
+            child.unlink()
     with pdfplumber.open(FI_PDF) as fi_pdf, pdfplumber.open(EN_PDF) as en_pdf:
         glossary = glossary_terms(fi_pdf, en_pdf)
         terminology = extract_terminology(fi_pdf)
@@ -920,7 +969,7 @@ def main() -> None:
     write_glossary_pages(glossary, sections)
     obligations = build_obligations(sections)
     write_role_pages(obligations)
-    write_register(obligations)
+    write_register(obligations, sections)
     write_indexes(sections, glossary, terminology)
 
     dump_json(DATA / "documents.json", documents)

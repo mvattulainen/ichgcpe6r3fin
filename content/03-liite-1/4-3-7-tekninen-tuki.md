@@ -29,11 +29,13 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.3.7 Tekninen tuki
+<a id="ich-e6-r3-a1-4-3-7-item-a"></a>
 
-- (a) Käytössä tulee tarvittaessa olla mekanismeja (esim. tukipalvelu) tietokoneistettuihin järjestelmiin liittyvien (esim. käyttäjien esiin tuomien) ongelmien dokumentoimiseksi, arvioimiseksi ja hallitsemiseksi. Kumuloituvia/usein esiintyviä ongelmia tulee tarkastella säännöllisesti, jotta voidaan tunnistaa toistuvat ja/tai systeemiset ongelmat. ^ich-e6-r3-a1-4-3-7-item-a
+- (a) Käytössä tulee tarvittaessa olla mekanismeja (esim. tukipalvelu) tietokoneistettuihin järjestelmiin liittyvien (esim. käyttäjien esiin tuomien) ongelmien dokumentoimiseksi, arvioimiseksi ja hallitsemiseksi. Kumuloituvia/usein esiintyviä ongelmia tulee tarkastella säännöllisesti, jotta voidaan tunnistaa toistuvat ja/tai systeemiset ongelmat.
 
-- (b) Viat ja ongelmat tulee ratkaista niiden kriittisyyden perusteella. Erittäin kriittiset ongelmat tulee ratkaista oikea-aikaisesti. ^ich-e6-r3-a1-4-3-7-item-b
+<a id="ich-e6-r3-a1-4-3-7-item-b"></a>
+
+- (b) Viat ja ongelmat tulee ratkaista niiden kriittisyyden perusteella. Erittäin kriittiset ongelmat tulee ratkaista oikea-aikaisesti.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

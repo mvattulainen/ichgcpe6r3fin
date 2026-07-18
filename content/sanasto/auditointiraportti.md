@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/auditointiraportti/"
 ---
 
-# Auditointiraportti
-
 **Englanniksi:** audit report
 
 ## Suomenkielinen määritelmä

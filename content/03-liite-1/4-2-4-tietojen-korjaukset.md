@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.2.4 Tietojen korjaukset
-
 Tutkimustulosten luotettavuuteen mahdollisesti vaikuttavien tietovirheiden korjaamiseksi tulee olla olemassa prosessit. Korjaukset tulee voida kohdistaa korjauksen tehneeseen henkilöön tai tietokoneistettuun järjestelmään. Korjaukset tulee tehdä oikea-aikaisesti ja perustella, ja niiden tueksi tulee olla [[sanasto/lahdetallenteet|lähdetallenteet]] läheltä alkuperäisen kirjauksen ajankohtaa.
 
 ## Liittyvät käsitteet

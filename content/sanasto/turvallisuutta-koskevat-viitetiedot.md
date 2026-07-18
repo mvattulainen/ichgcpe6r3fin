@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/turvallisuutta-koskevat-viitetiedot/"
 ---
 
-# Turvallisuutta koskevat viitetiedot
-
 **Englanniksi:** reference safety information, RSI
 
 ## Suomenkielinen määritelmä

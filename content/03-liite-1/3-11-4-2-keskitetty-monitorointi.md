@@ -32,13 +32,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.4.2 Keskitetty monitorointi
+<a id="ich-e6-r3-a1-3-11-4-2-item-a"></a>
 
-- (a) Keskitetty [[sanasto/monitorointi|monitorointi]] on kertyneen tiedon arviointia, jota toimeksiantajan pätevät ja koulutetut henkilöt (esim. lääketieteellinen monitoroija, data-analyytikko/tiedonhallinnan asiantuntija, biostatistikko) toteuttavat oikea-aikaisesti. ^ich-e6-r3-a1-3-11-4-2-item-a
+- (a) Keskitetty [[sanasto/monitorointi|monitorointi]] on kertyneen tiedon arviointia, jota toimeksiantajan pätevät ja koulutetut henkilöt (esim. lääketieteellinen monitoroija, data-analyytikko/tiedonhallinnan asiantuntija, biostatistikko) toteuttavat oikea-aikaisesti.
 
-- (b) Keskitetyt monitorointiprosessit tarjoavat lisämonitorointivalmiuksia, jotka voivat täydentää ja vähentää tutkimuspaikan monitoroinnin laajuutta ja/tai tiheyttä tai joita voidaan käyttää yksinään. Keskitetyn data-analytiikan avulla voidaan tunnistaa systeemisiä tai tutkimuspaikkakohtaisia ongelmia, kuten tutkimussuunnitelman vaatimusten laiminlyönti ja mahdollisesti epäluotettavia tietoja. ^ich-e6-r3-a1-3-11-4-2-item-b
+<a id="ich-e6-r3-a1-3-11-4-2-item-b"></a>
 
-- (c) Keskitetty [[sanasto/monitorointi|monitorointi]] voi auttaa tutkimuspaikan ja/tai prosessien valinnassa kohdennettua paikan päällä tehtävää monitorointia varten. ^ich-e6-r3-a1-3-11-4-2-item-c
+- (b) Keskitetyt monitorointiprosessit tarjoavat lisämonitorointivalmiuksia, jotka voivat täydentää ja vähentää tutkimuspaikan monitoroinnin laajuutta ja/tai tiheyttä tai joita voidaan käyttää yksinään. Keskitetyn data-analytiikan avulla voidaan tunnistaa systeemisiä tai tutkimuspaikkakohtaisia ongelmia, kuten tutkimussuunnitelman vaatimusten laiminlyönti ja mahdollisesti epäluotettavia tietoja.
+
+<a id="ich-e6-r3-a1-3-11-4-2-item-c"></a>
+
+- (c) Keskitetty [[sanasto/monitorointi|monitorointi]] voi auttaa tutkimuspaikan ja/tai prosessien valinnassa kohdennettua paikan päällä tehtävää monitorointia varten.
 
 ## Liittyvät käsitteet
 

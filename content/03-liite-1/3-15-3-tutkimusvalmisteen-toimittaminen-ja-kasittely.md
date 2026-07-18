@@ -31,25 +31,41 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.15.3 Tutkimusvalmisteen toimittaminen ja käsittely
+<a id="ich-e6-r3-a1-3-15-3-item-a"></a>
 
-- (a) [[sanasto/toimeksiantaja|Toimeksiantaja]] vastaa tutkimusvalmisteen toimittamisesta tutkijalle/tutkimuslaitokselle. [[sanasto/toimeksiantaja|Toimeksiantaja]] voi tarvittaessa toimittaa tutkimusvalmisteen tutkimukseen osallistujille lainsäädännön vaatimusten mukaisesti. [[sanasto/tutkimusvalmiste|Tutkimusvalmiste]] tulee toimittaa sen jälkeen, kun eettiseltä toimikunnalta ja valvontaviranomaisilta on saatu tutkimukselle vaadittava hyväksyntä/puoltava lausunto. Lähettämisessä ja toimittamisessa voidaan käyttää erilaisia menetelmiä, esimerkiksi ottamalla huomioon tutkimusvalmisteiden ominaisuudet, antoreitti ja antamisen monimutkaisuus sekä tutkimusvalmisteen turvallisuusprofiiliin liittyvä tietämyksen taso. Tutkimusvalmisteen hallinta tulee järjestää ja toteuttaa lainsäädännön vaatimusten mukaisesti, ja suojatoimia tulee käyttää valmisteen eheyden, valmisteen tutkimussuunnitelman mukaisen käytön ja tutkimukseen osallistujien turvallisuuden varmistamiseksi. ^ich-e6-r3-a1-3-15-3-item-a
+- (a) [[sanasto/toimeksiantaja|Toimeksiantaja]] vastaa tutkimusvalmisteen toimittamisesta tutkijalle/tutkimuslaitokselle. [[sanasto/toimeksiantaja|Toimeksiantaja]] voi tarvittaessa toimittaa tutkimusvalmisteen tutkimukseen osallistujille lainsäädännön vaatimusten mukaisesti. [[sanasto/tutkimusvalmiste|Tutkimusvalmiste]] tulee toimittaa sen jälkeen, kun eettiseltä toimikunnalta ja valvontaviranomaisilta on saatu tutkimukselle vaadittava hyväksyntä/puoltava lausunto. Lähettämisessä ja toimittamisessa voidaan käyttää erilaisia menetelmiä, esimerkiksi ottamalla huomioon tutkimusvalmisteiden ominaisuudet, antoreitti ja antamisen monimutkaisuus sekä tutkimusvalmisteen turvallisuusprofiiliin liittyvä tietämyksen taso. Tutkimusvalmisteen hallinta tulee järjestää ja toteuttaa lainsäädännön vaatimusten mukaisesti, ja suojatoimia tulee käyttää valmisteen eheyden, valmisteen tutkimussuunnitelman mukaisen käytön ja tutkimukseen osallistujien turvallisuuden varmistamiseksi.
 
-- (b) Toimeksiantajan tulee varmistaa, että tutkijalla/tutkimuslaitoksella tai tutkimukseen osallistujilla on saatavilla ohjeet tutkimusvalmisteen käsittelystä ja varastoinnista. Menettelyissä tulee määritellä sopiva ja turvallinen vastaanotto-, käsittely-, varastointi- ja jakelutapa, menettely käyttämättömien valmisteiden keräämiseksi tutkimukseen osallistujilta ja niiden palauttaminen toimeksiantajalle (tai vaihtoehtoinen menettely, jos [[sanasto/toimeksiantaja|toimeksiantaja]] antaa siihen luvan ja jos se on lainsäädännön vaatimusten mukaista). ^ich-e6-r3-a1-3-15-3-item-b
+<a id="ich-e6-r3-a1-3-15-3-item-b"></a>
 
-- (c) Toimeksiantajan tulee: ^ich-e6-r3-a1-3-15-3-item-c
+- (b) Toimeksiantajan tulee varmistaa, että tutkijalla/tutkimuslaitoksella tai tutkimukseen osallistujilla on saatavilla ohjeet tutkimusvalmisteen käsittelystä ja varastoinnista. Menettelyissä tulee määritellä sopiva ja turvallinen vastaanotto-, käsittely-, varastointi- ja jakelutapa, menettely käyttämättömien valmisteiden keräämiseksi tutkimukseen osallistujilta ja niiden palauttaminen toimeksiantajalle (tai vaihtoehtoinen menettely, jos [[sanasto/toimeksiantaja|toimeksiantaja]] antaa siihen luvan ja jos se on lainsäädännön vaatimusten mukaista).
 
-- (i) varmistaa tutkimusvalmisteen oikea-aikainen toimittaminen tutkijalle tai tarvittaessa tutkimukseen osallistujille lainsäädännön vaatimusten mukaisesti, jotta voidaan välttää tutkimuksen sekä tutkimukseen osallistujien hoidon keskeytyminen; ^ich-e6-r3-a1-3-15-3-item-i
+<a id="ich-e6-r3-a1-3-15-3-item-c"></a>
 
-- (ii) ylläpitää tallenteita, joista käyvät ilmi tutkimusvalmisteen tunnistetiedot, lähetys, vastaanotto, palautus ja tuhoaminen tai vaihtoehtoinen menettely (ks. täydentävä liite C); ^ich-e6-r3-a1-3-15-3-item-ii
+- (c) Toimeksiantajan tulee:
 
-- (iii) ylläpitää prosessia tutkimusvalmisteiden noutamiseksi ja noutamisen dokumentoimiseksi (esim. viallisten valmisteiden takaisinveto, palautus ja tuhoaminen tai vaihtoehtoinen menettely tutkimuksen päätyttyä tai vanhentuneiden valmisteiden kerääminen); ^ich-e6-r3-a1-3-15-3-item-iii
+<a id="ich-e6-r3-a1-3-15-3-item-i"></a>
 
-- (iv) ylläpitää prosessia käyttämättömien tutkimusvalmisteiden hävittämiseksi ja hävittämisen dokumentoimiseksi; ^ich-e6-r3-a1-3-15-3-item-iv
+- (i) varmistaa tutkimusvalmisteen oikea-aikainen toimittaminen tutkijalle tai tarvittaessa tutkimukseen osallistujille lainsäädännön vaatimusten mukaisesti, jotta voidaan välttää tutkimuksen sekä tutkimukseen osallistujien hoidon keskeytyminen;
 
-- (v) toteuttaa toimenpiteitä sen varmistamiseksi, että [[sanasto/tutkimusvalmiste|tutkimusvalmiste]](et) pysyy/pysyvät stabiilina koko käyttöajan ja että niitä käytetään vain voimassa olevan säilyvyysajan puitteissa; ^ich-e6-r3-a1-3-15-3-item-v
+<a id="ich-e6-r3-a1-3-15-3-item-ii"></a>
 
-- (vi) säilyttää riittävä määrä tutkimuksissa käytettyä tutkimusvalmistetta eräkohtaisten laatuvaatimusten (spesifikaatioiden) uudelleen vahvistamiseksi, jos se on tarpeen, ja pitää kirjaa eränäytteiden analyyseistä ja ominaisuuksista. Näytteet tulee säilyttää joko siihen saakka, kunnes tutkimustietojen analyysit on saatettu valmiiksi, tai niin kauan kuin [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]] sitä vaativat sen mukaan, kumpi säilytysaika on pidempi. Toimeksiantajan ei välttämättä tarvitse säilyttää näytteitä tutkimuksissa, joissa myyntiluvan saanutta lääkettä käytetään sellaisenaan tutkimusvalmisteena paikallisten lainsäädännön vaatimusten mukaisesti. Tällaisessa tilanteessa valmistaja tyypillisesti säilyttää näytteitä. ^ich-e6-r3-a1-3-15-3-item-vi
+- (ii) ylläpitää tallenteita, joista käyvät ilmi tutkimusvalmisteen tunnistetiedot, lähetys, vastaanotto, palautus ja tuhoaminen tai vaihtoehtoinen menettely (ks. täydentävä liite C);
+
+<a id="ich-e6-r3-a1-3-15-3-item-iii"></a>
+
+- (iii) ylläpitää prosessia tutkimusvalmisteiden noutamiseksi ja noutamisen dokumentoimiseksi (esim. viallisten valmisteiden takaisinveto, palautus ja tuhoaminen tai vaihtoehtoinen menettely tutkimuksen päätyttyä tai vanhentuneiden valmisteiden kerääminen);
+
+<a id="ich-e6-r3-a1-3-15-3-item-iv"></a>
+
+- (iv) ylläpitää prosessia käyttämättömien tutkimusvalmisteiden hävittämiseksi ja hävittämisen dokumentoimiseksi;
+
+<a id="ich-e6-r3-a1-3-15-3-item-v"></a>
+
+- (v) toteuttaa toimenpiteitä sen varmistamiseksi, että [[sanasto/tutkimusvalmiste|tutkimusvalmiste]](et) pysyy/pysyvät stabiilina koko käyttöajan ja että niitä käytetään vain voimassa olevan säilyvyysajan puitteissa;
+
+<a id="ich-e6-r3-a1-3-15-3-item-vi"></a>
+
+- (vi) säilyttää riittävä määrä tutkimuksissa käytettyä tutkimusvalmistetta eräkohtaisten laatuvaatimusten (spesifikaatioiden) uudelleen vahvistamiseksi, jos se on tarpeen, ja pitää kirjaa eränäytteiden analyyseistä ja ominaisuuksista. Näytteet tulee säilyttää joko siihen saakka, kunnes tutkimustietojen analyysit on saatettu valmiiksi, tai niin kauan kuin [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]] sitä vaativat sen mukaan, kumpi säilytysaika on pidempi. Toimeksiantajan ei välttämättä tarvitse säilyttää näytteitä tutkimuksissa, joissa myyntiluvan saanutta lääkettä käytetään sellaisenaan tutkimusvalmisteena paikallisten lainsäädännön vaatimusten mukaisesti. Tällaisessa tilanteessa valmistaja tyypillisesti säilyttää näytteitä.
 
 ## Liittyvät käsitteet
 

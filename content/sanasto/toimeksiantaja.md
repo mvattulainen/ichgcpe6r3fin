@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/toimeksiantaja/"
 ---
 
-# Toimeksiantaja
-
 **Englanniksi:** sponsor
 
 ## Suomenkielinen määritelmä

@@ -32,71 +32,115 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 1.2 Vastuut
+<a id="ich-e6-r3-a1-1-2-1"></a>
 
-### 1.2.1 ^ich-e6-r3-a1-1-2-1
+### 1.2.1
 
 Eettisen toimikunnan tarkoituksena on kaikkien tutkimukseen osallistujien oikeuksien, turvallisuuden ja hyvinvoinnin turvaaminen. Asianmukaista huomiota tulee kiinnittää erityisesti sellaisiin tutkimuksiin, joihin aiotaan rekrytoida haavoittuvassa asemassa olevia osallistujia.
 
-### 1.2.2 ^ich-e6-r3-a1-1-2-2
+<a id="ich-e6-r3-a1-1-2-2"></a>
+
+### 1.2.2
 
 Eettisen toimikunnan tulee tarvittaessa arvioida seuraavat tiedot:
 
-- (a) [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] ja suunnitelman muutokset ^ich-e6-r3-a1-1-2-item-a
+<a id="ich-e6-r3-a1-1-2-item-a"></a>
 
-- (b) tietoon perustuvan suostumuksen materiaalit, tarvittaessa alaikäisen suostumuksen materiaalit sekä niiden mahdolliset päivitykset, mukaan lukien kuvaus siitä, millä menettelyllä [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]] ja [[sanasto/alaikaisen-suostumus|alaikäisen suostumus]] hankitaan; ^ich-e6-r3-a1-1-2-item-b
+- (a) [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] ja suunnitelman muutokset
 
-- (c) [[sanasto/tutkijan-tietopaketti|tutkijan tietopaketti]] tai muu ajankohtainen tieteellinen tieto, kuten olemassa olevat, hyväksytyt tuotetiedot (esim. valmisteyhteenveto, pakkausseloste tai - merkintä), soveltuvin osin, mukaan lukien niiden päivitykset; ^ich-e6-r3-a1-1-2-item-c
+<a id="ich-e6-r3-a1-1-2-item-b"></a>
 
-- (d) muut tutkimukseen liittyvät tiedot, jotka toimitetaan tutkimukseen osallistujille, mukaan lukien kuvaus viestintäkanavista, joiden kautta nämä tiedot toimitetaan; ^ich-e6-r3-a1-1-2-item-d
+- (b) tietoon perustuvan suostumuksen materiaalit, tarvittaessa alaikäisen suostumuksen materiaalit sekä niiden mahdolliset päivitykset, mukaan lukien kuvaus siitä, millä menettelyllä [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]] ja [[sanasto/alaikaisen-suostumus|alaikäisen suostumus]] hankitaan;
 
-- (e) tutkimukseen osallistujien rekrytointi-ilmoitus (jos käytössä) ja tiedot rekrytointiprosessista; ^ich-e6-r3-a1-1-2-item-e
+<a id="ich-e6-r3-a1-1-2-item-c"></a>
 
-- (f) tutkimukseen osallistujille mahdollisesti maksettavat korvaukset; ^ich-e6-r3-a1-1-2-item-f
+- (c) [[sanasto/tutkijan-tietopaketti|tutkijan tietopaketti]] tai muu ajankohtainen tieteellinen tieto, kuten olemassa olevat, hyväksytyt tuotetiedot (esim. valmisteyhteenveto, pakkausseloste tai - merkintä), soveltuvin osin, mukaan lukien niiden päivitykset;
 
-- (g) turvallisuustietojen ajantasaiset päivitykset; ^ich-e6-r3-a1-1-2-item-g
+<a id="ich-e6-r3-a1-1-2-item-d"></a>
 
-- (h) tutkijan ajan tasalla oleva ansioluettelo ja/tai muut pätevyyden osoittavat asiakirjat; ^ich-e6-r3-a1-1-2-item-h
+- (d) muut tutkimukseen liittyvät tiedot, jotka toimitetaan tutkimukseen osallistujille, mukaan lukien kuvaus viestintäkanavista, joiden kautta nämä tiedot toimitetaan;
 
-- (i) kaikki muut asiakirjat, joita eettinen toimikunta saattaa tarvita velvollisuuksiensa täyttämiseen. ^ich-e6-r3-a1-1-2-item-i
+<a id="ich-e6-r3-a1-1-2-item-e"></a>
 
-### 1.2.3 ^ich-e6-r3-a1-1-2-3
+- (e) tutkimukseen osallistujien rekrytointi-ilmoitus (jos käytössä) ja tiedot rekrytointiprosessista;
+
+<a id="ich-e6-r3-a1-1-2-item-f"></a>
+
+- (f) tutkimukseen osallistujille mahdollisesti maksettavat korvaukset;
+
+<a id="ich-e6-r3-a1-1-2-item-g"></a>
+
+- (g) turvallisuustietojen ajantasaiset päivitykset;
+
+<a id="ich-e6-r3-a1-1-2-item-h"></a>
+
+- (h) tutkijan ajan tasalla oleva ansioluettelo ja/tai muut pätevyyden osoittavat asiakirjat;
+
+<a id="ich-e6-r3-a1-1-2-item-i"></a>
+
+- (i) kaikki muut asiakirjat, joita eettinen toimikunta saattaa tarvita velvollisuuksiensa täyttämiseen.
+
+<a id="ich-e6-r3-a1-1-2-3"></a>
+
+### 1.2.3
 
 Eettisen toimikunnan tulee arvioida ehdotettu [[sanasto/kliininen-laaketutkimus|kliininen lääketutkimus]] kohtuullisessa ajassa ja dokumentoida tekemänsä arviot siten, että niissä yksilöidään selkeästi tutkimus, arvioidut asiakirjat sekä seuraavia seikkoja koskevat päivämäärät:
 
-- (a) hyväksyntä / puoltava lausunto; ^ich-e6-r3-a1-1-2-item-a
+<a id="ich-e6-r3-a1-1-2-item-a"></a>
 
-- (b) tarvittavat muutokset, ennen kuin hyväksyntä tai puoltava lausunto voidaan antaa; ^ich-e6-r3-a1-1-2-item-b
+- (a) hyväksyntä / puoltava lausunto;
 
-- (c) hylkääminen / kielteinen lausunto; ^ich-e6-r3-a1-1-2-item-c
+<a id="ich-e6-r3-a1-1-2-item-b"></a>
 
-- (d) aikaisemman hyväksynnän / puoltavan lausunnon peruuttaminen/lykkääminen. ^ich-e6-r3-a1-1-2-item-d
+- (b) tarvittavat muutokset, ennen kuin hyväksyntä tai puoltava lausunto voidaan antaa;
 
-### 1.2.4 ^ich-e6-r3-a1-1-2-4
+<a id="ich-e6-r3-a1-1-2-item-c"></a>
+
+- (c) hylkääminen / kielteinen lausunto;
+
+<a id="ich-e6-r3-a1-1-2-item-d"></a>
+
+- (d) aikaisemman hyväksynnän / puoltavan lausunnon peruuttaminen/lykkääminen.
+
+<a id="ich-e6-r3-a1-1-2-4"></a>
+
+### 1.2.4
 
 Eettisen toimikunnan tulee arvioida jokaista käynnissä olevaa tutkimusta niin usein kuin on tarkoituksenmukaista suhteessa sen tutkimukseen osallistujille aiheuttamaan riskiin.
 
-### 1.2.5 ^ich-e6-r3-a1-1-2-5
+<a id="ich-e6-r3-a1-1-2-5"></a>
+
+### 1.2.5
 
 Eettinen toimikunta voi vaatia annettavaksi enemmän tietoja kuin kappaleessa
 
-### 2.8.11 ^ich-e6-r3-a1-1-2-2-8-11
+<a id="ich-e6-r3-a1-1-2-2-8-11"></a>
+
+### 2.8.11
 
 tutkimukseen osallistujille edellytetään annettavan, mikäli se katsoo, että lisätietojen antamisella turvattaisiin huomattavasti paremmin tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.
 
-### 1.2.6 ^ich-e6-r3-a1-1-2-6
+<a id="ich-e6-r3-a1-1-2-6"></a>
+
+### 1.2.6
 
 Silloin kun tutkimussuunnitelmasta käy ilmi, että tutkimukseen osallistujalta tai tämän lailliselta edustajalta ei ole mahdollista saada suostumusta (esim. hätätapauksissa) (katso kappale 2.8.8), eettisen toimikunnan tulee arvioida, kattavatko ehdotettu [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] ja/tai muut asiakirjat riittävästi sellaisiin tutkimuksiin liittyvät eettiset näkökohdat ja [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]].
 
-### 1.2.7 ^ich-e6-r3-a1-1-2-7
+<a id="ich-e6-r3-a1-1-2-7"></a>
+
+### 1.2.7
 
 Jos tutkimukseen otetaan mukaan alaikäisiä, eettisen toimikunnan tulee tarkastaa alaikäisen suostumusta koskevat tiedot ottaen huomioon tutkimukseen rekrytoitavien alaikäisten ikä, kypsyys ja psyykkinen tila sekä [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]].
 
-### 1.2.8 ^ich-e6-r3-a1-1-2-8
+<a id="ich-e6-r3-a1-1-2-8"></a>
+
+### 1.2.8
 
 Jos tutkimukseen osallistujille maksetaan korvausta tutkimukseen osallistumisesta, eettisen toimikunnan tulee arvioida tutkimukseen osallistujille maksettavien korvausten määrää ja maksutapaa varmistaakseen, että kumpikaan ei johda tutkimukseen osallistujien pakottamiseen tai asiattomaan vaikuttamiseen. Tutkimukseen osallistujille suoritettavat korvaukset tulee maksaa oikea-aikaisesti ja jakaa määräsuhteessa eivätkä ne saisi riippua yksinomaan siitä, onko [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] osallistunut tutkimuksen loppuun asti. Tutkimukseen osallistujille aiheutuneiden kohtuullisten kulujen, kuten matka- ja majoituskulujen, korvaamista ei pidetä pakottavana.
 
-### 1.2.9 ^ich-e6-r3-a1-1-2-9
+<a id="ich-e6-r3-a1-1-2-9"></a>
+
+### 1.2.9
 
 Eettisen toimikunnan tulee varmistaa, että tutkimukseen osallistujille maksettavaa korvausta koskevat tiedot, mukaan lukien maksutavat, korvausten määrät ja maksuaikataulu, esitetään tietoon perustuvaa suostumusta koskevissa asiakirjoissa sekä muussa osallistujille annettavassa tiedossa.
 

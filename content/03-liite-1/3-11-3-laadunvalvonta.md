@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.3 Laadunvalvonta
-
 Laadunvalvontaa tulee soveltaa riskiperusteisesti jokaisessa vaiheessa, jossa tietoja käsitellään, jotta voidaan varmistaa, että tiedot ovat luotettavia ja että niitä on käsitelty oikein. Kliinisissä lääketutkimuksissa [[sanasto/monitorointi|monitorointi]] ja tiedonhallintaprosessit ovat tärkeimpiä laadunvalvontatoimia. Tarvittaessa laadunvalvontatoimia voidaan soveltaa myös muualla kuin varsinaisissa tutkimuspaikoissa (esim. keskitetyt kuvantamisen tulkintaa tekevät yksiköt).
 
 ## Liittyvät käsitteet

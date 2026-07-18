@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkimussuunnitelman-muutos/"
 ---
 
-# Tutkimussuunnitelman muutos
-
 **Englanniksi:** protocol amendment
 
 ## Suomenkielinen määritelmä

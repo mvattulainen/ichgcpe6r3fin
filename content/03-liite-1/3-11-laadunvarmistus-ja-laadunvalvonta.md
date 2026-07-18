@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11 Laadunvarmistus ja laadunvalvonta
-
 [[sanasto/toimeksiantaja|Toimeksiantaja]] vastaa laadunvarmistuksen ja laadunvalvonnan järjestämisestä, toteuttamisesta ja ylläpitämisestä sekä dokumentoiduista menetelmistä, joilla varmistetaan, että tutkimukset toteutetaan ja tiedot tuotetaan, kirjataan ja raportoidaan tutkimussuunnitelman, hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisesti.
 
 ## Liittyvät käsitteet

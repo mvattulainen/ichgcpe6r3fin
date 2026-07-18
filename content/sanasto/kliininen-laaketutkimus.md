@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/kliininen-laaketutkimus/"
 ---
 
-# Kliininen lääketutkimus
-
 **Englanniksi:** clinical trial
 
 ## Suomenkielinen määritelmä

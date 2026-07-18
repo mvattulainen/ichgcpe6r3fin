@@ -31,29 +31,39 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 1. Kliiniset lääketutkimukset tulee toteuttaa noudattaen eettisiä periaatteita, jotka perustuvat Helsingin julistukseen ja ovat hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisia. Kliiniset lääketutkimukset tulee suunnitella ja toteuttaa tavoilla, joilla varmistetaan tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.
+<a id="ich-e6-r3-principle-01-1-1"></a>
 
-### 1.1 ^ich-e6-r3-principle-01-1-1
+### 1.1
 
 Tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi ovat kaikkein tärkeimmät lähtökohdat, ja ne tulee asettaa tieteellisten ja yhteiskunnallisten intressien edelle.
 
-### 1.2 ^ich-e6-r3-principle-01-1-2
+<a id="ich-e6-r3-principle-01-1-2"></a>
+
+### 1.2
 
 Tutkimukseen osallistujien turvallisuutta tulee tarkastella viipymättä silloin, kun saataville tulee uutta turvallisuustietoa, joka voi vaikuttaa tutkimukseen osallistujien turvallisuuteen ja halukkuuteen jatkaa tutkimukseen osallistumista tai tutkimuksen toteuttamista.
 
-### 1.3 ^ich-e6-r3-principle-01-1-3
+<a id="ich-e6-r3-principle-01-1-3"></a>
+
+### 1.3
 
 Ennakoitavissa olevat riskit ja haitat tulee punnita suhteessa sekä yksittäisille tutkimukseen osallistujille että yhteiskunnalle odotettavissa oleviin hyötyihin. Tutkimus tulisi aloittaa ja sitä tulisi jatkaa vain, jos odotettavissa olevat hyödyt oikeuttavat tiedossa ja odotettavissa olevat riskit.
 
-### 1.4 ^ich-e6-r3-principle-01-1-4
+<a id="ich-e6-r3-principle-01-1-4"></a>
+
+### 1.4
 
 Kliinistä lääketutkimusta suunniteltaessa tutkimuksen tieteellinen tavoite ja tarkoitus tulee harkita huolellisesti, jotta tiettyjä tutkimuspopulaatiota ei tarpeettomasti suljeta pois. Tutkimukseen osallistujien valintaprosessin tulee edustaa niitä väestöryhmiä, joiden hyödyksi [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] on luvan saatuaan tarkoitettu, jotta tulokset voidaan yleistää koskemaan laajempaa väestöä. Tiettyihin tutkimuksiin (esim. varhaisen vaiheen tutkimukset, konseptin toimivuuden osoittavat tutkimukset, bioekvivalenssitutkimukset) ei välttämättä vaadita näin heterogeenistä ryhmää.
 
-### 1.5 ^ich-e6-r3-principle-01-1-5
+<a id="ich-e6-r3-principle-01-1-5"></a>
+
+### 1.5
 
 Pätevällä lääkärillä tai, silloin kun se on tarkoituksenmukaista, pätevällä hammaslääkärillä (tai muulla pätevällä terveydenhuollon ammattilaisella paikallisten lakisääteisten vaatimusten mukaisesti) tulee olla kokonaisvastuu tutkimukseen liittyvästä lääketieteellisestä hoidosta ja tutkimukseen osallistujien puolesta tehdyistä lääketieteellisistä päätöksistä; asianmukaisenpätevyyden saaneet terveydenhuollon ammattilaiset voivat kuitenkin olla käytännön vuorovaikutuksessa, antaa lääketieteellistä hoitoa ja tehdä lääketieteellisiä päätöksiä lainsäädännön vaatimusten mukaisesti.
 
-### 1.6 ^ich-e6-r3-principle-01-1-6
+<a id="ich-e6-r3-principle-01-1-6"></a>
+
+### 1.6
 
 Sellaisten tietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]], jotka mahdollistavat tutkimukseen osallistujien tunnistamisen, tulee suojata sovellettavien yksityisyys- ja tietosuojavaatimusten mukaisesti.
 

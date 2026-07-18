@@ -31,19 +31,29 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.13.2 Turvallisuusraportointi
+<a id="ich-e6-r3-a1-3-13-2-item-a"></a>
 
-- (a) Toimeksiantajan tulee toimittaa valvontaviranomaisille lainsäädännön vaatimusten edellyttämät päivitetyt turvallisuustiedot ja turvallisuuskatsaukset, mukaan lukien tutkijan tietopakettiin tehdyt muutokset. ^ich-e6-r3-a1-3-13-2-item-a
+- (a) Toimeksiantajan tulee toimittaa valvontaviranomaisille lainsäädännön vaatimusten edellyttämät päivitetyt turvallisuustiedot ja turvallisuuskatsaukset, mukaan lukien tutkijan tietopakettiin tehdyt muutokset.
 
-- (b) Toimeksiantajan tulee lainsäädännön vaatimusten ja ICH E2A Clinical Safety Data Management: Definitions and Standards for Expedited Reporting -ohjeen mukaisesti nopeuttaa valvontaviranomaisille tehtäviä ilmoituksia kaikista epäillyistä, odottamattomista ja vakavista haittavaikutuksista (SUSAR). ^ich-e6-r3-a1-3-13-2-item-b
+<a id="ich-e6-r3-a1-3-13-2-item-b"></a>
 
-- (c) Turvallisuusraportointi valvontaviranomaisille tulee tehdä arvioimalla tapahtuman odotettavuus suhteessa sovellettaviin valmistetietoihin (esim. tutkijan tietopakettiin tai vaihtoehtoisiin asiakirjoihin sisältyviin turvallisuutta koskeviin viitetietoihin [RSI]) lainsäädännön vaatimusten mukaisesti. Katso lisätietoja turvallisuutta koskevista viitetiedoista ICH E2F Development Safety Update Report -ohjeesta. ^ich-e6-r3-a1-3-13-2-item-c
+- (b) Toimeksiantajan tulee lainsäädännön vaatimusten ja ICH E2A Clinical Safety Data Management: Definitions and Standards for Expedited Reporting -ohjeen mukaisesti nopeuttaa valvontaviranomaisille tehtäviä ilmoituksia kaikista epäillyistä, odottamattomista ja vakavista haittavaikutuksista (SUSAR).
 
-- (d) Epäillyistä odottamattomista vakavista haittavaikutuksista (SUSAR) tulee raportoida tutkijalle/tutkimuslaitokselle ja eettiselle toimikunnalle siten, että raportointi vastaa vaadittujen toimien kiireellisyyttä. Raportoinnissa tulee ottaa huomioon valmisteen turvallisuusprofiilista saadut uudet tiedot ja raportointi tulee suorittaa lainsäädännön vaatimusten mukaisesti. Joillakin alueilla voi olla tarkoituksenmukaista raportoida säännöllisesti rivikohtainen listaus haittavaikutuksista ja yleinen arvio turvallisuudesta. ^ich-e6-r3-a1-3-13-2-item-d
+<a id="ich-e6-r3-a1-3-13-2-item-c"></a>
 
-- (e) Kiireellisistä turvallisuuskysymyksistä, jotka vaativat välitöntä huomiota tai toimenpiteitä, tulee ilmoittaa eettiselle toimikunnalle ja/tai valvontaviranomaisille ja tutkijoille ilman aiheetonta viivytystä ja lainsäädännön vaatimusten mukaisesti. ^ich-e6-r3-a1-3-13-2-item-e
+- (c) Turvallisuusraportointi valvontaviranomaisille tulee tehdä arvioimalla tapahtuman odotettavuus suhteessa sovellettaviin valmistetietoihin (esim. tutkijan tietopakettiin tai vaihtoehtoisiin asiakirjoihin sisältyviin turvallisuutta koskeviin viitetietoihin [RSI]) lainsäädännön vaatimusten mukaisesti. Katso lisätietoja turvallisuutta koskevista viitetiedoista ICH E2F Development Safety Update Report -ohjeesta.
 
-- (f) Valvontaviranomaisille, eettiselle toimikunnalle ja tutkijoille välitettävän turvallisuusraportoinnin sekä tutkijoiden toimeksiantajalle suorittaman raportoinnin vaihtoehtoisista järjestelyistä tulee sopia etukäteen valvontaviranomaisten ja tarvittaessa eettisen toimikunnan kanssa, ja vaihtoehtoiset järjestelyt tulee kuvata kliinisen lääketutkimuksen tutkimussuunnitelmassa (esim. vakavat haittatapahtumat [SAE:t], jotka katsotaan tehoon tai turvallisuuteen liittyviksi päätetapahtumiksi ja joiden vuoksi sokkoutusta ei pureta ja joita ei raportoida nopeutetusti; ks. ICH E2A). Katso ICH E19 A Selective Approach to Safety Data Collection in Specific Late-Stage Pre- Approval or Post-Approval Clinical Trials -ohje. ^ich-e6-r3-a1-3-13-2-item-f
+<a id="ich-e6-r3-a1-3-13-2-item-d"></a>
+
+- (d) Epäillyistä odottamattomista vakavista haittavaikutuksista (SUSAR) tulee raportoida tutkijalle/tutkimuslaitokselle ja eettiselle toimikunnalle siten, että raportointi vastaa vaadittujen toimien kiireellisyyttä. Raportoinnissa tulee ottaa huomioon valmisteen turvallisuusprofiilista saadut uudet tiedot ja raportointi tulee suorittaa lainsäädännön vaatimusten mukaisesti. Joillakin alueilla voi olla tarkoituksenmukaista raportoida säännöllisesti rivikohtainen listaus haittavaikutuksista ja yleinen arvio turvallisuudesta.
+
+<a id="ich-e6-r3-a1-3-13-2-item-e"></a>
+
+- (e) Kiireellisistä turvallisuuskysymyksistä, jotka vaativat välitöntä huomiota tai toimenpiteitä, tulee ilmoittaa eettiselle toimikunnalle ja/tai valvontaviranomaisille ja tutkijoille ilman aiheetonta viivytystä ja lainsäädännön vaatimusten mukaisesti.
+
+<a id="ich-e6-r3-a1-3-13-2-item-f"></a>
+
+- (f) Valvontaviranomaisille, eettiselle toimikunnalle ja tutkijoille välitettävän turvallisuusraportoinnin sekä tutkijoiden toimeksiantajalle suorittaman raportoinnin vaihtoehtoisista järjestelyistä tulee sopia etukäteen valvontaviranomaisten ja tarvittaessa eettisen toimikunnan kanssa, ja vaihtoehtoiset järjestelyt tulee kuvata kliinisen lääketutkimuksen tutkimussuunnitelmassa (esim. vakavat haittatapahtumat [SAE:t], jotka katsotaan tehoon tai turvallisuuteen liittyviksi päätetapahtumiksi ja joiden vuoksi sokkoutusta ei pureta ja joita ei raportoida nopeutetusti; ks. ICH E2A). Katso ICH E19 A Selective Approach to Safety Data Collection in Specific Late-Stage Pre- Approval or Post-Approval Clinical Trials -ohje.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

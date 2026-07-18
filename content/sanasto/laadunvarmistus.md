@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/laadunvarmistus/"
 ---
 
-# Laadunvarmistus
-
 **Englanniksi:** quality assurance, QA
 
 ## Suomenkielinen määritelmä

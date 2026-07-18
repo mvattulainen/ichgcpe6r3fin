@@ -30,25 +30,39 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.2.2 Merkityksellinen metatieto, mukaan lukien jäljitettävyysketjut
-
 Vastuullisen osapuolen käyttämään lähestymistapaan, jolla toteutetaan, arvioidaan, käytetään, hallinnoidaan ja tarkastellaan kriittisimpiin tietoihin liittyviä olennaisia metatietoja, tulee sisältyä:
 
-- (a) Järjestelmän arvioiminen käytettävissä olevan metatiedon tyypin ja sisällön osalta sen varmistamiseksi, että: ^ich-e6-r3-a1-4-2-2-item-a
+<a id="ich-e6-r3-a1-4-2-2-item-a"></a>
 
-- (i) Tietokoneistetut järjestelmät ylläpitävät lokeja käyttäjätilien luomisesta sekä käyttäjien rooleihin, lupiin ja käyttöoikeuksiin tehdyistä muutoksista; ^ich-e6-r3-a1-4-2-2-item-i
+- (a) Järjestelmän arvioiminen käytettävissä olevan metatiedon tyypin ja sisällön osalta sen varmistamiseksi, että:
 
-- (ii) järjestelmät on suunniteltu sallimaan muutokset tiedoissa siten, että alkuperäinen merkintä, mahdolliset myöhemmät muutokset tai poistot sekä tarvittaessa muutoksen syy dokumentoidaan; ^ich-e6-r3-a1-4-2-2-item-ii
+<a id="ich-e6-r3-a1-4-2-2-item-i"></a>
 
-- (iii) järjestelmät kirjaavat ja ylläpitävät työnkulun toimenpiteitä tiedon suoran syöttämisen ja/tai järjestelmässä tehtyjen muutosten lisäksi. ^ich-e6-r3-a1-4-2-2-item-iii
+- (i) Tietokoneistetut järjestelmät ylläpitävät lokeja käyttäjätilien luomisesta sekä käyttäjien rooleihin, lupiin ja käyttöoikeuksiin tehdyistä muutoksista;
 
-- (b) Sen varmistaminen, että jäljitettävyysketjut, raportit ja lokit eivät ole poissa käytöstä. Jäljitettävyysketjuja ei saa muuttaa lukuun ottamatta harvinaisia tapauksia (esim. jos tutkimukseen osallistujan henkilötietoja kirjataan vahingossa tietoihin) ja vain, jos tällaisesta toimesta ja oikaisusta pidetään lokia; ^ich-e6-r3-a1-4-2-2-item-b
+<a id="ich-e6-r3-a1-4-2-2-item-ii"></a>
 
-- (c) Sen varmistaminen, että jäljitettävyysketjut ja lokit ovat tulkittavissa ja pystyvät tukemaan tarkastelua; ^ich-e6-r3-a1-4-2-2-item-c
+- (ii) järjestelmät on suunniteltu sallimaan muutokset tiedoissa siten, että alkuperäinen merkintä, mahdolliset myöhemmät muutokset tai poistot sekä tarvittaessa muutoksen syy dokumentoidaan;
 
-- (d) Sen varmistaminen, että tietojen automaattisen kirjaamisen tai siirron päivämäärä ja kellonaika ovat yksiselitteisiä (esim. koordinoitu yleisaika UTC); ^ich-e6-r3-a1-4-2-2-item-d
+<a id="ich-e6-r3-a1-4-2-2-item-iii"></a>
 
-- (e) sen määrittäminen, mitkä tunnistetusta metatiedosta edellyttävät tarkastelua ja säilyttämistä. ^ich-e6-r3-a1-4-2-2-item-e
+- (iii) järjestelmät kirjaavat ja ylläpitävät työnkulun toimenpiteitä tiedon suoran syöttämisen ja/tai järjestelmässä tehtyjen muutosten lisäksi.
+
+<a id="ich-e6-r3-a1-4-2-2-item-b"></a>
+
+- (b) Sen varmistaminen, että jäljitettävyysketjut, raportit ja lokit eivät ole poissa käytöstä. Jäljitettävyysketjuja ei saa muuttaa lukuun ottamatta harvinaisia tapauksia (esim. jos tutkimukseen osallistujan henkilötietoja kirjataan vahingossa tietoihin) ja vain, jos tällaisesta toimesta ja oikaisusta pidetään lokia;
+
+<a id="ich-e6-r3-a1-4-2-2-item-c"></a>
+
+- (c) Sen varmistaminen, että jäljitettävyysketjut ja lokit ovat tulkittavissa ja pystyvät tukemaan tarkastelua;
+
+<a id="ich-e6-r3-a1-4-2-2-item-d"></a>
+
+- (d) Sen varmistaminen, että tietojen automaattisen kirjaamisen tai siirron päivämäärä ja kellonaika ovat yksiselitteisiä (esim. koordinoitu yleisaika UTC);
+
+<a id="ich-e6-r3-a1-4-2-2-item-e"></a>
+
+- (e) sen määrittäminen, mitkä tunnistetusta metatiedosta edellyttävät tarkastelua ja säilyttämistä.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

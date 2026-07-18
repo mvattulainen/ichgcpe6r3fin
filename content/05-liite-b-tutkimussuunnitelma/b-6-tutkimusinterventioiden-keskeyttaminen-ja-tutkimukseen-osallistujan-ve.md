@@ -28,17 +28,23 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.6 Tutkimusinterventioiden keskeyttäminen ja tutkimukseen osallistujan vetäytyminen
-
 tutkimuksesta [[sanasto/tutkija|Tutkija]] voi päättää keskeyttää tutkimukseen osallistujan osallistumisen tutkimukseen. Myös [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] voi päättää vetäytyä tutkimuksesta tai lopettaa tutkimusvalmisteen käytön (ks. kappaleen 2.8.10 alakohta l, kappaleen 2.8.10 alakohta m ja kappale 2.9.1). Tutkimussuunnitelmassa tulee määrittää:
 
-- (a) milloin ja miten tutkimukseen osallistujat voivat keskeyttää tutkimuksen/tutkimusvalmisteen käytön; ^ich-e6-r3-app-b-6-item-a
+<a id="ich-e6-r3-app-b-6-item-a"></a>
 
-- (b) poisvetäytyneistä/keskeyttäneistä tutkimukseen osallistujista kerättävien tietojen tyyppi ja ajoitus, mukaan lukien prosessi, jolla tietoja käsitellään, lainsäädännön vaatimusten mukaisesti; ^ich-e6-r3-app-b-6-item-b
+- (a) milloin ja miten tutkimukseen osallistujat voivat keskeyttää tutkimuksen/tutkimusvalmisteen käytön;
 
-- (c) korvataanko tutkimukseen osallistujat ja miten heidät korvataan; ^ich-e6-r3-app-b-6-item-c
+<a id="ich-e6-r3-app-b-6-item-b"></a>
 
-- (d) niiden tutkimukseen osallistujien seuranta, jotka ovat lopettaneet tutkimusvalmisteen käytön. ^ich-e6-r3-app-b-6-item-d
+- (b) poisvetäytyneistä/keskeyttäneistä tutkimukseen osallistujista kerättävien tietojen tyyppi ja ajoitus, mukaan lukien prosessi, jolla tietoja käsitellään, lainsäädännön vaatimusten mukaisesti;
+
+<a id="ich-e6-r3-app-b-6-item-c"></a>
+
+- (c) korvataanko tutkimukseen osallistujat ja miten heidät korvataan;
+
+<a id="ich-e6-r3-app-b-6-item-d"></a>
+
+- (d) niiden tutkimukseen osallistujien seuranta, jotka ovat lopettaneet tutkimusvalmisteen käytön.
 
 ## Liittyvät käsitteet
 

@@ -34,57 +34,85 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.6 Sopimukset
+<a id="ich-e6-r3-a1-3-6-1"></a>
 
-### 3.6.1 ^ich-e6-r3-a1-3-6-1
+### 3.6.1
 
 Sopimukset, jotka [[sanasto/toimeksiantaja|toimeksiantaja]] tekee kliinisen lääketutkimuksen tutkijan/tutkimuslaitoksen, palveluntarjoajien ja mahdollisten muiden osapuolten (esim. riippumattoman tietojenseurantatoimikunnan (IDMC), arviointitoimikunnan) kanssa, tulee dokumentoida ennen toiminnan aloittamista.
 
-### 3.6.2 ^ich-e6-r3-a1-3-6-2
+<a id="ich-e6-r3-a1-3-6-2"></a>
+
+### 3.6.2
 
 Sopimuksia tulee päivittää tarvittaessa, jotta ne heijastavat siirrettyjen toimien merkittäviä muutoksia.
 
-### 3.6.3 ^ich-e6-r3-a1-3-6-3
+<a id="ich-e6-r3-a1-3-6-3"></a>
+
+### 3.6.3
 
 Toimeksiantajan tulee hankkia tutkijan/tutkimuslaitoksen ja soveltuvin osin palveluntarjoajan sopimukset:
 
-- (a) toteuttaakseen tutkimuksen hyväksytyn tutkimussuunnitelman, hyvän kliinisen tutkimustavan ja sovellettavan lainsäädännön vaatimusten mukaisesti; ^ich-e6-r3-a1-3-6-item-a
+<a id="ich-e6-r3-a1-3-6-item-a"></a>
 
-- (b) noudattaakseen tietojen tallentamista/raportointia koskevia menettelyjä; ^ich-e6-r3-a1-3-6-item-b
+- (a) toteuttaakseen tutkimuksen hyväksytyn tutkimussuunnitelman, hyvän kliinisen tutkimustavan ja sovellettavan lainsäädännön vaatimusten mukaisesti;
 
-- (c) säilyttääkseen [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] vaaditun säilytysajan lainsäädännön vaatimusten mukaisesti tai kunnes [[sanasto/toimeksiantaja|toimeksiantaja]] ilmoittaa tutkijalle/tutkimuslaitokselle, tai soveltuvin osin palveluntarjoajalle, että kyseisiä tietoja ei enää tarvita, sen mukaan, kumpi säilytysaika on pidempi; ^ich-e6-r3-a1-3-6-item-c
+<a id="ich-e6-r3-a1-3-6-item-b"></a>
 
-- (d) mahdollistaakseen toimeksiantajille monitoroinnin ja auditoinnin, kotimaisille ja ulkomaisille valvontaviranomaisille tarkastukset ja lainsäädännön vaatimusten mukaisesti eettiselle toimikunnalle arvioinnin, johon kuuluu [[sanasto/suora-paasy|suora pääsy]] lähdetallenteisiin ja tutkimustiloihin, mukaan lukien palveluntarjoajien [[sanasto/lahdetallenteet|lähdetallenteet]] ja tutkimustilat. ^ich-e6-r3-a1-3-6-item-d
+- (b) noudattaakseen tietojen tallentamista/raportointia koskevia menettelyjä;
 
-### 3.6.4 ^ich-e6-r3-a1-3-6-4
+<a id="ich-e6-r3-a1-3-6-item-c"></a>
+
+- (c) säilyttääkseen [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] vaaditun säilytysajan lainsäädännön vaatimusten mukaisesti tai kunnes [[sanasto/toimeksiantaja|toimeksiantaja]] ilmoittaa tutkijalle/tutkimuslaitokselle, tai soveltuvin osin palveluntarjoajalle, että kyseisiä tietoja ei enää tarvita, sen mukaan, kumpi säilytysaika on pidempi;
+
+<a id="ich-e6-r3-a1-3-6-item-d"></a>
+
+- (d) mahdollistaakseen toimeksiantajille monitoroinnin ja auditoinnin, kotimaisille ja ulkomaisille valvontaviranomaisille tarkastukset ja lainsäädännön vaatimusten mukaisesti eettiselle toimikunnalle arvioinnin, johon kuuluu [[sanasto/suora-paasy|suora pääsy]] lähdetallenteisiin ja tutkimustiloihin, mukaan lukien palveluntarjoajien [[sanasto/lahdetallenteet|lähdetallenteet]] ja tutkimustilat.
+
+<a id="ich-e6-r3-a1-3-6-4"></a>
+
+### 3.6.4
 
 Kaikki toimeksiantajan palveluntarjoajalle siirtämät tutkimukseen liittyvät toimet ja palveluntarjoajan hoidettavaksi ottamat tutkimukseen liittyvät toimet tulee dokumentoida sopimukseen. Kaikki toimeksiantajan tutkimukseen liittyvät toimet, joita ei nimenomaisesti ole siirretty palveluntarjoajalle ja joita [[sanasto/palveluntarjoaja|palveluntarjoaja]] ei ota hoitaakseen, säilyvät toimeksiantajalla.
 
-### 3.6.5 ^ich-e6-r3-a1-3-6-5
+<a id="ich-e6-r3-a1-3-6-5"></a>
+
+### 3.6.5
 
 Toimeksiantajan tulee toimittaa tutkijalle tiedot kaikista palveluntarjoajista, jotka [[sanasto/toimeksiantaja|toimeksiantaja]] on valinnut suorittamaan tutkijan vastuulla olevia toimia. Vastuu näistä toimista pysyy tutkijalla (ks. kappale 2.3.1).
 
-### 3.6.6 ^ich-e6-r3-a1-3-6-6
+<a id="ich-e6-r3-a1-3-6-6"></a>
+
+### 3.6.6
 
 [[sanasto/toimeksiantaja|Toimeksiantaja]] voi siirtää osan tai kaikki tutkimukseen liittyvät toimet palveluntarjoajalle lainsäädännön vaatimusten mukaisesti, mutta toimeksiantajalla säilyy vastuu tutkimukseen liittyvistä toimista, mukaan lukien tutkimukseen osallistujien oikeuksien, turvallisuuden ja hyvinvoinnin sekä tutkimustulosten luotettavuuden suojeleminen. Kaikkien kliinisen lääketutkimuksen toimien suorittamiseen käytettyjen palveluntarjoajien tulee toteuttaa asianmukaista laadunhallintaa ja raportoida toimeksiantajalle tapahtumista, joilla saattaa olla vaikutusta tutkimukseen osallistujien turvallisuuteen ja/tai tutkimustuloksiin.
 
-### 3.6.7 ^ich-e6-r3-a1-3-6-7
+<a id="ich-e6-r3-a1-3-6-7"></a>
+
+### 3.6.7
 
 [[sanasto/toimeksiantaja|Toimeksiantaja]] vastaa palveluntarjoajan soveltuvuuden arvioinnista ja valinnasta varmistuakseen, että [[sanasto/palveluntarjoaja|palveluntarjoaja]] voi hoitaa sille siirretyt toimet asianmukaisesti. Toimeksiantajan tulee tarvittaessa toimittaa palveluntarjoajille [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] sekä kaikki muut asiakirjat, joita tarvitaan toimien hoitamiseen.
 
-### 3.6.8 ^ich-e6-r3-a1-3-6-8
+<a id="ich-e6-r3-a1-3-6-8"></a>
+
+### 3.6.8
 
 Toimeksiantajalla tulee olla pääsy asiaankuuluviin tietoihin (esim. toimintaohjeisiin ja toiminnan tunnuslukuihin) palveluntarjoajien valintaa ja valvontaa varten.
 
-### 3.6.9 ^ich-e6-r3-a1-3-6-9
+<a id="ich-e6-r3-a1-3-6-9"></a>
+
+### 3.6.9
 
 Toimeksiantajan tulee varmistaa palveluntarjoajille siirrettävien tutkimukseen liittyvien tärkeiden toimien asianmukainen valvonta, mukaan lukien ne toimet, jotka palveluntarjoajat siirtävät eteenpäin alihankintana toiselle palveluntarjoajalle.
 
-### 3.6.10 ^ich-e6-r3-a1-3-6-10
+<a id="ich-e6-r3-a1-3-6-10"></a>
+
+### 3.6.10
 
 Palveluntarjoajien suorittamat tutkimukseen liittyvät toimet tulee toteuttaa hyvän kliinisen tutkimustavan vaatimusten mukaisesti. Ne voidaan täyttää palveluntarjoajan olemassa olevilla laadunhallintaprosesseilla, vaikka prosesseja ei olisikaan erityisesti suunniteltu hyvän kliinisen tutkimustavan mukaisiksi, jos ne ovat tarkoitukseen sopivia tutkimuksen puitteissa.
 
-### 3.6.11 ^ich-e6-r3-a1-3-6-11
+<a id="ich-e6-r3-a1-3-6-11"></a>
+
+### 3.6.11
 
 Kliinisessä lääketutkimuksessa voi olla yksi tai useampi [[sanasto/toimeksiantaja|toimeksiantaja]], jos se on sallittua lainsäädännön vaatimusten mukaan. Tutkimuksissa, joissa on useampi kuin yksi [[sanasto/toimeksiantaja|toimeksiantaja]], toimeksiantajilla tulee olla dokumentoitu [[sanasto/sopimus|sopimus]], jossa määritellään toimeksiantajien vastuualueetpaikallisten lainsäädännön vaatimusten ja/tai käytäntöjen mukaisesti. Jos dokumentoidussa sopimuksessa ei täsmennetä, kenelle toimeksiantajalle jokin tietty vastuu kuuluu, vastuu on kaikilla toimeksiantajilla.
 

@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.15 Rahoitus ja vakuutus
-
 Rahoitus ja vakuutus, ellei niitä määritellä erillisessä sopimuksessa.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

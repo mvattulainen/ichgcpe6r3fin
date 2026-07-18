@@ -30,17 +30,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4. Kliinisten lääketutkimusten tulee olla tieteellisesti perusteltuja niiden aiottuun tarkoitukseen nähden ja perustua asianmukaiselle ja ajantasaiselle tieteelliselle tietämykselle ja lähestymistavoille.
+<a id="ich-e6-r3-principle-04-4-1"></a>
 
-### 4.1 ^ich-e6-r3-principle-04-4-1
+### 4.1
 
 Tutkimusvalmisteesta tulee olla riittävästi ei-kliinistä ja kliinistä tietoa, joka tukee ehdotetun kliinisen lääketutkimuksen toteuttamista.
 
-### 4.2 ^ich-e6-r3-principle-04-4-2
+<a id="ich-e6-r3-principle-04-4-2"></a>
+
+### 4.2
 
 Kliinisten lääketutkimusten tulee olla tieteellisesti päteviä ja vastata tutkimusvalmisteista saatavilla olevia tietoja ja kokemusta, mukaan lukien soveltuvin osin tietoja ja kokemusta hoidettavasta, diagnosoitavasta tai ehkäistävästä sairaudesta ja nykyistä ymmärrystä (sekä sairauden että tutkimusvalmisteen) taustalla olevasta biologisesta mekanismista sekä ryhmästä, jolle [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] on tarkoitettu.
 
-### 4.3 ^ich-e6-r3-principle-04-4-3
+<a id="ich-e6-r3-principle-04-4-3"></a>
+
+### 4.3
 
 Ajantasaisia tieteellisiä tietoja ja lähestymistapoja tulee arvioida uudelleen säännöllisesti, jotta voidaan päättää, onko tutkimusta muutettava, koska uutta tai odottamatonta tietoa voi ilmaantua tutkimuksen alkamisen jälkeen.
 

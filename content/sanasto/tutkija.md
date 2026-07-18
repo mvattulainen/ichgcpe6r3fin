@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkija/"
 ---
 
-# Tutkija
-
 **Englanniksi:** investigator
 
 ## Suomenkielinen määritelmä

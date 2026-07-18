@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/satunnaistaminen/"
 ---
 
-# Satunnaistaminen
-
 **Englanniksi:** randomisation
 
 ## Suomenkielinen määritelmä

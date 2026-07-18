@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.3.1 Tietokoneistettujen järjestelmien käyttöä koskevat menettelyt
-
 Käytössä tulee olla dokumentoidut menettelyt sen varmistamiseksi, että tietokoneistettuja järjestelmiä käytetään kliinisissä lääketutkimuksissa asianmukaisesti tiedon keräämiseen, käsittelyyn ja hallintaan liittyvissä olennaisissa toiminnoissa.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

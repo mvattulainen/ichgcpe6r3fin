@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/monitorointi/"
 ---
 
-# Monitorointi
-
 **Englanniksi:** monitoring
 
 ## Suomenkielinen määritelmä

@@ -30,13 +30,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.4.1 Tutkimuspaikan monitorointi
+<a id="ich-e6-r3-a1-3-11-4-1-item-a"></a>
 
-- (a) Monitorointia voidaan suorittaa kliinisten lääketutkimusten yhteydessä tutkimuspaikoilla (mukaan lukien tarvittaessa apteekit ja paikalliset laboratoriot). Myös monitorointitoimien tiheys tulee määrittää tunnistettujen riskien perusteella. Monitorointitoimia ja niiden tiheyttä tulee tarpeen mukaan muokata kertyneiden tietojen perusteella. ^ich-e6-r3-a1-3-11-4-1-item-a
+- (a) Monitorointia voidaan suorittaa kliinisten lääketutkimusten yhteydessä tutkimuspaikoilla (mukaan lukien tarvittaessa apteekit ja paikalliset laboratoriot). Myös monitorointitoimien tiheys tulee määrittää tunnistettujen riskien perusteella. Monitorointitoimia ja niiden tiheyttä tulee tarpeen mukaan muokata kertyneiden tietojen perusteella.
 
-- (b) [[sanasto/monitorointi|Monitorointi]] voidaan suorittaa paikan päällä ja/tai etänä toiminnan luonteen ja tavoitteiden mukaisesti. ^ich-e6-r3-a1-3-11-4-1-item-b
+<a id="ich-e6-r3-a1-3-11-4-1-item-b"></a>
 
-- (c) Monitorointiin voi sisältyä etäyhteydellä toteutettava, suojattu, suora ja vain lukuoikeudellinen pääsy lähdetallenteisiin, muihin tiedonkeruutyökaluihin ja oleellisten tallenteiden säilytysjärjestelmiin. ^ich-e6-r3-a1-3-11-4-1-item-c
+- (b) [[sanasto/monitorointi|Monitorointi]] voidaan suorittaa paikan päällä ja/tai etänä toiminnan luonteen ja tavoitteiden mukaisesti.
+
+<a id="ich-e6-r3-a1-3-11-4-1-item-c"></a>
+
+- (c) Monitorointiin voi sisältyä etäyhteydellä toteutettava, suojattu, suora ja vain lukuoikeudellinen pääsy lähdetallenteisiin, muihin tiedonkeruutyökaluihin ja oleellisten tallenteiden säilytysjärjestelmiin.
 
 ## Liittyvät käsitteet
 

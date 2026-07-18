@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.7 Tutkimukseen osallistujille annettava lääketieteellinen hoito ja
-
 turvallisuusraportointi
 
 > [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.

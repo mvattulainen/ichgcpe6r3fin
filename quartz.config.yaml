@@ -79,7 +79,7 @@ plugins:
     enabled: true
   - source: github:quartz-community/content-page
     enabled: true
-  - source: github:quartz-community/folder-page
+  - source: ./plugins/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
     enabled: true

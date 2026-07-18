@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.10 Laadunhallinta
-
 Toimeksiantajan tulee laatia asianmukainen laadunhallintajärjestelmä, joka kattaa tutkimuksen kaikki vaiheet. Laadunhallintaan kuuluu tehokkaiden kliinisten lääketutkimusten tutkimussuunnitelmien suunnittelu ja toteutus, mukaan lukien välineet ja menettelyt tutkimuksen toteuttamista varten (kattaen myös tiedonkeruun ja -hallinnan), jotta turvataan tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi sekä tutkimustulosten luotettavuus. Toimeksiantajan tulee noudattaa laadunhallinnassa oikeasuhtaista ja riskiperusteista lähestymistapaa. Tämä tarkoittaa laadun sisällyttämistä kliinisen lääketutkimuksen suunnitteluun eli laadun suunnittelua (Quality by Design) sekä sellaisten tekijöiden tunnistamista, joilla on todennäköisesti merkittävä vaikutus osallistujien oikeuksiin, turvallisuuteen ja hyvinvointiin ja tulosten luotettavuuteen, eli kriittisten laatutekijöiden tunnistamista ICH E8(R1) -ohjeessa kuvatulla tavalla. Toimeksiantajan tulee kuvailla tutkimuksessa toteutetut laadunhallinnan menettelyt kliinisen lääketutkimuksen raportissa (ks. ICH E3 Structure and Content of Clinical Study Reports).
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

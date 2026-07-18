@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/auditointi/"
 ---
 
-# Auditointi
-
 **Englanniksi:** audit
 
 ## Suomenkielinen määritelmä

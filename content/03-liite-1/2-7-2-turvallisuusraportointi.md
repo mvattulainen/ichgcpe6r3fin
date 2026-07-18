@@ -32,15 +32,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.7.2 Turvallisuusraportointi
+<a id="ich-e6-r3-a1-2-7-2-item-a"></a>
 
-- (a) Turvallisuusarviointeja varten (tutkimussuunnitelman mukaisesti) tarvittavat haittatapahtumat ja/tai epänormaalit testitulokset tulee raportoida toimeksiantajalle noudattaen raportointivaatimuksia ja toimeksiantajan tutkimussuunnitelmassa määrittelemän määräajan mukaisesti. Tutkimukseen osallistujilla ennen tutkimusvalmisteen antamista (esim. seulonnan aikana) todetut epäsuotuisat lääketieteelliset tapahtumat tulee huomioida ja raportoida toimeksiantajalle, jos [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] sitä vaatii. ^ich-e6-r3-a1-2-7-2-item-a
+- (a) Turvallisuusarviointeja varten (tutkimussuunnitelman mukaisesti) tarvittavat haittatapahtumat ja/tai epänormaalit testitulokset tulee raportoida toimeksiantajalle noudattaen raportointivaatimuksia ja toimeksiantajan tutkimussuunnitelmassa määrittelemän määräajan mukaisesti. Tutkimukseen osallistujilla ennen tutkimusvalmisteen antamista (esim. seulonnan aikana) todetut epäsuotuisat lääketieteelliset tapahtumat tulee huomioida ja raportoida toimeksiantajalle, jos [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] sitä vaatii.
 
-- (b) Kaikista vakavista haittatapahtumista tulee ilmoittaa toimeksiantajalle välittömästi (sen jälkeen, kun tutkijan voidaan kohtuullisesti olettaa saaneen tietää tapahtumasta). Tutkijan tulee myös tehdä syy-yhteyden arviointi. Tutkimussuunnitelmassa voidaan lainsäädännön vaatimusten mukaisesti yksilöidä vakavat haittatapahtumat, jotka eivät edellytä välitöntä raportointia, esimerkiksi kuolemat tai muut päätetapahtumat. Näihin liittyvät tiedot tulee toimittaa tarvittaessa seurantaraporttina. ^ich-e6-r3-a1-2-7-2-item-b
+<a id="ich-e6-r3-a1-2-7-2-item-b"></a>
 
-- (c) Tutkijan tulee kuolemantapauksista raportoidessaan antaa toimeksiantajalle, eettiselle toimikunnalle ja soveltuvin osin myös valvontaviranomaisille kaikki näiden pyytämät lisätiedot (esim. ruumiinavausraportit ja kuolintodistukset), sitten kun ne ovat saatavilla. ^ich-e6-r3-a1-2-7-2-item-c
+- (b) Kaikista vakavista haittatapahtumista tulee ilmoittaa toimeksiantajalle välittömästi (sen jälkeen, kun tutkijan voidaan kohtuullisesti olettaa saaneen tietää tapahtumasta). Tutkijan tulee myös tehdä syy-yhteyden arviointi. Tutkimussuunnitelmassa voidaan lainsäädännön vaatimusten mukaisesti yksilöidä vakavat haittatapahtumat, jotka eivät edellytä välitöntä raportointia, esimerkiksi kuolemat tai muut päätetapahtumat. Näihin liittyvät tiedot tulee toimittaa tarvittaessa seurantaraporttina.
 
-- (d) [[sanasto/tutkija|Tutkija]] voi delegoida turvallisuusraportointiin liittyviä toimia pätevälle tutkimusta suorittavalle henkilölle, mutta tutkijalla säilyy kokonaisvastuu hänen vastuullaan olevien tutkimukseen osallistujien turvallisuudesta ja raportointivaatimusten noudattamisesta. ^ich-e6-r3-a1-2-7-2-item-d
+<a id="ich-e6-r3-a1-2-7-2-item-c"></a>
+
+- (c) Tutkijan tulee kuolemantapauksista raportoidessaan antaa toimeksiantajalle, eettiselle toimikunnalle ja soveltuvin osin myös valvontaviranomaisille kaikki näiden pyytämät lisätiedot (esim. ruumiinavausraportit ja kuolintodistukset), sitten kun ne ovat saatavilla.
+
+<a id="ich-e6-r3-a1-2-7-2-item-d"></a>
+
+- (d) [[sanasto/tutkija|Tutkija]] voi delegoida turvallisuusraportointiin liittyviä toimia pätevälle tutkimusta suorittavalle henkilölle, mutta tutkijalla säilyy kokonaisvastuu hänen vastuullaan olevien tutkimukseen osallistujien turvallisuudesta ja raportointivaatimusten noudattamisesta.
 
 ## Liittyvät käsitteet
 

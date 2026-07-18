@@ -38,79 +38,149 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.16.1 Tietojen käsittely
+<a id="ich-e6-r3-a1-3-16-1-item-a"></a>
 
-- (a) Toimeksiantajan tulee varmistaa tuotettujen ja hallinnoitujen [[sanasto/tietojen-eheys|tietojen eheys]] ja [[sanasto/luottamuksellisuus|luottamuksellisuus]]. ^ich-e6-r3-a1-3-16-1-item-a
+- (a) Toimeksiantajan tulee varmistaa tuotettujen ja hallinnoitujen [[sanasto/tietojen-eheys|tietojen eheys]] ja [[sanasto/luottamuksellisuus|luottamuksellisuus]].
 
-- (b) Toimeksiantajan tulee soveltaa laadunvalvontaa tietojen käsittelyn merkityksellisissä vaiheissa varmistaakseen, että tiedot ovat riittävän laadukkaita luotettavien tulosten tuottamiseksi. Toimeksiantajan tulee kohdentaa [[sanasto/laadunvarmistus|laadunvarmistus]]- ja laadunvalvontatoimensa, mukaan lukien tietojen tarkastelu, kriittisempiin tietoihin ja asiaankuuluvaan metatietoon. ^ich-e6-r3-a1-3-16-1-item-b
+<a id="ich-e6-r3-a1-3-16-1-item-b"></a>
 
-- (c) Toimeksiantajan tulee määrittää ennalta kerättävät tiedot ja niiden keruumenetelmä tutkimussuunnitelmassa (ks. täydentävä liite B). Tarvittaessa tutkimussuunnitelmaan liittyvään asiakirjaan (esim. tiedonhallinnan suunnitelmaan) tulee sisällyttää lisätietoja, mukaan lukien tietovuokaavio. ^ich-e6-r3-a1-3-16-1-item-c
+- (b) Toimeksiantajan tulee soveltaa laadunvalvontaa tietojen käsittelyn merkityksellisissä vaiheissa varmistaakseen, että tiedot ovat riittävän laadukkaita luotettavien tulosten tuottamiseksi. Toimeksiantajan tulee kohdentaa [[sanasto/laadunvarmistus|laadunvarmistus]]- ja laadunvalvontatoimensa, mukaan lukien tietojen tarkastelu, kriittisempiin tietoihin ja asiaankuuluvaan metatietoon.
 
-- (d) Toimeksiantajan tulee varmistaa, että tiedonkeruutyökalut ovat tarkoitukseen sopivia ja että ne on suunniteltu keräämään tutkimussuunnitelman edellyttämät tiedot. Tiedonkeruutyökalujen tulee olla validoituja ja käyttövalmiita ennen kuin niitä tarvitaan tutkimuksessa. ^ich-e6-r3-a1-3-16-1-item-d
+<a id="ich-e6-r3-a1-3-16-1-item-c"></a>
 
-- (e) Toimeksiantajan tulee varmistaa, että dokumentoidut prosessit toteutetaan tietojen eheyden varmistamiseksi tietojen koko elinkaaren ajan (ks. kappale 4.2). ^ich-e6-r3-a1-3-16-1-item-e
+- (c) Toimeksiantajan tulee määrittää ennalta kerättävät tiedot ja niiden keruumenetelmä tutkimussuunnitelmassa (ks. täydentävä liite B). Tarvittaessa tutkimussuunnitelmaan liittyvään asiakirjaan (esim. tiedonhallinnan suunnitelmaan) tulee sisällyttää lisätietoja, mukaan lukien tietovuokaavio.
 
-- (f) Toimeksiantajan tulee toteuttaa toimenpiteitä mahdollisen sokkoutuksen turvaamiseksi (esim. sokkoutuksen säilyminen tietojen syöttämisen ja käsittelyn aikana). ^ich-e6-r3-a1-3-16-1-item-f
+<a id="ich-e6-r3-a1-3-16-1-item-d"></a>
 
-- (g) Toimeksiantajan tulee tarvittaessa ottaa käyttöön menettelyjä, joissa kuvataan sokkoutuksen purkaminen. Kuvausten tulee sisältää seuraavat tiedot: ^ich-e6-r3-a1-3-16-1-item-g
+- (d) Toimeksiantajan tulee varmistaa, että tiedonkeruutyökalut ovat tarkoitukseen sopivia ja että ne on suunniteltu keräämään tutkimussuunnitelman edellyttämät tiedot. Tiedonkeruutyökalujen tulee olla validoituja ja käyttövalmiita ennen kuin niitä tarvitaan tutkimuksessa.
 
-- (i) kenen [[sanasto/sokkoutus|sokkoutus]] purettiin, missä vaiheessa ja mitä tarkoitusta varten; ^ich-e6-r3-a1-3-16-1-item-i
+<a id="ich-e6-r3-a1-3-16-1-item-e"></a>
 
-- (ii) kenen sokkoutuksen pitäisi edelleen jatkua; ^ich-e6-r3-a1-3-16-1-item-ii
+- (e) Toimeksiantajan tulee varmistaa, että dokumentoidut prosessit toteutetaan tietojen eheyden varmistamiseksi tietojen koko elinkaaren ajan (ks. kappale 4.2).
 
-- (iii) käytössä olevat suojatoimet sokkoutuksen säilyttämiseksi. ^ich-e6-r3-a1-3-16-1-item-iii
+<a id="ich-e6-r3-a1-3-16-1-item-f"></a>
 
-- (h) Toimeksiantajan tulee tarvittaessa antaa ohjeita tutkijoille/tutkimuslaitoksille, palveluntarjoajille ja tutkimukseen osallistujille tietojen keräämistä, tietojen muuttamista, tietojen säilyttämistä ja tietojen hävittämistä koskevista odotuksista. ^ich-e6-r3-a1-3-16-1-item-h
+- (f) Toimeksiantajan tulee toteuttaa toimenpiteitä mahdollisen sokkoutuksen turvaamiseksi (esim. sokkoutuksen säilyminen tietojen syöttämisen ja käsittelyn aikana).
 
-- (i) Toimeksiantajan ei tule tehdä muutoksia tutkijan tai tutkimukseen osallistujien syöttämiin tietoihin, paitsi jos se on perusteltua, siitä on sovittu tutkijan kanssa etukäteen ja se dokumentoidaan. ^ich-e6-r3-a1-3-16-1-item-i
+<a id="ich-e6-r3-a1-3-16-1-item-g"></a>
 
-- (j) Toimeksiantajan tulee sallia tietoihin kohdistuvien virheiden korjaaminen, mukaan lukien tutkimuksen osallistujien syöttämät tiedot, jos tutkijat/tutkimukseen osallistujat sitä pyytävät. Tällaiset tietojen korjaukset tulee perustella, ja niiden tueksi tulee olla lähdetallenteita, joiden tiedot on kirjattu alkuperäisen kirjauksen ajankohdan lähellä. ^ich-e6-r3-a1-3-16-1-item-j
+- (g) Toimeksiantajan tulee tarvittaessa ottaa käyttöön menettelyjä, joissa kuvataan sokkoutuksen purkaminen. Kuvausten tulee sisältää seuraavat tiedot:
 
-- (k) Toimeksiantajan tulee varmistaa, että tutkijalla on oikea-aikainen pääsy tietoihin, jotka on kerätty tutkimussuunnitelman mukaisesti tutkimuksen aikana, mukaan lukien asiaankuuluvat tiedot ulkoisista lähteistä (esim. keskuslaboratoriosta tulevat tiedot, keskitetysti tulkitut kuvantamistiedot ja tarvittaessa potilaan sähköisesti raportoimat tulokset [ePRO]). Näin tutkijat voivat tehdä päätöksiä (esim. yksittäisten tutkimukseen osallistujien soveltuvuudesta, hoidosta, tutkimukseen osallistumisen jatkamisesta ja turvallisuuden huolehtimisesta) (ks. kappale 2.12.3). Toimeksiantajan ei tule jakaa sellaisia tietoja, jotka voivat purkaa tutkijan sokkoutuksen, ja tutkimussuunnitelmaan tulee sisällyttää tätä koskevat asianmukaiset määräykset. ^ich-e6-r3-a1-3-16-1-item-k
+<a id="ich-e6-r3-a1-3-16-1-item-i"></a>
 
-- (l) Toimeksiantajan ei tule hallita yksin tiedonkeruutyökaluilla kerättyjä tietoja, jotta voidaan estää havaitsemattomat muutokset. ^ich-e6-r3-a1-3-16-1-item-l
+- (i) kenen [[sanasto/sokkoutus|sokkoutus]] purettiin, missä vaiheessa ja mitä tarkoitusta varten;
 
-- (m) Toimeksiantajan tulee varmistaa, että tutkijalla on pääsy tarvittaviin tietoihin arkistointi-/säilytysvelvoitteen täyttämiseksi. ^ich-e6-r3-a1-3-16-1-item-m
+<a id="ich-e6-r3-a1-3-16-1-item-ii"></a>
 
-- (n) Toimeksiantajan tulee varmistaa, että [[sanasto/tutkija|tutkija]] saa ohjeet siitä, miten hänen vastuullaan olevien tutkimukseen osallistujien tietoja ja olennaisia metatietoja tarkastellaan ja miten niihin liittyviä järjestelmiä käytetään. ^ich-e6-r3-a1-3-16-1-item-n
+- (ii) kenen sokkoutuksen pitäisi edelleen jatkua;
 
-- (o) Toimeksiantajan tulee pyytää tutkijaa vahvistamaan raportoimansa tiedot ennalta määritellyissä keskeisissä välitavoitteissa. ^ich-e6-r3-a1-3-16-1-item-o
+<a id="ich-e6-r3-a1-3-16-1-item-iii"></a>
 
-- (p) Toimeksiantajan tulee määrittää ennen analyysia tehtävät tietojenhallintavaiheet, joilla varmistetaan tietojen riittävä laatu. Nämä vaiheet voivat vaihdella riippuen suoritettavan analyysin tarkoituksesta, esimerkiksi sen perusteella, ovatko tiedot riippumatonta tietojenseurantatoimikuntaa (IDMC), välianalyysia tai loppuanalyysia varten (ks. kappale 4.2.6). Näiden vaiheiden suorittaminen tulee dokumentoida. ^ich-e6-r3-a1-3-16-1-item-p
+- (iii) käytössä olevat suojatoimet sokkoutuksen säilyttämiseksi.
 
-- (q) Suunniteltua välianalyysia varten pääsyä tietoihin ja mahdollisuutta muuttaa tietoja tulee hallita sen perusteella, mitä vaiheita tarvitaan, jotta tiedot ovat riittävän laadukkaita analyysiä varten. ^ich-e6-r3-a1-3-16-1-item-q
+<a id="ich-e6-r3-a1-3-16-1-item-h"></a>
 
-- (r) Tietojen muokkausoikeuksia tiedonkeruutyökaluissa tulee rajoittaa ennen tietojen toimittamista lopullista analyysiä varten ja tarvittaessa ennen tutkimuksen sokkoutuksen purkamista. ^ich-e6-r3-a1-3-16-1-item-r
+- (h) Toimeksiantajan tulee tarvittaessa antaa ohjeita tutkijoille/tutkimuslaitoksille, palveluntarjoajille ja tutkimukseen osallistujille tietojen keräämistä, tietojen muuttamista, tietojen säilyttämistä ja tietojen hävittämistä koskevista odotuksista.
 
-- (s) Toimeksiantajan tulee käyttää yksiselitteistä tutkimukseen osallistujan tunnistekoodia, joka mahdollistaa kaikkien raportoitujen tietojen yksilöinnin kunkin tutkimukseen osallistujan osalta. ^ich-e6-r3-a1-3-16-1-item-s
+<a id="ich-e6-r3-a1-3-16-1-item-i"></a>
 
-- (t) Toimeksiantajan tulee toteuttaa asianmukaiset toimenpiteet tutkimukseen osallistujien yksityisyyden ja luottamuksellisuuden suojaamiseksi henkilötietojen suojaa koskevien voimassa olevien lainsäädännön vaatimusten mukaisesti. ^ich-e6-r3-a1-3-16-1-item-t
+- (i) Toimeksiantajan ei tule tehdä muutoksia tutkijan tai tutkimukseen osallistujien syöttämiin tietoihin, paitsi jos se on perusteltua, siitä on sovittu tutkijan kanssa etukäteen ja se dokumentoidaan.
 
-- (u) Toimeksiantajan tulee lainsäädännön vaatimusten ja tutkimussuunnitelman mukaisesti kuvata prosessi, jolla tutkimukseen osallistujan tietoja käsitellään, kun [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] vetäytyy tutkimuksesta tai keskeyttää tutkimukseen osallistumisen. ^ich-e6-r3-a1-3-16-1-item-u
+<a id="ich-e6-r3-a1-3-16-1-item-j"></a>
 
-- (v) Toimeksiantajan tulee varmistaa, että tutkimustietoja suojataan luvattomalta käytöltä, luovuttamiselta, levittämiseltä tai muuttamiselta ja epäasianmukaiselta tuhoamiselta tai tahattomalta häviämiseltä. ^ich-e6-r3-a1-3-16-1-item-v
+- (j) Toimeksiantajan tulee sallia tietoihin kohdistuvien virheiden korjaaminen, mukaan lukien tutkimuksen osallistujien syöttämät tiedot, jos tutkijat/tutkimukseen osallistujat sitä pyytävät. Tällaiset tietojen korjaukset tulee perustella, ja niiden tueksi tulee olla lähdetallenteita, joiden tiedot on kirjattu alkuperäisen kirjauksen ajankohdan lähellä.
 
-- (w) Toimeksiantajalla tulee olla käytössään prosessit ja menettelyt, joilla asiaankuuluville osapuolille, mukaan lukien [[sanasto/valvontaviranomaiset|valvontaviranomaiset]], voidaan raportoida sellaisista tapahtumista (mukaan lukien tietoturvaloukkaukset), joilla on merkittävä vaikutus tutkimustietoihin. ^ich-e6-r3-a1-3-16-1-item-w
+<a id="ich-e6-r3-a1-3-16-1-item-k"></a>
 
-- (x) Kun kliinisessä lääketutkimuksessa käytetään tietokoneistettuja järjestelmiä, toimeksiantajan tulee: Toimeksiantajan käyttöön ottamien järjestelmien osalta: ^ich-e6-r3-a1-3-16-1-item-x
+- (k) Toimeksiantajan tulee varmistaa, että tutkijalla on oikea-aikainen pääsy tietoihin, jotka on kerätty tutkimussuunnitelman mukaisesti tutkimuksen aikana, mukaan lukien asiaankuuluvat tiedot ulkoisista lähteistä (esim. keskuslaboratoriosta tulevat tiedot, keskitetysti tulkitut kuvantamistiedot ja tarvittaessa potilaan sähköisesti raportoimat tulokset [ePRO]). Näin tutkijat voivat tehdä päätöksiä (esim. yksittäisten tutkimukseen osallistujien soveltuvuudesta, hoidosta, tutkimukseen osallistumisen jatkamisesta ja turvallisuuden huolehtimisesta) (ks. kappale 2.12.3). Toimeksiantajan ei tule jakaa sellaisia tietoja, jotka voivat purkaa tutkijan sokkoutuksen, ja tutkimussuunnitelmaan tulee sisällyttää tätä koskevat asianmukaiset määräykset.
 
-- (i) ylläpitää listaa kliinisessä lääketutkimuksessa käytetyistä tärkeistä tietokoneistetuista järjestelmistä. Listan tulee sisältää tiedot kunkin tietokoneistetun järjestelmän käytöstä, toiminnallisuuksista, rajapinnoista ja validoinnin tilasta, sekä tiedon siitä, kuka vastaa tietokoneistetun järjestelmän hallinnoinnista. Kirjattavien tietojen tulee sisältää myös kuvaus toteutetuista käyttöoikeuksien hallintatoimenpiteistä sekä sisäisistä että ulkoisista turvallisuustoimenpiteistä; ^ich-e6-r3-a1-3-16-1-item-i
+<a id="ich-e6-r3-a1-3-16-1-item-l"></a>
 
-- (ii) varmistaa, että tietokoneistettuja järjestelmiä koskevat vaatimukset (esim. validointia, jäljitettävyysketjua, käyttäjähallintaa, varmuuskopiointia, vikatilanteiden hallintaa ja IT-turvallisuutta koskevat vaatimukset) käsitellään ja pannaan täytäntöön ja että käytössä on dokumentoidut menettelyt ja riittävä koulutus tietokoneistettujen järjestelmien oikean kehityksen, ylläpidon ja käytön varmistamiseksi kliinisissä lääketutkimuksissa (ks. kappale 4). Näiden vaatimusten tulee olla oikeassa suhteessa tietokoneistettujen järjestelmien ja niiden tietojen tai toimien tärkeyteen, joita tietokoneistettujen järjestelmien odotetaan käsittelevän; ^ich-e6-r3-a1-3-16-1-item-ii
+- (l) Toimeksiantajan ei tule hallita yksin tiedonkeruutyökaluilla kerättyjä tietoja, jotta voidaan estää havaitsemattomat muutokset.
 
-- (iii) ylläpitää listaa yksittäisistä käyttäjistä, joilla on oikeus käyttää järjestelmää, ja heidän rooleistansa ja käyttöoikeuksistaan; ^ich-e6-r3-a1-3-16-1-item-iii
+<a id="ich-e6-r3-a1-3-16-1-item-m"></a>
 
-- (iv) varmistaa, että tutkimusta suorittavalle henkilöstölle myönnetyt käyttöoikeudet vastaavat tutkijan delegoimia toimia ja ovat tutkijan nähtävissä; ^ich-e6-r3-a1-3-16-1-item-iv
+- (m) Toimeksiantajan tulee varmistaa, että tutkijalla on pääsy tarvittaviin tietoihin arkistointi-/säilytysvelvoitteen täyttämiseksi.
 
-- (v) varmistaa, että käytössä on prosessi, jonka avulla palveluntarjoajat ja tutkijat voivat ilmoittaa toimeksiantajalle havaituista järjestelmävirheistä; Tutkijan/tutkimuslaitoksen käyttöön ottamien tai käyttämien järjestelmien osalta: ^ich-e6-r3-a1-3-16-1-item-v
+<a id="ich-e6-r3-a1-3-16-1-item-n"></a>
 
-- (vi) arvioida, ovatko tällaiset järjestelmät tarkoitukseen sopivia, jos niiden tunnistetaan sisältävän tutkimukseen liittyviä lähdetallenteita (esim. sähköiset potilasasiakirjat, muut lähdetietojen keräämiseen tarkoitetut tietojen tallentamisjärjestelmät ja tutkijan kantatiedosto) tai voidaanko tunnetuista ongelmista aiheutuvat riskit lieventää asianmukaisesti. Tämän arvioinnin tulee tapahtua kliinisten lääketutkimusten tutkimuspaikkojen valintaprosessin aikana, ja se tulee dokumentoida; ^ich-e6-r3-a1-3-16-1-item-vi
+- (n) Toimeksiantajan tulee varmistaa, että [[sanasto/tutkija|tutkija]] saa ohjeet siitä, miten hänen vastuullaan olevien tutkimukseen osallistujien tietoja ja olennaisia metatietoja tarkastellaan ja miten niihin liittyviä järjestelmiä käytetään.
 
-- (vii) Tilanteissa, joissa harkitaan rutiinikäytössä olevien tietokoneistettujen järjestelmien käyttöä kliinisissä lääketutkimuksissa (esim. tutkijan/tutkimuslaitoksen käyttämät tai käyttöönottamat sähköiset potilasasiakirjat tai kuvantamisjärjestelmät), kyseisten järjestelmien tarkoitukseen sopivuus tutkimuksen puitteissa tulee arvioida; ^ich-e6-r3-a1-3-16-1-item-vii
+<a id="ich-e6-r3-a1-3-16-1-item-o"></a>
 
-- (viii) Arviointi tulee tehdä ennen järjestelmän käyttämistä tutkimuksessa, ja sen tulee olla oikeassa suhteessa järjestelmässä hallinnoitavien tietojen tärkeyteen. Sellaiset tekijät kuin tietoturva (mukaan lukien varmuuskopiointi), käyttäjähallinta ja [[sanasto/jaljitettavyysketju|jäljitettävyysketju]], joiden avulla varmistetaan tutkimustietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]] ja eheys, tulee ottaa huomioon tarpeen mukaan; Kaikkien järjestelmien osalta: ^ich-e6-r3-a1-3-16-1-item-viii
+- (o) Toimeksiantajan tulee pyytää tutkijaa vahvistamaan raportoimansa tiedot ennalta määritellyissä keskeisissä välitavoitteissa.
 
-- (ix) varmistaa, että palveluntarjoajilla ja tutkijalla/tutkimuslaitoksella on käytössä prosessi, jolla toimeksiantajalle ilmoitetaan tapahtumista, jotka voivat mahdollisesti merkitä vakavaa kliinisen lääketutkimuksen tutkimussuunnitelman, tutkimusmenettelyiden, lainsäädännön vaatimusten tai hyvän kliinisen tutkimustavan ohjeiden vaatimusten laiminlyöntiä kappaleen 3.12 mukaisesti. ^ich-e6-r3-a1-3-16-1-item-ix
+<a id="ich-e6-r3-a1-3-16-1-item-p"></a>
+
+- (p) Toimeksiantajan tulee määrittää ennen analyysia tehtävät tietojenhallintavaiheet, joilla varmistetaan tietojen riittävä laatu. Nämä vaiheet voivat vaihdella riippuen suoritettavan analyysin tarkoituksesta, esimerkiksi sen perusteella, ovatko tiedot riippumatonta tietojenseurantatoimikuntaa (IDMC), välianalyysia tai loppuanalyysia varten (ks. kappale 4.2.6). Näiden vaiheiden suorittaminen tulee dokumentoida.
+
+<a id="ich-e6-r3-a1-3-16-1-item-q"></a>
+
+- (q) Suunniteltua välianalyysia varten pääsyä tietoihin ja mahdollisuutta muuttaa tietoja tulee hallita sen perusteella, mitä vaiheita tarvitaan, jotta tiedot ovat riittävän laadukkaita analyysiä varten.
+
+<a id="ich-e6-r3-a1-3-16-1-item-r"></a>
+
+- (r) Tietojen muokkausoikeuksia tiedonkeruutyökaluissa tulee rajoittaa ennen tietojen toimittamista lopullista analyysiä varten ja tarvittaessa ennen tutkimuksen sokkoutuksen purkamista.
+
+<a id="ich-e6-r3-a1-3-16-1-item-s"></a>
+
+- (s) Toimeksiantajan tulee käyttää yksiselitteistä tutkimukseen osallistujan tunnistekoodia, joka mahdollistaa kaikkien raportoitujen tietojen yksilöinnin kunkin tutkimukseen osallistujan osalta.
+
+<a id="ich-e6-r3-a1-3-16-1-item-t"></a>
+
+- (t) Toimeksiantajan tulee toteuttaa asianmukaiset toimenpiteet tutkimukseen osallistujien yksityisyyden ja luottamuksellisuuden suojaamiseksi henkilötietojen suojaa koskevien voimassa olevien lainsäädännön vaatimusten mukaisesti.
+
+<a id="ich-e6-r3-a1-3-16-1-item-u"></a>
+
+- (u) Toimeksiantajan tulee lainsäädännön vaatimusten ja tutkimussuunnitelman mukaisesti kuvata prosessi, jolla tutkimukseen osallistujan tietoja käsitellään, kun [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] vetäytyy tutkimuksesta tai keskeyttää tutkimukseen osallistumisen.
+
+<a id="ich-e6-r3-a1-3-16-1-item-v"></a>
+
+- (v) Toimeksiantajan tulee varmistaa, että tutkimustietoja suojataan luvattomalta käytöltä, luovuttamiselta, levittämiseltä tai muuttamiselta ja epäasianmukaiselta tuhoamiselta tai tahattomalta häviämiseltä.
+
+<a id="ich-e6-r3-a1-3-16-1-item-w"></a>
+
+- (w) Toimeksiantajalla tulee olla käytössään prosessit ja menettelyt, joilla asiaankuuluville osapuolille, mukaan lukien [[sanasto/valvontaviranomaiset|valvontaviranomaiset]], voidaan raportoida sellaisista tapahtumista (mukaan lukien tietoturvaloukkaukset), joilla on merkittävä vaikutus tutkimustietoihin.
+
+<a id="ich-e6-r3-a1-3-16-1-item-x"></a>
+
+- (x) Kun kliinisessä lääketutkimuksessa käytetään tietokoneistettuja järjestelmiä, toimeksiantajan tulee: Toimeksiantajan käyttöön ottamien järjestelmien osalta:
+
+<a id="ich-e6-r3-a1-3-16-1-item-i"></a>
+
+- (i) ylläpitää listaa kliinisessä lääketutkimuksessa käytetyistä tärkeistä tietokoneistetuista järjestelmistä. Listan tulee sisältää tiedot kunkin tietokoneistetun järjestelmän käytöstä, toiminnallisuuksista, rajapinnoista ja validoinnin tilasta, sekä tiedon siitä, kuka vastaa tietokoneistetun järjestelmän hallinnoinnista. Kirjattavien tietojen tulee sisältää myös kuvaus toteutetuista käyttöoikeuksien hallintatoimenpiteistä sekä sisäisistä että ulkoisista turvallisuustoimenpiteistä;
+
+<a id="ich-e6-r3-a1-3-16-1-item-ii"></a>
+
+- (ii) varmistaa, että tietokoneistettuja järjestelmiä koskevat vaatimukset (esim. validointia, jäljitettävyysketjua, käyttäjähallintaa, varmuuskopiointia, vikatilanteiden hallintaa ja IT-turvallisuutta koskevat vaatimukset) käsitellään ja pannaan täytäntöön ja että käytössä on dokumentoidut menettelyt ja riittävä koulutus tietokoneistettujen järjestelmien oikean kehityksen, ylläpidon ja käytön varmistamiseksi kliinisissä lääketutkimuksissa (ks. kappale 4). Näiden vaatimusten tulee olla oikeassa suhteessa tietokoneistettujen järjestelmien ja niiden tietojen tai toimien tärkeyteen, joita tietokoneistettujen järjestelmien odotetaan käsittelevän;
+
+<a id="ich-e6-r3-a1-3-16-1-item-iii"></a>
+
+- (iii) ylläpitää listaa yksittäisistä käyttäjistä, joilla on oikeus käyttää järjestelmää, ja heidän rooleistansa ja käyttöoikeuksistaan;
+
+<a id="ich-e6-r3-a1-3-16-1-item-iv"></a>
+
+- (iv) varmistaa, että tutkimusta suorittavalle henkilöstölle myönnetyt käyttöoikeudet vastaavat tutkijan delegoimia toimia ja ovat tutkijan nähtävissä;
+
+<a id="ich-e6-r3-a1-3-16-1-item-v"></a>
+
+- (v) varmistaa, että käytössä on prosessi, jonka avulla palveluntarjoajat ja tutkijat voivat ilmoittaa toimeksiantajalle havaituista järjestelmävirheistä; Tutkijan/tutkimuslaitoksen käyttöön ottamien tai käyttämien järjestelmien osalta:
+
+<a id="ich-e6-r3-a1-3-16-1-item-vi"></a>
+
+- (vi) arvioida, ovatko tällaiset järjestelmät tarkoitukseen sopivia, jos niiden tunnistetaan sisältävän tutkimukseen liittyviä lähdetallenteita (esim. sähköiset potilasasiakirjat, muut lähdetietojen keräämiseen tarkoitetut tietojen tallentamisjärjestelmät ja tutkijan kantatiedosto) tai voidaanko tunnetuista ongelmista aiheutuvat riskit lieventää asianmukaisesti. Tämän arvioinnin tulee tapahtua kliinisten lääketutkimusten tutkimuspaikkojen valintaprosessin aikana, ja se tulee dokumentoida;
+
+<a id="ich-e6-r3-a1-3-16-1-item-vii"></a>
+
+- (vii) Tilanteissa, joissa harkitaan rutiinikäytössä olevien tietokoneistettujen järjestelmien käyttöä kliinisissä lääketutkimuksissa (esim. tutkijan/tutkimuslaitoksen käyttämät tai käyttöönottamat sähköiset potilasasiakirjat tai kuvantamisjärjestelmät), kyseisten järjestelmien tarkoitukseen sopivuus tutkimuksen puitteissa tulee arvioida;
+
+<a id="ich-e6-r3-a1-3-16-1-item-viii"></a>
+
+- (viii) Arviointi tulee tehdä ennen järjestelmän käyttämistä tutkimuksessa, ja sen tulee olla oikeassa suhteessa järjestelmässä hallinnoitavien tietojen tärkeyteen. Sellaiset tekijät kuin tietoturva (mukaan lukien varmuuskopiointi), käyttäjähallinta ja [[sanasto/jaljitettavyysketju|jäljitettävyysketju]], joiden avulla varmistetaan tutkimustietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]] ja eheys, tulee ottaa huomioon tarpeen mukaan; Kaikkien järjestelmien osalta:
+
+<a id="ich-e6-r3-a1-3-16-1-item-ix"></a>
+
+- (ix) varmistaa, että palveluntarjoajilla ja tutkijalla/tutkimuslaitoksella on käytössä prosessi, jolla toimeksiantajalle ilmoitetaan tapahtumista, jotka voivat mahdollisesti merkitä vakavaa kliinisen lääketutkimuksen tutkimussuunnitelman, tutkimusmenettelyiden, lainsäädännön vaatimusten tai hyvän kliinisen tutkimustavan ohjeiden vaatimusten laiminlyöntiä kappaleen 3.12 mukaisesti.
 
 ## Liittyvät käsitteet
 

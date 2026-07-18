@@ -29,33 +29,45 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.2 Taustatiedot
+<a id="ich-e6-r3-app-b-2-b-2-1"></a>
 
-### B.2.1 ^ich-e6-r3-app-b-2-b-2-1
+### B.2.1
 
 Tutkimusvalmisteen nimi ja kuvaus.
 
-### B.2.2 ^ich-e6-r3-app-b-2-b-2-2
+<a id="ich-e6-r3-app-b-2-b-2-2"></a>
+
+### B.2.2
 
 Yhteenveto sellaisista ei-kliinisissä tutkimuksissa tehdyistä havainnoista, joilla voi olla kliinistä merkitystä ja kliinisissä lääketutkimuksissa tehdyistä tutkimuksen kannalta merkityksellisistä havainnoista.
 
-### B.2.3 ^ich-e6-r3-app-b-2-b-2-3
+<a id="ich-e6-r3-app-b-2-b-2-3"></a>
+
+### B.2.3
 
 Yhteenveto tiedetyistä ja mahdollisista riskeistä ja hyödyistä, joita tutkimukseen osallistuville voi aiheutua.
 
-### B.2.4 ^ich-e6-r3-app-b-2-b-2-4
+<a id="ich-e6-r3-app-b-2-b-2-4"></a>
+
+### B.2.4
 
 Lääkkeen antoreitin, annostelun, annosteluohjelman ja hoitojaksojen kuvaukset ja perustelut.
 
-### B.2.5 ^ich-e6-r3-app-b-2-b-2-5
+<a id="ich-e6-r3-app-b-2-b-2-5"></a>
+
+### B.2.5
 
 Vakuutus siitä, että tutkimus toteutetaan noudattaen tutkimussuunnitelmaa, hyvää kliinistä tutkimustapaa ja lainsäädännön vaatimuksia.
 
-### B.2.6 ^ich-e6-r3-app-b-2-b-2-6
+<a id="ich-e6-r3-app-b-2-b-2-6"></a>
+
+### B.2.6
 
 Tutkittavan populaation kuvaus.
 
-### B.2.7 ^ich-e6-r3-app-b-2-b-2-7
+<a id="ich-e6-r3-app-b-2-b-2-7"></a>
+
+### B.2.7
 
 Viittaukset kirjallisuuteen ja tietoihin, joilla on merkitystä tutkimuksen kannalta ja jotka tarjoavat taustatietoa tutkimukselle.
 

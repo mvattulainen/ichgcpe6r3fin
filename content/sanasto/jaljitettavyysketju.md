@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/jaljitettavyysketju/"
 ---
 
-# Jäljitettävyysketju
-
 **Englanniksi:** audit trail
 
 ## Suomenkielinen määritelmä

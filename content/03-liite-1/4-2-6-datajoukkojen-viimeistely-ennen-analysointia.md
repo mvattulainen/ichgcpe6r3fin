@@ -29,13 +29,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.2.6 Datajoukkojen viimeistely ennen analysointia
+<a id="ich-e6-r3-a1-4-2-6-item-a"></a>
 
-- (a) Väli- ja loppuanalyysiä varten tulee määrittää riittävä tietojen laatu. Se saavutetaan ottamalla käyttöön oikea-aikaisia ja luotettavia prosesseja tiedon keruuseen, varmentamiseen, validointiin, tarkasteluun sekä sellaisten virheiden ja mahdollisuuksien mukaan myös puuttuvien tietojen korjaamiseen, joilla on merkittävä vaikutus tutkimukseen osallistujien turvallisuuteen ja/tai tutkimustulosten luotettavuuteen. ^ich-e6-r3-a1-4-2-6-item-a
+- (a) Väli- ja loppuanalyysiä varten tulee määrittää riittävä tietojen laatu. Se saavutetaan ottamalla käyttöön oikea-aikaisia ja luotettavia prosesseja tiedon keruuseen, varmentamiseen, validointiin, tarkasteluun sekä sellaisten virheiden ja mahdollisuuksien mukaan myös puuttuvien tietojen korjaamiseen, joilla on merkittävä vaikutus tutkimukseen osallistujien turvallisuuteen ja/tai tutkimustulosten luotettavuuteen.
 
-- (b) Ennen analysointia tehtävät toimet tietoaineistojen viimeistelemiseksi tulee vahvistaa ja dokumentoida etukäteen määriteltyjen menettelyjen mukaisesti. Tällaisia toimia voivat olla muun muassa syötettyjen tietojen ja tietoaineistojen ristiintarkistus tai oleellisten tietokantojen ristiintarkistus, virheellisten tietojen korjaaminen ja mahdollisuuksien mukaan myös puuttuvien tietojen täydentäminen, lääketieteellinen koodaus sekä vaatimusten laiminlyöntien, mukaan lukien tutkimussuunnitelman poikkeamien, kokoaminen ja niiden vaikutusten arviointi ja käsittely. ^ich-e6-r3-a1-4-2-6-item-b
+<a id="ich-e6-r3-a1-4-2-6-item-b"></a>
 
-- (c) Tietojen poiminnan ja analyysiaineistojen määrittämisen tulee tapahtua suunnitellun tilastollisen analyysin mukaisesti, ja toimet tulee dokumentoida. ^ich-e6-r3-a1-4-2-6-item-c
+- (b) Ennen analysointia tehtävät toimet tietoaineistojen viimeistelemiseksi tulee vahvistaa ja dokumentoida etukäteen määriteltyjen menettelyjen mukaisesti. Tällaisia toimia voivat olla muun muassa syötettyjen tietojen ja tietoaineistojen ristiintarkistus tai oleellisten tietokantojen ristiintarkistus, virheellisten tietojen korjaaminen ja mahdollisuuksien mukaan myös puuttuvien tietojen täydentäminen, lääketieteellinen koodaus sekä vaatimusten laiminlyöntien, mukaan lukien tutkimussuunnitelman poikkeamien, kokoaminen ja niiden vaikutusten arviointi ja käsittely.
+
+<a id="ich-e6-r3-a1-4-2-6-item-c"></a>
+
+- (c) Tietojen poiminnan ja analyysiaineistojen määrittämisen tulee tapahtua suunnitellun tilastollisen analyysin mukaisesti, ja toimet tulee dokumentoida.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

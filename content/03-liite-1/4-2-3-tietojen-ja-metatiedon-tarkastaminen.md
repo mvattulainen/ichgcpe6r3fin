@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.2.3 Tietojen ja metatiedon tarkastaminen
-
 Käytössä tulee olla menettelyt tutkimuskohtaisten tietojen, jäljitettävyysketjujen ja muun olennaisen metatiedon tarkastamiseksi. Tarkastamisen tulee olla suunniteltua toimintaa, ja sen laajuuden ja luonteen tulee olla riskiperusteista ja mukautettua kulloiseenkin tutkimukseen. Lisäksi sitä tulee mukauttaa tutkimuksen aikana saadun kokemuksen perusteella.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

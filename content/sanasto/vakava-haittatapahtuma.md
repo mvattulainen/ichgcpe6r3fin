@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/vakava-haittatapahtuma/"
 ---
 
-# Vakava haittatapahtuma
-
 **Englanniksi:** serious adverse event, SAE
 
 ## Suomenkielinen määritelmä

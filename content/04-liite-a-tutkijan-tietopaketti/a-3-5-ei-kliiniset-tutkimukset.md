@@ -31,8 +31,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.3.5 Ei-kliiniset tutkimukset
-
 Johdanto Kaikkien olennaisten ei-kliinisten farmakologiaa, toksikologiaa, farmakokinetiikkaa ja tutkimusvalmisteen metaboliaa koskevien tutkimusten tulokset tulee esittää tiivistelmänä. Siinä tulee mainita käytetyt menetelmät ja tulokset sekä käsitellä havaintojen merkitystä tutkittavalle valmisteelle ja mahdollisille epäsuotuisille ja tahattomille vaikutuksille ihmisissä. Seuraavat tiedot tulee tarvittaessa antaa, jos ne ovat tiedossa tai saatavilla:
 
 - Kokeissa käytetyt (eläin)lajit
@@ -53,11 +51,17 @@ Johdanto Kaikkien olennaisten ei-kliinisten farmakologiaa, toksikologiaa, farmak
 
 - Tulokset, mukaan luettuna seuraavat seikat: - farmakologisten tai toksisten vaikutusten luonne ja tiheys - farmakologisten tai toksisten vaikutusten vakavuus tai voimakkuus - vaikutusten alkamisen viive - vaikutusten palautuvuus - vaikutusten kesto - annosvaste Taulukkomuotoa tai luetteloita tulee käyttää esityksen selkeyttämiseksi aina, kun se on mahdollista. Seuraavissa kappaleissa tulee käsitellä tutkimuksista saatuja tärkeimpiä tuloksia kuten havaittujen vaikutusten annosvastetta, merkitystä ihmisille ja kaikkia ihmisillä tutkittavia näkökohtia. Tarvittaessa havaintoja vaikuttavista ja ei-toksisista annoksista tulee verrata saman lajin eläimissä (eli tulee tarkastella terapeuttista indeksiä). Näiden tietojen merkitystä tulee arvioida ihmiselle suunnitellun annoksen kannalta. Vertailut tulee mieluummin tehdä veri- tai kudospitoisuuksien tai vastaavan ihmiselle suunnitellun annoksen perusteella kuin painon mg/kg-pohjalta, aina kun se on mahdollista.
 
-- (a) Ei-kliininen farmakologia Tietopaketin tulee sisältää yhteenveto tutkimusvalmisteen farmakologisista ominaisuuksista ja tarvittaessa valmisteen merkittävistä eläimillä tutkituista metaboliiteista. Yhteenvedossa tulee mainita tutkimukset, joissa arvioidaan mahdollista terapeuttista vaikutusta (esim. tehokkuusmallit, reseptoreihin sitoutuminen ja spesifisyys) samoin kuin tutkimukset, joissa arvioidaan turvallisuutta (esim. erityisesti tutkimukset, joissa arvioidaan muita farmakologisia vaikutuksia kuin haluttuja terapeuttisia vaikutuksia). ^ich-e6-r3-app-a-3-5-item-a
+<a id="ich-e6-r3-app-a-3-5-item-a"></a>
 
-- (b) Farmakokinetiikka ja valmisteen metabolia eläimissä Tutkimusvalmisteen farmakokinetiikasta ja metaboliasta kaikissa tutkituissa (eläin)lajeissa tulee tehdä lyhyt yhteenveto. Havaintojen kuvauksessa tulee käsitellä tutkimusvalmisteen ja sen metaboliittien imeytymistä, paikallista ja systeemistä biologista hyötyosuutta ja niiden suhdetta farmakologisiin ja toksikologisiin havaintoihin tutkituissa eläinlajeissa. ^ich-e6-r3-app-a-3-5-item-b
+- (a) Ei-kliininen farmakologia Tietopaketin tulee sisältää yhteenveto tutkimusvalmisteen farmakologisista ominaisuuksista ja tarvittaessa valmisteen merkittävistä eläimillä tutkituista metaboliiteista. Yhteenvedossa tulee mainita tutkimukset, joissa arvioidaan mahdollista terapeuttista vaikutusta (esim. tehokkuusmallit, reseptoreihin sitoutuminen ja spesifisyys) samoin kuin tutkimukset, joissa arvioidaan turvallisuutta (esim. erityisesti tutkimukset, joissa arvioidaan muita farmakologisia vaikutuksia kuin haluttuja terapeuttisia vaikutuksia).
 
-- (c) Toksikologia Yhteenveto eri eläinlajeilla tehdyistä relevanteista tutkimuksista ja niissä havaituista toksikologisista vaikutuksista seuraavien otsikoiden alla: ^ich-e6-r3-app-a-3-5-item-c
+<a id="ich-e6-r3-app-a-3-5-item-b"></a>
+
+- (b) Farmakokinetiikka ja valmisteen metabolia eläimissä Tutkimusvalmisteen farmakokinetiikasta ja metaboliasta kaikissa tutkituissa (eläin)lajeissa tulee tehdä lyhyt yhteenveto. Havaintojen kuvauksessa tulee käsitellä tutkimusvalmisteen ja sen metaboliittien imeytymistä, paikallista ja systeemistä biologista hyötyosuutta ja niiden suhdetta farmakologisiin ja toksikologisiin havaintoihin tutkituissa eläinlajeissa.
+
+<a id="ich-e6-r3-app-a-3-5-item-c"></a>
+
+- (c) Toksikologia Yhteenveto eri eläinlajeilla tehdyistä relevanteista tutkimuksista ja niissä havaituista toksikologisista vaikutuksista seuraavien otsikoiden alla:
 
 - kerta-annoksen toksisuus
 

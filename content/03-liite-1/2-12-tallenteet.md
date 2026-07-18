@@ -35,75 +35,113 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.12 Tallenteet
+<a id="ich-e6-r3-a1-2-12-1"></a>
 
-### 2.12.1 ^ich-e6-r3-a1-2-12-1
+### 2.12.1
 
 Tutkimustietojen tuottamisessa, tallentamisessa ja raportoinnissa tutkijan tulee varmistaa omalla vastuullaan olevien [[sanasto/tietojen-eheys|tietojen eheys]] käytetyistä välineistä riippumatta.
 
-### 2.12.2 ^ich-e6-r3-a1-2-12-2
+<a id="ich-e6-r3-a1-2-12-2"></a>
+
+### 2.12.2
 
 Tutkijan/tutkimuslaitoksen tulee pitää yllä asianmukaisia lähdetallenteita, jotka sisältävät olennaiset havainnot kustakin tutkijan/tutkimuslaitoksen vastuulla olevasta tutkimukseen osallistujasta. Lähdetallenteiden tulee olla ymmärrettäviä, luettavia, samanaikaisesti kirjattuja, alkuperäisiä, tarkkoja ja täydellisiä. Lähdetallenteisiin tehtyjen muutosten tulee olla jäljitettävissä, ne eivät saa peittää alkuperäistä merkintää ja ne tulee selittää tarvittaessa (jäljitettävyysketjulla). Tutkijan tulee määritellä [[sanasto/lahdetallenteet|lähdetallenteet]] tiedonkeruumenetelmät ja niiden sijainti ennen tutkimuksen aloittamista ja päivittää tätä määritelmää tarvittaessa. Tarpeettomia tiedonsiirtovaiheita lähdetallenteen ja tiedonkeruutyökalun välillä tulee välttää.
 
-### 2.12.3 ^ich-e6-r3-a1-2-12-3
+<a id="ich-e6-r3-a1-2-12-3"></a>
+
+### 2.12.3
 
 Toimeksiantajan tulee antaa tutkijalle oikea-aikainen pääsy tietoihin (ks. kappale
 
-### 3.16.1 ^ich-e6-r3-a1-2-12-3-16-1
+<a id="ich-e6-r3-a1-2-12-3-16-1"></a>
+
+### 3.16.1
 
 alakohta k). Tutkijan tulee vastata tietojen oikea-aikaisesta tarkastelusta, mukaan lukien ulkoisista lähteistä saatavat asiaankuuluvat tiedot, joilla voi olla vaikutusta esimerkiksi tutkimukseen osallistujien kelpoisuuteen, hoitoon tai turvallisuuteen (esim. keskuslaboratoriosta tulevat tiedot, keskitetysti luetut kuvantamistiedot, muiden laitosten tallenteet ja tarvittaessa potilaan sähköisesti raportoimat tulokset, ePRO). Tutkimussuunnitelmassa voidaan määrittää poikkeuksia pääsyyn esimerkiksi sokkouttamisen suojelemiseksi.
 
-### 2.12.4 ^ich-e6-r3-a1-2-12-4
+<a id="ich-e6-r3-a1-2-12-4"></a>
+
+### 2.12.4
 
 Tutkijan tulee varmistaa, että tiedonkeruutyökaluja ja muita toimeksiantajan käyttämiä järjestelmiä käytetään tutkimussuunnitelman tai tutkimukseen liittyvien ohjeiden mukaisesti.
 
-### 2.12.5 ^ich-e6-r3-a1-2-12-5
+<a id="ich-e6-r3-a1-2-12-5"></a>
+
+### 2.12.5
 
 Tutkijan tulee varmistaa toimeksiantajalle raportoitujen tietojen tarkkuus, täydellisyys, luettavuus ja oikea-aikaisuus tutkimuspaikan täyttämissä tiedonkeruutyökaluissa (esim. [[sanasto/tietojenkeruulomake|tietojenkeruulomake]], CRF) ja muissa vaadituissa raporteissa (esim. vakavien haittatapahtumien raportit). Tutkijan tulee tarkastaa ja hyväksyä raportoidut tiedot toimeksiantajan kanssa sovituissa tärkeissä ajankohdissa (esim. välianalyysi) (ks. kappale 3.16.1 alakohta o).
 
-### 2.12.6 ^ich-e6-r3-a1-2-12-6
+<a id="ich-e6-r3-a1-2-12-6"></a>
+
+### 2.12.6
 
 Toimeksiantajalle raportoitavien tietojen tulee olla yhdenmukaisia lähdetallenteiden kanssa tai erot tulee selittää. Raportoituihin tietoihin tehdyt muutokset tai korjaukset tulee voida jäljittää, ne tulee (tarvittaessa) selittää, eikä niillä saa peittää alkuperäistä merkintää.
 
-### 2.12.7 ^ich-e6-r3-a1-2-12-7
+<a id="ich-e6-r3-a1-2-12-7"></a>
+
+### 2.12.7
 
 Tutkijan/tutkimuslaitoksen tulee toteuttaa asianmukaiset toimenpiteet tutkimukseen osallistujien yksityisyyden ja luottamuksellisuuden suojaamiseksi henkilötietojen suojaa koskevien lainsäädännön vaatimusten mukaisesti.
 
-### 2.12.8 ^ich-e6-r3-a1-2-12-8
+<a id="ich-e6-r3-a1-2-12-8"></a>
+
+### 2.12.8
 
 Toimeksiantajalle raportoidut tiedot tulee yksilöidä yksiselitteisellä tutkimukseen osallistujan tunnuskoodilla, jonka avulla [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] voi jäljittää tutkimukseen osallistujan henkilöllisyyden.
 
-### 2.12.9 ^ich-e6-r3-a1-2-12-9
+<a id="ich-e6-r3-a1-2-12-9"></a>
+
+### 2.12.9
 
 Tutkijan/laitoksen tulee varmistaa, että tutkijan/tutkimuslaitoksen käyttöön ottamissa järjestelmissä, joissa ylläpidetään ja säilytetään tutkimustietoja, suojataan tiedot luvattomalta pääsyltä, paljastamiselta, levittämiseltä tai muuttamiselta sekä sopimattomalta tuhoamiselta ja vahingossa tapahtuvalta häviämiseltä.
 
-### 2.12.10 ^ich-e6-r3-a1-2-12-10
+<a id="ich-e6-r3-a1-2-12-10"></a>
+
+### 2.12.10
 
 Jos kliinisissä lääketutkimuksissa käytetään tietokoneistettuja järjestelmiä, tutkijan/tutkimuslaitoksen tulee tehdä seuraavat asiat:
 
-- (a) Tutkijan/tutkimuslaitoksen käyttöön ottamissa järjestelmissä tulee varmistaa, että asianmukaisilla henkilöillä on turvattu ja perusteltavissa oleva pääsy järjestelmiin; ^ich-e6-r3-a1-2-12-item-a
+<a id="ich-e6-r3-a1-2-12-item-a"></a>
 
-- (b) Toimeksiantajan käyttöön ottamien järjestelmien osalta toimeksiantajalle tulee ilmoittaa, kun henkilöiden käyttöoikeuksia on tarpeen muuttaa tai peruuttaa; ^ich-e6-r3-a1-2-12-item-b
+- (a) Tutkijan/tutkimuslaitoksen käyttöön ottamissa järjestelmissä tulee varmistaa, että asianmukaisilla henkilöillä on turvattu ja perusteltavissa oleva pääsy järjestelmiin;
 
-- (c) Tutkijan/tutkimuslaitoksen erityisesti kliinisiä lääketutkimuksia varten käyttöön ottamien järjestelmien osalta tulee varmistaa, että kappaleessa 4 esitettyjä tietokoneistettuja järjestelmiä koskevia vaatimuksia sovelletaan oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin sekä tietojen tärkeyteen; ^ich-e6-r3-a1-2-12-item-c
+<a id="ich-e6-r3-a1-2-12-item-b"></a>
 
-- (d) Jos [[sanasto/tutkija|tutkija]] toimittaa tutkimukseen osallistujille välineitä tiedonkeruuseen, tulee varmistaa, että jäljitettävyyttä pidetään yllä ja että tutkimukseen osallistujat saavat asianmukaista koulutusta; ^ich-e6-r3-a1-2-12-item-d
+- (b) Toimeksiantajan käyttöön ottamien järjestelmien osalta toimeksiantajalle tulee ilmoittaa, kun henkilöiden käyttöoikeuksia on tarpeen muuttaa tai peruuttaa;
 
-- (e) Tulee varmistaa, että tietokoneistettujen järjestelmien käyttöön ja toimintaan liittyvistä tapahtumista, joilla tutkijan/tutkimuslaitoksen arvion mukaan voi olla merkittävä ja/tai jatkuva vaikutus tutkimustietoihin tai järjestelmän turvallisuuteen, raportoidaan toimeksiantajalle ja tarpeen mukaan myös eettiselle toimikunnalle. ^ich-e6-r3-a1-2-12-item-e
+<a id="ich-e6-r3-a1-2-12-item-c"></a>
 
-### 2.12.11 ^ich-e6-r3-a1-2-12-11
+- (c) Tutkijan/tutkimuslaitoksen erityisesti kliinisiä lääketutkimuksia varten käyttöön ottamien järjestelmien osalta tulee varmistaa, että kappaleessa 4 esitettyjä tietokoneistettuja järjestelmiä koskevia vaatimuksia sovelletaan oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin sekä tietojen tärkeyteen;
+
+<a id="ich-e6-r3-a1-2-12-item-d"></a>
+
+- (d) Jos [[sanasto/tutkija|tutkija]] toimittaa tutkimukseen osallistujille välineitä tiedonkeruuseen, tulee varmistaa, että jäljitettävyyttä pidetään yllä ja että tutkimukseen osallistujat saavat asianmukaista koulutusta;
+
+<a id="ich-e6-r3-a1-2-12-item-e"></a>
+
+- (e) Tulee varmistaa, että tietokoneistettujen järjestelmien käyttöön ja toimintaan liittyvistä tapahtumista, joilla tutkijan/tutkimuslaitoksen arvion mukaan voi olla merkittävä ja/tai jatkuva vaikutus tutkimustietoihin tai järjestelmän turvallisuuteen, raportoidaan toimeksiantajalle ja tarpeen mukaan myös eettiselle toimikunnalle.
+
+<a id="ich-e6-r3-a1-2-12-11"></a>
+
+### 2.12.11
 
 Tutkijan/tutkimuslaitoksen tulee säilyttää tutkimuksen tallenteita täydentävän liitteen C määritysten sekä lainsäädännön vaatimusten mukaisesti. Tutkijan/tutkimuslaitoksen tulee hallita kaikkia sen ennen tutkimusta ja tutkimuksen aikana tuottamia oleellisia tallenteita.
 
-### 2.12.12 ^ich-e6-r3-a1-2-12-12
+<a id="ich-e6-r3-a1-2-12-12"></a>
+
+### 2.12.12
 
 Tutkijan/tutkimuslaitoksen tulee säilyttää [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] lainsäädännön vaatiman säilytysajan tai siihen asti, kunnes [[sanasto/toimeksiantaja|toimeksiantaja]] ilmoittaa tutkijalle/tutkimuslaitokselle, että kyseisiä tietoja ei enää tarvita, sen mukaan, kumpi näistä ajoista on pidempi. Tutkijan/tutkimuslaitoksen tulee toteuttaa toimenpiteitä kyseisten tallenteiden saatavuuden, saavutettavuuden ja luettavuuden varmistamiseksi sekä luvattoman pääsyn ja tahattoman tai ennenaikaisen tuhoamisen estämiseksi (ks. täydentävä liite C).
 
-### 2.12.13 ^ich-e6-r3-a1-2-12-13
+<a id="ich-e6-r3-a1-2-12-13"></a>
+
+### 2.12.13
 
 Tutkijan/laitoksen tulee ilmoittaa toimeksiantajalle sen henkilön nimi, joka vastaa oleellisten tallenteiden ylläpidosta säilytysaikana, esim. kun [[sanasto/tutkimuslaitos|tutkimuslaitos]]/paikka sulkeutuu tai [[sanasto/tutkija|tutkija]] lähtee tutkimuslaitoksesta.
 
-### 2.12.14 ^ich-e6-r3-a1-2-12-14
+<a id="ich-e6-r3-a1-2-12-14"></a>
+
+### 2.12.14
 
 Tutkijan/tutkimuslaitoksen tulee antaa tutkimuksen monitoroijan, auditoijan, eettisen toimikunnan tai valvontaviranomaisen pyynnöstä [[sanasto/suora-paasy|suora pääsy]] kaikkiin tutkimusta koskeviin tallenteisiin.
 

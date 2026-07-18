@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tietoon-perustuva-suostumus/"
 ---
 
-# Tietoon perustuva suostumus
-
 **Englanniksi:** informed consent
 
 ## Suomenkielinen määritelmä

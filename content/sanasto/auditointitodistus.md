@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/auditointitodistus/"
 ---
 
-# Auditointitodistus
-
 **Englanniksi:** audit certificate
 
 ## Suomenkielinen määritelmä

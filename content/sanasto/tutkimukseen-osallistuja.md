@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkimukseen-osallistuja/"
 ---
 
-# Tutkimukseen osallistuja
-
 **Englanniksi:** trial participant
 
 ## Suomenkielinen määritelmä

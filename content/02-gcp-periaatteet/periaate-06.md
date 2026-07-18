@@ -28,17 +28,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 6. Laatu tulee sisällyttää tieteelliseen ja toiminnalliseen suunnitteluun ja kliinisten lääketutkimusten toteuttamiseen.
+<a id="ich-e6-r3-principle-06-6-1"></a>
 
-### 6.1 ^ich-e6-r3-principle-06-6-1
+### 6.1
 
 Tässä ohjeessa kliinisen lääketutkimuksen laatu käsitetään tarkoitukseen sopivuutena.
 
-### 6.2 ^ich-e6-r3-principle-06-6-2
+<a id="ich-e6-r3-principle-06-6-2"></a>
+
+### 6.2
 
 Tutkimuksen laadun kannalta kriittiset tekijät tulee tunnistaa ennakoivasti. Nämä ovat tekijöitä, jotka ovat perustavanlaatuisia tutkimukseen osallistujien suojelemisen, tutkimustulosten luotettavuuden ja tulkittavuuden varmistamisen sekä tuloksiin perustuvien päätösten kannalta. Laadun suunnittelu (Quality by Design) tarkoittaa tutkimuksen kriittisiin laatutekijöihin keskittymistä, jotta maksimoidaan todennäköisyys sille, että tutkimus saavuttaa tavoitteensa.
 
-### 6.3 ^ich-e6-r3-principle-06-6-3
+<a id="ich-e6-r3-principle-06-6-3"></a>
+
+### 6.3
 
 Käytössä tulee olla toimintatavat, joilla ehkäistään, havaitaan ja käsitellään vakavia hyvän kliinisen tutkimustavan, tutkimussuunnitelman ja lainsäädännön vaatimusten laiminlyöntejä, sekä estetään niiden toistuminen.
 

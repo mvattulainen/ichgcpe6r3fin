@@ -32,17 +32,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.9 Kliiniseen lääketutkimukseen osallistumisen päättyminen
+<a id="ich-e6-r3-a1-2-9-1"></a>
 
-### 2.9.1 ^ich-e6-r3-a1-2-9-1
+### 2.9.1
 
 Jos [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] päättää lopettaa hoidon tutkimusvalmisteella tai vetäytyä tutkimuksesta, hänen osallistumisensa tutkimukseen lopetetaan tai tutkimus päättyy tavanomaisesti, tutkijan tulee noudattaa tutkimussuunnitelmaa ja/tai muita tutkimussuunnitelmaan liittyviä asiakirjoja. Jos [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] lopetti tutkimuksen ennen sen tavanomaista päättymistä, asiakirjoihin voi sisältyä ohjeita jo kerättyjen tietojen menettämisen välttämiseksi lainsäädännön vaatimusten mukaisesti, jotta voidaan varmistaa, että tutkimustulokset ovat luotettavia. Yleisesti ottaen jo kerättyjen tietojen menettäminen voi aiheuttaa tuloksiin harhaa ja johtaa esimerkiksi epätarkkoihin johtopäätöksiin tutkimusvalmisteen turvallisuusprofiilista.
 
-### 2.9.2 ^ich-e6-r3-a1-2-9-2
+<a id="ich-e6-r3-a1-2-9-2"></a>
+
+### 2.9.2
 
 Vaikka tutkimukseen osallistujan ei tarvitse ilmoittaa syytä ennenaikaiselle vetäytymiselleen tutkimuksesta, tutkijan tulee kohtuullisin ponnistuksin pyrkiä saamaan syy selville, kunnioittaen kuitenkin kaikkia osallistujan oikeuksia. Tutkijan tulee harkita, olisiko keskustelu osallistujan tai tämän laillisen edustajan kanssa asianmukaista. Tällaisessa keskustelussa tulee keskittyä poisvetäytymisen syihin, jotta voidaan määrittää, löytyisikö keinoja puuttua huolenaiheisiin siten, että osallistuja voisi uudelleen harkita poisvetäytymistään, vaikuttamatta kuitenkaan epäasianmukaisesti osallistujan päätökseen. Keskeyttämisten minimoimiseksi tutkijan tai tutkimusta suorittavan henkilöstön tulee harkita osallistujalle osallistumisen jatkamisen merkityksen selittämistä. Tässä prosessissa tutkijan tulee varmistaa, että keskustelu ei estä osallistujan päätöstä kieltäytyä osallistumasta tai vetäytyä tutkimuksesta minään hetkenä.
 
-### 2.9.3 ^ich-e6-r3-a1-2-9-3
+<a id="ich-e6-r3-a1-2-9-3"></a>
+
+### 2.9.3
 
 Tutkijan tulee tarvittaessa ilmoittaa osallistujalle tutkimuksen tuloksista ja saadusta hoidosta, sitten kun nämä tiedot ovat saatavilla toimeksiantajalta sokkoutuksen purkamisen jälkeen, noudattaen tutkimukseen osallistujan valintaa saada asiasta tietoa.
 

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/riippumaton-tietojenseurantatoimikunta/"
 ---
 
-# Riippumaton tietojenseurantatoimikunta
-
 **Englanniksi:** independent data monitoring committee, IDMC
 
 ## Suomenkielinen määritelmä

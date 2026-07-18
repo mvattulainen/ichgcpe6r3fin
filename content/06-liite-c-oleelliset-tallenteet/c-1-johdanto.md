@@ -29,17 +29,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# C.1 Johdanto
+<a id="ich-e6-r3-app-c-1-c-1-1"></a>
 
-### C.1.1 ^ich-e6-r3-app-c-1-c-1-1
+### C.1.1
 
 Ennen kliinisen lääketutkimuksen toteuttamista ja sen toteuttamisen aikana syntyy paljon tallenteita. Näiden tutkimuksen yhteydessä tuotettujen ja ylläpidettyjen tallenteiden laajuus ja luonne riippuvat tutkimusasetelmasta, tutkimuksen toteutuksesta, riskiperusteisten lähestymistapojen soveltamisesta sekä kyseisten tallenteiden tärkeydestä ja merkityksestä tutkimukselle.
 
-### C.1.2 ^ich-e6-r3-app-c-1-c-1-2
+<a id="ich-e6-r3-app-c-1-c-1-2"></a>
+
+### C.1.2
 
 Tallenteiden oleellisuuden määrittäminen perustuu tämän liitteen ohjeisiin.
 
-### C.1.3 ^ich-e6-r3-app-c-1-c-1-3
+<a id="ich-e6-r3-app-c-1-c-1-3"></a>
+
+### C.1.3
 
 [[sanasto/oleelliset-tallenteet|Oleelliset tallenteet]] mahdollistavat ja tukevat tutkimuksen toteuttamisen arviointia, kun arvioidaan tutkijan ja toimeksiantajan hyvän kliinisen tutkimustavan ja lainsäädännön vaatimuksien noudattamista sekä tuotettujen tulosten luotettavuutta. Oleellisia tallenteita käytetään osana tutkijan ja toimeksiantajan valvontaa (mukaan lukien [[sanasto/monitorointi|monitorointi]]). Näitä tallenteita käytetään toimeksiantajan riippumattomassa auditoinnissa ja valvontaviranomaisten tekemien tarkastusten aikana tutkimuksen toteuttamisen ja tutkimustulosten luotettavuuden arvioimiseksi. Myös eettinen toimikunta voi tarkastaa tietyt [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] lainsäädännön vaatimusten mukaisesti. Tutkijalla/tutkimuslaitoksella tulee olla pääsy tutkijan/tutkimuslaitoksen tuottamiin oleellisiin tallenteisiin ja kyky ylläpitää niitä ennen tutkimuksen toteuttamista ja tutkimuksen toteuttamisen aikana ja säilyttää niitä lainsäädännön vaatimusten mukaisesti.
 

@@ -30,21 +30,27 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 7. Kliinisen lääketutkimuksen prosessien, toimenpiteiden ja lähestymistapojen toteutuksen tulee olla oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja kerättyjen tietojen tärkeyteen, jotta vältetään tutkimukseen osallistujille ja tutkijoille aiheutuva tarpeeton rasite.
+<a id="ich-e6-r3-principle-07-7-1"></a>
 
-### 7.1 ^ich-e6-r3-principle-07-7-1
+### 7.1
 
 Tutkimusprosessien tulee olla oikeassa suhteessa tutkimukseen liittyviin riskeihin ja kerättyjen tietojen tärkeyteen. Riskejä ovat tässä yhteydessä muun muassa tutkimukseen osallistujien oikeuksiin, turvallisuuteen ja hyvinvointiin kohdistuvat riskit sekä tutkimustulosten luotettavuutta koskevat riskit.
 
-### 7.2 ^ich-e6-r3-principle-07-7-2
+<a id="ich-e6-r3-principle-07-7-2"></a>
+
+### 7.2
 
 Huomion tulee olla tutkimuksen osallistumiseen liittyvissä riskeissä. Potilailla tehdyissä kliinisissä lääketutkimuksissa tulee keskittyä riskeihin, jotka ylittävät tavanomaiseen lääketieteelliseen hoitoon liittyvät riskit. Kliinisen lääketutkimuksen kontekstissa käytettävien myyntiluvallisten tutkimusvalmisteiden riskit voivat poiketa potilaiden tavanomaisesta hoidosta, ja ne tulee ottaa huomioon.
 
-### 7.3 ^ich-e6-r3-principle-07-7-3
+<a id="ich-e6-r3-principle-07-7-3"></a>
+
+### 7.3
 
 Kriittisiin laatutekijöihin kohdistuvia riskejä tulee hallita ennakoivasti ja päivittää, jos uusia tai ennakoimattomia ongelmia ilmenee tutkimuksen käynnistyttyä.
 
-### 7.4 ^ich-e6-r3-principle-07-7-4
+<a id="ich-e6-r3-principle-07-7-4"></a>
+
+### 7.4
 
 Tutkimusprosessien tulee olla toiminnallisesti toteuttamiskelpoisia. Niissä tulee välttää tarpeetonta monimutkaisuutta sekä tarpeettomia menettelyjä ja tiedonkeruuta. Tutkimusprosessien tulee tukea keskeisiä tutkimustavoitteita. Toimeksiantajan ei tule aiheuttaa tarpeetonta rasitetta tutkimukseen osallistujille eikä tutkijoille.
 

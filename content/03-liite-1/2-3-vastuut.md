@@ -31,11 +31,11 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.3 Vastuut
-
 kuten tutkimukseen osallistujien erityispiirteet, tutkimusasetelma, lääketieteellisistä interventioista syntyvät odotetut hyödyt ja riskit, tutkimuksen toteutusasetelma ja - ympäristö (esim. tutkimukset hätätilanteissa) ja sellaisen teknologian mahdollinen käyttö, jolla tutkimukseen osallistujille (tai heidän laillisille edustajilleen) välitetään tietoa tai jolla heiltä hankitaan [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]].
 
-### 2.4 ^ich-e6-r3-a1-2-3-2-4
+<a id="ich-e6-r3-a1-2-3-2-4"></a>
+
+### 2.4
 
 Hätätilanteissa, joissa suostumusta ei voida saada ennen tutkimukseen osallistumista, suostumus tulee saada tutkimukseen osallistujalta tai hänen lailliselta edustajaltaan heti, kun se on mahdollista lainsäädännön vaatimusten ja eettisen toimikunnan hyväksymän prosessin mukaisesti. 3. Eettisen toimikunnan tulee arvioida kliiniset lääketutkimukset riippumattomasti.
 

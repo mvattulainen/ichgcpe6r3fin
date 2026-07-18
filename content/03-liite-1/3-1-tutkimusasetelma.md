@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.1 Tutkimusasetelma
-
 hyväksynnän tai myönteisen lausunnon saaneen tutkimussuunnitelman mukaisesti.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

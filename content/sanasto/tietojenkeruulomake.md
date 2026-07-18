@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tietojenkeruulomake/"
 ---
 
-# Tietojenkeruulomake
-
 **Englanniksi:** case report form, CRF
 
 ## Suomenkielinen määritelmä

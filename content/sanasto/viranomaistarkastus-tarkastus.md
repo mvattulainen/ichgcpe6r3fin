@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/viranomaistarkastus-tarkastus/"
 ---
 
-# Viranomaistarkastus, tarkastus
-
 **Englanniksi:** inspection
 
 ## Suomenkielinen määritelmä

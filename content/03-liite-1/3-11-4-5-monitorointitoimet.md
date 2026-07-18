@@ -31,8 +31,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.4.5 Monitorointitoimet
-
 Toimeksiantajan vaatimusten ja monitorointisuunnitelman mukaisen monitoroinnin tulee yleensä sisältää soveltuvin osin seuraavat toimet kliinisen lääketutkimuksen koko elinkaaren ajan.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

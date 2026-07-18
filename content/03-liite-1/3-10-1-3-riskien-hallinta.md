@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.10.1.3 Riskien hallinta
-
 Riskien hallinnan tulee olla oikeassa suhteessa riskin merkittävyyteen tutkimukseen osallistujien oikeuksien, turvallisuuden ja hyvinvoinnin sekä tutkimustulosten luotettavuuden kannalta. Riskien vähentämistoimia voidaan sisällyttää esimerkiksi tutkimussuunnitelman suunnitteluun ja toteutukseen, monitorointisuunnitelmiin, eri osapuolten roolit ja vastuut määritteleviin sopimuksiin ja koulutukseen. Toimeksiantajan tulee tarvittaessa määrittää etukäteen hyväksyttävät vaihteluvälit (esim. tutkimuskohtaiset sallitut laatutoleranssirajat) kriittisiin laatutekijöihin kohdistuvien riskien hallitsemiseksi. Tällaiset ennalta määritetyt vaihteluvälit osoittavat rajat, joiden ylittyminen voi vaikuttaa tutkimukseen osallistujien turvallisuuteen tai tutkimustulosten luotettavuuteen. Jos havaitaan poikkeamia, jotka ylittävät määritetyt vaihteluvälit, tulee arvioida, onko kyseessä mahdollinen systeeminen ongelma ja tarvitaanko toimenpiteitä.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

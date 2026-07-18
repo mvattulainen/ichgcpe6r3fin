@@ -30,13 +30,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.16.4 Pääsy tallenteisiin
+<a id="ich-e6-r3-a1-3-16-4-item-a"></a>
 
-- (a) Toimeksiantajan tulee varmistaa, että tutkimussuunnitelmassa tai muussa dokumentoidussa sopimuksessa on määritetty, että [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] antaa suoran pääsyn lähdetallenteisiin tutkimukseen liittyvää monitorointia, auditointeja, viranomaistarkastuksia ja lainsäädännön vaatimusten mukaisesti eettisen toimikunnan arviointia varten. ^ich-e6-r3-a1-3-16-4-item-a
+- (a) Toimeksiantajan tulee varmistaa, että tutkimussuunnitelmassa tai muussa dokumentoidussa sopimuksessa on määritetty, että [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] antaa suoran pääsyn lähdetallenteisiin tutkimukseen liittyvää monitorointia, auditointeja, viranomaistarkastuksia ja lainsäädännön vaatimusten mukaisesti eettisen toimikunnan arviointia varten.
 
-- (b) Toimeksiantajan tulee varmistaa, että tutkimukseen osallistujat ovat antaneet suostumuksensa suoraan pääsyyn lähdetallenteisiin kappaleen ^ich-e6-r3-a1-3-16-4-item-b
+<a id="ich-e6-r3-a1-3-16-4-item-b"></a>
 
-### 3.16.4 ^ich-e6-r3-a1-3-16-4-3-16-4
+- (b) Toimeksiantajan tulee varmistaa, että tutkimukseen osallistujat ovat antaneet suostumuksensa suoraan pääsyyn lähdetallenteisiin kappaleen
+
+<a id="ich-e6-r3-a1-3-16-4-3-16-4"></a>
+
+### 3.16.4
 
 alakohdassa (a) esitettyihin tarkoituksiin (ks. kappaleen 2.8.10 alakohta (n)).
 

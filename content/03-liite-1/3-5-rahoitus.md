@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.5 Rahoitus
-
 Tutkimuksen taloudelliset seikat tulee dokumentoida toimeksiantajan ja tutkijan/tutkimuslaitoksen välisessä sopimuksessa.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

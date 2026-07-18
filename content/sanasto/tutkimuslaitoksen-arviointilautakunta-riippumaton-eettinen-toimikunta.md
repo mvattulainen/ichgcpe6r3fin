@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkimuslaitoksen-arviointilautakunta-riippumaton-eettinen-toimikunta/"
 ---
 
-# Tutkimuslaitoksen arviointilautakunta / riippumaton eettinen toimikunta
-
 **Englanniksi:** Institutional Review Board, IRB /Independent Ethics Committee, IEC
 
 ## Suomenkielinen määritelmä

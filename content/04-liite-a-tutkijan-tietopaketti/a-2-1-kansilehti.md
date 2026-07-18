@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.2.1 Kansilehti
-
 Kansilehdeltä tulee käydä ilmi toimeksiantajan nimi, kaikki tutkimusvalmisteet yksilöityinä (ts. tutkimusnumero, kemiallinen tai hyväksytty geneerinen nimi sekä kauppanimi tai -nimet, mikäli laki sallii ja [[sanasto/toimeksiantaja|toimeksiantaja]] haluaa sen/ne ilmoittaa) ja julkaisupäivä. On suositeltavaa ilmoittaa myös version numero, korvattavan version numero ja päivä sekä versioon sisällytettävien tietojen viimeinen keräyspäivämäärä. Tutkijan tietopaketissa voi tarvittaessa olla mukana allekirjoitussivu.
 
 ## Liittyvät käsitteet

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/palveluntarjoaja/"
 ---
 
-# Palveluntarjoaja
-
 **Englanniksi:** Service provider
 
 ## Suomenkielinen määritelmä

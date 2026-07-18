@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.3.4 Fysikaaliset, kemialliset ja farmaseuttiset ominaisuudet ja formulaatio
-
 Tutkimusvalmisteen ainesosa(t) (mukaan luettuna kemiallinen kaava ja/tai rakennekaava) tulee kuvata sekä antaa lyhyt yhteenveto valmisteen tärkeimmistä fysikaalisista, kemiallisista ja farmaseuttisista ominaisuuksista. Jotta tutkimuksen aikana voitaisiin ryhtyä tarvittaviin turvatoimiin, tulee kuvata ja tarvittaessa (jos kliinisesti tarkoituksenmukaista) perustella käytettävä formulaatio, mukaan lukien apuaineet. Myös lääkemuotojen varastointi- ja käsittelyohjeet tulee kertoa. Kaikki rakenteelliset samankaltaisuudet muiden tunnettujen yhdisteiden kanssa tulee mainita.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

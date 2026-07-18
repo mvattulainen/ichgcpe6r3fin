@@ -12,6 +12,13 @@ Kaikki tietopohjan paikalliset hyväksymistarkistukset läpäistiin.
 
 ## Quartz-tuotantokoonti
 
+- Tila: **HYLÄTTY**
+- HTML-sivuja: 228
+- Kelvollisia JSON-LD-lohkoja: 228
+- Velvoiterekisterin sanastolinkki ei ole klikattava.
+
+## Quartz-tuotantokoonti
+
 - Tila: **HYVÄKSYTTY**
 - HTML-sivuja: 228
 - Kelvollisia JSON-LD-lohkoja: 228

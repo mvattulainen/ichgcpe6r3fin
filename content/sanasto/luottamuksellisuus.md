@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/luottamuksellisuus/"
 ---
 
-# Luottamuksellisuus
-
 **Englanniksi:** confidentiality
 
 ## Suomenkielinen määritelmä

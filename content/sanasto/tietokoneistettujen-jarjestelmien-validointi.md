@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tietokoneistettujen-jarjestelmien-validointi/"
 ---
 
-# Tietokoneistettujen järjestelmien validointi
-
 **Englanniksi:** computerized system validation
 
 ## Suomenkielinen määritelmä

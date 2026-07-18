@@ -30,13 +30,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.16.3 Tallenteiden ylläpito ja säilyttäminen
+<a id="ich-e6-r3-a1-3-16-3-item-a"></a>
 
-- (a) Toimeksiantajan (tai tietojen myöhempien omistajien) tulee säilyttää toimeksiantajakohtaiset tutkimukseen liittyvät [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] lainsäädännön vaatimusten mukaisesti (ks. täydentävä liite C). ^ich-e6-r3-a1-3-16-3-item-a
+- (a) Toimeksiantajan (tai tietojen myöhempien omistajien) tulee säilyttää toimeksiantajakohtaiset tutkimukseen liittyvät [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] lainsäädännön vaatimusten mukaisesti (ks. täydentävä liite C).
 
-- (b) Toimeksiantajan tulee ilmoittaa tutkijalle/tutkimuslaitokselle ja palveluntarjoajille kirjallisesti oleellisten tallenteiden säilyttämistä koskevat vaatimukset ja ilmoittaa tutkijalle/tutkimuslaitokselle ja palveluntarjoajille kirjallisesti, kun tutkimukseen liittyviä tallenteita ei enää tarvita lainsäädännön vaatimusten mukaisesti. ^ich-e6-r3-a1-3-16-3-item-b
+<a id="ich-e6-r3-a1-3-16-3-item-b"></a>
 
-- (c) Toimeksiantajan tulee ilmoittaa asianmukaisille viranomaisille oleellisten tallenteiden omistajuuden mahdollisesta siirtämisestä lainsäädännön vaatimusten mukaisesti. Toimeksiantajan tulee myös ilmoittaa tutkijalle, jos tutkimuksen toimeksiantajasuhteessa tapahtuu muutoksia. ^ich-e6-r3-a1-3-16-3-item-c
+- (b) Toimeksiantajan tulee ilmoittaa tutkijalle/tutkimuslaitokselle ja palveluntarjoajille kirjallisesti oleellisten tallenteiden säilyttämistä koskevat vaatimukset ja ilmoittaa tutkijalle/tutkimuslaitokselle ja palveluntarjoajille kirjallisesti, kun tutkimukseen liittyviä tallenteita ei enää tarvita lainsäädännön vaatimusten mukaisesti.
+
+<a id="ich-e6-r3-a1-3-16-3-item-c"></a>
+
+- (c) Toimeksiantajan tulee ilmoittaa asianmukaisille viranomaisille oleellisten tallenteiden omistajuuden mahdollisesta siirtämisestä lainsäädännön vaatimusten mukaisesti. Toimeksiantajan tulee myös ilmoittaa tutkijalle, jos tutkimuksen toimeksiantajasuhteessa tapahtuu muutoksia.
 
 ## Liittyvät käsitteet
 

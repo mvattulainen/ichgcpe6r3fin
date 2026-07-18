@@ -30,15 +30,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.3.3 Tietoturva
+<a id="ich-e6-r3-a1-4-3-3-item-a"></a>
 
-- (a) Tutkimustietojen ja -tallenteiden tietoturvaa tulee hallita tietojen koko elinkaaren ajan. ^ich-e6-r3-a1-4-3-3-item-a
+- (a) Tutkimustietojen ja -tallenteiden tietoturvaa tulee hallita tietojen koko elinkaaren ajan.
 
-- (b) Vastuutahon tulee varmistaa, että tietokoneistetuille järjestelmille on otettu käyttöön ja niitä varten ylläpidetään asianmukaiset tietoturvakontrollit. Näiden kontrollien tulee sisältää käyttäjähallinta ja jatkuvat toimenpiteet tietoturvaloukkausten ehkäisemiseksi, havaitsemiseksi ja/tai lieventämiseksi. Samalla tulee ottaa huomioon esimerkiksi käyttäjän tunnistautumista koskevat vaatimukset ja salasanojen hallinta, palomuuriasetukset, virustorjuntaohjelmistot, tietoturvapäivitykset, järjestelmän valvonta ja tunkeutumistestaus. ^ich-e6-r3-a1-4-3-3-item-b
+<a id="ich-e6-r3-a1-4-3-3-item-b"></a>
 
-- (c) Vastuutahon tulee huolehtia tietojen riittävästä varmuuskopioinnista. ^ich-e6-r3-a1-4-3-3-item-c
+- (b) Vastuutahon tulee varmistaa, että tietokoneistetuille järjestelmille on otettu käyttöön ja niitä varten ylläpidetään asianmukaiset tietoturvakontrollit. Näiden kontrollien tulee sisältää käyttäjähallinta ja jatkuvat toimenpiteet tietoturvaloukkausten ehkäisemiseksi, havaitsemiseksi ja/tai lieventämiseksi. Samalla tulee ottaa huomioon esimerkiksi käyttäjän tunnistautumista koskevat vaatimukset ja salasanojen hallinta, palomuuriasetukset, virustorjuntaohjelmistot, tietoturvapäivitykset, järjestelmän valvonta ja tunkeutumistestaus.
 
-- (d) Menettelyjen tulee kattaa seuraavat asiat: järjestelmän turvatoimenpiteet sekä tietojen varmuuskopiointi ja palauttamissuunnitelma, jotta varmistetaan, että tietojen luvaton käyttö ja tietojen häviäminen estetään. Kyseiset toimenpiteet tulee tarvittaessa testata säännöllisesti. ^ich-e6-r3-a1-4-3-3-item-d
+<a id="ich-e6-r3-a1-4-3-3-item-c"></a>
+
+- (c) Vastuutahon tulee huolehtia tietojen riittävästä varmuuskopioinnista.
+
+<a id="ich-e6-r3-a1-4-3-3-item-d"></a>
+
+- (d) Menettelyjen tulee kattaa seuraavat asiat: järjestelmän turvatoimenpiteet sekä tietojen varmuuskopiointi ja palauttamissuunnitelma, jotta varmistetaan, että tietojen luvaton käyttö ja tietojen häviäminen estetään. Kyseiset toimenpiteet tulee tarvittaessa testata säännöllisesti.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

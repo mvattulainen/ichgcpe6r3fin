@@ -29,17 +29,25 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.2.2 Auditointimenettelyt
+<a id="ich-e6-r3-a1-3-11-2-2-item-a"></a>
 
-- (a) Toimeksiantajan tulee varmistaa, että kliinisten lääketutkimusten/prosessien [[sanasto/auditointi|auditointi]] toteutetaan noudattaen toimeksiantajan kirjallisia toimintaohjeita, joissa kuvataan, mitä auditoidaan, miten auditoidaan (paikan päällä ja/tai etänä), auditointiväli (kuinka usein auditoidaan) sekä auditointiraporttien muoto ja sisältö. ^ich-e6-r3-a1-3-11-2-2-item-a
+- (a) Toimeksiantajan tulee varmistaa, että kliinisten lääketutkimusten/prosessien [[sanasto/auditointi|auditointi]] toteutetaan noudattaen toimeksiantajan kirjallisia toimintaohjeita, joissa kuvataan, mitä auditoidaan, miten auditoidaan (paikan päällä ja/tai etänä), auditointiväli (kuinka usein auditoidaan) sekä auditointiraporttien muoto ja sisältö.
 
-- (b) Toimeksiantajan laatiman auditointisuunnitelman, auditointiohjelman ja auditointimenettelyiden tulee perustua esimerkiksi tutkimuksen merkitykseen viranomaisille tehtävien hakemusten osana, tutkimukseen osallistujien määrään, tutkimuksen tyyppiin ja monimutkaisuuteen, tutkimukseen osallistujiin kohdistuvien riskien tasoon sekä mahdollisesti havaittuihin ongelmiin. ^ich-e6-r3-a1-3-11-2-2-item-b
+<a id="ich-e6-r3-a1-3-11-2-2-item-b"></a>
 
-- (c) Auditoijien havainnot ja löydökset tulee dokumentoida. ^ich-e6-r3-a1-3-11-2-2-item-c
+- (b) Toimeksiantajan laatiman auditointisuunnitelman, auditointiohjelman ja auditointimenettelyiden tulee perustua esimerkiksi tutkimuksen merkitykseen viranomaisille tehtävien hakemusten osana, tutkimukseen osallistujien määrään, tutkimuksen tyyppiin ja monimutkaisuuteen, tutkimukseen osallistujiin kohdistuvien riskien tasoon sekä mahdollisesti havaittuihin ongelmiin.
 
-- (d) Auditoinnin riippumattomuuden ja painoarvon säilyttämiseksi valvontaviranomaisten ei tule rutiininomaisesti pyytää auditointiraportteja. [[sanasto/valvontaviranomaiset|Valvontaviranomaiset]] voivat tapauskohtaisesti pyytää nähdäkseen auditointiraportin (esimerkiksi jos on näyttöä tai epäilyä vakavista vaatimusten laiminlyönneistä hyvän kliinisen tutkimustavan noudattamisessa tai oikeudenkäyntien yhteydessä). ^ich-e6-r3-a1-3-11-2-2-item-d
+<a id="ich-e6-r3-a1-3-11-2-2-item-c"></a>
 
-- (e) Jos [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]] sitä edellyttävät, toimeksiantajan tulee toimittaa [[sanasto/auditointitodistus|auditointitodistus]]. ^ich-e6-r3-a1-3-11-2-2-item-e
+- (c) Auditoijien havainnot ja löydökset tulee dokumentoida.
+
+<a id="ich-e6-r3-a1-3-11-2-2-item-d"></a>
+
+- (d) Auditoinnin riippumattomuuden ja painoarvon säilyttämiseksi valvontaviranomaisten ei tule rutiininomaisesti pyytää auditointiraportteja. [[sanasto/valvontaviranomaiset|Valvontaviranomaiset]] voivat tapauskohtaisesti pyytää nähdäkseen auditointiraportin (esimerkiksi jos on näyttöä tai epäilyä vakavista vaatimusten laiminlyönneistä hyvän kliinisen tutkimustavan noudattamisessa tai oikeudenkäyntien yhteydessä).
+
+<a id="ich-e6-r3-a1-3-11-2-2-item-e"></a>
+
+- (e) Jos [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]] sitä edellyttävät, toimeksiantajan tulee toimittaa [[sanasto/auditointitodistus|auditointitodistus]].
 
 ## Liittyvät käsitteet
 

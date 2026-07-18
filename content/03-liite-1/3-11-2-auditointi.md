@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.2 Auditointi
-
 Mahdolliset auditoinnit tulee olla oikeassa suhteessa tutkimuksen toteuttamiseen liittyviin riskeihin (ks. kappale 3.10.1.1). Toimeksiantajan tekemä [[sanasto/auditointi|auditointi]] on riippumaton ja erillinen rutiininomaisesta monitoroinnista tai laadunvalvontatoimista. Sen tarkoituksena on arvioida, ovatko tutkimuksen hallintaan ja toteuttamiseen käytettävät prosessit tarkoituksenmukaisia varmistamaan tutkimussuunnitelman, hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten noudattamisen.
 
 ## Liittyvät käsitteet

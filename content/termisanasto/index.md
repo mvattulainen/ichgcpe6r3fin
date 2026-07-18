@@ -9,8 +9,6 @@ publish: true
 permalink: "/termisanasto/"
 ---
 
-# EN–FI-termisanasto
-
 - **access control** – käyttöoikeuksien hallinta
 - **activity / activities** – toimi / toimet (sisältää tehtävät, vastuut ja toiminnot)
 - **adaptability** – joustavuus, mukautuvuus

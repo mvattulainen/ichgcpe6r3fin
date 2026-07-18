@@ -28,17 +28,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.5 Tutkimukseen osallistujien valinta
+<a id="ich-e6-r3-app-b-5-b-5-1"></a>
 
-### B.5.1 ^ich-e6-r3-app-b-5-b-5-1
+### B.5.1
 
 Tutkimukseen osallistujien valintaperusteet.
 
-### B.5.2 ^ich-e6-r3-app-b-5-b-5-2
+<a id="ich-e6-r3-app-b-5-b-5-2"></a>
+
+### B.5.2
 
 Tutkimukseen osallistujien poissulkuperusteet.
 
-### B.5.3 ^ich-e6-r3-app-b-5-b-5-3
+<a id="ich-e6-r3-app-b-5-b-5-3"></a>
+
+### B.5.3
 
 Tutkimukseen osallistujien seulontatavat ja tarvittaessa esiseulonnan kuvaus.
 

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/vakioidut-toimintaohjeet/"
 ---
 
-# Vakioidut toimintaohjeet
-
 **Englanniksi:** standard operating procedures, SOPs
 
 ## Suomenkielinen määritelmä

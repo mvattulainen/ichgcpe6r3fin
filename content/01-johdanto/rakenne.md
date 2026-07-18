@@ -27,8 +27,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# Ohjeen rakenne
-
 Tämä ICH GCP -ohje koostuu periaatteista ja periaatteita täydentävistä liitteistä. Liitteissä on yksityiskohtaista tietoa erityyppisistä kliinisistä lääketutkimuksista. Periaatteita on tarkoitus soveltaa kaikkiin kliinisiin lääketutkimuksiin ja tutkimusympäristöihin, ja niiden on tarkoitus pysyä merkityksellisinä myös silloin, kun teknologia ja menetelmät kehittyvät. Tässä ohjeessa esitetyt periaatteet voidaan saavuttaa erilaisilla lähestymistavoilla, ja periaatteita tulee soveltaa kliinisen lääketutkimuksen aiotun tarkoituksen mukaisesti. Liitteen 1 ja sen täydentävien liitteiden tarkoituksena on antaa tietoa siitä, miten periaatteita voidaan soveltaa asianmukaisesti kliinisiin lääketutkimuksiin. Liitteitä voidaan laatia lisää vastaamaan sidosryhmien tarpeisiin ja tukemaan uusien innovaatioiden käyttöä tutkimusasetelmassa ja tutkimuksen toteutuksessa. Tätä ohjetta tulee lukea yhdessä muiden ICH-ohjeiden kanssa, jotka liittyvät kliinisen lääketutkimuksen suunnitteluun ja järjestämiseen, mukaan lukien monialueiset tutkimukset.
 
 > [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.

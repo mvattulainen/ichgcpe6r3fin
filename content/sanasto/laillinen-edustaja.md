@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/laillinen-edustaja/"
 ---
 
-# Laillinen edustaja
-
 **Englanniksi:** Legally acceptable representative
 
 ## Suomenkielinen määritelmä

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/lainsaadannon-vaatimukset/"
 ---
 
-# Lainsäädännön vaatimukset
-
 **Englanniksi:** applicable regulatory requirements
 
 ## Suomenkielinen määritelmä

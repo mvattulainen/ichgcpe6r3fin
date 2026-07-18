@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkimuspaikka/"
 ---
 
-# Tutkimuspaikka
-
 **Englanniksi:** investigator site
 
 ## Suomenkielinen määritelmä

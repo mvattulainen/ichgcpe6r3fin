@@ -29,11 +29,13 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.2.1 Auditoijien valinta ja pätevyys
+<a id="ich-e6-r3-a1-3-11-2-1-item-a"></a>
 
-- (a) Toimeksiantajan tulee nimetä henkilöt, jotka ovat riippumattomia auditoitavasta kliinisestä lääketutkimuksesta/prosessista. ^ich-e6-r3-a1-3-11-2-1-item-a
+- (a) Toimeksiantajan tulee nimetä henkilöt, jotka ovat riippumattomia auditoitavasta kliinisestä lääketutkimuksesta/prosessista.
 
-- (b) Toimeksiantajan tulee varmistaa, että auditoijilla on koulutuksen ja kokemuksen antama pätevyys suorittaa auditointeja asianmukaisesti. ^ich-e6-r3-a1-3-11-2-1-item-b
+<a id="ich-e6-r3-a1-3-11-2-1-item-b"></a>
+
+- (b) Toimeksiantajan tulee varmistaa, että auditoijilla on koulutuksen ja kokemuksen antama pätevyys suorittaa auditointeja asianmukaisesti.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

@@ -30,51 +30,73 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.4 Tutkimusasetelma
-
 Tutkimuksen tieteellinen eheys ja tutkimuksesta saatavien tietojen luotettavuus riippuvat olennaisesti tutkimusasetelmasta. Tutkimusasetelman kuvauksesta tulee käydä ilmi
 
-### B.4.1 ^ich-e6-r3-app-b-4-b-4-1
+<a id="ich-e6-r3-app-b-4-b-4-1"></a>
+
+### B.4.1
 
 Nimenomainen lausunto tutkimuksen ensisijaisista ja mahdollisista toissijaisista vastemuuttujista.
 
-### B.4.2 ^ich-e6-r3-app-b-4-b-4-2
+<a id="ich-e6-r3-app-b-4-b-4-2"></a>
+
+### B.4.2
 
 Kuvaus toteutettavan tutkimuksen tyypistä/tutkimusasetelmasta (esim. kaksoissokkomenettely, lumevertailu, rinnakkaisryhmätutkimus, mukautuva suunnittelu, alusta-/sateenvarjo-/koritutkimukset, tutkimukset, joissa on hajautettuja elementtejä) ja kaavio tutkimusasetelmasta, menettelytavoista ja vaiheista.
 
-### B.4.3 ^ich-e6-r3-app-b-4-b-4-3
+<a id="ich-e6-r3-app-b-4-b-4-3"></a>
+
+### B.4.3
 
 Kuvaus toimenpiteistä, joilla tutkimusharha minimoidaan/vältetään, muun muassa:
 
-- (a) [[sanasto/satunnaistaminen|satunnaistaminen]] ^ich-e6-r3-app-b-4-item-a
+<a id="ich-e6-r3-app-b-4-item-a"></a>
 
-- (b) [[sanasto/sokkoutus|sokkoutus]] ^ich-e6-r3-app-b-4-item-b
+- (a) [[sanasto/satunnaistaminen|satunnaistaminen]]
 
-### B.4.4 ^ich-e6-r3-app-b-4-b-4-4
+<a id="ich-e6-r3-app-b-4-item-b"></a>
+
+- (b) [[sanasto/sokkoutus|sokkoutus]]
+
+<a id="ich-e6-r3-app-b-4-b-4-4"></a>
+
+### B.4.4
 
 Kuvaus tutkimusvalmisteista ja tutkimusvalmisteiden annostelusta ja annosteluohjelmasta, mukaan lukien kuvaus annostelumuodosta, pakkauksesta ja pakkausmerkinnästä.
 
-### B.4.5 ^ich-e6-r3-app-b-4-b-4-5
+<a id="ich-e6-r3-app-b-4-b-4-5"></a>
+
+### B.4.5
 
 Valmisteleminen (esim. liuottaminen) ja anto-ohjeet soveltuvin osin, paitsi jos ne on kuvattu muualla.
 
-### B.4.6 ^ich-e6-r3-app-b-4-b-4-6
+<a id="ich-e6-r3-app-b-4-b-4-6"></a>
+
+### B.4.6
 
 Kuvaus tapahtumien aikataulusta (esim. tutkimuskäynnit, interventiot ja arvioinnit).
 
-### B.4.7 ^ich-e6-r3-app-b-4-b-4-7
+<a id="ich-e6-r3-app-b-4-b-4-7"></a>
+
+### B.4.7
 
 Tutkimukseen osallistujan osallistumisen arvioitu kesto ja kuvaus kaikkien tutkimusjaksojen järjestyksestä ja kestosta mukaan luettuna mahdolliset seurantajaksot.
 
-### B.4.8 ^ich-e6-r3-app-b-4-b-4-8
+<a id="ich-e6-r3-app-b-4-b-4-8"></a>
+
+### B.4.8
 
 Kuvaus yksittäisten tutkimukseen osallistujien, tutkimuksen osan tai koko tutkimuksen ”keskeyttämissäännöistä” tai ”lopettamisperiaatteista” ja ”annoksen mukauttamisesta” tai ”annoksen keskeyttämisestä”.
 
-### B.4.9 ^ich-e6-r3-app-b-4-b-4-9
+<a id="ich-e6-r3-app-b-4-b-4-9"></a>
+
+### B.4.9
 
 Tutkimusvalmisteiden, myös mahdollisten lumelääkkeiden ja vertailuvalmisteiden kulutusseuranta.
 
-### B.4.10 ^ich-e6-r3-app-b-4-b-4-10
+<a id="ich-e6-r3-app-b-4-b-4-10"></a>
+
+### B.4.10
 
 Hoitojen satunnaistamiskoodien ja koodien avaamismenettelyjen ylläpitäminen.
 

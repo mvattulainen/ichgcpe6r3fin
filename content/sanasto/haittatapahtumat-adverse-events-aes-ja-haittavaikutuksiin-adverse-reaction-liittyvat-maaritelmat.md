@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/haittatapahtumat-adverse-events-aes-ja-haittavaikutuksiin-adverse-reaction-liittyvat-maaritelmat/"
 ---
 
-# Haittatapahtumat (adverse events, AEs) ja haittavaikutuksiin (adverse reaction) liittyvät määritelmät
-
 **Englanniksi:** Kohdistus avoin
 
 ## Suomenkielinen määritelmä

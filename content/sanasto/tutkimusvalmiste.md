@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkimusvalmiste/"
 ---
 
-# Tutkimusvalmiste
-
 **Englanniksi:** investigational product
 
 ## Suomenkielinen määritelmä

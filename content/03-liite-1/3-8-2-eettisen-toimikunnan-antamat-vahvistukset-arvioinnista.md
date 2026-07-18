@@ -30,13 +30,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.8.2 Eettisen toimikunnan antamat vahvistukset arvioinnista
+<a id="ich-e6-r3-a1-3-8-2-item-a"></a>
 
-- (a) Jos viitataan hakemuksen toimittamiseen eettiselle toimikunnalle, sen voi tehdä [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] tai [[sanasto/toimeksiantaja|toimeksiantaja]] lainsäädännön vaatimusten mukaisesti (ks. kappale 1.1). ^ich-e6-r3-a1-3-8-2-item-a
+- (a) Jos viitataan hakemuksen toimittamiseen eettiselle toimikunnalle, sen voi tehdä [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] tai [[sanasto/toimeksiantaja|toimeksiantaja]] lainsäädännön vaatimusten mukaisesti (ks. kappale 1.1).
 
-- (b) Toimeksiantajan tulee varmistaa, että seuraavat tiedot ovat saatavilla: ^ich-e6-r3-a1-3-8-2-item-b
+<a id="ich-e6-r3-a1-3-8-2-item-b"></a>
 
-- (i) eettisen toimikunnan nimi ja osoite sekä: (aa) lausunto, jossa todetaan, että toimikunta on järjestäytynyt ja toimii hyvän kliinisen tutkimustavan periaatteiden ja lainsäädännön vaatimusten mukaan; (bb) dokumentoitu eettisen toimikunnan alkuperäinen ja myöhempi hyväksyntä/puoltava lausunto sekä tutkimuksen mahdollinen päättäminen tai hyväksynnän/puoltavan lausunnon keskeyttäminen. ^ich-e6-r3-a1-3-8-2-item-i
+- (b) Toimeksiantajan tulee varmistaa, että seuraavat tiedot ovat saatavilla:
+
+<a id="ich-e6-r3-a1-3-8-2-item-i"></a>
+
+- (i) eettisen toimikunnan nimi ja osoite sekä: (aa) lausunto, jossa todetaan, että toimikunta on järjestäytynyt ja toimii hyvän kliinisen tutkimustavan periaatteiden ja lainsäädännön vaatimusten mukaan; (bb) dokumentoitu eettisen toimikunnan alkuperäinen ja myöhempi hyväksyntä/puoltava lausunto sekä tutkimuksen mahdollinen päättäminen tai hyväksynnän/puoltavan lausunnon keskeyttäminen.
 
 ## Liittyvät käsitteet
 

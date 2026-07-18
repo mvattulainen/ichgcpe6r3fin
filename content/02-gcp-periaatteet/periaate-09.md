@@ -30,29 +30,39 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 9. Kliinisten lääketutkimusten tulee tuottaa luotettavia tuloksia.
+<a id="ich-e6-r3-principle-09-9-1"></a>
 
-### 9.1 ^ich-e6-r3-principle-09-9-1
+### 9.1
 
 Kliinisessä lääketutkimuksessa tuotettujen tietojen laadun ja määrän tulee olla tarkoitukseen sopivia ja riittäviä, jotta tutkimuksen tuloksiin voidaan luottaa ja jotta ne tukevat hyvää päätöksentekoa.
 
-### 9.2 ^ich-e6-r3-principle-09-9-2
+<a id="ich-e6-r3-principle-09-9-2"></a>
+
+### 9.2
 
 Sellaisten järjestelmien ja prosessien, jotka auttavat keräämään, hallinnoimaan ja analysoimaan tietoja ja varmistamaan tutkimuksesta saadun tiedon laadun, tulee olla tarkoitukseen sopivia ja kerätä tutkimussuunnitelman edellyttämät tiedot. Lisäksi ne tulee toteuttaa tavalla, joka on oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja hankittujen tietojen tärkeyteen.
 
-### 9.3 ^ich-e6-r3-principle-09-9-3
+<a id="ich-e6-r3-principle-09-9-3"></a>
+
+### 9.3
 
 Kliinisissä lääketutkimuksissa käytettävien tietokoneistettujen järjestelmien tulee olla tarkoitukseen sopivia (esim. validoitu tarvittaessa riskiperusteisesti), ja niiden laadun kannalta kriittiset tekijät tulee huomioida suunnittelussa tai mukauttamisessa kliinisiin lääketutkimuksiin, jotta asiaankuuluvien tutkimustietojen eheys voidaan varmistaa.
 
-### 9.4 ^ich-e6-r3-principle-09-9-4
+<a id="ich-e6-r3-principle-09-9-4"></a>
+
+### 9.4
 
 Kliinisiin lääketutkimuksiin tulee sisällyttää tehokkaita ja luotettavia prosesseja tallenteiden (ja tietojen) hallintaa varten, jotta voidaan varmistaa, että tallenteiden eheys ja jäljitettävyys säilytetään ja että henkilötiedot pysyvät suojattuina. Näin varmistetaan kliinisen lääketutkimuksen tietojen tarkka raportointi, tulkinta ja varmentaminen.
 
-### 9.5 ^ich-e6-r3-principle-09-9-5
+<a id="ich-e6-r3-principle-09-9-5"></a>
+
+### 9.5
 
 Toimeksiantajien ja tutkijoiden tulee säilyttää [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] turvallisesti lainsäädännön vaatimusten mukaisen ajan. Oleellisten tallenteiden tulee olla pyynnöstä valvontaviranomaisten, monitoroijien, auditoijien ja tarvittaessa myös eettisen toimikunnan käytettävissä, jotta tutkimuksen toteuttaminen voidaan arvioida asianmukaisesti tutkimustulosten luotettavuuden varmistamiseksi.
 
-### 9.6 ^ich-e6-r3-principle-09-9-6
+<a id="ich-e6-r3-principle-09-9-6"></a>
+
+### 9.6
 
 Kliinisten lääketutkimusten läpinäkyvyyteen kuuluu sekä oikea-aikainen rekisteröinti julkisesti saatavilla oleviin ja tunnustettuihin tietokantoihin että kliinisten lääketutkimusten tulosten julkaiseminen. Tutkimustulosten ilmoittamista tutkimukseen osallistujille tulee harkita. Tällaisen viestinnän tulee olla objektiivista eikä sillä saa pyrkiä myynninedistämiseen.
 

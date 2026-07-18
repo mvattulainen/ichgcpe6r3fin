@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/puolueeton-todistaja/"
 ---
 
-# Puolueeton todistaja
-
 **Englanniksi:** impartial witness
 
 ## Suomenkielinen määritelmä

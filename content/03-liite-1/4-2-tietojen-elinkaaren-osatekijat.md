@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.2 Tietojen elinkaaren osatekijät
-
 Käytössä tulee olla menettelyitä, joilla katetaan tietojen koko elinkaari.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

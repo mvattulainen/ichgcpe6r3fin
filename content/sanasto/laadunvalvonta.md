@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/laadunvalvonta/"
 ---
 
-# Laadunvalvonta
-
 **Englanniksi:** quality control, QC
 
 ## Suomenkielinen määritelmä

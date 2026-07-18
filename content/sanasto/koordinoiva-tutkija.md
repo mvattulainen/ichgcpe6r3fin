@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/koordinoiva-tutkija/"
 ---
 
-# Koordinoiva tutkija
-
 **Englanniksi:** coordinating investigator
 
 ## Suomenkielinen määritelmä

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/varmennettu-kopio/"
 ---
 
-# Varmennettu kopio
-
 **Englanniksi:** certified copy
 
 ## Suomenkielinen määritelmä

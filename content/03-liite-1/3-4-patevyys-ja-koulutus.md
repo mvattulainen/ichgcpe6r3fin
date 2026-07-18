@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.4 Pätevyys ja koulutus
-
 Toimeksiantajan tulee hyödyntää asianmukaisen pätevyyden omaavia henkilöitä koko tutkimuksen ajan niissä toimissa, joihin heidät on nimetty (esim. biostatistikot, kliiniset farmakologit, lääkärit, data-analyytikot / tietojen hallinnan asiantuntijat ts. data managerit, auditoijat ja monitoroijat).
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

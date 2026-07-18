@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.3 Tutkimuksen tavoitteet ja tarkoitus
-
 Selkeä kuvaus tutkimuksen tavoitteista ja tarkoituksesta. Tiedot estimandeista, jos ne on määritelty [ks. ICH E9(R1)].
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

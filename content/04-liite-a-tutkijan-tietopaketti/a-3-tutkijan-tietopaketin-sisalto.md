@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.3 Tutkijan tietopaketin sisältö
-
 Tutkijan tietopaketissa tulee olla seuraavat kappaleet, joiden loppuun lisätään mahdolliset kirjallisuusviitteet (julkaisut tai raportit):
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

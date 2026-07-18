@@ -31,17 +31,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.12 Vaatimusten laiminlyönti
+<a id="ich-e6-r3-a1-3-12-1"></a>
 
-### 3.12.1 ^ich-e6-r3-a1-3-12-1
+### 3.12.1
 
 Jos [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] tai toimeksiantajan henkilöstöön kuuluva jättää noudattamatta tutkimussuunnitelmaa, toimintaohjeita, hyvää kliinistä tutkimustapaa tai lainsäädännön vaatimuksia, toimeksiantajan tulee ryhtyä asianmukaisiin ja oikeasuhtaisiin toimenpiteisiin varmistaakseen niiden noudattamisen.
 
-### 3.12.2 ^ich-e6-r3-a1-3-12-2
+<a id="ich-e6-r3-a1-3-12-2"></a>
+
+### 3.12.2
 
 Jos havaitaan, että vaatimuksia laiminlyödään, mikä vaikuttaa tai voi vaikuttaa merkittävästi tutkimukseen osallistujan oikeuksiin, turvallisuuteen tai hyvinvointiin tai vaarantaa tutkimustulosten luotettavuuden, toimeksiantajan tulee tehdä juurisyyanalyysi, toteuttaa asianmukaisia korjaavia ja ennaltaehkäiseviä toimenpiteitä sekä vahvistaa niiden riittävyys, ellei voida perustella toisin. Jos [[sanasto/toimeksiantaja|toimeksiantaja]] tunnistaa tekijöitä, jotka todennäköisesti vaikuttavat merkittävästi tutkimukseen osallistujan oikeuksiin, turvallisuuteen tai hyvinvointiin tai tutkimustulosten luotettavuuteen (ts. vakava vaatimusten laiminlyönti), toimeksiantajan tulee ilmoittaa asiasta valvontaviranomaiselle ja/tai eettiselle toimikunnalle lainsäädännön vaatimusten mukaisesti ja/tai tutkijalle tapauksen edellyttämällä tavalla.
 
-### 3.12.3 ^ich-e6-r3-a1-3-12-3
+<a id="ich-e6-r3-a1-3-12-3"></a>
+
+### 3.12.3
 
 Jos tutkijan/tutkimuslaitoksen tai palveluntarjoajan toiminnassa havaitaan merkittäviä vaatimusten laiminlyöntejä ja ne jatkuvat, vaikka niitä on yritetty korjata, toimeksiantajan tulee harkita tutkijan/tutkimuslaitoksen tai palveluntarjoajan osallistumisen päättämistä tutkimuksessa. Näissä olosuhteissa toimeksiantajan tulee tapauksen edellyttämällä tavalla viipymättä ilmoittaa valvontaviranomaisille ja eettiselle toimikunnalle vakavista laiminlyönneistä ja ryhtyä toimiin, joilla minimoidaan vaikutukset tutkimukseen osallistujiin ja tulosten luotettavuuteen.
 

@@ -29,13 +29,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.2.1 Tietojen kerääminen
+<a id="ich-e6-r3-a1-4-2-1-item-a"></a>
 
-- (a) Kun paperiseen tai sähköiseen potilasasiakirjaan kerätyt tiedot siirretään manuaalisesti tietokoneistettuun järjestelmään (esim. tiedonkeruutyökaluun), tietojen varmentamisen tarpeessa ja laajuudessa tulee ottaa huomioon tietojen kriittisyys. ^ich-e6-r3-a1-4-2-1-item-a
+- (a) Kun paperiseen tai sähköiseen potilasasiakirjaan kerätyt tiedot siirretään manuaalisesti tietokoneistettuun järjestelmään (esim. tiedonkeruutyökaluun), tietojen varmentamisen tarpeessa ja laajuudessa tulee ottaa huomioon tietojen kriittisyys.
 
-- (b) Mistä tahansa lähteestä peräisin oleviin tietoihin, mukaan lukien suoraan tietokoneistettuihin järjestelmiin (esim. tiedonkeruutyökaluun) kerättyihin tietoihin, tulee sisältyä asiaankuuluvat metatiedot. ^ich-e6-r3-a1-4-2-1-item-b
+<a id="ich-e6-r3-a1-4-2-1-item-b"></a>
 
-- (c) Tietojen kirjaamisen yhteydessä tulee harkita riskeihin perustuvia automaattisia tietojen validointitarkistuksia syötettyjen tietojen varmentamiseksi, ja validointitarkistusten tulee olla valvottua ja dokumentoitua. ^ich-e6-r3-a1-4-2-1-item-c
+- (b) Mistä tahansa lähteestä peräisin oleviin tietoihin, mukaan lukien suoraan tietokoneistettuihin järjestelmiin (esim. tiedonkeruutyökaluun) kerättyihin tietoihin, tulee sisältyä asiaankuuluvat metatiedot.
+
+<a id="ich-e6-r3-a1-4-2-1-item-c"></a>
+
+- (c) Tietojen kirjaamisen yhteydessä tulee harkita riskeihin perustuvia automaattisia tietojen validointitarkistuksia syötettyjen tietojen varmentamiseksi, ja validointitarkistusten tulee olla valvottua ja dokumentoitua.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

@@ -31,15 +31,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.4.5.1 Viestintä tutkimuksen toteuttajien kanssa
+<a id="ich-e6-r3-a1-3-11-4-5-1-item-a"></a>
 
-- (a) Käynnistetään toimeksiantajan ja tutkijan sekä muiden tutkimuksessa mukana olevien tahojen ja henkilöiden (esim. keskitetysti suoritettavat tehtävät) välinen viestintä ja ylläpidetään sitä. Yleensä jokaisella tutkimuspaikalla tulee olla yhteyshenkilöksi nimetty monitoroija. ^ich-e6-r3-a1-3-11-4-5-1-item-a
+- (a) Käynnistetään toimeksiantajan ja tutkijan sekä muiden tutkimuksessa mukana olevien tahojen ja henkilöiden (esim. keskitetysti suoritettavat tehtävät) välinen viestintä ja ylläpidetään sitä. Yleensä jokaisella tutkimuspaikalla tulee olla yhteyshenkilöksi nimetty monitoroija.
 
-- (b) Tutkijoille tai muille tutkimuksen toteuttamiseen osallistuville osapuolille ja henkilöille tiedotetaan tapahtuneista olennaisista poikkeamista, jotka koskevat tutkimussuunnitelmaa, hyvää kliinistä tutkimustapaa ja lainsäädännön vaatimuksia. Tarvittaessa ryhdytään toimenpiteisiin, joiden tarkoituksena on estää havaittujen poikkeamien toistuminen. Merkittävät poikkeamat on nostettava esiin, ja niihin tulee tarvittaessa puuttua korjaavilla toimenpiteillä. ^ich-e6-r3-a1-3-11-4-5-1-item-b
+<a id="ich-e6-r3-a1-3-11-4-5-1-item-b"></a>
 
-- (c) Tiedotetaan tutkijalle tai muille tutkimuksen toteuttamiseen liittyville osapuolille ja henkilöille lähdetallenteisiin ja/tai tiedonkeruutyökaluihin tehdyistä merkintävirheistä tai tietojen puuttumisesta, ja varmistetaan, että korjaukset, lisäykset ja poistot tehdään tarpeen mukaan, päivätään ja (tarvittaessa) selitetään ja että muutoksen hyväksyminen on asianmukaisesti dokumentoitu. ^ich-e6-r3-a1-3-11-4-5-1-item-c
+- (b) Tutkijoille tai muille tutkimuksen toteuttamiseen osallistuville osapuolille ja henkilöille tiedotetaan tapahtuneista olennaisista poikkeamista, jotka koskevat tutkimussuunnitelmaa, hyvää kliinistä tutkimustapaa ja lainsäädännön vaatimuksia. Tarvittaessa ryhdytään toimenpiteisiin, joiden tarkoituksena on estää havaittujen poikkeamien toistuminen. Merkittävät poikkeamat on nostettava esiin, ja niihin tulee tarvittaessa puuttua korjaavilla toimenpiteillä.
 
-- (d) Poikkeamiin, virheisiin tai puutteisiin liittyvien toimenpiteiden tulee olla oikeassa suhteessa niiden merkitykseen. ^ich-e6-r3-a1-3-11-4-5-1-item-d
+<a id="ich-e6-r3-a1-3-11-4-5-1-item-c"></a>
+
+- (c) Tiedotetaan tutkijalle tai muille tutkimuksen toteuttamiseen liittyville osapuolille ja henkilöille lähdetallenteisiin ja/tai tiedonkeruutyökaluihin tehdyistä merkintävirheistä tai tietojen puuttumisesta, ja varmistetaan, että korjaukset, lisäykset ja poistot tehdään tarpeen mukaan, päivätään ja (tarvittaessa) selitetään ja että muutoksen hyväksyminen on asianmukaisesti dokumentoitu.
+
+<a id="ich-e6-r3-a1-3-11-4-5-1-item-d"></a>
+
+- (d) Poikkeamiin, virheisiin tai puutteisiin liittyvien toimenpiteiden tulee olla oikeassa suhteessa niiden merkitykseen.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

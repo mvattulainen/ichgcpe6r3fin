@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.10.1 Riskienhallinta
-
 Seuraavassa kuvataan oikeasuhtainen lähestymistapa riskien tunnistamiseen ja hallintaan:
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

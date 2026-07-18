@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.10.1.5 Riskien katselmointi
-
 Toimeksiantajan tulee säännöllisin väliajoin katselmoida riskienhallintatoimenpiteitä sen varmistamiseksi, että käytetyt laadunhallintatoimet ovat edelleen tehokkaita ja tarkoituksenmukaisia ottaen huomioon uudet ja kertyvät tiedot sekä saatu kokemus. Tarvittaessa voidaan toteuttaa muita riskienhallintatoimenpiteitä.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

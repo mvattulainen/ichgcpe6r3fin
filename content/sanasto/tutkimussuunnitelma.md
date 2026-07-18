@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkimussuunnitelma/"
 ---
 
-# Tutkimussuunnitelma
-
 **Englanniksi:** protocol
 
 ## Suomenkielinen määritelmä

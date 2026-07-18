@@ -30,11 +30,11 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.3.6 Vaikutukset ihmisissä
-
 Johdanto Mukaan tulee liittää perusteellinen selostus tutkimusvalmisteen tunnetuista vaikutuksista ihmisissä, mukaan luettuna tiedot farmakokinetiikasta, metaboliasta, farmakodynamiikasta, annosvasteesta, turvallisuudesta, tehokkuudesta ja muista farmakologisista vaikutuksista. Mikäli mahdollista, mukaan on liitettävä yhteenveto kaikista valmistuneista ja sellaisista meneillään olevista kliinisistä lääketutkimuksista, joista on saatavilla väliaikaisia, mahdollisesti turvallisuusarviointiin vaikuttavia tuloksia. Tietopakettiin tulee sisällyttää myös tiedot tutkimusvalmisteen käyttöä koskevista tuloksista, joita on saatu muista kuin kliinisistä lääketutkimuksista, esimerkiksi markkinoilla olevien valmisteiden käyttökokemuksista.
 
-- (a) Farmakokinetiikka ja valmisteen metabolia ihmisissä Tietopaketissa tulee esittää yhteenveto tutkimusvalmisteiden farmakokinetiikasta, mukaan luettuna seuraavat tiedot, mikäli ne ovat saatavilla: ^ich-e6-r3-app-a-3-6-item-a
+<a id="ich-e6-r3-app-a-3-6-item-a"></a>
+
+- (a) Farmakokinetiikka ja valmisteen metabolia ihmisissä Tietopaketissa tulee esittää yhteenveto tutkimusvalmisteiden farmakokinetiikasta, mukaan luettuna seuraavat tiedot, mikäli ne ovat saatavilla:
 
 - Farmakokinetiikka (mukaan luettuna metabolia, jos saatavilla, imeytyminen, sitoutuminen plasman proteiineihin, jakautuminen ja eliminaatio)
 
@@ -46,9 +46,13 @@ Johdanto Mukaan tulee liittää perusteellinen selostus tutkimusvalmisteen tunne
 
 - Muut farmakokineettiset tiedot (esim. kliinisten lääketutkimusten puitteissa tehtyjen väestöalaryhmien analyysitulokset).
 
-- (b) Turvallisuus ja tehokkuus Tietopaketissa tulee esittää yhteenveto tutkimusvalmisteen (ja sen mahdollisten metaboliittien) turvallisuutta, farmakodynamiikkaa, tehokkuutta ja annosvastetta koskevista tiedoista, jotka on saatu aikaisemmista ihmisillä (terveillä vapaaehtoisilla ja/tai potilailla) tehdyistä tutkimuksista. Näiden tietojen merkitystä tulee käsitellä. Jos useampia kliinisiä lääketutkimuksia on valmistunut, näiden turvallisuus- ja tehokkuustiedon esittäminen yhteenvetona käyttöaiheittain eri alaryhmissä voi selkeyttää esitystapaa. Taulukkoyhteenvedot kaikissa kliinisissä lääketutkimuksissa (mukaan lukien tutkimukset kaikilla tutkittavilla käyttöaiheilla) havaituista lääkkeiden haittavaikutuksista ovat suositeltavia. Merkittävät erot lääkkeen haittavaikutusten esiintymismalleissa/esiintyvyydessä eri käyttöaiheilla tai alaryhmissä on käsiteltävä. Tutkijan tietopaketissa tulee olla selostus aikaisempien kokemusten perusteella odotettavissa olevista tutkimusvalmisteen ja muiden samantapaisten valmisteiden haittavaikutuksista. Myös tutkimuksessa käytettävän valmisteen käyttöön liittyvistä varotoimenpiteistä tai lisäseurannasta tulee antaa ohjeistus. ^ich-e6-r3-app-a-3-6-item-b
+<a id="ich-e6-r3-app-a-3-6-item-b"></a>
 
-- (c) Käyttökokemus Tutkijan tietopaketissa tulee mainita ne maat, joissa [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] on tuotu markkinoille tai saanut myyntiluvan. Markkinoilla olevan valmisteen käytöstä saaduista merkittävistä tiedoista tulisi tehdä yhteenveto (esim. formulaatiot, annokset, antoreitit ja haittavaikutukset). Tutkijan tietopaketissa tulee myös mainita kaikki ne maat, joissa tutkimusvalmistetta ei ole hyväksytty/rekisteröity tai joissa sen myyntilupa on peruttu tai peruutettu. ^ich-e6-r3-app-a-3-6-item-c
+- (b) Turvallisuus ja tehokkuus Tietopaketissa tulee esittää yhteenveto tutkimusvalmisteen (ja sen mahdollisten metaboliittien) turvallisuutta, farmakodynamiikkaa, tehokkuutta ja annosvastetta koskevista tiedoista, jotka on saatu aikaisemmista ihmisillä (terveillä vapaaehtoisilla ja/tai potilailla) tehdyistä tutkimuksista. Näiden tietojen merkitystä tulee käsitellä. Jos useampia kliinisiä lääketutkimuksia on valmistunut, näiden turvallisuus- ja tehokkuustiedon esittäminen yhteenvetona käyttöaiheittain eri alaryhmissä voi selkeyttää esitystapaa. Taulukkoyhteenvedot kaikissa kliinisissä lääketutkimuksissa (mukaan lukien tutkimukset kaikilla tutkittavilla käyttöaiheilla) havaituista lääkkeiden haittavaikutuksista ovat suositeltavia. Merkittävät erot lääkkeen haittavaikutusten esiintymismalleissa/esiintyvyydessä eri käyttöaiheilla tai alaryhmissä on käsiteltävä. Tutkijan tietopaketissa tulee olla selostus aikaisempien kokemusten perusteella odotettavissa olevista tutkimusvalmisteen ja muiden samantapaisten valmisteiden haittavaikutuksista. Myös tutkimuksessa käytettävän valmisteen käyttöön liittyvistä varotoimenpiteistä tai lisäseurannasta tulee antaa ohjeistus.
+
+<a id="ich-e6-r3-app-a-3-6-item-c"></a>
+
+- (c) Käyttökokemus Tutkijan tietopaketissa tulee mainita ne maat, joissa [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] on tuotu markkinoille tai saanut myyntiluvan. Markkinoilla olevan valmisteen käytöstä saaduista merkittävistä tiedoista tulisi tehdä yhteenveto (esim. formulaatiot, annokset, antoreitit ja haittavaikutukset). Tutkijan tietopaketissa tulee myös mainita kaikki ne maat, joissa tutkimusvalmistetta ei ole hyväksytty/rekisteröity tai joissa sen myyntilupa on peruttu tai peruutettu.
 
 ## Liittyvät käsitteet
 

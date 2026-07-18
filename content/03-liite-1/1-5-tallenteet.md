@@ -29,11 +29,11 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 1.5 Tallenteet
-
 hammaslääkärillä (tai muulla pätevällä terveydenhuollon ammattilaisella paikallisten lakisääteisten vaatimusten mukaisesti) tulee olla kokonaisvastuu tutkimukseen liittyvästä lääketieteellisestä hoidosta ja tutkimukseen osallistujien puolesta tehdyistä lääketieteellisistä päätöksistä; asianmukaisenpätevyyden saaneet terveydenhuollon ammattilaiset voivat kuitenkin olla käytännön vuorovaikutuksessa, antaa lääketieteellistä hoitoa ja tehdä lääketieteellisiä päätöksiä lainsäädännön vaatimusten mukaisesti.
 
-### 1.6 ^ich-e6-r3-a1-1-5-1-6
+<a id="ich-e6-r3-a1-1-5-1-6"></a>
+
+### 1.6
 
 Sellaisten tietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]], jotka mahdollistavat tutkimukseen osallistujien tunnistamisen, tulee suojata sovellettavien yksityisyys- ja tietosuojavaatimusten mukaisesti. 2. [[sanasto/tietoon-perustuva-suostumus|Tietoon perustuva suostumus]] on olennainen osa tutkimuksen eettistä toteuttamista. Kliiniseen lääketutkimukseen osallistumisen tulee olla vapaaehtoista ja perustua suostumusprosessiin, jolla varmistetaan, että tutkimukseen osallistujat (tai tarvittaessa heidän lailliset edustajansa) ovat saaneet kaiken tarvittavan tiedon.
 

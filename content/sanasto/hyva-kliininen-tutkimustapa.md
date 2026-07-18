@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/hyva-kliininen-tutkimustapa/"
 ---
 
-# Hyvä kliininen tutkimustapa
-
 **Englanniksi:** good clinical practice, GCP
 
 ## Suomenkielinen määritelmä

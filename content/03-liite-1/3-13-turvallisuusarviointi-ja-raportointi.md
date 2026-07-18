@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.13 Turvallisuusarviointi ja -raportointi
-
 [[sanasto/toimeksiantaja|Toimeksiantaja]] vastaa tutkimusvalmisteen jatkuvasta turvallisuusarvioinnista. [[sanasto/tutkijan-tietopaketti|Tutkijan tietopaketti]] tai tarvittaessa muu ajankohtainen tieteellinen tieto, kuten valmisteyhteenveto, on kliinisen lääketutkimuksen turvallisuusarvioinnin ja raportoinnin perusta. Katso lisätietoja täydentävästä liitteestä A.
 
 ## Liittyvät käsitteet

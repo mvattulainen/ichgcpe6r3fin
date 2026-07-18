@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.11 Suora pääsy lähdetallenteisiin
-
 Toimeksiantajan tulee varmistaa, että tutkimussuunnitelmassa tai muussa dokumentoidussa sopimuksessa täsmennetään, että [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]]/[[sanasto/palveluntarjoaja|palveluntarjoaja]] sallii tutkimukseen liittyvän monitoroinnin, auditoinnit, viranomaistarkastukset ja lainsäädännön vaatimusten mukaisesti eettisen toimikunnan suorittaman arvioinnin tarjoamalla suoran pääsyn lähdetallenteisiin.
 
 ## Liittyvät käsitteet

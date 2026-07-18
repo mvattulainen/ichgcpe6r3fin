@@ -9,8 +9,6 @@ publish: true
 permalink: "/02-gcp-periaatteet/"
 ---
 
-# ICH:n määrittelemät hyvän kliinisen tutkimustavan periaatteet
-
 - [[02-gcp-periaatteet/periaate-01|1. Kliiniset lääketutkimukset tulee toteuttaa noudattaen eettisiä periaatteita, jotka perustuvat Helsingin julistukseen ja ovat hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisia. Kliiniset lääketutkimukset tulee suunnitella ja toteuttaa tavoilla, joilla varmistetaan tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.]]
 - [[02-gcp-periaatteet/periaate-02|2. Tietoon perustuva suostumus on olennainen osa tutkimuksen eettistä toteuttamista. Kliiniseen lääketutkimukseen osallistumisen tulee olla vapaaehtoista ja perustua suostumusprosessiin, jolla varmistetaan, että tutkimukseen osallistujat (tai tarvittaessa heidän lailliset edustajansa) ovat saaneet kaiken tarvittavan tiedon.]]
 - [[02-gcp-periaatteet/periaate-03|3. Eettisen toimikunnan tulee arvioida kliiniset lääketutkimukset riippumattomasti.]]

@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.2.7 Tietojen säilytys ja pääsy tietoihin
-
 Tutkimustiedot ja niihin liittyvä [[sanasto/metatieto|metatieto]] tulee arkistoida siten, että tiedot voidaan hakea ja lukea, ja tietoja tulee suojata luvattomalta pääsyltä ja muutoksilta koko säilytysajan.
 
 ## Liittyvät käsitteet

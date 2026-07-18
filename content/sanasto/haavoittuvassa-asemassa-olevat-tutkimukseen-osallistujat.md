@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/haavoittuvassa-asemassa-olevat-tutkimukseen-osallistujat/"
 ---
 
-# Haavoittuvassa asemassa olevat tutkimukseen osallistujat
-
 **Englanniksi:** vulnerable participants
 
 ## Suomenkielinen määritelmä

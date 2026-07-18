@@ -19,6 +19,12 @@ Versioitu, kaksikielinen ja koneellisesti luettava tietopohja Fimean tarkistamas
 
 `sources/manifest.yaml` tarkistetaan ennen jokaista poimintaa. Putki pysähtyy, jos lähde puuttuu tai SHA-256 ei täsmää.
 
+## Manuaalisesti ylläpidettävä etusivu
+
+Sivuston etusivua muokataan tiedostossa `content/index.md`. Generointiputki säilyttää tämän tiedoston muuttamattomana eikä kirjoita sitä uudelleen. Muut `content/`-hakemiston sivut tuotetaan automaattisesti.
+
+`npm run validate` tarkistaa lisäksi, että julkaistavaksi tarkoitettu suomen- ja englanninkielinen lähdeteksti vastaa PDF-poimintaa. Tulokset tallennetaan tiedostoon `reports/source-exactness-report.md`.
+
 ## Lähde- ja tulkintahuomautus
 
 Suomenkielinen käännös on epävirallinen ja englanninkielinen lähde oikeudellisesti sitova. Lähdeteksti säilytetään erillään automaattisesti johdetuista roolinäkymistä, velvoitteista ja havainnollistavista näyttöesimerkeistä. Johdettu aineisto odottaa asiantuntijan tarkistusta.

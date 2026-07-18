@@ -30,29 +30,39 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 11. Kliinisessä lääketutkimuksessa käytettävät tutkimusvalmisteet tulee valmistaa sovellettavien hyvien tuotantotapojen (GMP) standardien mukaisesti, ja niitä tulee hallinnoida valmisteyhteenvedon ja tutkimussuunnitelman mukaisesti.
+<a id="ich-e6-r3-principle-11-1"></a>
 
-### 11.1 ^ich-e6-r3-principle-11-1
+### 11.1
 
 Kliinisessä lääketutkimuksessa käytettävät tutkimusvalmisteet tulee valmistaa sovellettavien hyvien tuotantotapojen (GMP) standardien mukaisesti.
 
-### 11.2 ^ich-e6-r3-principle-11-2
+<a id="ich-e6-r3-principle-11-2"></a>
+
+### 11.2
 
 Käytössä tulee olla toimenpiteitä sen varmistamiseksi, että tutkimukseen osallistujille annettava [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] säilyttää laatunsa.
 
-### 11.3 ^ich-e6-r3-principle-11-3
+<a id="ich-e6-r3-principle-11-3"></a>
+
+### 11.3
 
 Tutkimusvalmisteita tulee käyttää tutkimussuunnitelman ja asiaankuuluvien tutkimusasiakirjojen mukaisesti.
 
-### 11.4 ^ich-e6-r3-principle-11-4
+<a id="ich-e6-r3-principle-11-4"></a>
+
+### 11.4
 
 Tutkimusvalmisteiden valmistus, käsittely ja merkinnät tulee toteuttaa tavoilla, jotka noudattavat hoitoryhmiin jakoa ja jotka ylläpitävät sokkoutusta tarvittaessa.
 
-### 11.5 ^ich-e6-r3-principle-11-5
+<a id="ich-e6-r3-principle-11-5"></a>
+
+### 11.5
 
 Tutkimusvalmisteiden pakkausmerkintöjen tulee olla lainsäädännön vaatimusten mukaisia.
 
-### 11.6 ^ich-e6-r3-principle-11-6
+<a id="ich-e6-r3-principle-11-6"></a>
+
+### 11.6
 
 Tutkimusvalmisteiden käsittelyä, kuljetusta, varastointia, jakelua, palauttamista ja tuhoamista tai vaihtoehtoisesti muuta käytöstä poistamista varten tulee ottaa käyttöön asianmukaiset prosessit.
 

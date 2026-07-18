@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# I. Johdanto
-
 [[sanasto/hyva-kliininen-tutkimustapa|Hyvä kliininen tutkimustapa]] (GCP) on ihmisillä tehtävien tutkimusten kansainvälinen eettinen ja tieteellinen laatunormi. Tutkimusten toteuttaminen tämän normin mukaisesti varmistaa, että tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi turvataan Helsingin julistukseen perustuvien periaatteiden mukaisesti ja että kliinisten lääketutkimusten tulokset ovat luotettavia. Tässä asiakirjassa käsitteellä ”tutkimuksen toteutus” tarkoitetaan kaikkia vaiheita tutkimuksen suunnittelemisesta sen raportointiin: tutkimuksen suunnittelua, käynnistämistä, toteuttamista, kirjaamista, valvontaa, arviointia, analysointia ja raportointia. Tämän ICH GCP ohjeen tavoitteena on tarjota yhtenäiset normit, joiden avulla edistetään kliinisten lääketutkimusten tietojen vastavuoroista hyväksymistä ICH:n jäsenmaissa ja - alueilla toimivaltaisten viranomaisten kesken. T-ämä ohje perustuu ICH E8(R1) General Considerations for Clinical Studies ohjeessa esitettyihin keskeisiin käsitteisiin. Näihin kuuluu laatukulttuurin edistäminen sekä laadun - ennakoiva sisällyttäminen kliinisten lääketutkimusten ja lääkekehityksen suunnitteluun, tutkimuksen laadun kannalta kriittisten tekijöiden tunnistaminen, sidosryhmien osallistaminen soveltuvin osin sekä oikeasuhtaisen, riskiperusteisen lähestymistavan hyödyntäminen. Kliiniset lääketutkimukset vaihtelevat suuresti laajuudeltaan, monimutkaisuudeltaan ja kustannuksiltaan. Kunkin tutkimuksen kriittisten laatutekijöiden ja niihin liittyvien riskien huolellinen arviointi auttaa varmistamaan tehokkuuden keskittämällä huomion toimiin, jotka ovat kriittisiä tutkimuksen tavoitteiden saavuttamisen kannalta.
 
 ## Liittyvät käsitteet

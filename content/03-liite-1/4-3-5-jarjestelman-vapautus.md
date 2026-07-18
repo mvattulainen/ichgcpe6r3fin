@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.3.5 Järjestelmän vapautus
-
 Tutkimuskohtaiset järjestelmät (mukaan lukien tutkimussuunnitelman muutoksista johtuvat päivitykset) tulee ottaa käyttöön, julkaista tai aktivoida yksittäisissä tutkimuspaikoissa vasta sen jälkeen, kun kaikki kyseistä tutkimuspaikkaa koskevat kliiniseen lääketutkimukseen tarvittavat hyväksynnät on saatu.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

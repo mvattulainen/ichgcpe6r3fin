@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# Ohjeen soveltamisala
-
 Tätä ohjetta sovelletaan sellaisiin tutkimusvalmisteiden interventiotutkimuksiin, jotka aiotaan lähettää toimivaltaisille viranomaisille. Tämän ohjeen hyvän kliinisen tutkimustavan periaatteita voidaan soveltaa myös muihin sellaisiin tutkimusvalmisteiden1 interventiotutkimuksiin, joita ei ole tarkoitettu tukemaan myyntilupahakemuksia paikallisten vaatimusten mukaisesti. Liitteet muodostavat perustan periaatteiden asianmukaiselle tulkinnalle ja soveltamiselle, joten ne tulee ottaa asianmukaisesti huomioon. Liitteiden ehtoihin voidaan kuitenkin soveltaa erilaisia 1 Tässä ohjeessa termillä ”[[sanasto/tutkimusvalmiste|tutkimusvalmiste]]” tarkoitetaan lääkkeitä, lääkevalmisteita, rokotteita ja biologisia valmisteita. Luettavuuden parantamiseksi suomenkielisessä käännöksessä käytetään pääasiassa yksikkömuotoa ”[[sanasto/tutkimusvalmiste|tutkimusvalmiste]]”. Tämä ei kuitenkaan rajoita termin soveltamista ainoastaan yhteen tutkimusvalmisteeseen, vaan termi on asiayhteyden mukaan ymmärrettävä myös monikollisessa merkityksessä. lähestymistapoja, jos ne ovat perusteltuja ja täyttävät periaatteiden soveltamisen aiotun tarkoituksen. Tässä ohjeessa kannustetaan soveltamaan riskiperusteista ja oikeasuhtaista lähestymistapaa kliinisen lääketutkimuksen suorittamiseen.
 
 ## Liittyvät käsitteet

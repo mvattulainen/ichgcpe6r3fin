@@ -30,15 +30,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.7.1 Tutkimukseen osallistujille annettava lääketieteellinen hoito
+<a id="ich-e6-r3-a1-2-7-1-item-a"></a>
 
-- (a) Pätevän lääkärin tai, silloin kun se on tarkoituksenmukaista, hammaslääkärin (tai muiden pätevien terveydenhuollon ammattilaisten, paikallisten lainsäädännön vaatimusten mukaisesti), joka osallistuu tutkimukseen tutkijana tai avustavana tutkijana, tulee vastata tutkimukseen liittyvästä lääketieteellisestä hoidosta ja lääketieteellisistä päätöksistä. ^ich-e6-r3-a1-2-7-1-item-a
+- (a) Pätevän lääkärin tai, silloin kun se on tarkoituksenmukaista, hammaslääkärin (tai muiden pätevien terveydenhuollon ammattilaisten, paikallisten lainsäädännön vaatimusten mukaisesti), joka osallistuu tutkimukseen tutkijana tai avustavana tutkijana, tulee vastata tutkimukseen liittyvästä lääketieteellisestä hoidosta ja lääketieteellisistä päätöksistä.
 
-- (b) Muut asianmukaisesti pätevät terveydenhuollon ammattilaiset voivat osallistua tutkimukseen osallistujien lääketieteelliseen hoitoon normaalin toimintansa ja paikallisten lainsäädännön vaatimusten mukaisesti. ^ich-e6-r3-a1-2-7-1-item-b
+<a id="ich-e6-r3-a1-2-7-1-item-b"></a>
 
-- (c) Tutkijan/tutkimuslaitoksen tulee taata tutkimukseen osallistujille tutkimuksen aikana ja sen jälkeen riittävä lääketieteellinen hoito, mikäli ilmenee tutkimukseen liittyviä haittatapahtumia, mukaan lukien kliinisesti merkittäviä laboratorioarvoja. Tutkijan/tutkimuslaitoksen tulee ilmoittaa tutkimukseen osallistujille, mikäli hoitoa tarvitaan tutkijan toteamien tutkimuksenaikaisien muiden sairauksien vuoksi. ^ich-e6-r3-a1-2-7-1-item-c
+- (b) Muut asianmukaisesti pätevät terveydenhuollon ammattilaiset voivat osallistua tutkimukseen osallistujien lääketieteelliseen hoitoon normaalin toimintansa ja paikallisten lainsäädännön vaatimusten mukaisesti.
 
-- (d) Tutkijan tulee ilmoittaa tutkimukseen osallistumisesta osallistujan omalle lääkärille, mikäli osallistujalla on oma lääkäri ja osallistuja on antanut luvan asiasta ilmoittamiseen. ^ich-e6-r3-a1-2-7-1-item-d
+<a id="ich-e6-r3-a1-2-7-1-item-c"></a>
+
+- (c) Tutkijan/tutkimuslaitoksen tulee taata tutkimukseen osallistujille tutkimuksen aikana ja sen jälkeen riittävä lääketieteellinen hoito, mikäli ilmenee tutkimukseen liittyviä haittatapahtumia, mukaan lukien kliinisesti merkittäviä laboratorioarvoja. Tutkijan/tutkimuslaitoksen tulee ilmoittaa tutkimukseen osallistujille, mikäli hoitoa tarvitaan tutkijan toteamien tutkimuksenaikaisien muiden sairauksien vuoksi.
+
+<a id="ich-e6-r3-a1-2-7-1-item-d"></a>
+
+- (d) Tutkijan tulee ilmoittaa tutkimukseen osallistumisesta osallistujan omalle lääkärille, mikäli osallistujalla on oma lääkäri ja osallistuja on antanut luvan asiasta ilmoittamiseen.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

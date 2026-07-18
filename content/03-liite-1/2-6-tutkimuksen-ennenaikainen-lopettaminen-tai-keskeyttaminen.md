@@ -31,21 +31,27 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.6 Tutkimuksen ennenaikainen lopettaminen tai keskeyttäminen
+<a id="ich-e6-r3-a1-2-6-1"></a>
 
-### 2.6.1 ^ich-e6-r3-a1-2-6-1
+### 2.6.1
 
 Jos tutkimus lopetetaan ennenaikaisesti tai keskeytetään mistä tahansa syystä, tutkijan/tutkimuslaitoksen tulee ilmoittaa asiasta viipymättä tutkimukseen osallistujille sekä huolehtia heidän tarkoituksenmukaisesta hoidostaan ja seurannastaan.
 
-### 2.6.2 ^ich-e6-r3-a1-2-6-2
+<a id="ich-e6-r3-a1-2-6-2"></a>
+
+### 2.6.2
 
 Jos [[sanasto/tutkija|tutkija]] lopettaa tai keskeyttää tutkimuksen sopimatta asiasta ensin toimeksiantajan kanssa, tutkijan tulee viipymättä ilmoittaa asiasta tutkimuslaitokselle, toimeksiantajalle, eettiselle toimikunnalle ja valvontaviranomaisille lainsäädännön vaatimusten mukaisesti, ja hänen tulee antaa yksityiskohtainen selvitys syistä.
 
-### 2.6.3 ^ich-e6-r3-a1-2-6-3
+<a id="ich-e6-r3-a1-2-6-3"></a>
+
+### 2.6.3
 
 Jos [[sanasto/toimeksiantaja|toimeksiantaja]] lopettaa tai keskeyttää tutkimuksen, tutkijan/tutkimuslaitoksen tai toimeksiantajan tulee ilmoittaa asiasta lainsäädännön vaatimusten mukaisesti viipymättä eettiselle toimikunnalle ja valvontaviranomaisille ja toimittaa niille asiasta yksityiskohtainen selvitys (ks. kappale 3.17.1).
 
-### 2.6.4 ^ich-e6-r3-a1-2-6-4
+<a id="ich-e6-r3-a1-2-6-4"></a>
+
+### 2.6.4
 
 Jos eettinen toimikunta peruuttaa tai epää tutkimusta koskevan hyväksyntänsä / puoltavan lausuntonsa (ks. kappaleet 1.2.3 ja 1.4.9), tutkijan tulee ilmoittaa asiasta tutkimuslaitokselle ja tutkijan/tutkimuslaitoksen tulee ilmoittaa asiasta viipymättä toimeksiantajalle.
 

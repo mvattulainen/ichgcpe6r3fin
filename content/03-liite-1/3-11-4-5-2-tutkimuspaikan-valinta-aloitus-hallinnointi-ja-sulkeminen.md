@@ -30,27 +30,45 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.4.5.2 Tutkimuspaikan valinta, aloitus, hallinnointi ja sulkeminen
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-a"></a>
 
-- (a) Valitaan [[sanasto/tutkimuspaikka|tutkimuspaikka]] ja varmistetaan, että tutkijalla ja muilla tutkimusta toteuttavilla henkilöillä tai osapuolilla on riittävä pätevyys, resurssit (ks. Kappaleet 2.1, 2.2 ja 3.7) ja tilat, mukaan lukien laboratoriot, laitteet ja tutkimusta suorittava henkilöstö, jotta tutkimus voidaan toteuttaa turvallisesti ja asianmukaisesti. ^ich-e6-r3-a1-3-11-4-5-2-item-a
+- (a) Valitaan [[sanasto/tutkimuspaikka|tutkimuspaikka]] ja varmistetaan, että tutkijalla ja muilla tutkimusta toteuttavilla henkilöillä tai osapuolilla on riittävä pätevyys, resurssit (ks. Kappaleet 2.1, 2.2 ja 3.7) ja tilat, mukaan lukien laboratoriot, laitteet ja tutkimusta suorittava henkilöstö, jotta tutkimus voidaan toteuttaa turvallisesti ja asianmukaisesti.
 
-- (b) Varmistetaan, huomioiden heidän delegoidut toimensa ja kokemuksensa, että tutkijalle, tutkimusta toteuttavalle henkilöstölle ja muille tahoille sekä tutkimuksen toteuttamiseen liittyville henkilöille on annettu riittävästi tietoa tutkimuksesta ja että he noudattavat voimassa olevaa hyväksyttyä tutkimussuunnitelmaa sekä siihen liittyviä asiakirjoja, kuten voimassa olevaa tutkijan tietopakettia ja tutkimusvalmisteeseen liittyvää olennaista tietoa. ^ich-e6-r3-a1-3-11-4-5-2-item-b
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-b"></a>
 
-- (c) Varmistetaan, että [[sanasto/tutkija|tutkija]] ylläpitää oleellisia tallenteita (ks. täydentävä liite C). ^ich-e6-r3-a1-3-11-4-5-2-item-c
+- (b) Varmistetaan, huomioiden heidän delegoidut toimensa ja kokemuksensa, että tutkijalle, tutkimusta toteuttavalle henkilöstölle ja muille tahoille sekä tutkimuksen toteuttamiseen liittyville henkilöille on annettu riittävästi tietoa tutkimuksesta ja että he noudattavat voimassa olevaa hyväksyttyä tutkimussuunnitelmaa sekä siihen liittyviä asiakirjoja, kuten voimassa olevaa tutkijan tietopakettia ja tutkimusvalmisteeseen liittyvää olennaista tietoa.
 
-- (d) Varmistetaan, että [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]] on saatu tutkimukseen osallistujilta tutkimuspaikassa ennen tutkimukseen osallistumista (ks. kappale 2.8). ^ich-e6-r3-a1-3-11-4-5-2-item-d
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-c"></a>
 
-- (e) Selvitetään, onko haittatapahtumista raportoitu asianmukaisesti tutkimussuunnitelman, hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten edellyttämien määräaikojen sisällä. ^ich-e6-r3-a1-3-11-4-5-2-item-e
+- (c) Varmistetaan, että [[sanasto/tutkija|tutkija]] ylläpitää oleellisia tallenteita (ks. täydentävä liite C).
 
-- (f) Varmistetaan tutkimussuunnitelman vaatimukset lähdetallenteille ja kyseisten tietojen sijainti tutkimuspaikalla. ^ich-e6-r3-a1-3-11-4-5-2-item-f
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-d"></a>
 
-- (g) Todennetaan, että mahdollinen [[sanasto/sokkoutus|sokkoutus]] säilyy. ^ich-e6-r3-a1-3-11-4-5-2-item-g
+- (d) Varmistetaan, että [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]] on saatu tutkimukseen osallistujilta tutkimuspaikassa ennen tutkimukseen osallistumista (ks. kappale 2.8).
 
-- (h) Tarkastetaan ja raportoidaan tutkimukseen rekrytoitujen ja tutkimuksessa pysyneiden osallistujien määrät. ^ich-e6-r3-a1-3-11-4-5-2-item-h
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-e"></a>
 
-- (i) Varmistetaan, että [[sanasto/tutkija|tutkija]] toimittaa vaaditut raportit, ilmoitukset tai muut tiedot tutkimussuunnitelman ja tutkimusmenettelyiden mukaisesti. ^ich-e6-r3-a1-3-11-4-5-2-item-i
+- (e) Selvitetään, onko haittatapahtumista raportoitu asianmukaisesti tutkimussuunnitelman, hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten edellyttämien määräaikojen sisällä.
 
-- (j) Varmistetaan oleellisten tallenteiden säilyttämisjärjestelyt ja tutkimusvalmisteen lopullinen kulutusseuranta (esim. palauttaminen ja tuhoaminen tai tarvittaessa muu vaihtoehtoinen käsittely) tutkimuslaitoksen/paikan sulkemistoimien aikana. ^ich-e6-r3-a1-3-11-4-5-2-item-j
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-f"></a>
+
+- (f) Varmistetaan tutkimussuunnitelman vaatimukset lähdetallenteille ja kyseisten tietojen sijainti tutkimuspaikalla.
+
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-g"></a>
+
+- (g) Todennetaan, että mahdollinen [[sanasto/sokkoutus|sokkoutus]] säilyy.
+
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-h"></a>
+
+- (h) Tarkastetaan ja raportoidaan tutkimukseen rekrytoitujen ja tutkimuksessa pysyneiden osallistujien määrät.
+
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-i"></a>
+
+- (i) Varmistetaan, että [[sanasto/tutkija|tutkija]] toimittaa vaaditut raportit, ilmoitukset tai muut tiedot tutkimussuunnitelman ja tutkimusmenettelyiden mukaisesti.
+
+<a id="ich-e6-r3-a1-3-11-4-5-2-item-j"></a>
+
+- (j) Varmistetaan oleellisten tallenteiden säilyttämisjärjestelyt ja tutkimusvalmisteen lopullinen kulutusseuranta (esim. palauttaminen ja tuhoaminen tai tarvittaessa muu vaihtoehtoinen käsittely) tutkimuslaitoksen/paikan sulkemistoimien aikana.
 
 ## Liittyvät käsitteet
 

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/toimeksiantaja-tutkija/"
 ---
 
-# Toimeksiantaja-tutkija
-
 **Englanniksi:** sponsor-investigator
 
 ## Suomenkielinen määritelmä

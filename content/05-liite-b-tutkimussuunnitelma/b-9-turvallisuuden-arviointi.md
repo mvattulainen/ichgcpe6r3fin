@@ -28,21 +28,27 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.9 Turvallisuuden arviointi
+<a id="ich-e6-r3-app-b-9-b-9-1"></a>
 
-### B.9.1 ^ich-e6-r3-app-b-9-b-9-1
+### B.9.1
 
 Turvallisuusparametrien määrittely.
 
-### B.9.2 ^ich-e6-r3-app-b-9-b-9-2
+<a id="ich-e6-r3-app-b-9-b-9-2"></a>
+
+### B.9.2
 
 Turvallisuusparametrien kirjaamisen ja arvioimisen menetelmät, laajuus ja ajoitus. Mikäli tutkimukseen liittyviä komiteoita (esim. riippumatonta tietojenseurantatoimikuntaa (IDMC)) käytetään turvallisuustietojen arviointiin, menettelyt, ajoitus ja toimet tulee kuvata tutkimussuunnitelmassa tai erillisessä asiakirjassa.
 
-### B.9.3 ^ich-e6-r3-app-b-9-b-9-3
+<a id="ich-e6-r3-app-b-9-b-9-3"></a>
+
+### B.9.3
 
 Menettelyt haittatapahtumien raporttien hankkimiseksi sekä haittatapahtumia kirjaamiseksi ja raportoimiseksi.
 
-### B.9.4 ^ich-e6-r3-app-b-9-b-9-4
+<a id="ich-e6-r3-app-b-9-b-9-4"></a>
+
+### B.9.4
 
 Tutkimukseen osallistujien jatkoseurannan tyyppi ja kesto haittatapahtumien ja muiden tapahtumien, kuten raskauden, jälkeen.
 

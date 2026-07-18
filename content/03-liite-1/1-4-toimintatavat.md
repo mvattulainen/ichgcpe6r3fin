@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 1.4 Toimintatavat
-
 tulee harkita huolellisesti, jotta tiettyjä tutkimuspopulaatiota ei tarpeettomasti suljeta pois. Tutkimukseen osallistujien valintaprosessin tulee edustaa niitä väestöryhmiä, joiden hyödyksi [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] on luvan saatuaan tarkoitettu, jotta tulokset voidaan yleistää koskemaan laajempaa väestöä. Tiettyihin tutkimuksiin (esim. varhaisen vaiheen tutkimukset, konseptin toimivuuden osoittavat tutkimukset, bioekvivalenssitutkimukset) ei välttämättä vaadita näin heterogeenistä ryhmää.
 
 ## Liittyvät käsitteet

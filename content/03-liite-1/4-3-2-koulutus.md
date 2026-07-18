@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.3.2 Koulutus
-
 Vastuutahon tulee varmistaa, että tietokoneistettuja järjestelmiä käyttävät saavat asianmukaisen käyttökoulutuksen.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

@@ -31,19 +31,29 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.4.5.4 Kliinisen lääketutkimuksen tietojen monitorointi
+<a id="ich-e6-r3-a1-3-11-4-5-4-item-a"></a>
 
-- (a) Varmennetaan, että [[sanasto/tutkija|tutkija]] ottaa tutkimukseen vain tutkimukseen soveltuvia osallistujia. ^ich-e6-r3-a1-3-11-4-5-4-item-a
+- (a) Varmennetaan, että [[sanasto/tutkija|tutkija]] ottaa tutkimukseen vain tutkimukseen soveltuvia osallistujia.
 
-- (b) Tarkastetaan raportoitujen tutkimustietojen tarkkuus, täydellisyys ja johdonmukaisuus lähdetallenteita ja muita tutkimukseen liittyviä tallenteita vasten ja että tiedot on raportoitu oikea-aikaisesti. Tämä voidaan tehdä otosperusteisesti ja tarvittaessa data-analytiikkaa käyttämällä. Otoskokoa ja tietojen tai tallenteiden tyyppiä tulee ehkä mukauttaa aiempien monitorointitulosten tai tietojen riittämättömästä laadusta kertovien merkkien perusteella. Monitoroinnissa tulee: ^ich-e6-r3-a1-3-11-4-5-4-item-b
+<a id="ich-e6-r3-a1-3-11-4-5-4-item-b"></a>
 
-- (i) varmistaa, että tutkimussuunnitelman vaatimat tiedot ja monitorointisuunnitelmassa kriittisemmiksi tunnistetut tiedot ovat yhdenmukaisia lähdetietojen kanssa; ^ich-e6-r3-a1-3-11-4-5-4-item-i
+- (b) Tarkastetaan raportoitujen tutkimustietojen tarkkuus, täydellisyys ja johdonmukaisuus lähdetallenteita ja muita tutkimukseen liittyviä tallenteita vasten ja että tiedot on raportoitu oikea-aikaisesti. Tämä voidaan tehdä otosperusteisesti ja tarvittaessa data-analytiikkaa käyttämällä. Otoskokoa ja tietojen tai tallenteiden tyyppiä tulee ehkä mukauttaa aiempien monitorointitulosten tai tietojen riittämättömästä laadusta kertovien merkkien perusteella. Monitoroinnissa tulee:
 
-- (ii) tunnistaa puuttuvat tiedot, epäjohdonmukaiset tiedot, oudokit, odottamaton vaihtelun puute ja poikkeamat tutkimussuunnitelmasta; ^ich-e6-r3-a1-3-11-4-5-4-item-ii
+<a id="ich-e6-r3-a1-3-11-4-5-4-item-i"></a>
 
-- (iii) tutkia tietotrendejä, kuten tietojen vaihteluväliä, yhdenmukaisuutta ja vaihtelua tutkimuspaikoissa ja niiden välillä; ^ich-e6-r3-a1-3-11-4-5-4-item-iii
+- (i) varmistaa, että tutkimussuunnitelman vaatimat tiedot ja monitorointisuunnitelmassa kriittisemmiksi tunnistetut tiedot ovat yhdenmukaisia lähdetietojen kanssa;
 
-- (c) tunnistaa merkittävät tiedonkeruun ja raportoinnin virheet tutkimuspaikassa tai tutkimuspaikkojen välillä sekä mahdolliset tietojen manipulointiin ja luotettavuuteen liittyvät ongelmat. ^ich-e6-r3-a1-3-11-4-5-4-item-c
+<a id="ich-e6-r3-a1-3-11-4-5-4-item-ii"></a>
+
+- (ii) tunnistaa puuttuvat tiedot, epäjohdonmukaiset tiedot, oudokit, odottamaton vaihtelun puute ja poikkeamat tutkimussuunnitelmasta;
+
+<a id="ich-e6-r3-a1-3-11-4-5-4-item-iii"></a>
+
+- (iii) tutkia tietotrendejä, kuten tietojen vaihteluväliä, yhdenmukaisuutta ja vaihtelua tutkimuspaikoissa ja niiden välillä;
+
+<a id="ich-e6-r3-a1-3-11-4-5-4-item-c"></a>
+
+- (c) tunnistaa merkittävät tiedonkeruun ja raportoinnin virheet tutkimuspaikassa tai tutkimuspaikkojen välillä sekä mahdolliset tietojen manipulointiin ja luotettavuuteen liittyvät ongelmat.
 
 ## Liittyvät käsitteet
 

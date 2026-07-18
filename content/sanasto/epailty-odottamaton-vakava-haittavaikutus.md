@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/epailty-odottamaton-vakava-haittavaikutus/"
 ---
 
-# Epäilty odottamaton vakava haittavaikutus
-
 **Englanniksi:** suspected unexpected serious adverse reaction, SUSAR
 
 ## Suomenkielinen määritelmä

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tutkijan-tietopaketti/"
 ---
 
-# Tutkijan tietopaketti
-
 **Englanniksi:** Investigator’s Brochure, IB
 
 ## Suomenkielinen määritelmä

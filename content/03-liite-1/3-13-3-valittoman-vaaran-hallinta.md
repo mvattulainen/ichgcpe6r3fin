@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.13.3 Välittömän vaaran hallinta
-
 Toimeksiantajan tulee ryhtyä pikaisiin toimiin, jotta tutkimukseen osallistujille aiheutuviin välittömiin vaaroihin puututaan. Toimeksiantajan tulee määrittää vaaran syyt ja ryhtyä niiden perusteella asianmukaisiin korjaaviin toimenpiteisiin. Toimeksiantajan tulee harkita, tuleeko tutkimussuunnitelmaa muuttaa välittömän vaaran torjumiseksi. Tutkijan/tutkimuslaitoksen tai toimeksiantajan tulee tarvittaessa lähettää tiedot välittömästä vaarasta ja mahdolliset myöhemmät tutkimussuunnitelman muutokset eettiselle toimikunnalle ja/tai valvontaviranomaisille (lainsäädännön vaatimusten mukaisesti).
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/avustava-tutkija/"
 ---
 
-# Avustava tutkija
-
 **Englanniksi:** sub-investigator
 
 ## Suomenkielinen määritelmä

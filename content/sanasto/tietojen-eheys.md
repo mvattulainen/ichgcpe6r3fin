@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tietojen-eheys/"
 ---
 
-# Tietojen eheys
-
 **Englanniksi:** data integrity
 
 ## Suomenkielinen määritelmä

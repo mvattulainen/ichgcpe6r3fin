@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.3 Tietokoneistetut järjestelmät
-
 Kuten kappaleissa 2 ja 3 on kuvattu, toimeksiantajan ja tutkijan vastuiden sekä muiden osapuolten toimien tulee olla selkeitä ja dokumentoituja kliinisissä lääketutkimuksissa käytettävän tietokoneistetun järjestelmän osalta. Vastuutahon tulee varmistaa, että tietokoneistettuja järjestelmiä kliinisiä lääketutkimuksia varten kehittävät henkilöt (tai tahot) ovat tietoisia käyttötarkoituksesta ja heitä koskevien lainsäädännön vaatimuksista. On suositeltavaa, että aiotun osallistujaryhmän ja terveydenhuollon ammattilaisten edustajia osallistuu tarvittaessa järjestelmän suunnitteluun, jotta varmistetaan, että tietokoneistetut järjestelmät soveltuvat aiotun käyttäjäryhmän käyttöön.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

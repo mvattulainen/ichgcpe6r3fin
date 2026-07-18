@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/vaatimustenmukaisuus/"
 ---
 
-# Vaatimustenmukaisuus
-
 **Englanniksi:** compliance, tutkimusten yhteydessä
 
 ## Suomenkielinen määritelmä

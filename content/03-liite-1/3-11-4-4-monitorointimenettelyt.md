@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.4.4 Monitorointimenettelyt
-
 Monitorointia tekevien henkilöiden tulee noudattaa toimeksiantajan monitorointisuunnitelmaa ja sovellettavia monitorointimenettelyitä.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

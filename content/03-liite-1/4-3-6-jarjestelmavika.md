@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 4.3.6 Järjestelmävika
-
 Käytössä tulee olla varomenettelyitä, joilla estetään tutkimukseen osallistujien turvallisuuden, tutkimuspäätösten tai tutkimustulosten kannalta merkityksellisten tietojen häviäminen tai ongelmat tietoihin pääsyssä.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

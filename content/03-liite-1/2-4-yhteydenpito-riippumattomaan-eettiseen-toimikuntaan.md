@@ -31,29 +31,39 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.4 Yhteydenpito riippumattomaan eettiseen toimikuntaan
+<a id="ich-e6-r3-a1-2-4-1"></a>
 
-### 2.4.1 ^ich-e6-r3-a1-2-4-1
+### 2.4.1
 
 [[sanasto/tutkija|Tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] tai [[sanasto/toimeksiantaja|toimeksiantaja]] voi tehdä hakemuksen eettiselle toimikunnalle lainsäädännön vaatimusten mukaisesti (ks. Kappale 1.1).
 
-### 2.4.2 ^ich-e6-r3-a1-2-4-2
+<a id="ich-e6-r3-a1-2-4-2"></a>
+
+### 2.4.2
 
 Tutkijalla/tutkimuslaitoksella tulee olla ennen tutkimuksen aloittamista eettiseltä toimikunnalta saatu dokumentoitu ja päivätty hyväksyntä / puoltava lausunto tutkimussuunnitelmasta, tietoon perustuvan suostumuksen materiaaleista, tutkimukseen osallistujien rekrytointimenettelyistä (esim. mainoksista) ja muista osallistujille annettavista tutkimukseen liittyvistä tiedoista.
 
-### 2.4.3 ^ich-e6-r3-a1-2-4-3
+<a id="ich-e6-r3-a1-2-4-3"></a>
+
+### 2.4.3
 
 Voimassa oleva [[sanasto/tutkijan-tietopaketti|tutkijan tietopaketti]] tai valmisteyhteenveto tulee toimittaa osana tutkijan/tutkimuslaitoksen tai toimeksiantajan (lainsäädännön vaatimusten mukaisesti) eettiselle toimikunnalle lähetettävää hakemusta (ks. täydentävä liite A, kappale A.1.1). Jos tutkijan tietopakettia tai valmisteyhteenvetoa päivitetään tutkimuksen aikana, eettisen toimikunnan tulee saada ajantasainen versio lainsäädännön vaatimusten mukaisesti.
 
-### 2.4.4 ^ich-e6-r3-a1-2-4-4
+<a id="ich-e6-r3-a1-2-4-4"></a>
+
+### 2.4.4
 
 Tutkimuksen edetessä tutkijan/tutkimuslaitoksen tai toimeksiantajan tulee toimittaa mahdolliset tutkimukseen osallistujille annettaviin tietoihin tehdyt päivitykset eettiselle toimikunnalle lainsäädännön vaatimusten mukaisesti.
 
-### 2.4.5 ^ich-e6-r3-a1-2-4-5
+<a id="ich-e6-r3-a1-2-4-5"></a>
+
+### 2.4.5
 
 Tutkijan tai toimeksiantajan tulee lähettää eettiselle toimikunnalle dokumentoitu yhteenveto tutkimustilanteesta paikallisten lainsäädännön vaatimusten mukaisesti tai toimikunnan pyynnöstä.
 
-### 2.4.6 ^ich-e6-r3-a1-2-4-6
+<a id="ich-e6-r3-a1-2-4-6"></a>
+
+### 2.4.6
 
 Tutkijan tai toimeksiantajan tulee viipymättä ilmoittaa eettiselle toimikunnalle (ks. Kappale 1.4.8) ja tarvittaessa myös tutkimuslaitokselle kaikki muutokset, jotka vaikuttavat merkittävästi tutkimuksen toteuttamiseen ja/tai lisäävät tutkimukseen osallistujille aiheutuvaa riskiä.
 

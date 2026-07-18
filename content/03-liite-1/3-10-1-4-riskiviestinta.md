@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.10.1.4 Riskiviestintä
-
 Toimeksiantajan tulee dokumentoida tunnistetut riskit ja niiden vähentämiseksi suoritettavat toimenpiteet sekä tiedottaa niistä tarvittaessa henkilöille, jotka osallistuvat toimenpiteisiin tai joiden toimintaan toimenpiteillä on vaikutus. Viestintä tukee myös riskien arviointia ja jatkuvaa parantamista kliinisten lääketutkimusten toteuttamisen aikana.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

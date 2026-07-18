@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.13 Etiikka
-
 Tutkimukseen liittyvien eettisten kysymysten kuvaus.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

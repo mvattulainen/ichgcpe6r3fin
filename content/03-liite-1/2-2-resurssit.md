@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.2 Resurssit
-
 tavoitteena on antaa mahdollisille tutkimukseen osallistujille mahdollisuus arvioida tutkimukseen osallistumisen hyötyjä, riskejä ja rasitteita sekä tehdä tietoon perustuva päätös tutkimukseen osallistumisesta. Suostumusprosessin aikana annettavien tietojen tulee olla selkeitä ja tiiviitä, jotta mahdolliset tutkimukseen osallistujat tai lailliset edustajat ymmärtävät ne.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

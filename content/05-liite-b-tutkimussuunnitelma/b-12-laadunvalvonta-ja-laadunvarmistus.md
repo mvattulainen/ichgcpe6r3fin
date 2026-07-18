@@ -30,17 +30,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.12 Laadunvalvonta ja laadunvarmistus
+<a id="ich-e6-r3-app-b-12-b-12-1"></a>
 
-### B.12.1 ^ich-e6-r3-app-b-12-b-12-1
+### B.12.1
 
 Kuvaus tunnistetuista kriittisistä laatutekijöistä, niihin liittyvistä riskeistä ja riskien vähentämisstrategioista tutkimuksessa, ellei niitä ole dokumentoitu muualla.
 
-### B.12.2 ^ich-e6-r3-app-b-12-b-12-2
+<a id="ich-e6-r3-app-b-12-b-12-2"></a>
+
+### B.12.2
 
 Yhteenveto monitorointimenetelmistä, jotka ovat osa kliinisen lääketutkimuksen laadunvalvontaprosessia.
 
-### B.12.3 ^ich-e6-r3-app-b-12-b-12-3
+<a id="ich-e6-r3-app-b-12-b-12-3"></a>
+
+### B.12.3
 
 Kuvaus tutkimussuunnitelman tai hyvän kliinisen tutkimustavan vaatimusten laiminlyöntien käsittelemisestä.
 

@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.3 Toimien jakaminen
-
 Ennen kliinisen lääketutkimuksen käynnistämistä toimeksiantajan tulee määrittää roolit ja jakaa tutkimukseen liittyvät toimet määriteltyjä rooleja vastaaviksi.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

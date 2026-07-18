@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/vertailuvalmiste/"
 ---
 
-# Vertailuvalmiste
-
 **Englanniksi:** comparator
 
 ## Suomenkielinen määritelmä

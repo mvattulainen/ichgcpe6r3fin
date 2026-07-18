@@ -31,23 +31,37 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.4.5.3 Tutkimusvalmisteen hallinnoinnin monitorointi
+<a id="ich-e6-r3-a1-3-11-4-5-3-item-a"></a>
 
-- (a) Varmistetaan tutkimusvalmisteen osalta, että: ^ich-e6-r3-a1-3-11-4-5-3-item-a
+- (a) Varmistetaan tutkimusvalmisteen osalta, että:
 
-- (i) varastointiolosuhteet ovat hyväksyttävät ja vastaavat tutkimussuunnitelmassa tai muissa asiaa koskevissa asiakirjoissa määriteltyjä varastointivaatimuksia; ^ich-e6-r3-a1-3-11-4-5-3-item-i
+<a id="ich-e6-r3-a1-3-11-4-5-3-item-i"></a>
 
-- (ii) valmisteita riittää koko tutkimuksen ajan ja niitä käytetään niiden säilyvyysajan puitteissa; ^ich-e6-r3-a1-3-11-4-5-3-item-ii
+- (i) varastointiolosuhteet ovat hyväksyttävät ja vastaavat tutkimussuunnitelmassa tai muissa asiaa koskevissa asiakirjoissa määriteltyjä varastointivaatimuksia;
 
-- (iii) oikeita tutkimusvalmisteita toimitetaan vain tutkimussuunnitelmassa määritellylle, tutkimukseen soveltuville osallistujille oikean annoksen (annosten) mukaisesti ja, jos tarpeellista, satunnaistamismenettelyjen mukaisesti; ^ich-e6-r3-a1-3-11-4-5-3-item-iii
+<a id="ich-e6-r3-a1-3-11-4-5-3-item-ii"></a>
 
-- (iv) tutkimukseen osallistujille, tutkijalle, tutkimusta suorittavalle henkilöstölle ja muille asianmukaisille tutkimukseen liittyville tahoille ja henkilöille annetaan tarvittavat ohjeet tutkimusvalmisteen varastoinnista, käytöstä, käsittelystä, palauttamisesta ja tuhoamisesta tai vaihtoehtoisesta muusta käytöstä poistamisesta; ^ich-e6-r3-a1-3-11-4-5-3-item-iv
+- (ii) valmisteita riittää koko tutkimuksen ajan ja niitä käytetään niiden säilyvyysajan puitteissa;
 
-- (v) tutkimusvalmisteen vastaanottoa, varastointia, käyttöä, käsittelyä, palauttamista ja tuhoamista tai muuta vaihtoehtoista käytöstä poistamista valvotaan, ja toimet dokumentoidaan asianmukaisesti; ^ich-e6-r3-a1-3-11-4-5-3-item-v
+<a id="ich-e6-r3-a1-3-11-4-5-3-item-iii"></a>
 
-- (vi) käyttämättömien tutkimusvalmisteiden käsittely noudattaa lainsäädännön ja toimeksiantajan vaatimuksia; ^ich-e6-r3-a1-3-11-4-5-3-item-vi
+- (iii) oikeita tutkimusvalmisteita toimitetaan vain tutkimussuunnitelmassa määritellylle, tutkimukseen soveltuville osallistujille oikean annoksen (annosten) mukaisesti ja, jos tarpeellista, satunnaistamismenettelyjen mukaisesti;
 
-- (vii) Kun markkinoilla saatavilla olevaa valmistetta toimitetaan ja käytetään lainsäädännön vaatimusten mukaisesti, jotkin edellä mainitut seikat eivät välttämättä päde. ^ich-e6-r3-a1-3-11-4-5-3-item-vii
+<a id="ich-e6-r3-a1-3-11-4-5-3-item-iv"></a>
+
+- (iv) tutkimukseen osallistujille, tutkijalle, tutkimusta suorittavalle henkilöstölle ja muille asianmukaisille tutkimukseen liittyville tahoille ja henkilöille annetaan tarvittavat ohjeet tutkimusvalmisteen varastoinnista, käytöstä, käsittelystä, palauttamisesta ja tuhoamisesta tai vaihtoehtoisesta muusta käytöstä poistamisesta;
+
+<a id="ich-e6-r3-a1-3-11-4-5-3-item-v"></a>
+
+- (v) tutkimusvalmisteen vastaanottoa, varastointia, käyttöä, käsittelyä, palauttamista ja tuhoamista tai muuta vaihtoehtoista käytöstä poistamista valvotaan, ja toimet dokumentoidaan asianmukaisesti;
+
+<a id="ich-e6-r3-a1-3-11-4-5-3-item-vi"></a>
+
+- (vi) käyttämättömien tutkimusvalmisteiden käsittely noudattaa lainsäädännön ja toimeksiantajan vaatimuksia;
+
+<a id="ich-e6-r3-a1-3-11-4-5-3-item-vii"></a>
+
+- (vii) Kun markkinoilla saatavilla olevaa valmistetta toimitetaan ja käytetään lainsäädännön vaatimusten mukaisesti, jotkin edellä mainitut seikat eivät välttämättä päde.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

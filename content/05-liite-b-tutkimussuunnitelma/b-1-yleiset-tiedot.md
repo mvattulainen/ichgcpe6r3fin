@@ -28,17 +28,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.1 Yleiset tiedot
+<a id="ich-e6-r3-app-b-1-b-1-1"></a>
 
-### B.1.1 ^ich-e6-r3-app-b-1-b-1-1
+### B.1.1
 
 Tutkimussuunnitelman otsikko, yksilöllinen tunnistenumero ja päivämäärä. Myös tutkimussuunnitelman muutoksissa tulee olla muutoksen numero ja päivämäärä.
 
-### B.1.2 ^ich-e6-r3-app-b-1-b-1-2
+<a id="ich-e6-r3-app-b-1-b-1-2"></a>
+
+### B.1.2
 
 Toimeksiantajan nimi ja osoite.
 
-### B.1.3 ^ich-e6-r3-app-b-1-b-1-3
+<a id="ich-e6-r3-app-b-1-b-1-3"></a>
+
+### B.1.3
 
 Niiden henkilöiden nimet ja asema, joilla on oikeus allekirjoittaa [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] ja sen muutokset toimeksiantajan puolesta.
 

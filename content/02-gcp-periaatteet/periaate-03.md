@@ -29,13 +29,15 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3. Eettisen toimikunnan tulee arvioida kliiniset lääketutkimukset riippumattomasti.
+<a id="ich-e6-r3-principle-03-3-1"></a>
 
-### 3.1 ^ich-e6-r3-principle-03-3-1
+### 3.1
 
 Tutkimus tulee toteuttaa eettisen toimikunnan etukäteen antaman hyväksynnän tai myönteisen lausunnon saaneen tutkimussuunnitelman mukaisesti.
 
-### 3.2 ^ich-e6-r3-principle-03-3-2
+<a id="ich-e6-r3-principle-03-3-2"></a>
+
+### 3.2
 
 Eettisen toimikunnan tulee tarkastella tutkimusta myös määräajoin lainsäädännön vaatimusten mukaisesti.
 

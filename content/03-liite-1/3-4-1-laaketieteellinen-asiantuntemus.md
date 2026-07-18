@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.4.1 Lääketieteellinen asiantuntemus
-
 Toimeksiantajalla tulee olla helposti saatavilla lääketieteen asiantuntijoita, jotka ovat käytettävissä tutkimukseen liittyvissä lääketieteellisissä kysymyksissä ja ongelmissa.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

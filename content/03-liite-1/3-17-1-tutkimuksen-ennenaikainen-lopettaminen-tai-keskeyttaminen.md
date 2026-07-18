@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.17.1 Tutkimuksen ennenaikainen lopettaminen tai keskeyttäminen
-
 Jos tutkimus lopetetaan tai keskeytetään ennenaikaisesti, toimeksiantajan tulee viipymättä ilmoittaa tutkijalle/tutkimuslaitokselle ja valvontaviranomaisille lopettamisesta tai keskeyttämisestä sekä lopettamisen tai keskeyttämisen syyt. Toimeksiantajan tai tutkijan/tutkimuslaitoksen tulee ilmoittaa asiasta viipymättä myös eettiselle toimikunnalle ja kertoa lopettamisen tai keskeyttämisen syyt lainsäädännön vaatimusten mukaisesti. Tarvittaessa toimeksiantajan tulee antaa tutkijalle tietoja mahdollisesta myöhemmästä hoidosta ja tutkimuksen osallistujien seurannasta.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

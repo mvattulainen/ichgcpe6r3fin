@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/sopimustutkimusorganisaatio/"
 ---
 
-# Sopimustutkimusorganisaatio
-
 **Englanniksi:** contract research organization, CRO
 
 ## Suomenkielinen määritelmä

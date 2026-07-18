@@ -28,8 +28,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# A.3.3 Johdanto
-
 Lyhyt johdanto, jossa mainitaan kunkin tutkimusvalmisteen kemiallinen nimi (ja geneerinen nimi sekä mahdolliset hyväksytyt kauppanimet), kaikki vaikuttavat aineet, farmakologinen luokka ja odotettavissa oleva asema tässä luokassa (esim.hyödyt), tutkimusvalmisteilla suoritettavan tutkimuksen perustelut ja valmisteiden ennakoidut profylaktiset, terapeuttiset tai diagnostiset käyttöaiheet. Johdannossa tulee lisäksi mainita tutkimusvalmisteen arvioinnissa käytettävä yleinen lähestymistapa.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

@@ -29,13 +29,15 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.7 Tutkijan valinta
+<a id="ich-e6-r3-a1-3-7-1"></a>
 
-### 3.7.1 ^ich-e6-r3-a1-3-7-1
+### 3.7.1
 
 [[sanasto/toimeksiantaja|Toimeksiantaja]] vastaa tutkijoiden/tutkimuslaitosten valinnasta. Jokaisella tutkijalla tulee olla riittävä tutkinto-, koulutus- ja kokemustaustan antama pätevyys, ja heidän tulee osoittaa omaavansa riittävät resurssit ja tilat tutkimuksen asianmukaiseen toteuttamiseen. Jos monikeskustutkimuksissa käytetään koordinoivaa toimikuntaa ja/tai valitaan [[sanasto/koordinoiva-tutkija|koordinoiva tutkija]]/tutkijoita, koordinoivan toimikunnan tai tutkijan organisoinnista ja/tai valinnasta vastaa [[sanasto/toimeksiantaja|toimeksiantaja]], ja koordinoivan toimikunnan tai tutkijan roolit ja vastuut tulee dokumentoida ennen kuin koordinoivan toimikunnan tai tutkijan osallistuminen tutkimukseen alkaa.
 
-### 3.7.2 ^ich-e6-r3-a1-3-7-2
+<a id="ich-e6-r3-a1-3-7-2"></a>
+
+### 3.7.2
 
 Toimeksiantajan tulee toimittaa [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] ja ajantasainen [[sanasto/tutkijan-tietopaketti|tutkijan tietopaketti]] mahdollisille tutkijoille/tutkimuslaitoksille, joille tulee varata riittävästi aikaa tutkimussuunnitelman ja annettujen tietojen tarkasteluun.
 

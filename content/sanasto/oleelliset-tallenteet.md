@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/oleelliset-tallenteet/"
 ---
 
-# Oleelliset tallenteet
-
 **Englanniksi:** essential records
 
 ## Suomenkielinen määritelmä

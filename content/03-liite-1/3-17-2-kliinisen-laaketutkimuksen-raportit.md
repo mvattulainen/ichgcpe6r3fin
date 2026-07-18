@@ -30,19 +30,29 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.17.2 Kliinisen lääketutkimuksen raportit
+<a id="ich-e6-r3-a1-3-17-2-item-a"></a>
 
-- (a) Jos tutkimus on päättynyt tai keskeytetty ennenaikaisesti tai jos kyseessä on välianalyysi viranomaiselle toimitettavaa hakemusta varten, toimeksiantajan tulee varmistaa, että kliinisen lääketutkimuksen raportit, mukaan lukien väliraportit, laaditaan ja toimitetaan valvontaviranomaisille lainsäädännön vaatimusten mukaisesti. Toimeksiantajan tulee myös varmistaa, että myyntilupahakemuksissa olevat kliinisen lääketutkimuksen raportit täyttävät ICH E3 -ohjeen vaatimukset tai muut [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]]. (Huomautus: ICH E3 -ohjeessa määritetään, että lyhennetyt tutkimusraportit voidaan hyväksyä tietyissä tapauksissa.) ^ich-e6-r3-a1-3-17-2-item-a
+- (a) Jos tutkimus on päättynyt tai keskeytetty ennenaikaisesti tai jos kyseessä on välianalyysi viranomaiselle toimitettavaa hakemusta varten, toimeksiantajan tulee varmistaa, että kliinisen lääketutkimuksen raportit, mukaan lukien väliraportit, laaditaan ja toimitetaan valvontaviranomaisille lainsäädännön vaatimusten mukaisesti. Toimeksiantajan tulee myös varmistaa, että myyntilupahakemuksissa olevat kliinisen lääketutkimuksen raportit täyttävät ICH E3 -ohjeen vaatimukset tai muut [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]]. (Huomautus: ICH E3 -ohjeessa määritetään, että lyhennetyt tutkimusraportit voidaan hyväksyä tietyissä tapauksissa.)
 
-- (b) Jos tutkimukseen osallistuu [[sanasto/koordinoiva-tutkija|koordinoiva tutkija]], tulee harkita, voidaanko hänet nimetä kliinisen lääketutkimuksen raportin allekirjoittajaksi (ks. ICH E3). ^ich-e6-r3-a1-3-17-2-item-b
+<a id="ich-e6-r3-a1-3-17-2-item-b"></a>
 
-- (c) Kun tutkimuksen [[sanasto/sokkoutus|sokkoutus]] on purettu ja siihen liittyvät analyysit/päätelmät on tehty ja viimeistelty, toimeksiantajan tulee yleensä lainsäädännön vaatimusten mukaisesti: ^ich-e6-r3-a1-3-17-2-item-c
+- (b) Jos tutkimukseen osallistuu [[sanasto/koordinoiva-tutkija|koordinoiva tutkija]], tulee harkita, voidaanko hänet nimetä kliinisen lääketutkimuksen raportin allekirjoittajaksi (ks. ICH E3).
 
-- (i) asettaa tutkimustulokset julkisesti saataville; ^ich-e6-r3-a1-3-17-2-item-i
+<a id="ich-e6-r3-a1-3-17-2-item-c"></a>
 
-- (ii) sokkoutetussa tutkimuksessa kertoa tutkijalle tämän tutkimukseen osallistujien tutkimuksessa saama hoito; ^ich-e6-r3-a1-3-17-2-item-ii
+- (c) Kun tutkimuksen [[sanasto/sokkoutus|sokkoutus]] on purettu ja siihen liittyvät analyysit/päätelmät on tehty ja viimeistelty, toimeksiantajan tulee yleensä lainsäädännön vaatimusten mukaisesti:
 
-- (iii) antaa tutkijoille tutkimustulokset. Jos tutkimustuloksista annetaan yhteenveto tutkimukseen osallistujille, yhteenvedon kielen tulee olla ei-teknistä ja maallikolle ymmärrettävää, eikä se saa tähdätä myynninedistämiseen. ^ich-e6-r3-a1-3-17-2-item-iii
+<a id="ich-e6-r3-a1-3-17-2-item-i"></a>
+
+- (i) asettaa tutkimustulokset julkisesti saataville;
+
+<a id="ich-e6-r3-a1-3-17-2-item-ii"></a>
+
+- (ii) sokkoutetussa tutkimuksessa kertoa tutkijalle tämän tutkimukseen osallistujien tutkimuksessa saama hoito;
+
+<a id="ich-e6-r3-a1-3-17-2-item-iii"></a>
+
+- (iii) antaa tutkijoille tutkimustulokset. Jos tutkimustuloksista annetaan yhteenveto tutkimukseen osallistujille, yhteenvedon kielen tulee olla ei-teknistä ja maallikolle ymmärrettävää, eikä se saa tähdätä myynninedistämiseen.
 
 ## Liittyvät käsitteet
 

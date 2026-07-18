@@ -32,41 +32,57 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 2.10 Tutkimusvalmisteen hallinta
+<a id="ich-e6-r3-a1-2-10-1"></a>
 
-### 2.10.1 ^ich-e6-r3-a1-2-10-1
+### 2.10.1
 
 [[sanasto/tutkija|Tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] on vastuussa tutkimusvalmisteiden hallinnasta, mukaan lukien kulutusseuranta, käsittely, jakelu, antamisesta ja palauttamisesta. [[sanasto/toimeksiantaja|Toimeksiantaja]] voi edistää tutkimusvalmisteen hallintaa (esim. tarjoamalla lomakkeita ja teknisiä ratkaisuja, kuten tietokoneistettuja järjestelmiä, ja järjestämällä tutkimusvalmisteen jakelun tutkimukseen osallistujille).
 
-### 2.10.2 ^ich-e6-r3-a1-2-10-2
+<a id="ich-e6-r3-a1-2-10-2"></a>
+
+### 2.10.2
 
 Jos [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] delegoi osan tai kaiken tutkimusvalmisteen hallintaan liittyvistä toimistaan proviisorille/farmaseutille tai muulle henkilölle paikallisten lainsäädännönvaatimusten mukaisesti, tutkijan/tutkimuslaitoksen tulee valvoa delegoitua henkilöä.
 
-### 2.10.3 ^ich-e6-r3-a1-2-10-3
+<a id="ich-e6-r3-a1-2-10-3"></a>
+
+### 2.10.3
 
 Jos [[sanasto/tutkija|tutkija]] on delegoinut tutkimusvalmisteeseen liittyviä toimia tai [[sanasto/toimeksiantaja|toimeksiantaja]] on edistänyt näiden tehtävien suorittamista, tutkijan suorittaman valvonnan taso riippuu useista tekijöistä, kuten tutkimusvalmisteen ominaisuuksista, antoreitistä ja antamisen (tai annostelun) monimutkaisuudesta, tutkimusvalmisteen turvallisuudesta saatavilla olevista tiedoista ja myyntilupatilanteesta.
 
-### 2.10.4 ^ich-e6-r3-a1-2-10-4
+<a id="ich-e6-r3-a1-2-10-4"></a>
+
+### 2.10.4
 
 Tutkijan/tutkimuslaitoksen ja/tai proviisorin/farmaseutin tai muun pätevän henkilön tulee pitää kirjaa valmisteiden toimituksesta, varastosta ja jokaisen tutkimukseen osallistujan käyttämistä määristä (mukaan lukien dokumentaatio siitä, että tutkimukseen osallistujille on annettu tutkimussuunnitelman mukaiset annokset) ja käyttämättömien valmisteiden palauttamisesta toimeksiantajalle ja tuhoamisesta tai vaihtoehtoisesta menettelystä. Tallenteista tulee käydä ilmi päiväykset, määrät, erä- tai sarjanumerot, viimeinen käyttöpäivämäärä (soveltuvin osin) sekä tutkimusvalmisteille ja tutkimukseen osallistujille annetut yksilölliset koodinumerot. Myyntiluvallisilla lääkkeillä voidaan edellä mainituille menettelyille harkita vaihtoehtoja, paikallisten lainsäädännön vaatimusten mukaisesti.
 
-### 2.10.5 ^ich-e6-r3-a1-2-10-5
+<a id="ich-e6-r3-a1-2-10-5"></a>
+
+### 2.10.5
 
 Tutkimusvalmistetta tulee säilyttää toimeksiantajan ohjeiden ja lainsäädännön vaatimusten mukaisesti.
 
-### 2.10.6 ^ich-e6-r3-a1-2-10-6
+<a id="ich-e6-r3-a1-2-10-6"></a>
+
+### 2.10.6
 
 Tutkijan tulee huolehtia siitä, että tutkimusvalmistetta käytetään ainoastaan hyväksytyn tutkimussuunnitelman mukaisesti.
 
-### 2.10.7 ^ich-e6-r3-a1-2-10-7
+<a id="ich-e6-r3-a1-2-10-7"></a>
+
+### 2.10.7
 
 Tutkijan tai tutkijan/tutkimuslaitoksen nimeämän henkilön tulee selostaa tutkimusvalmisteen oikea käyttötapa jokaiselle tutkimukseen osallistujalle ja tarkistaa tutkimuksen kannalta sopivin väliajoin, että jokainen [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] noudattaa ohjeita asianmukaisesti.
 
-### 2.10.8 ^ich-e6-r3-a1-2-10-8
+<a id="ich-e6-r3-a1-2-10-8"></a>
+
+### 2.10.8
 
 [[sanasto/tutkimusvalmiste|Tutkimusvalmiste]] voidaan toimittaa suoraan tutkimukseen osallistujalle tai häntä lähellä olevaan paikkaan, josta valmiste jaetaan (esim. paikallinen apteekki tai paikallinen terveyskeskus). Tällöin tutkimusvalmisteen voi antaa osallistujalle tutkimusta suorittava henkilö, hoitaja tai terveydenhuollon ammattilainen, tai [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] voi itse ottaa tutkimusvalmisteen.
 
-### 2.10.9 ^ich-e6-r3-a1-2-10-9
+<a id="ich-e6-r3-a1-2-10-9"></a>
+
+### 2.10.9
 
 Tutkimusvalmisteen hallinnointi tulee järjestää ja toteuttaa lainsäädännön vaatimusten mukaisesti, ja valmisteen eheyden, tutkimussuunnitelman mukaisen käytön ja tutkimukseen osallistujien turvallisuuden varmistamiseksi tulee käyttää suojatoimia.
 

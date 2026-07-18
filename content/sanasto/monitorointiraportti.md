@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/monitorointiraportti/"
 ---
 
-# Monitorointiraportti
-
 **Englanniksi:** monitoring report
 
 ## Suomenkielinen määritelmä

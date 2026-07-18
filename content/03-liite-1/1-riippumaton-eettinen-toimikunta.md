@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 1 Riippumaton eettinen toimikunta
-
 Tutkimuslaitoksen arviointilautakunta (IRB) / riippumaton eettinen toimikunta (IEC) (Suomessa valtakunnallinen lääketieteellinen tutkimuseettinen toimikunta), myöhemmin eettinen toimikunta, on vastuussa tutkimuksen eettisestä arvioinnista. Näissä ohjeissa eettiselle toimikunnalle asetettuja vaatimuksia tulee lukea ja tulkita yhdessä paikallisten lainsäädännön vaatimusten kanssa.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

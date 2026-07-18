@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/tiedonkeruutyokalu/"
 ---
 
-# Tiedonkeruutyökalu
-
 **Englanniksi:** data acquisition tool, DAT
 
 ## Suomenkielinen määritelmä

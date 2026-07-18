@@ -29,9 +29,9 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 5. Pätevien henkilöiden tulee suunnitella ja toteuttaa kliiniset lääketutkimukset.
+<a id="ich-e6-r3-principle-05-5-1"></a>
 
-### 5.1 ^ich-e6-r3-principle-05-5-1
+### 5.1
 
 Henkilöitä, joilla on erilaista asiantuntemusta ja koulutusta, saatetaan tarvita kaikissa kliinisen lääketutkimuksen eri vaiheissa. Tällaisia henkilöitä ovat esimerkiksi lääkärit, sairaanhoitajat, proviisorit/farmaseutit, tutkijat, etiikan asiantuntijat, teknologia-asiantuntijat, tutkimuskoordinaattorit, monitoroijat, auditoijat ja biostatistikot. Kaikilla tutkimuksen toteuttamiseen osallistuvilla henkilöillä tulee olla tehtäviensä hoitamiseen tarvittava pätevyys, koulutus ja kokemus.
 

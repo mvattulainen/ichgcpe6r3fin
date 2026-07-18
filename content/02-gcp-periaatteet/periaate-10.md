@@ -30,17 +30,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 10. Kliinisten lääketutkimusten tehtävien ja vastuiden tulee olla selkeitä ja asianmukaisesti dokumentoituja.
+<a id="ich-e6-r3-principle-10-1"></a>
 
-### 10.1 ^ich-e6-r3-principle-10-1
+### 10.1
 
 [[sanasto/toimeksiantaja|Toimeksiantaja]] voi siirtää tai [[sanasto/tutkija|tutkija]] voi delegoida tehtäviään, velvollisuuksiaan tai toimintojaan (jäljempänä toimet), mutta kumpikin säilyttää kokonaisvastuun omista toimistaan.
 
-### 10.2 ^ich-e6-r3-principle-10-2
+<a id="ich-e6-r3-principle-10-2"></a>
+
+### 10.2
 
 Sopimuksissa tulee määritellä selkeästi kliinisen lääketutkimuksen roolit, toiminnot ja vastuut, ja ne tulee dokumentoida asianmukaisesti. Jos toimintaa on siirretty tai delegoitu palveluntarjoajille, vastuu tutkimuksen toteuttamisesta, mukaan lukien tutkimustietojen laadusta ja eheydestä, säilyy omalta osaltaan toimeksiantajalla tai tutkijalla.
 
-### 10.3 ^ich-e6-r3-principle-10-3
+<a id="ich-e6-r3-principle-10-3"></a>
+
+### 10.3
 
 Toimeksiantajan tai tutkijan tulee valvoa edellä mainittua toimintaa asianmukaisesti.
 

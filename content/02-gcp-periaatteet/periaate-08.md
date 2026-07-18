@@ -29,17 +29,21 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 8. Kliiniset lääketutkimukset tulee kuvata selkeässä, tiiviissä, tieteellisesti perustellussa ja toiminnallisesti toteuttamiskelpoisessa tutkimussuunnitelmassa.
+<a id="ich-e6-r3-principle-08-8-1"></a>
 
-### 8.1 ^ich-e6-r3-principle-08-8-1
+### 8.1
 
 Hyvin suunniteltu [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] on olennaisen tärkeä tutkimukseen osallistujien suojelemiseksi ja luotettavien tulosten tuottamiseksi.
 
-### 8.2 ^ich-e6-r3-principle-08-8-2
+<a id="ich-e6-r3-principle-08-8-2"></a>
+
+### 8.2
 
 Jokaisen tutkimuksen tieteelliset tavoitteet tulee ilmaista tutkimussuunnitelmassa selkeästi ja yksiselitteisesti.
 
-### 8.3 ^ich-e6-r3-principle-08-8-3
+<a id="ich-e6-r3-principle-08-8-3"></a>
+
+### 8.3
 
 Kliinisen lääketutkimuksen [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] sekä tutkimussuunnitelman toteuttamista koskevien suunnitelmien tai asiakirjojen (esim. tilastollinen analyysisuunnitelma, tiedonhallintasuunnitelma, [[sanasto/monitorointisuunnitelma|monitorointisuunnitelma]]) tulee olla selkeitä, tiiviitä ja toiminnallisesti toteuttamiskelpoisia.
 

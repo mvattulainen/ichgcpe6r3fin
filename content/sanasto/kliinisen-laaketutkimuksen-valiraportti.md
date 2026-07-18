@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/kliinisen-laaketutkimuksen-valiraportti/"
 ---
 
-# Kliinisen lääketutkimuksen väliraportti
-
 **Englanniksi:** interim clinical trial/study report
 
 ## Suomenkielinen määritelmä

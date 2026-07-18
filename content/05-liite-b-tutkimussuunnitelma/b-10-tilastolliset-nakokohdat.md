@@ -29,25 +29,33 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# B.10 Tilastolliset näkökohdat
+<a id="ich-e6-r3-app-b-10-b-10-1"></a>
 
-### B.10.1 ^ich-e6-r3-app-b-10-b-10-1
+### B.10.1
 
 Kuvaus käytettävistä tilastollisista menetelmistä, mukaan lukien mahdollisesti suunniteltujen välianalyysien ajoitus ja tarkoitus sekä tilastolliset kriteerit tutkimuksen lopettamiseksi.
 
-### B.10.2 ^ich-e6-r3-app-b-10-b-10-2
+<a id="ich-e6-r3-app-b-10-b-10-2"></a>
+
+### B.10.2
 
 Mukaan otettavaksi aiottujen tutkimukseen osallistujien määrä ja otoskoon valintaperusteet, mukaan lukien tutkimuksen tilastollista voimaa koskevat pohdinnat tai laskelmat ja kliininen merkitys.
 
-### B.10.3 ^ich-e6-r3-app-b-10-b-10-3
+<a id="ich-e6-r3-app-b-10-b-10-3"></a>
+
+### B.10.3
 
 Käytettävä merkitsevyystaso tai onnistumisen kynnys posterioritodennäköisyydellä bayesilaisessa mallissa.
 
-### B.10.4 ^ich-e6-r3-app-b-10-b-10-4
+<a id="ich-e6-r3-app-b-10-b-10-4"></a>
+
+### B.10.4
 
 Suunniteltuihin analyyseihin mukaan otettavien tutkimukseen osallistujien valinta, kuvaus käytettävistä tilastollisista menetelmistä ja menettelyistä ”intercurrent events” -tapahtumien käsittelemiseksi (eli tutkimushoidon aloittamisen jälkeen ilmenevien tapahtumien, jotka vaikuttavat kliinisen tutkimuskysymyksen kannalta olennaisiin mittauksiin, niiden tulkintaan tai olemassaoloon) sekä menettelyistä, joiden mukaisesti otetaan huomioon puuttuvat, käyttämättömät ja virheelliset tiedot. Ne tulee sovittaa yhteen tavoite- estimandien kanssa, jos ne on määritelty [ks. ICH E9(R1)].
 
-### B.10.5 ^ich-e6-r3-app-b-10-b-10-5
+<a id="ich-e6-r3-app-b-10-b-10-5"></a>
+
+### B.10.5
 
 Maininta siitä, että kaikki poikkeamat tilastointisuunnitelmasta selostetaan ja perustellaan kliinisen lääketutkimuksen loppuraportissa.
 

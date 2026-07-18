@@ -30,8 +30,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.15.1 Tutkimusvalmistetta koskevat tiedot
-
 Toimeksiantajan tulee varmistaa, että tutkijan tietopakettia kehitetään ja päivitetään, kun merkittäviä uusia tietoja tutkimusvalmisteesta tulee saataville. Vaihtoehtoisesti toimeksiantajan tulee myyntiluvan saaneiden lääkkeiden osalta yksilöidä tutkimuksessa käytettävät, olemassa olevat, hyväksytyt tuotetiedot (ks. täydentävä liite A, kappale A.1.1).
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

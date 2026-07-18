@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.8.1 Ilmoitukset ja hakemukset valvontaviranomaisille
-
 Ennen tutkimuksen alkamista toimeksiantajan (tai toimeksiantajan ja tutkijan) tulee toimittaa lainsäädännön vaatimusten mukaisesti kaikki vaaditut hakemukset asianmukaisille valvontaviranomaisille arvioitaviksi, hyväksyttäväksi ja/tai luvan saamiseksi tutkimuksen aloittamista varten. Kaikki ilmoitukset/hakemukset tulee päivätä, ja niissä tulee olla riittävät tutkimussuunnitelman tunnistetiedot.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti

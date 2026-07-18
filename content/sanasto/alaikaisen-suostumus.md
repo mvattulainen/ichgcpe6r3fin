@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/alaikaisen-suostumus/"
 ---
 
-# Alaikäisen suostumus
-
 **Englanniksi:** assent
 
 ## Suomenkielinen määritelmä

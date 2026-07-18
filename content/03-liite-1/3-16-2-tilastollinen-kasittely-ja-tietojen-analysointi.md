@@ -32,21 +32,31 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.16.2 Tilastollinen käsittely ja tietojen analysointi
-
 Tämä kappale koskee kliinisten lääketutkimusten tilastoinnin toiminnallisten seikkojen dokumentointia, ja sitä tulee lukea yhdessä seuraavien ohjeiden kanssa: ICH E9 Statistical Principles for Clinical Trials ja ICH E9(R1) Addendum on Estimands and Sensitivity Analysis in Clinical Trials to The Guideline on Statistical Principles for Clinical Trials. Niissä annetaan yksityiskohtaisia ohjeita kliinisen kehityksen, tutkimusasetelman, tutkimuksen toteuttamisen, analysoinnin ja raportoinnin tilastollisista periaatteista.
 
-- (a) Toimeksiantajan tulee laatia tilastollinen analyysisuunnitelma, joka on yhdenmukainen tutkimussuunnitelman kanssa ja jossa esitetään yksityiskohtaisesti tietojen analysointimenetelmä, ellei tietojen analysointimenetelmää ole kuvattu riittävän tarkasti tutkimussuunnitelmassa. ^ich-e6-r3-a1-3-16-2-item-a
+<a id="ich-e6-r3-a1-3-16-2-item-a"></a>
 
-- (b) Toimeksiantajan tulee varmistaa, että tilastollisen ohjelmoinnin ja tietojen analysoinnin [[sanasto/laadunvalvonta|laadunvalvonta]] toteutetaan asianmukaisesti ja dokumentoidusti. Tämä koskee esimerkiksi otoskokolaskelmia, riippumattoman tietojenseurantatoimikunnan (IDMC) arviointia varten tuotettuja analyysituloksia, kliinisen lääketutkimuksen raporttia varten laadittuja tuotoksia sekä tilastollista tai keskitettyä monitorointia. ^ich-e6-r3-a1-3-16-2-item-b
+- (a) Toimeksiantajan tulee laatia tilastollinen analyysisuunnitelma, joka on yhdenmukainen tutkimussuunnitelman kanssa ja jossa esitetään yksityiskohtaisesti tietojen analysointimenetelmä, ellei tietojen analysointimenetelmää ole kuvattu riittävän tarkasti tutkimussuunnitelmassa.
 
-- (c) Toimeksiantajan tulee varmistaa tietojen muunnosten ja johdannaisten jäljitettävyys tietojen käsittelyn ja analysoinnin aikana. ^ich-e6-r3-a1-3-16-2-item-c
+<a id="ich-e6-r3-a1-3-16-2-item-b"></a>
 
-- (d) Toimeksiantajan tulee varmistaa, että tutkimukseen osallistujien mukaanotto- tai poissulkuperusteet mistä tahansa analyysijoukosta on ennalta määritetty (esim. tutkimussuunnitelmassa tai tilastollisessa analyysisuunnitelmassa). Tutkimukseen osallistujan (tai tietyn datapisteen) poissulkuperusteen tulee olla selvästi kuvattu ja dokumentoitu. ^ich-e6-r3-a1-3-16-2-item-d
+- (b) Toimeksiantajan tulee varmistaa, että tilastollisen ohjelmoinnin ja tietojen analysoinnin [[sanasto/laadunvalvonta|laadunvalvonta]] toteutetaan asianmukaisesti ja dokumentoidusti. Tämä koskee esimerkiksi otoskokolaskelmia, riippumattoman tietojenseurantatoimikunnan (IDMC) arviointia varten tuotettuja analyysituloksia, kliinisen lääketutkimuksen raporttia varten laadittuja tuotoksia sekä tilastollista tai keskitettyä monitorointia.
 
-- (e) Poikkeamat suunnitellusta tilastollisesta analyysistä tai tietoihin tehdyt muutokset tutkimuksen sokkoutuksen purkamisen jälkeen (jos sovellettavissa) tulee dokumentoida selkeästi, ne tulee perustella ja niitä tulisi esiintyä vain poikkeuksellisissa olosuhteissa (esim. tietojen ristiriitaisuudet, jotka tulee ratkaista tutkimustulosten luotettavuuden takaamiseksi). Tällaisten tietojen muutosten tulee olla tutkijan hyväksymiä ja näkyä jäljitettävyysketjussa. Sokkoutuksen purkamisen jälkeen tietoihin tehdyt muutokset ja poikkeamat suunnitelluista tilastollisista analyyseistä tulee raportoida kliinisen lääketutkimuksen raportissa. ^ich-e6-r3-a1-3-16-2-item-e
+<a id="ich-e6-r3-a1-3-16-2-item-c"></a>
 
-- (f) Toimeksiantajan tulisi säilyttää tilastollista ohjelmointia koskevat tallenteet, jotka liittyvät tutkimustuloksia koskevissa raporteissa esitettyihin tai käytettyihin tuotoksiin, mukaan lukien suoritetut [[sanasto/laadunvalvonta|laadunvalvonta]]- /validointitoimet. Tuotosten tulee olla jäljitettävissä tilasto-ohjelmiin, niiden tulee olla päivättyjä ja aikaleimattuja, suojattu mahdollisia muutoksia vastaan, ja käyttöoikeuksien hallinta tulee toteuttaa siten, että vältetään epäasianmukainen tietojen katselu, joka saattaa aiheuttaa harhaa. ^ich-e6-r3-a1-3-16-2-item-f
+- (c) Toimeksiantajan tulee varmistaa tietojen muunnosten ja johdannaisten jäljitettävyys tietojen käsittelyn ja analysoinnin aikana.
+
+<a id="ich-e6-r3-a1-3-16-2-item-d"></a>
+
+- (d) Toimeksiantajan tulee varmistaa, että tutkimukseen osallistujien mukaanotto- tai poissulkuperusteet mistä tahansa analyysijoukosta on ennalta määritetty (esim. tutkimussuunnitelmassa tai tilastollisessa analyysisuunnitelmassa). Tutkimukseen osallistujan (tai tietyn datapisteen) poissulkuperusteen tulee olla selvästi kuvattu ja dokumentoitu.
+
+<a id="ich-e6-r3-a1-3-16-2-item-e"></a>
+
+- (e) Poikkeamat suunnitellusta tilastollisesta analyysistä tai tietoihin tehdyt muutokset tutkimuksen sokkoutuksen purkamisen jälkeen (jos sovellettavissa) tulee dokumentoida selkeästi, ne tulee perustella ja niitä tulisi esiintyä vain poikkeuksellisissa olosuhteissa (esim. tietojen ristiriitaisuudet, jotka tulee ratkaista tutkimustulosten luotettavuuden takaamiseksi). Tällaisten tietojen muutosten tulee olla tutkijan hyväksymiä ja näkyä jäljitettävyysketjussa. Sokkoutuksen purkamisen jälkeen tietoihin tehdyt muutokset ja poikkeamat suunnitelluista tilastollisista analyyseistä tulee raportoida kliinisen lääketutkimuksen raportissa.
+
+<a id="ich-e6-r3-a1-3-16-2-item-f"></a>
+
+- (f) Toimeksiantajan tulisi säilyttää tilastollista ohjelmointia koskevat tallenteet, jotka liittyvät tutkimustuloksia koskevissa raporteissa esitettyihin tai käytettyihin tuotoksiin, mukaan lukien suoritetut [[sanasto/laadunvalvonta|laadunvalvonta]]- /validointitoimet. Tuotosten tulee olla jäljitettävissä tilasto-ohjelmiin, niiden tulee olla päivättyjä ja aikaleimattuja, suojattu mahdollisia muutoksia vastaan, ja käyttöoikeuksien hallinta tulee toteuttaa siten, että vältetään epäasianmukainen tietojen katselu, joka saattaa aiheuttaa harhaa.
 
 ## Liittyvät käsitteet
 

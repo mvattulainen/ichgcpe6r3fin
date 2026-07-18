@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 1.1 Hakeminen ja tiedoksi antaminen
-
 Eettiselle toimikunnalle tehtävä hakemus tai tiedoksi antaminen ja hakemus toimivaltaiselle viranomaiselle voidaan useimmilla sellaisilla alueilla, joilla edellytetään molempia, lainsäädännön vaatimusten mukaisesti yhdistää yhdeksi hakemukseksi. Alueesta riippuen [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] tai [[sanasto/toimeksiantaja|toimeksiantaja]] vastaa hakemisesta ja tiedoksi antamisesta eettiselle toimikunnalle ja valvontaviranomaisille lainsäädännön vaatimusten mukaisesti.
 
 ## Liittyvät käsitteet

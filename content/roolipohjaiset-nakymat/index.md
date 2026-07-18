@@ -9,8 +9,6 @@ publish: true
 permalink: "/roolipohjaiset-nakymat/"
 ---
 
-# Roolipohjaiset näkymät
-
 - [[roolipohjaiset-nakymat/tutkija|Tutkija]]
 - [[roolipohjaiset-nakymat/toimeksiantaja|Toimeksiantaja]]
 - [[roolipohjaiset-nakymat/tutkimuspaikan-henkilosto|Tutkimuspaikan henkilosto]]

@@ -10,8 +10,6 @@ publish: true
 permalink: "/sanasto/laakkeen-haittavaikutus/"
 ---
 
-# Lääkkeen haittavaikutus
-
 **Englanniksi:** adverse drug reaction
 
 ## Suomenkielinen määritelmä

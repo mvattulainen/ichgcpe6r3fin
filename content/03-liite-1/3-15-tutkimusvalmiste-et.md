@@ -29,8 +29,6 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.15 Tutkimusvalmiste(et)
-
 
 
 > [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.

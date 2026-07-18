@@ -30,13 +30,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.11.4.6 Monitorointiraportti
+<a id="ich-e6-r3-a1-3-11-4-6-item-a"></a>
 
-- (a) Monitorointitoimia koskeviin raportteihin tulee sisällyttää yhteenveto, joka sisältää tiedon siitä, mitä tarkastettiin, kuvauksen merkittävistä havainnoista, johtopäätökset ja niiden ratkaisemiseksi tarvittavat toimet sekä seurannan asioiden ratkaisemisesta, mukaan lukien aiemmissa raporteissa edelleen avoimina olevat asiat. Monitorointiraportin vaatimukset (mukaan lukien raporttien sisältö ja raportointitiheys) tulee kuvata toimeksiantajan menettelyohjeissa. ^ich-e6-r3-a1-3-11-4-6-item-a
+- (a) Monitorointitoimia koskeviin raportteihin tulee sisällyttää yhteenveto, joka sisältää tiedon siitä, mitä tarkastettiin, kuvauksen merkittävistä havainnoista, johtopäätökset ja niiden ratkaisemiseksi tarvittavat toimet sekä seurannan asioiden ratkaisemisesta, mukaan lukien aiemmissa raporteissa edelleen avoimina olevat asiat. Monitorointiraportin vaatimukset (mukaan lukien raporttien sisältö ja raportointitiheys) tulee kuvata toimeksiantajan menettelyohjeissa.
 
-- (b) Tutkimuspaikkaa ja/tai keskitettyä monitorointia koskevat raportit tulee toimittaa oikea-aikaisesti asianmukaiselle toimeksiantajan menettelyissä kuvatulle henkilöstölle arviointia ja seurantaa varten. ^ich-e6-r3-a1-3-11-4-6-item-b
+<a id="ich-e6-r3-a1-3-11-4-6-item-b"></a>
 
-- (c) Raportissa tulee tarvittaessa kuvata havainnot, jotka edellyttävät eskalointia toimenpiteitä ja ratkaisua varten. Toimeksiantajan tulee päättää tarvittavista toimenpiteistä, ja nämä päätökset sekä tarpeen mukaan toteutettujen toimenpiteiden ratkaisut tulee kirjata. ^ich-e6-r3-a1-3-11-4-6-item-c
+- (b) Tutkimuspaikkaa ja/tai keskitettyä monitorointia koskevat raportit tulee toimittaa oikea-aikaisesti asianmukaiselle toimeksiantajan menettelyissä kuvatulle henkilöstölle arviointia ja seurantaa varten.
+
+<a id="ich-e6-r3-a1-3-11-4-6-item-c"></a>
+
+- (c) Raportissa tulee tarvittaessa kuvata havainnot, jotka edellyttävät eskalointia toimenpiteitä ja ratkaisua varten. Toimeksiantajan tulee päättää tarvittavista toimenpiteistä, ja nämä päätökset sekä tarpeen mukaan toteutettujen toimenpiteiden ratkaisut tulee kirjata.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >

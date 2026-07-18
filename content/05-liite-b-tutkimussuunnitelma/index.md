@@ -9,8 +9,6 @@ publish: true
 permalink: "/05-liite-b-tutkimussuunnitelma/"
 ---
 
-# Täydentävä liite B – Tutkimussuunnitelma
-
 - [[05-liite-b-tutkimussuunnitelma/b-1-yleiset-tiedot|B.1 Yleiset tiedot]]
 - [[05-liite-b-tutkimussuunnitelma/b-2-taustatiedot|B.2 Taustatiedot]]
 - [[05-liite-b-tutkimussuunnitelma/b-3-tutkimuksen-tavoitteet-ja-tarkoitus|B.3 Tutkimuksen tavoitteet ja tarkoitus]]

@@ -29,19 +29,23 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-# 3.14 Tutkimukseen osallistujille ja tutkijoille annettava vakuutus ja maksettavat
-
 korvaukset
 
-### 3.14.1 ^ich-e6-r3-a1-3-14-1
+<a id="ich-e6-r3-a1-3-14-1"></a>
+
+### 3.14.1
 
 Jos [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]] sitä edellyttävät, toimeksiantajan tulee ottaa tutkijalle/tutkimuslaitokselle vakuutus tai korvata (oikeudellinen ja taloudellinen kattavuus) näille tutkimuksesta esitetyt vaatimukset lukuun ottamatta hoitovirheestä tai huolimattomuudesta johtuvia vaatimuksia.
 
-### 3.14.2 ^ich-e6-r3-a1-3-14-2
+<a id="ich-e6-r3-a1-3-14-2"></a>
+
+### 3.14.2
 
 Toimeksiantajan käytännöissä ja menettelytavoissa tulee ottaa huomioon lainsäädännön vaatimusten edellyttämällä tavalla tutkimukseen osallistujien tutkimuksesta johtuvien mahdollisten henkilövahinkojen hoitokustannukset.
 
-### 3.14.3 ^ich-e6-r3-a1-3-14-3
+<a id="ich-e6-r3-a1-3-14-3"></a>
+
+### 3.14.3
 
 Tutkimukseen osallistujille tehtävissä maksuissa tulee noudattaa lainsäädännön vaatimuksia.
 
