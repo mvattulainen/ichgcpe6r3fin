@@ -67,6 +67,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 3.11.4.5.3 Monitoring of investigational product management
+>
 > - (a) Confirming, for the investigational product(s):
 >
 > - (i) That storage conditions are acceptable and in accordance with the storage requirements specified in the protocol or other relevant documents;

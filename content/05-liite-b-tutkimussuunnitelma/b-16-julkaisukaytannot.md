@@ -39,7 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> Publication policy, if not addressed in a separate agreement. Appendix C. Essential records for the conduct of a clinical trial
+> B.16 Publication policy Publication policy, if not addressed in a separate agreement. Appendix C. Essential records for the conduct of a clinical trial
 >
 > </div>
 >

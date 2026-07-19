@@ -45,6 +45,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 4.2.1 Data capture
+>
 > - (a) When data captured on paper or in an electronic health record are manually transcribed into a computerised system (e.g., data acquisition tool), the need for and the extent of data verification should take the criticality of the data into account.
 >
 > - (b) Acquired data from any source, including data directly captured in a computerised system (e.g., data acquisition tool), should be accompanied by relevant metadata.

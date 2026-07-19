@@ -124,6 +124,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.6 Agreements
+>
 > **3.6.1**
 >
 > Agreements made by the sponsor with the investigator/institution, service providers and any other parties (e.g., independent data monitoring committee (IDMC), adjudication committee) involved with the clinical trial should be documented prior to initiating the activities.

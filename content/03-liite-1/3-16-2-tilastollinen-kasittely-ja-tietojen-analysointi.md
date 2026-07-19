@@ -66,7 +66,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> This section concerning documentation of operational aspects of clinical trial statistical activities should be read in conjunction with ICH E9 Statistical Principles for Clinical Trials and ICH E9(R1) Addendum on Estimands and Sensitivity Analysis in Clinical Trials to The Guideline on Statistical Principles for Clinical Trials, which provides detailed guidance on statistical principles for clinical development, trial design, conduct, analysis and reporting.
+> 3.16.2 Statistical programming and data analysis This section concerning documentation of operational aspects of clinical trial statistical activities should be read in conjunction with ICH E9 Statistical Principles for Clinical Trials and ICH E9(R1) Addendum on Estimands and Sensitivity Analysis in Clinical Trials to The Guideline on Statistical Principles for Clinical Trials, which provides detailed guidance on statistical principles for clinical development, trial design, conduct, analysis and reporting.
 >
 > - (a) The sponsor should develop a statistical analysis plan that is consistent with the trial protocol and that details the approach to data analysis, unless the approach to data analysis is sufficiently described in the protocol.
 >

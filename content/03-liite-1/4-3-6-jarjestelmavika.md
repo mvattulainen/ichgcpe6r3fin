@@ -35,7 +35,7 @@ Käytössä tulee olla varomenettelyitä, joilla estetään tutkimukseen osallis
 >
 > <div lang="en">
 >
-> Contingency procedures should be in place to prevent loss or lack of accessibility to data essential to participant safety, trial decisions or trial outcomes.
+> 4.3.6 System failure Contingency procedures should be in place to prevent loss or lack of accessibility to data essential to participant safety, trial decisions or trial outcomes.
 >
 > </div>
 >

@@ -35,7 +35,7 @@ Seuraavassa kuvataan oikeasuhtainen lähestymistapa riskien tunnistamiseen ja ha
 >
 > <div lang="en">
 >
-> A proportionate approach to the identification and management of risk is described below:
+> 3.10.1 Risk management A proportionate approach to the identification and management of risk is described below:
 >
 > </div>
 >

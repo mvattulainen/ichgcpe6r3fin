@@ -56,6 +56,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 2.7.2 Safety reporting
+>
 > - (a) Adverse events and/or abnormal test results required for safety evaluations (as outlined in the protocol) should be reported to the sponsor according to the reporting requirements and within the time periods specified in the protocol. Unfavourable medical events occurring in participants before investigational product administration (e.g., during screening) should be considered and reported to the sponsor if required by the protocol.
 >
 > - (b) All serious adverse events (SAEs) should be reported immediately (after the investigator reasonably becomes aware of the event) to the sponsor. The investigator should also include an assessment of causality. In accordance with applicable regulatory requirements, the protocol may identify SAEs not requiring immediate reporting; for example, deaths or other events that are endpoints. Subsequent information should be submitted as a follow-up report, as necessary.

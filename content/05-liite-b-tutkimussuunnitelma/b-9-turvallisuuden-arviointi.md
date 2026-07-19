@@ -56,6 +56,8 @@ Tutkimukseen osallistujien jatkoseurannan tyyppi ja kesto haittatapahtumien ja m
 >
 > <div lang="en">
 >
+> B.9 Assessment of safety
+>
 > **B.9.1**
 >
 > Specification of safety parameters.

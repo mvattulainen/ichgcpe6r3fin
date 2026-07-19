@@ -35,7 +35,7 @@ Tutkimuslaitoksen arviointilautakunta (IRB) / riippumaton eettinen toimikunta (I
 >
 > <div lang="en">
 >
-> Committee (IRB/IEC) The IRB/IEC is responsible for the ethical review of the trial. The requirements for the IRB/IEC in this guideline should be read in conjunction with local regulatory requirements.
+> 1. Institutional Review Board/Independent Ethics Committee (IRB/IEC) The IRB/IEC is responsible for the ethical review of the trial. The requirements for the IRB/IEC in this guideline should be read in conjunction with local regulatory requirements.
 >
 > </div>
 >

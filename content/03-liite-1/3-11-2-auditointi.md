@@ -40,7 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> When performed, audits should be conducted in a manner that is proportionate to the risks associated with the conduct of the trial (see section 3.10.1.1). The purpose of a sponsor’s audit, which is independent of and separate from routine monitoring or quality control functions, is to evaluate whether the processes put in place to manage and conduct the trial are appropriate to ensure compliance with the protocol, GCP and the applicable regulatory requirements.
+> 3.11.2 Audit When performed, audits should be conducted in a manner that is proportionate to the risks associated with the conduct of the trial (see section 3.10.1.1). The purpose of a sponsor’s audit, which is independent of and separate from routine monitoring or quality control functions, is to evaluate whether the processes put in place to manage and conduct the trial are appropriate to ensure compliance with the protocol, GCP and the applicable regulatory requirements.
 >
 > </div>
 >

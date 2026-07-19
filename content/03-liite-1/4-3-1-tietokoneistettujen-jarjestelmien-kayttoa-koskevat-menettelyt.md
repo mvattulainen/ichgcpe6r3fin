@@ -35,7 +35,7 @@ Käytössä tulee olla dokumentoidut menettelyt sen varmistamiseksi, että tieto
 >
 > <div lang="en">
 >
-> Documented procedures should be in place to ensure the appropriate use of computerised systems in clinical trials for essential activities related to data collection, handling and management.
+> 4.3.1 Procedures for the use of computerised systems Documented procedures should be in place to ensure the appropriate use of computerised systems in clinical trials for essential activities related to data collection, handling and management.
 >
 > </div>
 >

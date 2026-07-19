@@ -234,6 +234,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 2.8 Informed consent of trial participants
+>
 > **2.8.1**
 >
 > In obtaining and documenting informed consent (paper or electronic format), the investigator should comply with the applicable regulatory requirement(s) and should adhere to GCP and to the ethical principles that have their origin in the Declaration of Helsinki. The informed consent process should include the following:

@@ -26,7 +26,7 @@ A person or organisation (commercial, academic or other) providing a service use
 
 ## Esiintyminen ohjeessa
 
-- [[03-liite-1/2-tutkija|2 Tutkija]]
+- [[03-liite-1/2-3-vastuut|2.3 Vastuut]]
 - [[03-liite-1/2-8-tutkimukseen-osallistujien-tietoon-perustuva-suostumus|2.8 Tutkimukseen osallistujien tietoon perustuva suostumus]]
 - [[03-liite-1/3-6-sopimukset|3.6 Sopimukset]]
 - [[03-liite-1/3-10-1-1-riskien-tunnistaminen|3.10.1.1 Riskien tunnistaminen]]

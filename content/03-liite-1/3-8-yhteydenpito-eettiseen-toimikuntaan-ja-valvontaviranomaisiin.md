@@ -13,7 +13,7 @@ finnish_pages:
   - 41
 english_pages:
   - 27
-english_section_number: null
+english_section_number: "3.8"
 permalink: "/03-liite-1/3-8-yhteydenpito-eettiseen-toimikuntaan-ja-valvontaviranomaisiin/"
 aliases:
   - "Yhteydenpito eettiseen toimikuntaan ja valvontaviranomaisiin"
@@ -31,4 +31,12 @@ is_based_on:
 
 
 
-> [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.
+> [!quote]- Alkuperäinen englanninkielinen lähdeteksti
+>
+> <div lang="en">
+>
+> 3.8 Communication with IRB/IEC and regulatory authority(ies)
+>
+> </div>
+>
+> **Lähde:** ICH E6(R3), section 3.8, pages 27–27.

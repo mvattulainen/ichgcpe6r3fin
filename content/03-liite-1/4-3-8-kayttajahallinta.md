@@ -52,6 +52,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 4.3.8 User management
+>
 > - (a) Access controls are integral to computerised systems used in clinical trials to limit system access to authorised users and to ensure attributability to an individual. The security measures should be selected in such a way that they achieve the intended security.
 >
 > - (b) Procedures should be in place to ensure that user access permissions are appropriately assigned based on a user’s duties and functions, blinding arrangements and the organisation to which users belong. Access permissions should be revoked when they are no longer needed. A process should be in place to ensure that user access and assigned roles and permissions are periodically reviewed, where relevant.

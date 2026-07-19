@@ -35,7 +35,7 @@ Toimeksiantajan tulee ryhtyä pikaisiin toimiin, jotta tutkimukseen osallistujil
 >
 > <div lang="en">
 >
-> The sponsor should take prompt action to address immediate hazards to participants. The sponsor should determine the causes of the hazard and based on this, take appropriate remedial actions. The sponsor should consider whether the protocol requires amendment in response to an immediate hazard. The information on the immediate hazard, if required, and any subsequent protocol amendment should be submitted to the IRB/IEC and/or regulatory authorities by the investigator/institution or sponsor (in accordance with applicable regulatory requirements).
+> 3.13.3 Managing an immediate hazard The sponsor should take prompt action to address immediate hazards to participants. The sponsor should determine the causes of the hazard and based on this, take appropriate remedial actions. The sponsor should consider whether the protocol requires amendment in response to an immediate hazard. The information on the immediate hazard, if required, and any subsequent protocol amendment should be submitted to the IRB/IEC and/or regulatory authorities by the investigator/institution or sponsor (in accordance with applicable regulatory requirements).
 >
 > </div>
 >

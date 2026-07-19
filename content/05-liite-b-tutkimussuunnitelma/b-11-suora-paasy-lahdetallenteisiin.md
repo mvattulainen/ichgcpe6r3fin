@@ -40,7 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The sponsor should ensure that it is specified in the protocol or other documented agreement that the investigator(s)/institution(s)/service provider(s) will permit trial-related monitoring, audits, regulatory inspection(s) and, in accordance with applicable regulatory requirements, review by the institutional review board/independent ethics committee (IRB/IEC), providing direct access to source records.
+> B.11 Direct access to source records The sponsor should ensure that it is specified in the protocol or other documented agreement that the investigator(s)/institution(s)/service provider(s) will permit trial-related monitoring, audits, regulatory inspection(s) and, in accordance with applicable regulatory requirements, review by the institutional review board/independent ethics committee (IRB/IEC), providing direct access to source records.
 >
 > </div>
 >

@@ -55,6 +55,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 8. Clinical trials should be described in a clear, concise, scientifically sound and operationally feasible protocol.
+>
 > **8.1**
 >
 > A well-designed trial protocol is fundamental to the protection of participants and for the generation of reliable results.

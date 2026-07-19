@@ -35,7 +35,7 @@ Toimeksiantajan tulee dokumentoida tunnistetut riskit ja niiden vähentämiseksi
 >
 > <div lang="en">
 >
-> The sponsor should document and communicate the identified risks and mitigating activities, if applicable, to those who are involved in taking action or are affected by such activities. Communication also facilitates risk review and continual improvement during clinical trial conduct.
+> 3.10.1.4 Risk communication The sponsor should document and communicate the identified risks and mitigating activities, if applicable, to those who are involved in taking action or are affected by such activities. Communication also facilitates risk review and continual improvement during clinical trial conduct.
 >
 > </div>
 >

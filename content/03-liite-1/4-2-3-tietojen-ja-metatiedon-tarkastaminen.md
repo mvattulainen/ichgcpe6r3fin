@@ -35,7 +35,7 @@ Käytössä tulee olla menettelyt tutkimuskohtaisten tietojen, jäljitettävyysk
 >
 > <div lang="en">
 >
-> Procedures for review of trial-specific data, audit trails and other relevant metadata should be in place. It should be a planned activity, and the extent and nature should be risk-based, adapted to the individual trial and adjusted based on experience during the trial.
+> 4.2.3 Review of data and metadata Procedures for review of trial-specific data, audit trails and other relevant metadata should be in place. It should be a planned activity, and the extent and nature should be risk-based, adapted to the individual trial and adjusted based on experience during the trial.
 >
 > </div>
 >

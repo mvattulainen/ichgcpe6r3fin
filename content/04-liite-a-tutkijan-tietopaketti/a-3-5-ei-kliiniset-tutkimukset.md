@@ -81,7 +81,7 @@ Johdanto Kaikkien olennaisten ei-kliinisten farmakologiaa, toksikologiaa, farmak
 >
 > <div lang="en">
 >
-> Introduction The results of all relevant nonclinical pharmacology, toxicology, pharmacokinetic and investigational product metabolism studies should be provided in summary form. This summary should address the methodology used, the results and a discussion of the relevance of the findings to the investigated product and the possible unfavourable and unintended effects in humans. The information provided may include the following, as appropriate, if known/available:
+> A.3.5 Nonclinical studies Introduction The results of all relevant nonclinical pharmacology, toxicology, pharmacokinetic and investigational product metabolism studies should be provided in summary form. This summary should address the methodology used, the results and a discussion of the relevance of the findings to the investigated product and the possible unfavourable and unintended effects in humans. The information provided may include the following, as appropriate, if known/available:
 >
 > - Species tested
 >

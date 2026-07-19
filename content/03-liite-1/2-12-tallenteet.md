@@ -51,13 +51,7 @@ Tutkijan/tutkimuslaitoksen tulee pitää yllä asianmukaisia lähdetallenteita, 
 
 ### 2.12.3
 
-Toimeksiantajan tulee antaa tutkijalle oikea-aikainen pääsy tietoihin (ks. kappale
-
-<a id="ich-e6-r3-a1-2-12-3-16-1"></a>
-
-### 3.16.1
-
-alakohta k). Tutkijan tulee vastata tietojen oikea-aikaisesta tarkastelusta, mukaan lukien ulkoisista lähteistä saatavat asiaankuuluvat tiedot, joilla voi olla vaikutusta esimerkiksi tutkimukseen osallistujien kelpoisuuteen, hoitoon tai turvallisuuteen (esim. keskuslaboratoriosta tulevat tiedot, keskitetysti luetut kuvantamistiedot, muiden laitosten tallenteet ja tarvittaessa potilaan sähköisesti raportoimat tulokset, ePRO). Tutkimussuunnitelmassa voidaan määrittää poikkeuksia pääsyyn esimerkiksi sokkouttamisen suojelemiseksi.
+Toimeksiantajan tulee antaa tutkijalle oikea-aikainen pääsy tietoihin (ks. kappale 3.16.1 alakohta k). Tutkijan tulee vastata tietojen oikea-aikaisesta tarkastelusta, mukaan lukien ulkoisista lähteistä saatavat asiaankuuluvat tiedot, joilla voi olla vaikutusta esimerkiksi tutkimukseen osallistujien kelpoisuuteen, hoitoon tai turvallisuuteen (esim. keskuslaboratoriosta tulevat tiedot, keskitetysti luetut kuvantamistiedot, muiden laitosten tallenteet ja tarvittaessa potilaan sähköisesti raportoimat tulokset, ePRO). Tutkimussuunnitelmassa voidaan määrittää poikkeuksia pääsyyn esimerkiksi sokkouttamisen suojelemiseksi.
 
 <a id="ich-e6-r3-a1-2-12-4"></a>
 
@@ -152,6 +146,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
+>
+> 2.12 Records
 >
 > **2.12.1**
 >

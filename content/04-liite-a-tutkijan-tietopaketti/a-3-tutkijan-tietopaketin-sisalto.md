@@ -35,7 +35,7 @@ Tutkijan tietopaketissa tulee olla seuraavat kappaleet, joiden loppuun lisätä�
 >
 > <div lang="en">
 >
-> The IB should contain the following sections, each with literature references (publications or reports) included at the end of each chapter, where appropriate:
+> A.3 Contents of the Investigator’s Brochure The IB should contain the following sections, each with literature references (publications or reports) included at the end of each chapter, where appropriate:
 >
 > </div>
 >

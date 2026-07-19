@@ -45,6 +45,8 @@ Eettisen toimikunnan tulee tarkastella tutkimusta myös määräajoin lainsääd
 >
 > <div lang="en">
 >
+> 3. Clinical trials should be subject to an independent review by an IRB/IEC.
+>
 > **3.1**
 >
 > A trial should be conducted in compliance with the protocol that received prior IRB/IEC approval/favourable opinion.

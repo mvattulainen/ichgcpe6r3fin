@@ -39,7 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> For the submission to or communication with the IRB/IEC, in most regions where there is also a requirement to make a submission to the relevant regulatory authority, these may be combined in a single submission in accordance with applicable regulatory requirements. Submissions and communications with the IRB/IEC and regulatory authorities are made in some regions by the investigator/institution and by the sponsor in other regions in accordance with applicable regulatory requirements.
+> 1.1 Submission and communication For the submission to or communication with the IRB/IEC, in most regions where there is also a requirement to make a submission to the relevant regulatory authority, these may be combined in a single submission in accordance with applicable regulatory requirements. Submissions and communications with the IRB/IEC and regulatory authorities are made in some regions by the investigator/institution and by the sponsor in other regions in accordance with applicable regulatory requirements.
 >
 > </div>
 >

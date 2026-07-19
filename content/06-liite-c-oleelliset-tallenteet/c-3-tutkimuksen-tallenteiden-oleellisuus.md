@@ -170,6 +170,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> C.3 Essentiality of trial records
+>
 > **C.3.1**
 >
 > The assessment of whether a record is essential and has to be retained should take into account the criteria below. Such assessment, whilst important, is not required to be documented. A structured content list for storage repository(ies) may be used to prospectively identify essential records. An essential record:

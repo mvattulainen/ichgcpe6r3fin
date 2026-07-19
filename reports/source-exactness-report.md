@@ -1,10 +1,10 @@
 # Lähdetekstin täsmällisyysraportti
 
 - Tila: **HYVÄKSYTTY**
-- PDF-poimintaan täsmääviä suomenkielisiä lähdeosioita: 145/145
-- PDF-poimintaan täsmääviä englanninkielisiä lähdeosioita: 136/136
+- PDF-poimintaan täsmääviä suomenkielisiä lähdeosioita: 146/146
+- PDF-poimintaan täsmääviä englanninkielisiä lähdeosioita: 146/146
 - Täsmällisinä varmennettuja sanastosivuja: 62/62
-- Suomenkielisen julkaisutekstin SHA-256: `15d6ca55a6f9d58e81acc5257a8e5f01898f8ace7aa6cd7a14b359c92a29a6b4`
-- Englanninkielisen julkaisutekstin SHA-256: `4c949e412fa048ccd796a999eac4e9d47cd6b2475bf8776af4296d708e6bc685`
+- Suomenkielisen julkaisutekstin SHA-256: `b52d8f36521d7feeaac6a930042fc53252100740215874ec913b4a6d382c3da2`
+- Englanninkielisen julkaisutekstin SHA-256: `e110d86422c5c41c33641c379cbe1e43eb78ca97afa649fbd7adde0ca2ae6412`
 
 Vertailussa sallittiin vain esitystavan merkit (Markdown-linkit, piilotetut ankkurit, otsikko- ja luettelomerkit) sekä välilyöntien ja rivinvaihtojen normalisointi.

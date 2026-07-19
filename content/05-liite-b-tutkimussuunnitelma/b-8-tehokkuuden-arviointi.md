@@ -44,6 +44,8 @@ Tehokkuusparametrien arvioinnin, kirjaamisen ja analysoinnin menetelmät ja ajoi
 >
 > <div lang="en">
 >
+> B.8 Assessment of efficacy
+>
 > **B.8.1**
 >
 > Specification of the efficacy parameters, where applicable.

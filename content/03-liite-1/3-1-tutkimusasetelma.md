@@ -10,7 +10,7 @@ lang: "fi"
 translation_status: "unofficial"
 authoritative_language: "en"
 finnish_pages:
-  - 14
+  - 38
 english_pages:
   - 25
 english_section_number: "3.1"
@@ -29,11 +29,35 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-hyväksynnän tai myönteisen lausunnon saaneen tutkimussuunnitelman mukaisesti.
+<a id="ich-e6-r3-a1-3-1-1"></a>
+
+### 3.1.1
+
+Toimeksiantajan tulee tutkimuksia suunniteltaessa varmistaa, että saatavilla on riittävät turvallisuuteen ja tehoon liittyvät tiedot (esim. ei-kliinisistä ja/tai kliinisistä lääketutkimuksista ja/tai tosielämän tietolähteistä) tukemaan ihmisten altistamista tutkittavalle lääkeaineelle kyseisellä antotavalla, annoksilla, annostelun kestolla ja tutkittavassa populaatiossa.
+
+<a id="ich-e6-r3-a1-3-1-2"></a>
+
+### 3.1.2
+
+Toimeksiantajan tulee sisällyttää laatu kliinisen lääketutkimuksen suunnitteluun tunnistamalla tutkimuksen laadun kannalta kriittisiä tekijöitä ja hallitsemalla näihin tekijöihin kohdistuvia riskejä.
+
+<a id="ich-e6-r3-a1-3-1-3"></a>
+
+### 3.1.3
+
+Toimeksiantajan tulee ottaa huomioon laajasti eri sidosryhmien (esim. terveydenhuollon ammattilaisten ja potilaiden) näkemyksiä kehityssuunnitelman ja kliinisen lääketutkimuksen tutkimussuunnitelmien tueksi ICH E8(R1) -ohjeessa kuvatulla tavalla. Tämä koskee myös tietoon perustuvan suostumuksen materiaaleja ja muuta tutkimuksen osallistujille annettavaa materiaalia.
+
+<a id="ich-e6-r3-a1-3-1-4"></a>
+
+### 3.1.4
+
+Toimeksiantajan tulee varmistaa, että kaikki tutkimuksen osa-alueet ovat toiminnallisesti toteuttamiskelpoisia, ja niissä tulee välttää tarpeetonta monimutkaisuutta ja tiedonkeruuta sekä tarpeettomia menettelyitä. Tutkimussuunnitelmien, tiedonkeruuvälineiden ja muiden operatiivisten asiakirjojen tulee olla tarkoitukseen sopivia, selkeitä, ytimekkäitä ja johdonmukaisia. Toimeksiantajan ei tule aiheuttaa tarpeetonta rasitetta tutkimukseen osallistujille ja tutkijoille.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
+>
+> 3.1 Trial design
 >
 > **3.1.1**
 >

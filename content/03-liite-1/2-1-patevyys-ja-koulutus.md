@@ -10,8 +10,7 @@ lang: "fi"
 translation_status: "unofficial"
 authoritative_language: "en"
 finnish_pages:
-  - 13
-  - 14
+  - 23
 english_pages:
   - 15
 english_section_number: "2.1"
@@ -31,15 +30,23 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-dokumentoida kaikilta tutkimukseen osallistujilta ennen kliiniseen lääketutkimukseen osallistumista. Jos kyseessä on mahdollinen [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]], joka ei pysty antamaan tietoon perustuvaa suostumusta, tämän eduksi toimivan laillisen edustajan tulee antaa suostumus ennen kliiniseen lääketutkimukseen osallistumista. Tällaisille mahdollisille tutkimukseen osallistujille tulee tiedottaa tutkimuksesta tavalla, joka helpottaa heidän ymmärrystään. Jos osallistuja on alaikäinen, [[sanasto/alaikaisen-suostumus|alaikäisen suostumus]] tulee pyytää tarvittaessa ja paikallisten lainsäädännön vaatimusten mukaisesti [ks. ICH E11(R1) Clinical Investigation of Medicinal Products in the Pediatric Population].
+<a id="ich-e6-r3-a1-2-1-1"></a>
 
-## Liittyvät käsitteet
+### 2.1.1
 
-Katso tekstissä linkitetyt sanastokäsitteet.
+Tutkijalla tulee olla tutkinto-, koulutus- ja kokemustaustan tuoma pätevyys, jotta hän voi ottaa vastuun tutkimuksen asianmukaisesta toteutuksesta, ja hänen tulee osoittaa pätevyytensä.
+
+<a id="ich-e6-r3-a1-2-1-2"></a>
+
+### 2.1.2
+
+Tutkijan tulee tuntea tutkimusvalmisteen tarkoituksenmukainen käyttö siten kuin tutkimussuunnitelmassa, voimassa olevassa tutkijan tietopaketissa, valmisteyhteenvedossa ja/tai muissa toimeksiantajan toimittamissa tietolähteissä selostetaan.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
+>
+> 2.1 Qualifications and training
 >
 > **2.1.1**
 >

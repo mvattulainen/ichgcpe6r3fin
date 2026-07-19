@@ -54,6 +54,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> B.1 General information
+>
 > **B.1.1**
 >
 > Protocol title, unique protocol identifying number and date. Any amendment(s) should also bear the amendment number(s) and date(s).

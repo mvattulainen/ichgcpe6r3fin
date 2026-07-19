@@ -27,7 +27,6 @@ Prevention of disclosure to other than authorised individuals of a sponsor’s p
 ## Esiintyminen ohjeessa
 
 - [[02-gcp-periaatteet/periaate-01|1. Kliiniset lääketutkimukset tulee toteuttaa noudattaen eettisiä periaatteita, jotka perustuvat Helsingin julistukseen ja ovat hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisia. Kliiniset lääketutkimukset tulee suunnitella ja toteuttaa tavoilla, joilla varmistetaan tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.]]
-- [[03-liite-1/1-5-tallenteet|1.5 Tallenteet]]
 - [[03-liite-1/2-8-tutkimukseen-osallistujien-tietoon-perustuva-suostumus|2.8 Tutkimukseen osallistujien tietoon perustuva suostumus]]
 - [[03-liite-1/3-16-1-tietojen-kasittely|3.16.1 Tietojen käsittely]]
 - [[03-liite-1/4-tietojenhallinta-tutkija-ja-toimeksiantaja|4 Tietojenhallinta – tutkija ja toimeksiantaja]]

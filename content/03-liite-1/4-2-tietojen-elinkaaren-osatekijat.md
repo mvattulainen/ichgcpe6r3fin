@@ -35,7 +35,7 @@ Käytössä tulee olla menettelyitä, joilla katetaan tietojen koko elinkaari.
 >
 > <div lang="en">
 >
-> Procedures should be in place to cover the full data life cycle.
+> 4.2 Data life cycle elements Procedures should be in place to cover the full data life cycle.
 >
 > </div>
 >

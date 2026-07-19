@@ -74,6 +74,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 9. Clinical trials should generate reliable results.
+>
 > **9.1**
 >
 > The quality and amount of the information generated in a clinical trial should be fit for purpose and sufficient to provide confidence in the trial’s results and support good decision making.

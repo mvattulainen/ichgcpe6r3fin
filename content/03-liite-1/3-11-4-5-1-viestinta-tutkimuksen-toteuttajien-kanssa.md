@@ -51,6 +51,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 3.11.4.5.1 Communication with parties conducting the trial
+>
 > - (a) Establishing and maintaining a line of communication between the sponsor and the investigator and other parties and individuals involved in the trial conduct (e.g., centrally performed activities). In general, each site should have an assigned monitor as their contact point.
 >
 > - (b) Informing the investigator or other parties and individuals involved in the trial conduct of relevant deviations from the protocol, GCP and the applicable regulatory requirements and, if necessary, taking appropriate action designed to prevent recurrence of the detected deviations. Important deviations should be highlighted and should be the focus of remediation efforts as appropriate.

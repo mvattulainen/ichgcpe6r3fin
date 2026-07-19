@@ -57,6 +57,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.12 Noncompliance
+>
 > **3.12.1**
 >
 > Noncompliance with the protocol, SOPs, GCP and/or applicable regulatory requirement(s) by an investigator/institution or by member(s) of the sponsor’s staff should lead to appropriate and proportionate action by the sponsor to secure compliance.

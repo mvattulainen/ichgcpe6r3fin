@@ -41,7 +41,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The sponsor should identify risks that may have a meaningful impact on critical to quality factors prior to trial initiation and throughout trial conduct. Risks should be considered across the processes and systems, including computerised systems, used in the clinical trial (e.g., trial design, participant selection, informed consent process, randomisation, blinding, investigational product administration, data handling and service provider activities).
+> 3.10.1.1 Risk identification The sponsor should identify risks that may have a meaningful impact on critical to quality factors prior to trial initiation and throughout trial conduct. Risks should be considered across the processes and systems, including computerised systems, used in the clinical trial (e.g., trial design, participant selection, informed consent process, randomisation, blinding, investigational product administration, data handling and service provider activities).
 >
 > </div>
 >

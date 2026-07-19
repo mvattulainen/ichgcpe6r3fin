@@ -71,6 +71,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.15.2 Manufacturing, Packaging, Labelling and Coding Investigational Product(s)
+>
 > - (a) The sponsor should ensure that the investigational product(s) (including active control(s) and placebo, if applicable) is characterised as appropriate to the stage of development of the product(s), is manufactured in accordance with any applicable GMP and is coded and labelled in a manner that protects the blinding, if applicable. In addition, the labelling should comply with applicable regulatory requirement(s).
 >
 > - (b) The sponsor should determine acceptable storage temperatures, storage conditions (e.g., protection from light) and shelf life for the investigational product(s), appropriate reconstitution fluids and procedures, and devices for product administration, if any. The sponsor should inform all involved parties (e.g., monitors, investigators, pharmacists, storage managers) of these determinations.

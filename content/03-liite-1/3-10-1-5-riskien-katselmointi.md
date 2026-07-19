@@ -36,7 +36,7 @@ Toimeksiantajan tulee säännöllisin väliajoin katselmoida riskienhallintatoim
 >
 > <div lang="en">
 >
-> The sponsor should periodically review risk control measures to ascertain whether the implemented quality management activities remain effective and relevant, taking into account emerging knowledge and experience. Additional risk control measures may be implemented as needed.
+> 3.10.1.5 Risk review The sponsor should periodically review risk control measures to ascertain whether the implemented quality management activities remain effective and relevant, taking into account emerging knowledge and experience. Additional risk control measures may be implemented as needed.
 >
 > </div>
 >

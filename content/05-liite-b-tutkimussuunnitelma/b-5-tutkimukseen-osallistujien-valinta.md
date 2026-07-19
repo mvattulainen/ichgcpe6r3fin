@@ -50,6 +50,8 @@ Tutkimukseen osallistujien seulontatavat ja tarvittaessa esiseulonnan kuvaus.
 >
 > <div lang="en">
 >
+> B.5 Selection of participants
+>
 > **B.5.1**
 >
 > Participant inclusion criteria.

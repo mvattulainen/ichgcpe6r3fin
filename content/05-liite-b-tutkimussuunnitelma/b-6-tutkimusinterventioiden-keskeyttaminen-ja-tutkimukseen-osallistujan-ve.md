@@ -54,7 +54,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The investigator may choose to discontinue the participant from the trial. Conversely, the participant may decide to withdraw from the trial or stop treatment with the investigational product (see sections 2.8.10(l), 2.8.10(m) and 2.9.1). The protocol should specify:
+> B.6 Discontinuation of trial intervention and participant withdrawal from trial The investigator may choose to discontinue the participant from the trial. Conversely, the participant may decide to withdraw from the trial or stop treatment with the investigational product (see sections 2.8.10(l), 2.8.10(m) and 2.9.1). The protocol should specify:
 >
 > - (a) When and how to discontinue participants from the trial/investigational product treatment;
 >

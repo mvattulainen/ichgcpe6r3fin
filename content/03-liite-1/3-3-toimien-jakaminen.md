@@ -35,7 +35,7 @@ Ennen kliinisen lääketutkimuksen käynnistämistä toimeksiantajan tulee mää
 >
 > <div lang="en">
 >
-> Prior to initiating clinical trial activities, the sponsor should determine the roles and allocate their trial- related activities accordingly.
+> 3.3 Allocation of activities Prior to initiating clinical trial activities, the sponsor should determine the roles and allocate their trial- related activities accordingly.
 >
 > </div>
 >

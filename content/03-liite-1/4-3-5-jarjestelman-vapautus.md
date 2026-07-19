@@ -35,7 +35,7 @@ Tutkimuskohtaiset järjestelmät (mukaan lukien tutkimussuunnitelman muutoksista
 >
 > <div lang="en">
 >
-> The trial-specific systems (including updates resulting from protocol amendments) should only be implemented, released or activated for individual investigator sites after all necessary approvals for the clinical trial relevant to that investigator site have been received.
+> 4.3.5 System release The trial-specific systems (including updates resulting from protocol amendments) should only be implemented, released or activated for individual investigator sites after all necessary approvals for the clinical trial relevant to that investigator site have been received.
 >
 > </div>
 >

@@ -35,7 +35,7 @@ Vastuutahon tulee varmistaa, että tietokoneistettuja järjestelmiä käyttävä
 >
 > <div lang="en">
 >
-> The responsible party should ensure that those using computerised systems are appropriately trained in their use.
+> 4.3.2 Training The responsible party should ensure that those using computerised systems are appropriately trained in their use.
 >
 > </div>
 >

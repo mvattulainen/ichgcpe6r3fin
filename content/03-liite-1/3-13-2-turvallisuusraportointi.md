@@ -59,6 +59,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 3.13.2 Safety reporting
+>
 > - (a) The sponsor should submit to the regulatory authority(ies) safety updates and periodic reports, including changes to the Investigator’s Brochure, as required by applicable regulatory requirements.
 >
 > - (b) The sponsor should, in accordance with the applicable regulatory requirement(s) and with ICH E2A Clinical Safety Data Management: Definitions and Standards for Expedited Reporting, expedite the reporting to the regulatory authority(ies) of all suspected, unexpected and serious adverse reactions (i.e., SUSARs).

@@ -13,7 +13,7 @@ finnish_pages:
   - 75
 english_pages:
   - 50
-english_section_number: null
+english_section_number: "A.3.1"
 permalink: "/04-liite-a-tutkijan-tietopaketti/a-3-1-sisallysluettelo/"
 aliases:
   - "Sisällysluettelo"
@@ -30,4 +30,12 @@ is_based_on:
 
 
 
-> [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.
+> [!quote]- Alkuperäinen englanninkielinen lähdeteksti
+>
+> <div lang="en">
+>
+> A.3.1 Table of contents
+>
+> </div>
+>
+> **Lähde:** ICH E6(R3), section A.3.1, pages 50–50.

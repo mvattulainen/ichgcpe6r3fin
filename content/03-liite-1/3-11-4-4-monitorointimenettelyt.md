@@ -36,7 +36,7 @@ Monitorointia tekevien henkilöiden tulee noudattaa toimeksiantajan monitorointi
 >
 > <div lang="en">
 >
-> Persons performing monitoring should follow the sponsor’s monitoring plan and applicable monitoring procedures.
+> 3.11.4.4 Monitoring procedures Persons performing monitoring should follow the sponsor’s monitoring plan and applicable monitoring procedures.
 >
 > </div>
 >

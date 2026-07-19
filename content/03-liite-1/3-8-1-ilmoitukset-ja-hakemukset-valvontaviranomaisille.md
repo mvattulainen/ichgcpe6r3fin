@@ -35,7 +35,7 @@ Ennen tutkimuksen alkamista toimeksiantajan (tai toimeksiantajan ja tutkijan) tu
 >
 > <div lang="en">
 >
-> In accordance with applicable regulatory requirement(s), before initiating the clinical trial(s), the sponsor (or the sponsor and the investigator) should submit any required application(s) to the appropriate regulatory authority(ies) for review, acceptance and/or permission to begin the trial(s). Any notification/submission should be dated and contain sufficient information to identify the protocol.
+> 3.8.1 Notification/Submission to Regulatory Authority(ies) In accordance with applicable regulatory requirement(s), before initiating the clinical trial(s), the sponsor (or the sponsor and the investigator) should submit any required application(s) to the appropriate regulatory authority(ies) for review, acceptance and/or permission to begin the trial(s). Any notification/submission should be dated and contain sufficient information to identify the protocol.
 >
 > </div>
 >

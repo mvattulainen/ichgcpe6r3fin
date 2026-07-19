@@ -55,6 +55,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> C.1 Introduction
+>
 > **C.1.1**
 >
 > Many records are generated before and during the conduct of a clinical trial. The nature and extent of those records generated and maintained are dependent on the trial design, its conduct, application of risk proportionate approaches and the importance and relevance of that record to the trial.

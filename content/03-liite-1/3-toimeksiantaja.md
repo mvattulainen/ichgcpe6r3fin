@@ -31,47 +31,11 @@ is_based_on:
 
 Toimeksiantajan vastuulla on ottaa käyttöön riskeihin suhteutettuja menettelyitä, joilla varmistetaan tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi sekä tutkimustulosten luotettavuus kliinisen lääketutkimuksen koko elinkaaren ajan.
 
-<a id="ich-e6-r3-a1-3-1"></a>
-
-### 3.1
-
-Tutkimusasetelma
-
-<a id="ich-e6-r3-a1-3-1-1"></a>
-
-### 3.1.1
-
-Toimeksiantajan tulee tutkimuksia suunniteltaessa varmistaa, että saatavilla on riittävät turvallisuuteen ja tehoon liittyvät tiedot (esim. ei-kliinisistä ja/tai kliinisistä lääketutkimuksista ja/tai tosielämän tietolähteistä) tukemaan ihmisten altistamista tutkittavalle lääkeaineelle kyseisellä antotavalla, annoksilla, annostelun kestolla ja tutkittavassa populaatiossa.
-
-<a id="ich-e6-r3-a1-3-1-2"></a>
-
-### 3.1.2
-
-Toimeksiantajan tulee sisällyttää laatu kliinisen lääketutkimuksen suunnitteluun tunnistamalla tutkimuksen laadun kannalta kriittisiä tekijöitä ja hallitsemalla näihin tekijöihin kohdistuvia riskejä.
-
-<a id="ich-e6-r3-a1-3-1-3"></a>
-
-### 3.1.3
-
-Toimeksiantajan tulee ottaa huomioon laajasti eri sidosryhmien (esim. terveydenhuollon ammattilaisten ja potilaiden) näkemyksiä kehityssuunnitelman ja kliinisen lääketutkimuksen tutkimussuunnitelmien tueksi ICH E8(R1) -ohjeessa kuvatulla tavalla. Tämä koskee myös tietoon perustuvan suostumuksen materiaaleja ja muuta tutkimuksen osallistujille annettavaa materiaalia.
-
-<a id="ich-e6-r3-a1-3-1-4"></a>
-
-### 3.1.4
-
-Toimeksiantajan tulee varmistaa, että kaikki tutkimuksen osa-alueet ovat toiminnallisesti toteuttamiskelpoisia, ja niissä tulee välttää tarpeetonta monimutkaisuutta ja tiedonkeruuta sekä tarpeettomia menettelyitä. Tutkimussuunnitelmien, tiedonkeruuvälineiden ja muiden operatiivisten asiakirjojen tulee olla tarkoitukseen sopivia, selkeitä, ytimekkäitä ja johdonmukaisia. Toimeksiantajan ei tule aiheuttaa tarpeetonta rasitetta tutkimukseen osallistujille ja tutkijoille.
-
-<a id="ich-e6-r3-a1-3-2"></a>
-
-### 3.2
-
-Resurssit Toimeksiantajan tulee varmistaa, että tutkimuksen asianmukaiseen toteuttamiseen on riittävästi resursseja.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
 >
-> The responsibility of the sponsor entails the implementation of risk-proportionate approaches to ensure the rights, safety and well-being of the trial participants and the reliability of the trial results throughout the clinical trial life cycle.
+> 3. Sponsor The responsibility of the sponsor entails the implementation of risk-proportionate approaches to ensure the rights, safety and well-being of the trial participants and the reliability of the trial results throughout the clinical trial life cycle.
 >
 > </div>
 >

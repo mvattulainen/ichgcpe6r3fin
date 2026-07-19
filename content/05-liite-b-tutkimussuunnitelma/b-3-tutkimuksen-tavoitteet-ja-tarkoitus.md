@@ -34,7 +34,7 @@ Selkeä kuvaus tutkimuksen tavoitteista ja tarkoituksesta. Tiedot estimandeista,
 >
 > <div lang="en">
 >
-> A clear description of the scientific objectives and the purpose of the trial. Information on estimands, when defined (see ICH E9(R1)).
+> B.3 Trial objectives and purpose A clear description of the scientific objectives and the purpose of the trial. Information on estimands, when defined (see ICH E9(R1)).
 >
 > </div>
 >

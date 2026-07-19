@@ -41,6 +41,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 3.11.2.1 Selection and qualification of auditors
+>
 > - (a) The sponsor should appoint individuals who are independent of the clinical trial/processes being audited.
 >
 > - (b) The sponsor should ensure that the auditors are qualified by training and experience to conduct audits properly.

@@ -75,6 +75,8 @@ Viittaukset kirjallisuuteen ja tietoihin, joilla on merkitystä tutkimuksen kann
 >
 > <div lang="en">
 >
+> B.2 Background information
+>
 > **B.2.1**
 >
 > Name and description of the investigational product(s).

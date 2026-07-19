@@ -51,6 +51,8 @@ Lausunto siitä, että tallenteita tulee säilyttää lainsäädännön vaatimus
 >
 > <div lang="en">
 >
+> B.14 Data handling and record keeping
+>
 > **B.14.1**
 >
 > Specification of data to be collected and the method of its collection. Where necessary, additional details should be contained in a clinical trial-related document.

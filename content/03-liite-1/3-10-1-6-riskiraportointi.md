@@ -35,7 +35,7 @@ Toimeksiantajan tulee esittää yhteenveto ja raportoida tärkeät laatuongelmat
 >
 > <div lang="en">
 >
-> The sponsor should summarise and report important quality issues (including instances in which acceptable ranges are exceeded, as detailed in section 3.10.1.3) and the remedial actions taken and document them in the clinical trial report (see ICH E3).
+> 3.10.1.6 Risk reporting The sponsor should summarise and report important quality issues (including instances in which acceptable ranges are exceeded, as detailed in section 3.10.1.3) and the remedial actions taken and document them in the clinical trial report (see ICH E3).
 >
 > </div>
 >

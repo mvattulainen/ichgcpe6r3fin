@@ -39,7 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The sponsor is responsible for establishing, implementing and maintaining appropriate quality assurance and quality control processes and documented procedures to ensure that trials are conducted and data are generated, recorded and reported in compliance with the protocol, GCP and the applicable regulatory requirement(s).
+> 3.11 Quality assurance and quality control The sponsor is responsible for establishing, implementing and maintaining appropriate quality assurance and quality control processes and documented procedures to ensure that trials are conducted and data are generated, recorded and reported in compliance with the protocol, GCP and the applicable regulatory requirement(s).
 >
 > </div>
 >

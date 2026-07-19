@@ -47,7 +47,7 @@ Toimeksiantajan tulee arvioida tunnistetut riskit ja käytössä olevat valvonta
 >
 > <div lang="en">
 >
-> The sponsor should evaluate identified risks and existing controls in place to mitigate the risk by considering:
+> 3.10.1.2 Risk evaluation The sponsor should evaluate identified risks and existing controls in place to mitigate the risk by considering:
 >
 > - (a) The likelihood of harm/hazard occurring;
 >

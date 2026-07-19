@@ -39,7 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> There should be processes to correct data errors that could impact the reliability of the trial results. Corrections should be attributed to the person or computerised system making the correction, justified and supported by source records around the time of original entry and performed in a timely manner.
+> 4.2.4 Data corrections There should be processes to correct data errors that could impact the reliability of the trial results. Corrections should be attributed to the person or computerised system making the correction, justified and supported by source records around the time of original entry and performed in a timely manner.
 >
 > </div>
 >

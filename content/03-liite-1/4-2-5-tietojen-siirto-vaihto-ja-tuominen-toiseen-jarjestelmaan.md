@@ -39,7 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> Validated processes and/or other appropriate processes such as reconciliation should be in place to ensure that electronic data, including relevant metadata, transferred between computerised systems retains its integrity and preserves its confidentiality. The data exchange/transfer process or system migration should be documented to ensure traceability, and data reconciliation should be implemented as appropriate to avoid data loss and unintended modifications.
+> 4.2.5 Data transfer, exchange and migration Validated processes and/or other appropriate processes such as reconciliation should be in place to ensure that electronic data, including relevant metadata, transferred between computerised systems retains its integrity and preserves its confidentiality. The data exchange/transfer process or system migration should be documented to ensure traceability, and data reconciliation should be implemented as appropriate to avoid data loss and unintended modifications.
 >
 > </div>
 >

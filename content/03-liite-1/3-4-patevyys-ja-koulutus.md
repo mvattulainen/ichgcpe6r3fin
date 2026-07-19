@@ -36,7 +36,7 @@ Toimeksiantajan tulee hyödyntää asianmukaisen pätevyyden omaavia henkilöit�
 >
 > <div lang="en">
 >
-> The sponsor should utilise appropriately qualified individuals for the activities to which they are assigned (e.g., biostatisticians, clinical pharmacologists, physicians, data scientists/data managers, auditors and monitors) throughout the trial process.
+> 3.4 Qualification and training The sponsor should utilise appropriately qualified individuals for the activities to which they are assigned (e.g., biostatisticians, clinical pharmacologists, physicians, data scientists/data managers, auditors and monitors) throughout the trial process.
 >
 > </div>
 >

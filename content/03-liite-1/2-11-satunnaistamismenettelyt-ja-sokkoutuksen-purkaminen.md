@@ -40,7 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The investigator should follow the trial’s randomisation procedures, if any, and, in the case of an investigator-blinded trial, should ensure that the treatment randomisation code is broken only in accordance with the protocol. In the case of an emergency, to protect participant safety, the investigator should be prepared and capable from the start of the trial to perform unblinding without undue delay and hindrance. The investigator should promptly document and explain to the sponsor any premature unblinding (e.g., accidental unblinding, emergency unblinding to protect trial participant, unblinding due to an SAE) of the investigational product(s).
+> 2.11 Randomisation procedures and unblinding The investigator should follow the trial’s randomisation procedures, if any, and, in the case of an investigator-blinded trial, should ensure that the treatment randomisation code is broken only in accordance with the protocol. In the case of an emergency, to protect participant safety, the investigator should be prepared and capable from the start of the trial to perform unblinding without undue delay and hindrance. The investigator should promptly document and explain to the sponsor any premature unblinding (e.g., accidental unblinding, emergency unblinding to protect trial participant, unblinding due to an SAE) of the investigational product(s).
 >
 > </div>
 >

@@ -5,762 +5,6 @@
       "riippumaton-eettinen-toimikunta"
     ],
     "supporting_actors": [],
-    "source_section": "1.6",
-    "source_text_fi": "Sellaisten tietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]], jotka mahdollistavat tutkimukseen osallistujien tunnistamisen, tulee suojata sovellettavien yksityisyys- ja tietosuojavaatimusten mukaisesti. 2. [[sanasto/tietoon-perustuva-suostumus|Tietoon perustuva suostumus]] on olennainen osa tutkimuksen eettistä toteuttamista. Kliiniseen lääketutkimukseen osallistumisen tulee olla vapaaehtoista ja perustua suostumusprosessiin, jolla varmistetaan, että tutkimukseen osallistujat (tai tarvittaessa heidän lailliset edustajansa) ovat saaneet kaiken tarvittavan tiedon.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Sellaisten tietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]], jotka mahdollistavat tutkimukseen osallistujien tunnistamisen, tulee suojata sovellettavien yksityisyys- ja tietosuojavaatimusten mukaisesti. 2. [[sanasto/tietoon-perustuva-suostumus|Tietoon perustuva suostumus]] on olennainen osa tutkimuksen eettistä toteuttamista. Kliiniseen lääketutkimukseen osallistumisen tulee olla vapaaehtoista ja perustua suostumusprosessiin, jolla varmistetaan, että tutkimukseen osallistujat (tai tarvittaessa heidän lailliset edustajansa) ovat saaneet kaiken tarvittavan tiedon.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "suostumusprosessin merkintä",
-      "allekirjoitettu suostumuslomake",
-      "koulutustallenne",
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "INV-001",
-    "responsible_actor": [
-      "tutkija"
-    ],
-    "supporting_actors": [
-      "tutkimuspaikan-henkilosto"
-    ],
-    "source_section": "2.4",
-    "source_text_fi": "Hätätilanteissa, joissa suostumusta ei voida saada ennen tutkimukseen osallistumista, suostumus tulee saada tutkimukseen osallistujalta tai hänen lailliselta edustajaltaan heti, kun se on mahdollista lainsäädännön vaatimusten ja eettisen toimikunnan hyväksymän prosessin mukaisesti. 3. Eettisen toimikunnan tulee arvioida kliiniset lääketutkimukset riippumattomasti.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Hätätilanteissa, joissa suostumusta ei voida saada ennen tutkimukseen osallistumista, suostumus tulee saada tutkimukseen osallistujalta tai hänen lailliselta edustajaltaan heti, kun se on mahdollista lainsäädännön vaatimusten ja eettisen toimikunnan hyväksymän prosessin mukaisesti. 3. Eettisen toimikunnan tulee arvioida kliiniset lääketutkimukset riippumattomasti.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "suostumusprosessin merkintä",
-      "allekirjoitettu suostumuslomake",
-      "koulutustallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "GCP-001",
-    "responsible_actor": [
-      "tiedonhallinta-ja-tietokoneistetut-jarjestelmat"
-    ],
-    "supporting_actors": [],
-    "source_section": "4.1",
-    "source_text_fi": "Tutkimusvalmisteesta tulee olla riittävästi ei-kliinistä ja kliinistä tietoa, joka tukee ehdotetun kliinisen lääketutkimuksen toteuttamista.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Tutkimusvalmisteesta tulee olla riittävästi ei-kliinistä ja kliinistä tietoa, joka tukee ehdotetun kliinisen lääketutkimuksen toteuttamista.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "GCP-002",
-    "responsible_actor": [
-      "tiedonhallinta-ja-tietokoneistetut-jarjestelmat"
-    ],
-    "supporting_actors": [],
-    "source_section": "4.2",
-    "source_text_fi": "Kliinisten lääketutkimusten tulee olla tieteellisesti päteviä ja vastata tutkimusvalmisteista saatavilla olevia tietoja ja kokemusta, mukaan lukien soveltuvin osin tietoja ja kokemusta hoidettavasta, diagnosoitavasta tai ehkäistävästä sairaudesta ja nykyistä ymmärrystä (sekä sairauden että tutkimusvalmisteen) taustalla olevasta biologisesta mekanismista sekä ryhmästä, jolle [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] on tarkoitettu.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Kliinisten lääketutkimusten tulee olla tieteellisesti päteviä ja vastata tutkimusvalmisteista saatavilla olevia tietoja ja kokemusta, mukaan lukien soveltuvin osin tietoja ja kokemusta hoidettavasta, diagnosoitavasta tai ehkäistävästä sairaudesta ja nykyistä ymmärrystä (sekä sairauden että tutkimusvalmisteen) taustalla olevasta biologisesta mekanismista sekä ryhmästä, jolle [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] on tarkoitettu.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "GCP-003",
-    "responsible_actor": [
-      "tiedonhallinta-ja-tietokoneistetut-jarjestelmat"
-    ],
-    "supporting_actors": [],
-    "source_section": "4.3",
-    "source_text_fi": "Ajantasaisia tieteellisiä tietoja ja lähestymistapoja tulee arvioida uudelleen säännöllisesti, jotta voidaan päättää, onko tutkimusta muutettava, koska uutta tai odottamatonta tietoa voi ilmaantua tutkimuksen alkamisen jälkeen. 5. Pätevien henkilöiden tulee suunnitella ja toteuttaa kliiniset lääketutkimukset.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Ajantasaisia tieteellisiä tietoja ja lähestymistapoja tulee arvioida uudelleen säännöllisesti, jotta voidaan päättää, onko tutkimusta muutettava, koska uutta tai odottamatonta tietoa voi ilmaantua tutkimuksen alkamisen jälkeen. 5. Pätevien henkilöiden tulee suunnitella ja toteuttaa kliiniset lääketutkimukset.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "GCP-004",
-    "responsible_actor": [
-      "monitoroija"
-    ],
-    "supporting_actors": [],
-    "source_section": "5.1",
-    "source_text_fi": "Henkilöitä, joilla on erilaista asiantuntemusta ja koulutusta, saatetaan tarvita kaikissa kliinisen lääketutkimuksen eri vaiheissa. Tällaisia henkilöitä ovat esimerkiksi lääkärit, sairaanhoitajat, proviisorit/farmaseutit, tutkijat, etiikan asiantuntijat, teknologia-asiantuntijat, tutkimuskoordinaattorit, monitoroijat, auditoijat ja biostatistikot. Kaikilla tutkimuksen toteuttamiseen osallistuvilla henkilöillä tulee olla tehtäviensä hoitamiseen tarvittava pätevyys, koulutus ja kokemus. 6. Laatu tulee sisällyttää tieteelliseen ja toiminnalliseen suunnitteluun ja kliinisten lääketutkimusten toteuttamiseen.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Henkilöitä, joilla on erilaista asiantuntemusta ja koulutusta, saatetaan tarvita kaikissa kliinisen lääketutkimuksen eri vaiheissa. Tällaisia henkilöitä ovat esimerkiksi lääkärit, sairaanhoitajat, proviisorit/farmaseutit, tutkijat, etiikan asiantuntijat, teknologia-asiantuntijat, tutkimuskoordinaattorit, monitoroijat, auditoijat ja biostatistikot. Kaikilla tutkimuksen toteuttamiseen osallistuvilla henkilöillä tulee olla tehtäviensä hoitamiseen tarvittava pätevyys, koulutus ja kokemus. 6. Laatu tulee sisällyttää tieteelliseen ja toiminnalliseen suunnitteluun ja kliinisten lääketutkimusten toteuttamiseen.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "monitorointisuunnitelma",
-      "monitorointiraportti"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-001",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "6.2",
-    "source_text_fi": "Tutkimuksen laadun kannalta kriittiset tekijät tulee tunnistaa ennakoivasti. Nämä ovat tekijöitä, jotka ovat perustavanlaatuisia tutkimukseen osallistujien suojelemisen, tutkimustulosten luotettavuuden ja tulkittavuuden varmistamisen sekä tuloksiin perustuvien päätösten kannalta. Laadun suunnittelu (Quality by Design) tarkoittaa tutkimuksen kriittisiin laatutekijöihin keskittymistä, jotta maksimoidaan todennäköisyys sille, että tutkimus saavuttaa tavoitteensa.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Tutkimuksen laadun kannalta kriittiset tekijät tulee tunnistaa ennakoivasti. Nämä ovat tekijöitä, jotka ovat perustavanlaatuisia tutkimukseen osallistujien suojelemisen, tutkimustulosten luotettavuuden ja tulkittavuuden varmistamisen sekä tuloksiin perustuvien päätösten kannalta. Laadun suunnittelu (Quality by Design) tarkoittaa tutkimuksen kriittisiin laatutekijöihin keskittymistä, jotta maksimoidaan todennäköisyys sille, että tutkimus saavuttaa tavoitteensa.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-002",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "6.3",
-    "source_text_fi": "Käytössä tulee olla toimintatavat, joilla ehkäistään, havaitaan ja käsitellään vakavia hyvän kliinisen tutkimustavan, tutkimussuunnitelman ja lainsäädännön vaatimusten laiminlyöntejä, sekä estetään niiden toistuminen. 7. Kliinisen lääketutkimuksen prosessien, toimenpiteiden ja lähestymistapojen toteutuksen tulee olla oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja kerättyjen tietojen tärkeyteen, jotta vältetään tutkimukseen osallistujille ja tutkijoille aiheutuva tarpeeton rasite.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Käytössä tulee olla toimintatavat, joilla ehkäistään, havaitaan ja käsitellään vakavia hyvän kliinisen tutkimustavan, tutkimussuunnitelman ja lainsäädännön vaatimusten laiminlyöntejä, sekä estetään niiden toistuminen. 7. Kliinisen lääketutkimuksen prosessien, toimenpiteiden ja lähestymistapojen toteutuksen tulee olla oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja kerättyjen tietojen tärkeyteen, jotta vältetään tutkimukseen osallistujille ja tutkijoille aiheutuva tarpeeton rasite.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-003",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "7.1",
-    "source_text_fi": "Tutkimusprosessien tulee olla oikeassa suhteessa tutkimukseen liittyviin riskeihin ja kerättyjen tietojen tärkeyteen. Riskejä ovat tässä yhteydessä muun muassa tutkimukseen osallistujien oikeuksiin, turvallisuuteen ja hyvinvointiin kohdistuvat riskit sekä tutkimustulosten luotettavuutta koskevat riskit.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Tutkimusprosessien tulee olla oikeassa suhteessa tutkimukseen liittyviin riskeihin ja kerättyjen tietojen tärkeyteen. Riskejä ovat tässä yhteydessä muun muassa tutkimukseen osallistujien oikeuksiin, turvallisuuteen ja hyvinvointiin kohdistuvat riskit sekä tutkimustulosten luotettavuutta koskevat riskit.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "turvallisuusraportti",
-      "raportoinnin jäljitettävyystieto",
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-004",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "7.2",
-    "source_text_fi": "Huomion tulee olla tutkimuksen osallistumiseen liittyvissä riskeissä. Potilailla tehdyissä kliinisissä lääketutkimuksissa tulee keskittyä riskeihin, jotka ylittävät tavanomaiseen lääketieteelliseen hoitoon liittyvät riskit. Kliinisen lääketutkimuksen kontekstissa käytettävien myyntiluvallisten tutkimusvalmisteiden riskit voivat poiketa potilaiden tavanomaisesta hoidosta, ja ne tulee ottaa huomioon.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Huomion tulee olla tutkimuksen osallistumiseen liittyvissä riskeissä. Potilailla tehdyissä kliinisissä lääketutkimuksissa tulee keskittyä riskeihin, jotka ylittävät tavanomaiseen lääketieteelliseen hoitoon liittyvät riskit. Kliinisen lääketutkimuksen kontekstissa käytettävien myyntiluvallisten tutkimusvalmisteiden riskit voivat poiketa potilaiden tavanomaisesta hoidosta, ja ne tulee ottaa huomioon.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-005",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "7.3",
-    "source_text_fi": "Kriittisiin laatutekijöihin kohdistuvia riskejä tulee hallita ennakoivasti ja päivittää, jos uusia tai ennakoimattomia ongelmia ilmenee tutkimuksen käynnistyttyä.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Kriittisiin laatutekijöihin kohdistuvia riskejä tulee hallita ennakoivasti ja päivittää, jos uusia tai ennakoimattomia ongelmia ilmenee tutkimuksen käynnistyttyä.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-006",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "7.4",
-    "source_text_fi": "Tutkimusprosessien tulee olla toiminnallisesti toteuttamiskelpoisia. Niissä tulee välttää tarpeetonta monimutkaisuutta sekä tarpeettomia menettelyjä ja tiedonkeruuta. Tutkimusprosessien tulee tukea keskeisiä tutkimustavoitteita. Toimeksiantajan ei tule aiheuttaa tarpeetonta rasitetta tutkimukseen osallistujille eikä tutkijoille. 8. Kliiniset lääketutkimukset tulee kuvata selkeässä, tiiviissä, tieteellisesti perustellussa ja toiminnallisesti toteuttamiskelpoisessa tutkimussuunnitelmassa.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Tutkimusprosessien tulee olla toiminnallisesti toteuttamiskelpoisia. Niissä tulee välttää tarpeetonta monimutkaisuutta sekä tarpeettomia menettelyjä ja tiedonkeruuta. Tutkimusprosessien tulee tukea keskeisiä tutkimustavoitteita. Toimeksiantajan ei tule aiheuttaa tarpeetonta rasitetta tutkimukseen osallistujille eikä tutkijoille. 8. Kliiniset lääketutkimukset tulee kuvata selkeässä, tiiviissä, tieteellisesti perustellussa ja toiminnallisesti toteuttamiskelpoisessa tutkimussuunnitelmassa.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-007",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "8.2",
-    "source_text_fi": "Jokaisen tutkimuksen tieteelliset tavoitteet tulee ilmaista tutkimussuunnitelmassa selkeästi ja yksiselitteisesti.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Jokaisen tutkimuksen tieteelliset tavoitteet tulee ilmaista tutkimussuunnitelmassa selkeästi ja yksiselitteisesti.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "GCP-005",
-    "responsible_actor": [
-      "monitoroija"
-    ],
-    "supporting_actors": [],
-    "source_section": "8.3",
-    "source_text_fi": "Kliinisen lääketutkimuksen [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] sekä tutkimussuunnitelman toteuttamista koskevien suunnitelmien tai asiakirjojen (esim. tilastollinen analyysisuunnitelma, tiedonhallintasuunnitelma, [[sanasto/monitorointisuunnitelma|monitorointisuunnitelma]]) tulee olla selkeitä, tiiviitä ja toiminnallisesti toteuttamiskelpoisia. 9. Kliinisten lääketutkimusten tulee tuottaa luotettavia tuloksia.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Kliinisen lääketutkimuksen [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] sekä tutkimussuunnitelman toteuttamista koskevien suunnitelmien tai asiakirjojen (esim. tilastollinen analyysisuunnitelma, tiedonhallintasuunnitelma, [[sanasto/monitorointisuunnitelma|monitorointisuunnitelma]]) tulee olla selkeitä, tiiviitä ja toiminnallisesti toteuttamiskelpoisia. 9. Kliinisten lääketutkimusten tulee tuottaa luotettavia tuloksia.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "monitorointisuunnitelma",
-      "monitorointiraportti"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-008",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "9.1",
-    "source_text_fi": "Kliinisessä lääketutkimuksessa tuotettujen tietojen laadun ja määrän tulee olla tarkoitukseen sopivia ja riittäviä, jotta tutkimuksen tuloksiin voidaan luottaa ja jotta ne tukevat hyvää päätöksentekoa.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Kliinisessä lääketutkimuksessa tuotettujen tietojen laadun ja määrän tulee olla tarkoitukseen sopivia ja riittäviä, jotta tutkimuksen tuloksiin voidaan luottaa ja jotta ne tukevat hyvää päätöksentekoa.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-009",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "9.2",
-    "source_text_fi": "Sellaisten järjestelmien ja prosessien, jotka auttavat keräämään, hallinnoimaan ja analysoimaan tietoja ja varmistamaan tutkimuksesta saadun tiedon laadun, tulee olla tarkoitukseen sopivia ja kerätä tutkimussuunnitelman edellyttämät tiedot. Lisäksi ne tulee toteuttaa tavalla, joka on oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja hankittujen tietojen tärkeyteen.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Sellaisten järjestelmien ja prosessien, jotka auttavat keräämään, hallinnoimaan ja analysoimaan tietoja ja varmistamaan tutkimuksesta saadun tiedon laadun, tulee olla tarkoitukseen sopivia ja kerätä tutkimussuunnitelman edellyttämät tiedot. Lisäksi ne tulee toteuttaa tavalla, joka on oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja hankittujen tietojen tärkeyteen.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-010",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "9.3",
-    "source_text_fi": "Kliinisissä lääketutkimuksissa käytettävien tietokoneistettujen järjestelmien tulee olla tarkoitukseen sopivia (esim. validoitu tarvittaessa riskiperusteisesti), ja niiden laadun kannalta kriittiset tekijät tulee huomioida suunnittelussa tai mukauttamisessa kliinisiin lääketutkimuksiin, jotta asiaankuuluvien tutkimustietojen eheys voidaan varmistaa.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Kliinisissä lääketutkimuksissa käytettävien tietokoneistettujen järjestelmien tulee olla tarkoitukseen sopivia (esim. validoitu tarvittaessa riskiperusteisesti), ja niiden laadun kannalta kriittiset tekijät tulee huomioida suunnittelussa tai mukauttamisessa kliinisiin lääketutkimuksiin, jotta asiaankuuluvien tutkimustietojen eheys voidaan varmistaa.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-011",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "9.4",
-    "source_text_fi": "Kliinisiin lääketutkimuksiin tulee sisällyttää tehokkaita ja luotettavia prosesseja tallenteiden (ja tietojen) hallintaa varten, jotta voidaan varmistaa, että tallenteiden eheys ja jäljitettävyys säilytetään ja että henkilötiedot pysyvät suojattuina. Näin varmistetaan kliinisen lääketutkimuksen tietojen tarkka raportointi, tulkinta ja varmentaminen.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Kliinisiin lääketutkimuksiin tulee sisällyttää tehokkaita ja luotettavia prosesseja tallenteiden (ja tietojen) hallintaa varten, jotta voidaan varmistaa, että tallenteiden eheys ja jäljitettävyys säilytetään ja että henkilötiedot pysyvät suojattuina. Näin varmistetaan kliinisen lääketutkimuksen tietojen tarkka raportointi, tulkinta ja varmentaminen.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "GCP-006",
-    "responsible_actor": [
-      "monitoroija"
-    ],
-    "supporting_actors": [],
-    "source_section": "9.5",
-    "source_text_fi": "Toimeksiantajien ja tutkijoiden tulee säilyttää [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] turvallisesti lainsäädännön vaatimusten mukaisen ajan. Oleellisten tallenteiden tulee olla pyynnöstä valvontaviranomaisten, monitoroijien, auditoijien ja tarvittaessa myös eettisen toimikunnan käytettävissä, jotta tutkimuksen toteuttaminen voidaan arvioida asianmukaisesti tutkimustulosten luotettavuuden varmistamiseksi.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Toimeksiantajien ja tutkijoiden tulee säilyttää [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] turvallisesti lainsäädännön vaatimusten mukaisen ajan. Oleellisten tallenteiden tulee olla pyynnöstä valvontaviranomaisten, monitoroijien, auditoijien ja tarvittaessa myös eettisen toimikunnan käytettävissä, jotta tutkimuksen toteuttaminen voidaan arvioida asianmukaisesti tutkimustulosten luotettavuuden varmistamiseksi.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "monitorointisuunnitelma",
-      "monitorointiraportti",
-      "turvallisuusraportti",
-      "raportoinnin jäljitettävyystieto"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-012",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "9.6",
-    "source_text_fi": "Kliinisten lääketutkimusten läpinäkyvyyteen kuuluu sekä oikea-aikainen rekisteröinti julkisesti saatavilla oleviin ja tunnustettuihin tietokantoihin että kliinisten lääketutkimusten tulosten julkaiseminen. Tutkimustulosten ilmoittamista tutkimukseen osallistujille tulee harkita. Tällaisen viestinnän tulee olla objektiivista eikä sillä saa pyrkiä myynninedistämiseen. 10. Kliinisten lääketutkimusten tehtävien ja vastuiden tulee olla selkeitä ja asianmukaisesti dokumentoituja.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Kliinisten lääketutkimusten läpinäkyvyyteen kuuluu sekä oikea-aikainen rekisteröinti julkisesti saatavilla oleviin ja tunnustettuihin tietokantoihin että kliinisten lääketutkimusten tulosten julkaiseminen. Tutkimustulosten ilmoittamista tutkimukseen osallistujille tulee harkita. Tällaisen viestinnän tulee olla objektiivista eikä sillä saa pyrkiä myynninedistämiseen. 10. Kliinisten lääketutkimusten tehtävien ja vastuiden tulee olla selkeitä ja asianmukaisesti dokumentoituja.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-002",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
-    "source_section": "10.1",
-    "source_text_fi": "[[sanasto/toimeksiantaja|Toimeksiantaja]] voi siirtää tai [[sanasto/tutkija|tutkija]] voi delegoida tehtäviään, velvollisuuksiaan tai toimintojaan (jäljempänä toimet), mutta kumpikin säilyttää kokonaisvastuun omista toimistaan.",
-    "source_text_en": null,
-    "modality_fi": "voi",
-    "modality_en": null,
-    "normalized_action_fi": "[[sanasto/toimeksiantaja|Toimeksiantaja]] voi siirtää tai [[sanasto/tutkija|tutkija]] voi delegoida tehtäviään, velvollisuuksiaan tai toimintojaan (jäljempänä toimet), mutta kumpikin säilyttää kokonaisvastuun omista toimistaan.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "GCP-007",
-    "responsible_actor": [
-      "palveluntarjoaja"
-    ],
-    "supporting_actors": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "source_section": "10.2",
-    "source_text_fi": "Sopimuksissa tulee määritellä selkeästi kliinisen lääketutkimuksen roolit, toiminnot ja vastuut, ja ne tulee dokumentoida asianmukaisesti. Jos toimintaa on siirretty tai delegoitu palveluntarjoajille, vastuu tutkimuksen toteuttamisesta, mukaan lukien tutkimustietojen laadusta ja eheydestä, säilyy omalta osaltaan toimeksiantajalla tai tutkijalla.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Sopimuksissa tulee määritellä selkeästi kliinisen lääketutkimuksen roolit, toiminnot ja vastuut, ja ne tulee dokumentoida asianmukaisesti. Jos toimintaa on siirretty tai delegoitu palveluntarjoajille, vastuu tutkimuksen toteuttamisesta, mukaan lukien tutkimustietojen laadusta ja eheydestä, säilyy omalta osaltaan toimeksiantajalla tai tutkijalla.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-003",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
-    "source_section": "10.3",
-    "source_text_fi": "Toimeksiantajan tai tutkijan tulee valvoa edellä mainittua toimintaa asianmukaisesti. 11. Kliinisessä lääketutkimuksessa käytettävät tutkimusvalmisteet tulee valmistaa sovellettavien hyvien tuotantotapojen (GMP) standardien mukaisesti, ja niitä tulee hallinnoida valmisteyhteenvedon ja tutkimussuunnitelman mukaisesti.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Toimeksiantajan tai tutkijan tulee valvoa edellä mainittua toimintaa asianmukaisesti. 11. Kliinisessä lääketutkimuksessa käytettävät tutkimusvalmisteet tulee valmistaa sovellettavien hyvien tuotantotapojen (GMP) standardien mukaisesti, ja niitä tulee hallinnoida valmisteyhteenvedon ja tutkimussuunnitelman mukaisesti.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-004",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
-    "source_section": "11.1",
-    "source_text_fi": "Kliinisessä lääketutkimuksessa käytettävät tutkimusvalmisteet tulee valmistaa sovellettavien hyvien tuotantotapojen (GMP) standardien mukaisesti.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Kliinisessä lääketutkimuksessa käytettävät tutkimusvalmisteet tulee valmistaa sovellettavien hyvien tuotantotapojen (GMP) standardien mukaisesti.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-005",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
-    "source_section": "11.2",
-    "source_text_fi": "Käytössä tulee olla toimenpiteitä sen varmistamiseksi, että tutkimukseen osallistujille annettava [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] säilyttää laatunsa.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Käytössä tulee olla toimenpiteitä sen varmistamiseksi, että tutkimukseen osallistujille annettava [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] säilyttää laatunsa.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-006",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
-    "source_section": "11.3",
-    "source_text_fi": "Tutkimusvalmisteita tulee käyttää tutkimussuunnitelman ja asiaankuuluvien tutkimusasiakirjojen mukaisesti.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Tutkimusvalmisteita tulee käyttää tutkimussuunnitelman ja asiaankuuluvien tutkimusasiakirjojen mukaisesti.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-007",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
-    "source_section": "11.4",
-    "source_text_fi": "Tutkimusvalmisteiden valmistus, käsittely ja merkinnät tulee toteuttaa tavoilla, jotka noudattavat hoitoryhmiin jakoa ja jotka ylläpitävät sokkoutusta tarvittaessa.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Tutkimusvalmisteiden valmistus, käsittely ja merkinnät tulee toteuttaa tavoilla, jotka noudattavat hoitoryhmiin jakoa ja jotka ylläpitävät sokkoutusta tarvittaessa.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-008",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
-    "source_section": "11.5",
-    "source_text_fi": "Tutkimusvalmisteiden pakkausmerkintöjen tulee olla lainsäädännön vaatimusten mukaisia.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Tutkimusvalmisteiden pakkausmerkintöjen tulee olla lainsäädännön vaatimusten mukaisia.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-009",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
-    "source_section": "11.6",
-    "source_text_fi": "Tutkimusvalmisteiden käsittelyä, kuljetusta, varastointia, jakelua, palauttamista ja tuhoamista tai vaihtoehtoisesti muuta käytöstä poistamista varten tulee ottaa käyttöön asianmukaiset prosessit. III. Liite 1",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Tutkimusvalmisteiden käsittelyä, kuljetusta, varastointia, jakelua, palauttamista ja tuhoamista tai vaihtoehtoisesti muuta käytöstä poistamista varten tulee ottaa käyttöön asianmukaiset prosessit. III. Liite 1",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-010",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
     "source_section": "1.2.1",
     "source_text_fi": "Eettisen toimikunnan tarkoituksena on kaikkien tutkimukseen osallistujien oikeuksien, turvallisuuden ja hyvinvoinnin turvaaminen. Asianmukaista huomiota tulee kiinnittää erityisesti sellaisiin tutkimuksiin, joihin aiotaan rekrytoida haavoittuvassa asemassa olevia osallistujia.",
     "source_text_en": "The purpose of an IRB/IEC is to safeguard the rights, safety and well-being of all trial participants. Appropriate consideration should be given to trials that intend to recruit vulnerable participants.",
@@ -783,7 +27,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-011",
+    "obligation_id": "IEC-002",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -815,7 +59,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-012",
+    "obligation_id": "IEC-003",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -839,7 +83,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-013",
+    "obligation_id": "IEC-004",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -863,21 +107,23 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-014",
+    "obligation_id": "IEC-005",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
     "supporting_actors": [],
     "source_section": "1.2.5",
-    "source_text_fi": "Eettinen toimikunta voi vaatia annettavaksi enemmän tietoja kuin kappaleessa",
+    "source_text_fi": "Eettinen toimikunta voi vaatia annettavaksi enemmän tietoja kuin kappaleessa 2.8.11 tutkimukseen osallistujille edellytetään annettavan, mikäli se katsoo, että lisätietojen antamisella turvattaisiin huomattavasti paremmin tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.",
     "source_text_en": "The IRB/IEC may request more information than is outlined in section 2.8.11 be given to participants when, in the judgement of the IRB/IEC, the additional information would add meaningfully to the protection of the rights, safety and/or well-being of the participants.",
     "modality_fi": "voi",
     "modality_en": "may",
-    "normalized_action_fi": "Eettinen toimikunta voi vaatia annettavaksi enemmän tietoja kuin kappaleessa",
+    "normalized_action_fi": "Eettinen toimikunta voi vaatia annettavaksi enemmän tietoja kuin kappaleessa 2.8.11 tutkimukseen osallistujille edellytetään annettavan, mikäli se katsoo, että lisätietojen antamisella turvattaisiin huomattavasti paremmin tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.",
     "condition_fi": null,
     "trigger_fi": null,
     "timing_fi": null,
     "example_evidence": [
+      "turvallisuusraportti",
+      "raportoinnin jäljitettävyystieto",
       "tarkastusloki",
       "järjestelmän validointitallenne"
     ],
@@ -890,7 +136,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-015",
+    "obligation_id": "IEC-006",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -918,7 +164,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-016",
+    "obligation_id": "IEC-007",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -946,7 +192,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-017",
+    "obligation_id": "IEC-008",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -970,7 +216,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-018",
+    "obligation_id": "IEC-009",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -1000,7 +246,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-019",
+    "obligation_id": "IEC-010",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -1024,7 +270,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-020",
+    "obligation_id": "IEC-011",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -1048,7 +294,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-021",
+    "obligation_id": "IEC-012",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -1072,7 +318,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-022",
+    "obligation_id": "IEC-013",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -1096,7 +342,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-023",
+    "obligation_id": "IEC-014",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
@@ -1120,40 +366,16 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-024",
-    "responsible_actor": [
-      "riippumaton-eettinen-toimikunta"
-    ],
-    "supporting_actors": [],
-    "source_section": "1.4",
-    "source_text_fi": "Toimintatavat Eettisen toimikunnan tulee laatia ja dokumentoida toimintaohjeet, joita se noudattaa. Niistä tulee käydä ilmi ainakin seuraavat seikat:",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Toimintatavat Eettisen toimikunnan tulee laatia ja dokumentoida toimintaohjeet, joita se noudattaa. Niistä tulee käydä ilmi ainakin seuraavat seikat:",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": true,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "IEC-025",
+    "obligation_id": "IEC-015",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
     "supporting_actors": [],
     "source_section": "1.4.7",
     "source_text_fi": "nimenomainen maininta siitä, että tutkimussuunnitelmasta ei tule poiketa eikä siihen tulee tehdä muutoksia ennen kuin eettinen toimikunta on kirjallisesti hyväksynyt muutoksen / antanut siitä puoltavan lausunnon, lukuun ottamatta tilanteita, joissa se on välttämätöntä tutkimuksen osallistujiin kohdistuvan välittömän vaaran välttämiseksi tai, lainsäädännön vaatimusten mukaan, muutoksessa on kyse ainoastaan tutkimuksen logististen tai hallinnollisten seikkojen muuttamisesta",
-    "source_text_en": null,
+    "source_text_en": "Specifying that no deviations from or changes to the protocol should be initiated without prior documented IRB/IEC approval/favourable opinion of an appropriate protocol amendment except when necessary to eliminate immediate hazards to the participants or, in accordance with applicable regulatory requirements, when the change(s) involves only logistical or administrative aspects of the trial;",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "nimenomainen maininta siitä, että tutkimussuunnitelmasta ei tule poiketa eikä siihen tulee tehdä muutoksia ennen kuin eettinen toimikunta on kirjallisesti hyväksynyt muutoksen / antanut siitä puoltavan lausunnon, lukuun ottamatta tilanteita, joissa se on välttämätöntä tutkimuksen osallistujiin kohdistuvan välittömän vaaran välttämiseksi tai, lainsäädännön vaatimusten mukaan, muutoksessa on kyse ainoastaan tutkimuksen logististen tai hallinnollisten seikkojen muuttamisesta",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1161,23 +383,23 @@
     "example_evidence": [],
     "evidence_status": "illustrative_not_source_requirement",
     "compound_clause": false,
-    "confidence": 0.76,
+    "confidence": 0.92,
     "classification": "derived",
     "authoritative": false,
     "derivation_method": "rule_based_modality_extraction",
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-026",
+    "obligation_id": "IEC-016",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
     "supporting_actors": [],
     "source_section": "1.4.8",
     "source_text_fi": "nimenomainen maininta siitä, että tutkijan/tutkimuslaitoksen tulee viipymättä raportoida eettiselle toimikunnalle (katso kappale 1.1): - (a) tutkimussuunnitelmasta poikkeamisesta, jonka tarkoitus on estää välittömän vaaran aiheuttaminen tutkimukseen osallistujille (katso kappaleet 1.4.7, 2.5.4 ja 2.5.5); - (b) muutoksista, jotka lisäävät tutkimukseen osallistujiin kohdistuvaa riskiä ja/tai vaikuttavat merkittävästi tutkimuksen toteuttamiseen (katso kappale 2.4.6); - (c) kaikki epäillyt odottamattomat vakavat haittavaikutukset lainsäädännön vaatimusten mukaisesti; - (d) uusista tiedoista, joilla voi olla haitallinen vaikutus tutkimukseen osallistujien turvallisuuteen tai tutkimuksen toteuttamiseen.",
-    "source_text_en": null,
+    "source_text_en": "Specifying that the investigator/institution should promptly report to the IRB/IEC (see section 1.1): - (a) Deviations from the protocol to eliminate immediate hazards to the trial participants (see sections 1.4.7, 2.5.4 and 2.5.5); - (b) Changes increasing the risk to participants and/or significantly affecting the conduct of the trial (see section 2.4.6); - (c) All suspected unexpected serious adverse reactions (SUSARs) in accordance with applicable regulatory requirements; - (d) New information that may adversely affect the safety of the participants or the conduct of the trial.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "nimenomainen maininta siitä, että tutkijan/tutkimuslaitoksen tulee viipymättä raportoida eettiselle toimikunnalle (katso kappale 1.1): - (a) tutkimussuunnitelmasta poikkeamisesta, jonka tarkoitus on estää välittömän vaaran aiheuttaminen tutkimukseen osallistujille (katso kappaleet 1.4.7, 2.5.4 ja 2.5.5); - (b) muutoksista, jotka lisäävät tutkimukseen osallistujiin kohdistuvaa riskiä ja/tai vaikuttavat merkittävästi tutkimuksen toteuttamiseen (katso kappale 2.4.6); - (c) kaikki epäillyt odottamattomat vakavat haittavaikutukset lainsäädännön vaatimusten mukaisesti; - (d) uusista tiedoista, joilla voi olla haitallinen vaikutus tutkimukseen osallistujien turvallisuuteen tai tutkimuksen toteuttamiseen.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1195,16 +417,16 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "IEC-027",
+    "obligation_id": "IEC-017",
     "responsible_actor": [
       "riippumaton-eettinen-toimikunta"
     ],
     "supporting_actors": [],
     "source_section": "1.5.1",
     "source_text_fi": "Eettisen toimikunnan tulee säilyttää kaikki asiaankuuluvat tallenteet (mm. kirjalliset toimintaohjeet, jäsenluettelot, luettelot jäsenten ammateista/sidonnaisuuksista, esitetyt asiakirjat, kokousten pöytäkirjat ja kirjeenvaihto) lainsäädännön vaatimusten mukaisesti ja esittää ne pyynnöstä valvontaviranomaisille.",
-    "source_text_en": null,
+    "source_text_en": "The IRB/IEC should retain all relevant records (e.g., documented procedures, membership lists, lists of occupations/affiliations of members, submitted documents, minutes of meetings and correspondence) in accordance with applicable regulatory requirements and make them available upon request from the regulatory authority(ies).",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Eettisen toimikunnan tulee säilyttää kaikki asiaankuuluvat tallenteet (mm. kirjalliset toimintaohjeet, jäsenluettelot, luettelot jäsenten ammateista/sidonnaisuuksista, esitetyt asiakirjat, kokousten pöytäkirjat ja kirjeenvaihto) lainsäädännön vaatimusten mukaisesti ja esittää ne pyynnöstä valvontaviranomaisille.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1212,14 +434,14 @@
     "example_evidence": [],
     "evidence_status": "illustrative_not_source_requirement",
     "compound_clause": false,
-    "confidence": 0.76,
+    "confidence": 0.92,
     "classification": "derived",
     "authoritative": false,
     "derivation_method": "rule_based_modality_extraction",
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-002",
+    "obligation_id": "INV-001",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1228,9 +450,9 @@
     ],
     "source_section": "2.1.1",
     "source_text_fi": "Tutkijalla tulee olla tutkinto-, koulutus- ja kokemustaustan tuoma pätevyys, jotta hän voi ottaa vastuun tutkimuksen asianmukaisesta toteutuksesta, ja hänen tulee osoittaa pätevyytensä.",
-    "source_text_en": null,
+    "source_text_en": "The investigator(s) should be qualified by education, training and experience to assume responsibility for the proper conduct of the trial and should provide evidence of such qualifications.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Tutkijalla tulee olla tutkinto-, koulutus- ja kokemustaustan tuoma pätevyys, jotta hän voi ottaa vastuun tutkimuksen asianmukaisesta toteutuksesta, ja hänen tulee osoittaa pätevyytensä.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1245,7 +467,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-003",
+    "obligation_id": "INV-002",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1254,9 +476,9 @@
     ],
     "source_section": "2.1.2",
     "source_text_fi": "Tutkijan tulee tuntea tutkimusvalmisteen tarkoituksenmukainen käyttö siten kuin tutkimussuunnitelmassa, voimassa olevassa tutkijan tietopaketissa, valmisteyhteenvedossa ja/tai muissa toimeksiantajan toimittamissa tietolähteissä selostetaan.",
-    "source_text_en": null,
+    "source_text_en": "The investigator should be familiar with the appropriate use of the investigational product(s) as described in the protocol, in the current Investigator’s Brochure, in the product information and/or in other information sources provided by the sponsor.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Tutkijan tulee tuntea tutkimusvalmisteen tarkoituksenmukainen käyttö siten kuin tutkimussuunnitelmassa, voimassa olevassa tutkijan tietopaketissa, valmisteyhteenvedossa ja/tai muissa toimeksiantajan toimittamissa tietolähteissä selostetaan.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1267,7 +489,36 @@
     ],
     "evidence_status": "illustrative_not_source_requirement",
     "compound_clause": false,
-    "confidence": 0.76,
+    "confidence": 0.92,
+    "classification": "derived",
+    "authoritative": false,
+    "derivation_method": "rule_based_modality_extraction",
+    "review_status": "pending"
+  },
+  {
+    "obligation_id": "INV-003",
+    "responsible_actor": [
+      "tutkija"
+    ],
+    "supporting_actors": [
+      "tutkimuspaikan-henkilosto"
+    ],
+    "source_section": "2.2.1",
+    "source_text_fi": "Tutkijan tulee pystyä osoittamaan (esim. aikaisempien tai tällä hetkellä saatavilla olevien tietojen perusteella), että hänellä on mahdollisuus rekrytoida ehdotettu määrä tutkimukseen soveltuvia osallistujia toimeksiantajan kanssa sovitun rekrytointiajan kuluessa.",
+    "source_text_en": "The investigator should be able to demonstrate (e.g., based on retrospective or currently available data) a potential for recruiting the proposed number of eligible participants within the recruitment period as agreed with the sponsor.",
+    "modality_fi": "tulee",
+    "modality_en": "should",
+    "normalized_action_fi": "Tutkijan tulee pystyä osoittamaan (esim. aikaisempien tai tällä hetkellä saatavilla olevien tietojen perusteella), että hänellä on mahdollisuus rekrytoida ehdotettu määrä tutkimukseen soveltuvia osallistujia toimeksiantajan kanssa sovitun rekrytointiajan kuluessa.",
+    "condition_fi": null,
+    "trigger_fi": null,
+    "timing_fi": null,
+    "example_evidence": [
+      "tarkastusloki",
+      "järjestelmän validointitallenne"
+    ],
+    "evidence_status": "illustrative_not_source_requirement",
+    "compound_clause": false,
+    "confidence": 0.92,
     "classification": "derived",
     "authoritative": false,
     "derivation_method": "rule_based_modality_extraction",
@@ -1281,40 +532,11 @@
     "supporting_actors": [
       "tutkimuspaikan-henkilosto"
     ],
-    "source_section": "2.2.1",
-    "source_text_fi": "Tutkijan tulee pystyä osoittamaan (esim. aikaisempien tai tällä hetkellä saatavilla olevien tietojen perusteella), että hänellä on mahdollisuus rekrytoida ehdotettu määrä tutkimukseen soveltuvia osallistujia toimeksiantajan kanssa sovitun rekrytointiajan kuluessa.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Tutkijan tulee pystyä osoittamaan (esim. aikaisempien tai tällä hetkellä saatavilla olevien tietojen perusteella), että hänellä on mahdollisuus rekrytoida ehdotettu määrä tutkimukseen soveltuvia osallistujia toimeksiantajan kanssa sovitun rekrytointiajan kuluessa.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "INV-005",
-    "responsible_actor": [
-      "tutkija"
-    ],
-    "supporting_actors": [
-      "tutkimuspaikan-henkilosto"
-    ],
     "source_section": "2.2.2",
     "source_text_fi": "Tutkijalla tulee olla riittävästi aikaa, ja hänellä tulee olla käytettävissään riittävä määrä pätevää henkilöstöä ja asianmukaiset tilat koko ennakoiduksi tutkimusajaksi, jotta hän pystyy toteuttamaan tutkimuksen asianmukaisesti ja turvallisesti.",
-    "source_text_en": null,
+    "source_text_en": "The investigator should have sufficient time, an adequate number of available and qualified staff, and adequate facilities for the foreseen duration of the trial to conduct the trial properly and safely.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Tutkijalla tulee olla riittävästi aikaa, ja hänellä tulee olla käytettävissään riittävä määrä pätevää henkilöstöä ja asianmukaiset tilat koko ennakoiduksi tutkimusajaksi, jotta hän pystyy toteuttamaan tutkimuksen asianmukaisesti ja turvallisesti.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1332,7 +554,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-008",
+    "obligation_id": "GCP-001",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -1342,9 +564,9 @@
     ],
     "source_section": "2.3.1",
     "source_text_fi": "[[sanasto/tutkija|Tutkija]] voi delegoida tutkimukseen liittyviä toimia muille henkilöille tai tahoille. [[sanasto/toimeksiantaja|Toimeksiantaja]] voi tukea tutkijaa sopivan palveluntarjoajan tunnistamisessa, mutta tutkijalla on kuitenkin lopullinen päätösvalta siitä, onko tutkijan tueksi tarkoitettu [[sanasto/palveluntarjoaja|palveluntarjoaja]] tarkoituksenmukainen toimeksiantajan tarjoaman tiedon perusteella (katso kappale 3.6.5). Tutkijalla säilyy kokonaisvastuu, ja hänen on valvottava asianmukaisesti henkilöitä tai tahoja, joille toimia on delegoitu, jotta tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi sekä tietojen luotettavuus voidaan taata. Tutkijan delegoituihin toimiin kohdistuvan valvonnan tason tulee perustua delegoitujen toimien luonteeseen ja olla oikeassa suhteessa kerättävien tietojen tärkeyteen sekä tutkimukseen osallistujien turvallisuuteen ja tietojen luotettavuuteen kohdistuviin riskeihin.",
-    "source_text_en": null,
+    "source_text_en": "The investigator may delegate trial-related activities to other persons or parties. The investigator may be supported by the sponsor in the identification of a suitable service provider(s); however, the investigator retains the final decision on whether the service provider intended to support the investigator is appropriate based on information provided by the sponsor (see section 3.6.5). The investigator retains the ultimate responsibility and should maintain appropriate oversight of the persons or parties undertaking the activities delegated to ensure the rights, safety and well-being of the trial participants and the reliability of data. The level of investigator oversight of the delegated activities should depend on the nature of the delegated activities and be proportionate to the importance of the data being collected and the risks to trial participant safety and data reliability.",
     "modality_fi": "voi",
-    "modality_en": null,
+    "modality_en": "may",
     "normalized_action_fi": "[[sanasto/tutkija|Tutkija]] voi delegoida tutkimukseen liittyviä toimia muille henkilöille tai tahoille. [[sanasto/toimeksiantaja|Toimeksiantaja]] voi tukea tutkijaa sopivan palveluntarjoajan tunnistamisessa, mutta tutkijalla on kuitenkin lopullinen päätösvalta siitä, onko tutkijan tueksi tarkoitettu [[sanasto/palveluntarjoaja|palveluntarjoaja]] tarkoituksenmukainen toimeksiantajan tarjoaman tiedon perusteella (katso kappale 3.6.5). Tutkijalla säilyy kokonaisvastuu, ja hänen on valvottava asianmukaisesti henkilöitä tai tahoja, joille toimia on delegoitu, jotta tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi sekä tietojen luotettavuus voidaan taata. Tutkijan delegoituihin toimiin kohdistuvan valvonnan tason tulee perustua delegoitujen toimien luonteeseen ja olla oikeassa suhteessa kerättävien tietojen tärkeyteen sekä tutkimukseen osallistujien turvallisuuteen ja tietojen luotettavuuteen kohdistuviin riskeihin.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1364,7 +586,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-006",
+    "obligation_id": "INV-005",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1373,9 +595,9 @@
     ],
     "source_section": "2.3.2",
     "source_text_fi": "Tutkijan tulee varmistaa, että henkilöt tai tahot, joille [[sanasto/tutkija|tutkija]] on delegoinut tutkimukseen liittyviä toimia, ovat asianmukaisesti päteviä ja että heidät on perehdytetty riittävästi tutkimussuunnitelmaan, tutkimusvalmisteeseen ja heille osoitettuihin tutkimustehtäviin liittyviin asioihin (mukaan lukien muiden osapuolten tarjoaman henkilöstön toteuttamat toimet paikallisten lainsäädännön vaatimusten mukaisesti). Tutkimusta avustaville henkilöille annettavan tutkimuskohtaisen koulutuksen tulee vastata sitä, mikä on tarpeen, jotta he pystyvät asianmukaisesti suorittamaan delegoidut tutkimukseen liittyvät toimensa siltä osin kuin ne ylittävät heidän tavanomaisen koulutuksensa ja kokemuksensa.",
-    "source_text_en": null,
+    "source_text_en": "The investigator should ensure that persons or parties to whom the investigator has delegated trial-related activities are appropriately qualified and are adequately informed about relevant aspects of the protocol, the investigational product(s) and their assigned trial activities (including activities conducted by staff provided by other parties in accordance with local regulatory requirements). Trial-related training to persons assisting in the trial should correspond to what is necessary to enable them to fulfil their delegated trial activities that go beyond their usual training and experience.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Tutkijan tulee varmistaa, että henkilöt tai tahot, joille [[sanasto/tutkija|tutkija]] on delegoinut tutkimukseen liittyviä toimia, ovat asianmukaisesti päteviä ja että heidät on perehdytetty riittävästi tutkimussuunnitelmaan, tutkimusvalmisteeseen ja heille osoitettuihin tutkimustehtäviin liittyviin asioihin (mukaan lukien muiden osapuolten tarjoaman henkilöstön toteuttamat toimet paikallisten lainsäädännön vaatimusten mukaisesti). Tutkimusta avustaville henkilöille annettavan tutkimuskohtaisen koulutuksen tulee vastata sitä, mikä on tarpeen, jotta he pystyvät asianmukaisesti suorittamaan delegoidut tutkimukseen liittyvät toimensa siltä osin kuin ne ylittävät heidän tavanomaisen koulutuksensa ja kokemuksensa.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1390,7 +612,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-007",
+    "obligation_id": "INV-006",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1399,9 +621,9 @@
     ],
     "source_section": "2.3.3",
     "source_text_fi": "Tutkijan tulee varmistaa, että henkilöistä ja tahoista, joille [[sanasto/tutkija|tutkija]] on delegoinut tutkimukseen liittyviä toimia, pidetään kirjaa. Delegoinnin dokumentoinnin tulee olla oikeassa suhteessa tutkimukseen liittyvien toimien merkittävyyteen. Tilanteissa, joissa toimia suoritetaan osana kliinistä käytäntöä, delegointidokumentaatiota ei välttämättä vaadita.",
-    "source_text_en": null,
+    "source_text_en": "The investigator should ensure a record is maintained of the persons and parties to whom the investigator has delegated trial-related activities. Documentation of delegation should be proportionate to the significance of the trial-related activities. In situations where the activities are performed as part of clinical practice, delegation documentation may not be required.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Tutkijan tulee varmistaa, että henkilöistä ja tahoista, joille [[sanasto/tutkija|tutkija]] on delegoinut tutkimukseen liittyviä toimia, pidetään kirjaa. Delegoinnin dokumentoinnin tulee olla oikeassa suhteessa tutkimukseen liittyvien toimien merkittävyyteen. Tilanteissa, joissa toimia suoritetaan osana kliinistä käytäntöä, delegointidokumentaatiota ei välttämättä vaadita.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1416,7 +638,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-009",
+    "obligation_id": "GCP-002",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -1426,9 +648,9 @@
     ],
     "source_section": "2.3.4",
     "source_text_fi": "Tutkijan/tutkimuslaitoksen palveluntarjoajien kanssa tekemät sopimukset tutkimukseen liittyvistä toimista tulee dokumentoida.",
-    "source_text_en": null,
+    "source_text_en": "Agreements made by the investigator/institution with service providers for trial-related activities should be documented.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Tutkijan/tutkimuslaitoksen palveluntarjoajien kanssa tekemät sopimukset tutkimukseen liittyvistä toimista tulee dokumentoida.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1436,14 +658,14 @@
     "example_evidence": [],
     "evidence_status": "illustrative_not_source_requirement",
     "compound_clause": false,
-    "confidence": 0.76,
+    "confidence": 0.92,
     "classification": "derived",
     "authoritative": false,
     "derivation_method": "rule_based_modality_extraction",
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-010",
+    "obligation_id": "GCP-003",
     "responsible_actor": [
       "monitoroija"
     ],
@@ -1453,9 +675,9 @@
     ],
     "source_section": "2.3.5",
     "source_text_fi": "Tutkijan/tutkimuslaitoksen tulee sallia toimeksiantajan [[sanasto/monitorointi|monitorointi]] ja [[sanasto/auditointi|auditointi]], asianmukaisten valvontaviranomaisten tarkastukset sekä lainsäädännön vaatimusten mukaisesti eettisen toimikunnan arviointi.",
-    "source_text_en": null,
+    "source_text_en": "The investigator/institution should permit monitoring and auditing by the sponsor, inspection by the appropriate regulatory authority(ies) and, in accordance with applicable regulatory requirements, review by IRB/IEC(s).",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Tutkijan/tutkimuslaitoksen tulee sallia toimeksiantajan [[sanasto/monitorointi|monitorointi]] ja [[sanasto/auditointi|auditointi]], asianmukaisten valvontaviranomaisten tarkastukset sekä lainsäädännön vaatimusten mukaisesti eettisen toimikunnan arviointi.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1466,14 +688,14 @@
     ],
     "evidence_status": "illustrative_not_source_requirement",
     "compound_clause": false,
-    "confidence": 0.76,
+    "confidence": 0.92,
     "classification": "derived",
     "authoritative": false,
     "derivation_method": "rule_based_modality_extraction",
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-008",
+    "obligation_id": "INV-007",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1499,7 +721,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-009",
+    "obligation_id": "INV-008",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1531,7 +753,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-010",
+    "obligation_id": "INV-009",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1560,7 +782,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-011",
+    "obligation_id": "INV-010",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1589,7 +811,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-012",
+    "obligation_id": "INV-011",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1615,7 +837,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-013",
+    "obligation_id": "INV-012",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1641,7 +863,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-014",
+    "obligation_id": "INV-013",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1667,7 +889,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-015",
+    "obligation_id": "INV-014",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1693,7 +915,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-016",
+    "obligation_id": "INV-015",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1719,7 +941,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-017",
+    "obligation_id": "INV-016",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1745,7 +967,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-018",
+    "obligation_id": "INV-017",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1771,7 +993,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-019",
+    "obligation_id": "INV-018",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1797,7 +1019,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-020",
+    "obligation_id": "INV-019",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1823,7 +1045,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-021",
+    "obligation_id": "INV-020",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1849,7 +1071,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-022",
+    "obligation_id": "INV-021",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1858,9 +1080,9 @@
     ],
     "source_section": "2.6.4",
     "source_text_fi": "Jos eettinen toimikunta peruuttaa tai epää tutkimusta koskevan hyväksyntänsä / puoltavan lausuntonsa (ks. kappaleet 1.2.3 ja 1.4.9), tutkijan tulee ilmoittaa asiasta tutkimuslaitokselle ja tutkijan/tutkimuslaitoksen tulee ilmoittaa asiasta viipymättä toimeksiantajalle.",
-    "source_text_en": "If the IRB/IEC terminates or suspends its approval/favourable opinion of a trial (see sections",
+    "source_text_en": "If the IRB/IEC terminates or suspends its approval/favourable opinion of a trial (see sections 1.2.3 and 1.4.9), the investigator should inform the institution, where applicable, and the investigator/institution should promptly notify the sponsor.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Jos eettinen toimikunta peruuttaa tai epää tutkimusta koskevan hyväksyntänsä / puoltavan lausuntonsa (ks. kappaleet 1.2.3 ja 1.4.9), tutkijan tulee ilmoittaa asiasta tutkimuslaitokselle ja tutkijan/tutkimuslaitoksen tulee ilmoittaa asiasta viipymättä toimeksiantajalle.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -1875,7 +1097,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-023",
+    "obligation_id": "INV-022",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1907,7 +1129,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-024",
+    "obligation_id": "INV-023",
     "responsible_actor": [
       "tutkija"
     ],
@@ -1941,7 +1163,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-011",
+    "obligation_id": "GCP-004",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -1974,7 +1196,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-025",
+    "obligation_id": "INV-024",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2006,7 +1228,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-026",
+    "obligation_id": "INV-025",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2038,7 +1260,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-027",
+    "obligation_id": "INV-026",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2070,7 +1292,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-028",
+    "obligation_id": "INV-027",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2102,7 +1324,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-029",
+    "obligation_id": "INV-028",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2134,7 +1356,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-012",
+    "obligation_id": "GCP-005",
     "responsible_actor": [
       "monitoroija"
     ],
@@ -2169,7 +1391,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-030",
+    "obligation_id": "INV-029",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2201,7 +1423,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-031",
+    "obligation_id": "INV-030",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2231,7 +1453,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-032",
+    "obligation_id": "INV-031",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2263,7 +1485,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-033",
+    "obligation_id": "INV-032",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2294,7 +1516,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-034",
+    "obligation_id": "INV-033",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2320,7 +1542,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-035",
+    "obligation_id": "INV-034",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2349,7 +1571,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-036",
+    "obligation_id": "INV-035",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2378,7 +1600,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-037",
+    "obligation_id": "INV-036",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2404,7 +1626,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-038",
+    "obligation_id": "INV-037",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2430,7 +1652,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-039",
+    "obligation_id": "INV-038",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2456,7 +1678,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-040",
+    "obligation_id": "INV-039",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2482,7 +1704,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-041",
+    "obligation_id": "INV-040",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2508,7 +1730,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-042",
+    "obligation_id": "INV-041",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2534,7 +1756,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-043",
+    "obligation_id": "INV-042",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2563,7 +1785,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-044",
+    "obligation_id": "INV-043",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2592,7 +1814,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-045",
+    "obligation_id": "INV-044",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2618,7 +1840,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-046",
+    "obligation_id": "INV-045",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2626,38 +1848,11 @@
       "tutkimuspaikan-henkilosto"
     ],
     "source_section": "2.12.3",
-    "source_text_fi": "Toimeksiantajan tulee antaa tutkijalle oikea-aikainen pääsy tietoihin (ks. kappale",
+    "source_text_fi": "Toimeksiantajan tulee antaa tutkijalle oikea-aikainen pääsy tietoihin (ks. kappale 3.16.1 alakohta k). Tutkijan tulee vastata tietojen oikea-aikaisesta tarkastelusta, mukaan lukien ulkoisista lähteistä saatavat asiaankuuluvat tiedot, joilla voi olla vaikutusta esimerkiksi tutkimukseen osallistujien kelpoisuuteen, hoitoon tai turvallisuuteen (esim. keskuslaboratoriosta tulevat tiedot, keskitetysti luetut kuvantamistiedot, muiden laitosten tallenteet ja tarvittaessa potilaan sähköisesti raportoimat tulokset, ePRO). Tutkimussuunnitelmassa voidaan määrittää poikkeuksia pääsyyn esimerkiksi sokkouttamisen suojelemiseksi.",
     "source_text_en": "The investigator should be provided with timely access to data by the sponsor (see section 3.16.1(k)) and be responsible for the timely review of data, including relevant data from external sources that can have an impact on, for example, participant eligibility, treatment or safety (e.g., central laboratory data, centrally read imaging data, other institution’s records and, if appropriate, electronic patient-reported outcome (ePRO) data). The protocol may provide exceptions for access, for instance, to protect blinding.",
     "modality_fi": "tulee",
     "modality_en": "should",
-    "normalized_action_fi": "Toimeksiantajan tulee antaa tutkijalle oikea-aikainen pääsy tietoihin (ks. kappale",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [
-      "tarkastusloki",
-      "järjestelmän validointitallenne"
-    ],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.92,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "SPO-013",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "3.16.1",
-    "source_text_fi": "alakohta k). Tutkijan tulee vastata tietojen oikea-aikaisesta tarkastelusta, mukaan lukien ulkoisista lähteistä saatavat asiaankuuluvat tiedot, joilla voi olla vaikutusta esimerkiksi tutkimukseen osallistujien kelpoisuuteen, hoitoon tai turvallisuuteen (esim. keskuslaboratoriosta tulevat tiedot, keskitetysti luetut kuvantamistiedot, muiden laitosten tallenteet ja tarvittaessa potilaan sähköisesti raportoimat tulokset, ePRO). Tutkimussuunnitelmassa voidaan määrittää poikkeuksia pääsyyn esimerkiksi sokkouttamisen suojelemiseksi.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "alakohta k). Tutkijan tulee vastata tietojen oikea-aikaisesta tarkastelusta, mukaan lukien ulkoisista lähteistä saatavat asiaankuuluvat tiedot, joilla voi olla vaikutusta esimerkiksi tutkimukseen osallistujien kelpoisuuteen, hoitoon tai turvallisuuteen (esim. keskuslaboratoriosta tulevat tiedot, keskitetysti luetut kuvantamistiedot, muiden laitosten tallenteet ja tarvittaessa potilaan sähköisesti raportoimat tulokset, ePRO). Tutkimussuunnitelmassa voidaan määrittää poikkeuksia pääsyyn esimerkiksi sokkouttamisen suojelemiseksi.",
+    "normalized_action_fi": "Toimeksiantajan tulee antaa tutkijalle oikea-aikainen pääsy tietoihin (ks. kappale 3.16.1 alakohta k). Tutkijan tulee vastata tietojen oikea-aikaisesta tarkastelusta, mukaan lukien ulkoisista lähteistä saatavat asiaankuuluvat tiedot, joilla voi olla vaikutusta esimerkiksi tutkimukseen osallistujien kelpoisuuteen, hoitoon tai turvallisuuteen (esim. keskuslaboratoriosta tulevat tiedot, keskitetysti luetut kuvantamistiedot, muiden laitosten tallenteet ja tarvittaessa potilaan sähköisesti raportoimat tulokset, ePRO). Tutkimussuunnitelmassa voidaan määrittää poikkeuksia pääsyyn esimerkiksi sokkouttamisen suojelemiseksi.",
     "condition_fi": null,
     "trigger_fi": null,
     "timing_fi": null,
@@ -2676,7 +1871,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-047",
+    "obligation_id": "INV-046",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2702,7 +1897,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-048",
+    "obligation_id": "INV-047",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2731,7 +1926,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-049",
+    "obligation_id": "INV-048",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2760,7 +1955,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-050",
+    "obligation_id": "INV-049",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2789,7 +1984,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-051",
+    "obligation_id": "INV-050",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2815,7 +2010,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-052",
+    "obligation_id": "INV-051",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2844,7 +2039,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-053",
+    "obligation_id": "INV-052",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2875,7 +2070,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-054",
+    "obligation_id": "INV-053",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2901,7 +2096,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-055",
+    "obligation_id": "INV-054",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2930,7 +2125,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "INV-056",
+    "obligation_id": "INV-055",
     "responsible_actor": [
       "tutkija"
     ],
@@ -2956,7 +2151,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-013",
+    "obligation_id": "GCP-006",
     "responsible_actor": [
       "monitoroija"
     ],
@@ -2986,16 +2181,16 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-014",
+    "obligation_id": "SPO-001",
     "responsible_actor": [
       "toimeksiantaja"
     ],
     "supporting_actors": [],
     "source_section": "3.1.1",
     "source_text_fi": "Toimeksiantajan tulee tutkimuksia suunniteltaessa varmistaa, että saatavilla on riittävät turvallisuuteen ja tehoon liittyvät tiedot (esim. ei-kliinisistä ja/tai kliinisistä lääketutkimuksista ja/tai tosielämän tietolähteistä) tukemaan ihmisten altistamista tutkittavalle lääkeaineelle kyseisellä antotavalla, annoksilla, annostelun kestolla ja tutkittavassa populaatiossa.",
-    "source_text_en": null,
+    "source_text_en": "When planning trials, the sponsor should ensure that sufficient safety and efficacy data (e.g., from nonclinical studies and/or clinical trials and/or real-world sources) are available to support human exposure by the route, at the dosages, for the duration and in the trial population to be studied.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Toimeksiantajan tulee tutkimuksia suunniteltaessa varmistaa, että saatavilla on riittävät turvallisuuteen ja tehoon liittyvät tiedot (esim. ei-kliinisistä ja/tai kliinisistä lääketutkimuksista ja/tai tosielämän tietolähteistä) tukemaan ihmisten altistamista tutkittavalle lääkeaineelle kyseisellä antotavalla, annoksilla, annostelun kestolla ja tutkittavassa populaatiossa.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -3008,23 +2203,23 @@
     ],
     "evidence_status": "illustrative_not_source_requirement",
     "compound_clause": false,
-    "confidence": 0.76,
+    "confidence": 0.92,
     "classification": "derived",
     "authoritative": false,
     "derivation_method": "rule_based_modality_extraction",
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-015",
+    "obligation_id": "SPO-002",
     "responsible_actor": [
       "toimeksiantaja"
     ],
     "supporting_actors": [],
     "source_section": "3.1.2",
     "source_text_fi": "Toimeksiantajan tulee sisällyttää laatu kliinisen lääketutkimuksen suunnitteluun tunnistamalla tutkimuksen laadun kannalta kriittisiä tekijöitä ja hallitsemalla näihin tekijöihin kohdistuvia riskejä.",
-    "source_text_en": null,
+    "source_text_en": "Sponsors should incorporate quality into the design of the clinical trial by identifying factors that are critical to the quality of the trial and by managing risks to those factors.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Toimeksiantajan tulee sisällyttää laatu kliinisen lääketutkimuksen suunnitteluun tunnistamalla tutkimuksen laadun kannalta kriittisiä tekijöitä ja hallitsemalla näihin tekijöihin kohdistuvia riskejä.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -3032,23 +2227,23 @@
     "example_evidence": [],
     "evidence_status": "illustrative_not_source_requirement",
     "compound_clause": false,
-    "confidence": 0.76,
+    "confidence": 0.92,
     "classification": "derived",
     "authoritative": false,
     "derivation_method": "rule_based_modality_extraction",
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-016",
+    "obligation_id": "SPO-003",
     "responsible_actor": [
       "toimeksiantaja"
     ],
     "supporting_actors": [],
     "source_section": "3.1.3",
     "source_text_fi": "Toimeksiantajan tulee ottaa huomioon laajasti eri sidosryhmien (esim. terveydenhuollon ammattilaisten ja potilaiden) näkemyksiä kehityssuunnitelman ja kliinisen lääketutkimuksen tutkimussuunnitelmien tueksi ICH E8(R1) -ohjeessa kuvatulla tavalla. Tämä koskee myös tietoon perustuvan suostumuksen materiaaleja ja muuta tutkimuksen osallistujille annettavaa materiaalia.",
-    "source_text_en": null,
+    "source_text_en": "Sponsors should consider inputs from a wide variety of interested parties, for example, healthcare professionals and patients, to support the development plan and clinical trial protocols as described in ICH E8(R1) and when developing the informed consent materials and any other participant-facing information.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Toimeksiantajan tulee ottaa huomioon laajasti eri sidosryhmien (esim. terveydenhuollon ammattilaisten ja potilaiden) näkemyksiä kehityssuunnitelman ja kliinisen lääketutkimuksen tutkimussuunnitelmien tueksi ICH E8(R1) -ohjeessa kuvatulla tavalla. Tämä koskee myös tietoon perustuvan suostumuksen materiaaleja ja muuta tutkimuksen osallistujille annettavaa materiaalia.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -3062,23 +2257,23 @@
     ],
     "evidence_status": "illustrative_not_source_requirement",
     "compound_clause": false,
-    "confidence": 0.76,
+    "confidence": 0.92,
     "classification": "derived",
     "authoritative": false,
     "derivation_method": "rule_based_modality_extraction",
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-017",
+    "obligation_id": "SPO-004",
     "responsible_actor": [
       "toimeksiantaja"
     ],
     "supporting_actors": [],
     "source_section": "3.1.4",
     "source_text_fi": "Toimeksiantajan tulee varmistaa, että kaikki tutkimuksen osa-alueet ovat toiminnallisesti toteuttamiskelpoisia, ja niissä tulee välttää tarpeetonta monimutkaisuutta ja tiedonkeruuta sekä tarpeettomia menettelyitä. Tutkimussuunnitelmien, tiedonkeruuvälineiden ja muiden operatiivisten asiakirjojen tulee olla tarkoitukseen sopivia, selkeitä, ytimekkäitä ja johdonmukaisia. Toimeksiantajan ei tule aiheuttaa tarpeetonta rasitetta tutkimukseen osallistujille ja tutkijoille.",
-    "source_text_en": null,
+    "source_text_en": "The sponsor should ensure that all aspects of the trial are operationally feasible and should avoid unnecessary complexity, procedures and data collection. Protocols, data acquisition tools and other operational documents should be fit for purpose, clear, concise and consistent. The sponsor should not place unnecessary burden on participants and investigators.",
     "modality_fi": "tulee",
-    "modality_en": null,
+    "modality_en": "should",
     "normalized_action_fi": "Toimeksiantajan tulee varmistaa, että kaikki tutkimuksen osa-alueet ovat toiminnallisesti toteuttamiskelpoisia, ja niissä tulee välttää tarpeetonta monimutkaisuutta ja tiedonkeruuta sekä tarpeettomia menettelyitä. Tutkimussuunnitelmien, tiedonkeruuvälineiden ja muiden operatiivisten asiakirjojen tulee olla tarkoitukseen sopivia, selkeitä, ytimekkäitä ja johdonmukaisia. Toimeksiantajan ei tule aiheuttaa tarpeetonta rasitetta tutkimukseen osallistujille ja tutkijoille.",
     "condition_fi": null,
     "trigger_fi": null,
@@ -3093,31 +2288,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-018",
-    "responsible_actor": [
-      "toimeksiantaja"
-    ],
-    "supporting_actors": [],
-    "source_section": "3.2",
-    "source_text_fi": "Resurssit Toimeksiantajan tulee varmistaa, että tutkimuksen asianmukaiseen toteuttamiseen on riittävästi resursseja.",
-    "source_text_en": null,
-    "modality_fi": "tulee",
-    "modality_en": null,
-    "normalized_action_fi": "Resurssit Toimeksiantajan tulee varmistaa, että tutkimuksen asianmukaiseen toteuttamiseen on riittävästi resursseja.",
-    "condition_fi": null,
-    "trigger_fi": null,
-    "timing_fi": null,
-    "example_evidence": [],
-    "evidence_status": "illustrative_not_source_requirement",
-    "compound_clause": false,
-    "confidence": 0.76,
-    "classification": "derived",
-    "authoritative": false,
-    "derivation_method": "rule_based_modality_extraction",
-    "review_status": "pending"
-  },
-  {
-    "obligation_id": "GCP-014",
+    "obligation_id": "GCP-007",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3146,7 +2317,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-019",
+    "obligation_id": "SPO-005",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3170,7 +2341,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-015",
+    "obligation_id": "GCP-008",
     "responsible_actor": [
       "monitoroija"
     ],
@@ -3202,7 +2373,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-016",
+    "obligation_id": "GCP-009",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3228,7 +2399,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-017",
+    "obligation_id": "GCP-010",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3254,7 +2425,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-018",
+    "obligation_id": "GCP-011",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3283,7 +2454,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-019",
+    "obligation_id": "GCP-012",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3309,7 +2480,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-020",
+    "obligation_id": "GCP-013",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3338,7 +2509,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-021",
+    "obligation_id": "GCP-014",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3364,7 +2535,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-022",
+    "obligation_id": "GCP-015",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3390,7 +2561,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-020",
+    "obligation_id": "SPO-006",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3414,7 +2585,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-021",
+    "obligation_id": "SPO-007",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3438,7 +2609,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-022",
+    "obligation_id": "SPO-008",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3465,7 +2636,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-023",
+    "obligation_id": "SPO-009",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3494,7 +2665,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-024",
+    "obligation_id": "SPO-010",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3518,7 +2689,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-025",
+    "obligation_id": "SPO-011",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3547,7 +2718,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-026",
+    "obligation_id": "SPO-012",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3574,7 +2745,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-023",
+    "obligation_id": "GCP-016",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3600,7 +2771,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-027",
+    "obligation_id": "SPO-013",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3624,7 +2795,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-028",
+    "obligation_id": "SPO-014",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3653,7 +2824,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-029",
+    "obligation_id": "SPO-015",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3677,7 +2848,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-030",
+    "obligation_id": "SPO-016",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3704,7 +2875,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-031",
+    "obligation_id": "SPO-017",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3728,7 +2899,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-032",
+    "obligation_id": "SPO-018",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3755,7 +2926,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-024",
+    "obligation_id": "GCP-017",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -3781,7 +2952,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-033",
+    "obligation_id": "SPO-019",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3805,7 +2976,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-034",
+    "obligation_id": "SPO-020",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3829,7 +3000,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-035",
+    "obligation_id": "SPO-021",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3853,7 +3024,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-025",
+    "obligation_id": "GCP-018",
     "responsible_actor": [
       "monitoroija"
     ],
@@ -3885,7 +3056,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-026",
+    "obligation_id": "GCP-019",
     "responsible_actor": [
       "tiedonhallinta-ja-tietokoneistetut-jarjestelmat"
     ],
@@ -3909,7 +3080,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-027",
+    "obligation_id": "GCP-020",
     "responsible_actor": [
       "tiedonhallinta-ja-tietokoneistetut-jarjestelmat"
     ],
@@ -3933,7 +3104,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-036",
+    "obligation_id": "SPO-022",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3957,7 +3128,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-037",
+    "obligation_id": "SPO-023",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -3981,7 +3152,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-038",
+    "obligation_id": "SPO-024",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4005,7 +3176,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-039",
+    "obligation_id": "SPO-025",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4029,7 +3200,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-040",
+    "obligation_id": "SPO-026",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4056,7 +3227,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-041",
+    "obligation_id": "SPO-027",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4085,7 +3256,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-042",
+    "obligation_id": "SPO-028",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4109,7 +3280,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-028",
+    "obligation_id": "GCP-021",
     "responsible_actor": [
       "monitoroija"
     ],
@@ -4136,7 +3307,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-043",
+    "obligation_id": "SPO-029",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4160,7 +3331,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-029",
+    "obligation_id": "GCP-022",
     "responsible_actor": [
       "palveluntarjoaja"
     ],
@@ -4184,7 +3355,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-044",
+    "obligation_id": "SPO-030",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4211,7 +3382,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-045",
+    "obligation_id": "SPO-031",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4235,7 +3406,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-046",
+    "obligation_id": "SPO-032",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4259,7 +3430,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-030",
+    "obligation_id": "GCP-023",
     "responsible_actor": [
       "monitoroija"
     ],
@@ -4286,7 +3457,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-047",
+    "obligation_id": "SPO-033",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4310,7 +3481,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-048",
+    "obligation_id": "SPO-034",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4334,7 +3505,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-049",
+    "obligation_id": "SPO-035",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4358,7 +3529,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-050",
+    "obligation_id": "SPO-036",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4385,7 +3556,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-031",
+    "obligation_id": "GCP-024",
     "responsible_actor": [
       "monitoroija"
     ],
@@ -4421,7 +3592,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "SPO-051",
+    "obligation_id": "SPO-037",
     "responsible_actor": [
       "toimeksiantaja"
     ],
@@ -4445,7 +3616,7 @@
     "review_status": "pending"
   },
   {
-    "obligation_id": "GCP-032",
+    "obligation_id": "GCP-025",
     "responsible_actor": [
       "monitoroija"
     ],

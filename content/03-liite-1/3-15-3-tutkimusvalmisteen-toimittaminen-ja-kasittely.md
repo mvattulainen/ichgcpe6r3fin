@@ -75,6 +75,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.15.3 Supplying and handling investigational product(s)
+>
 > - (a) The sponsor is responsible for supplying the investigator(s)/institution(s) with the investigational product(s). Where appropriate, the sponsor may supply the investigational product(s) to the trial participants in accordance with applicable regulatory requirements. Investigational product should be supplied after obtaining the required approval/favourable opinion from the IRB/IEC and the regulatory authority(ies) for the trial. Various approaches for shipping and dispensing may be undertaken, for example, by taking into consideration the characteristics of the investigational products, the route and complexity of administration and the level of existing knowledge about the investigational product’s safety profile. Investigational product management should be arranged and conducted in accordance with applicable regulatory requirements, and safeguards should be in place to ensure product integrity, product use per protocol and participant safety.
 >
 > - (b) The sponsor should ensure that instructions are available for the investigator/institution or trial participants on the handling and storage of investigational product(s). The procedures should consider adequate and safe receipt, handling, storage, dispensing, retrieval of unused product from participants and return of unused investigational product(s) to the sponsor (or alternative disposition if authorised by the sponsor and in compliance with the applicable regulatory requirement(s)).

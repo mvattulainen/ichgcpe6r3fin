@@ -94,6 +94,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 2.10 Investigational product management
+>
 > **2.10.1**
 >
 > Responsibility for investigational product(s) management, including accountability, handling, dispensing, administration and return, rests with the investigator/institution. The sponsor may facilitate aspects of investigational product management (e.g., by providing forms and technical solutions, such as computerised systems, and arranging distribution of investigational product to trial participants).

@@ -1,0 +1,46 @@
+---
+title: "II. ICH:n määrittelemät hyvän kliinisen tutkimustavan periaatteet"
+id: "ich-e6-r3-principles-introduction"
+content_type: "guideline_section"
+document_id: "ich-e6-r3-fi-v1"
+section_number: "periaatteiden-johdanto"
+parent_id: null
+language: "fi"
+lang: "fi"
+translation_status: "unofficial"
+authoritative_language: "en"
+finnish_pages:
+  - 11
+  - 12
+english_pages:
+  - 7
+english_section_number: "periaatteiden-johdanto"
+permalink: "/02-gcp-periaatteet/johdanto/"
+aliases:
+  - "II. ICH:n määrittelemät hyvän kliinisen tutkimustavan periaatteet"
+tags:
+  - "ich-e6-r3"
+roles:
+review_status: "source_extracted"
+publish: true
+schema_type: "TechArticle"
+is_based_on:
+  - "ich-e6-r3-fi-v1"
+  - "ich-e6-r3-en-step5"
+---
+
+Kliiniset lääketutkimukset ovat olennainen osa kliinisiä tutkimuksia, ja ne tukevat uusien lääkkeiden kehittämistä tai olemassa olevien lääkkeiden käyttöä. Hyvin suunnitellut ja toteutetut kliiniset lääketutkimukset auttavat vastaamaan terveydenhuollon ja lääkekehityksen tärkeimpiin kysymyksiin. Tutkimusten tulokset ovat olennaisen tärkeitä tehtäessä näyttöön perustuvia terveyttä koskevia päätöksiä. Riittämättömällä tavalla suunnitellut ja/tai huonosti toteutetut tutkimukset voivat vaarantaa tutkimukseen osallistujien turvallisuuden, tuottaa riittämättömiä tai epäluotettavia tuloksia ja olla epäeettisiä. Tällaiset tutkimukset tuhlaavat resursseja sekä tutkijoiden ja tutkimukseen osallistujien aikaa ja vaivaa. Hyvän kliinisen tutkimustavan periaatteet on suunniteltu joustaviksi ja sovellettaviksi monenlaisiin kliinisiin lääketutkimuksiin. Tämä ohje ja ICH E8(R1) -ohje kannustavat harkitsemaan ja suunnittelemaan huolellisesti yksittäisen kliinisen lääketutkimuksen erityiset ja mahdollisesti ainutlaatuiset näkökohdat. Tähän kuuluvat esimerkiksi seuraavien tutkimuksen ominaisuuksien arviointi: tutkimusasetelman elementit, arvioitava [[sanasto/tutkimusvalmiste|tutkimusvalmiste]], tutkittava terveydentila/sairaus, osallistujien erityispiirteet, tutkimusolosuhteet, joissa [[sanasto/kliininen-laaketutkimus|kliininen lääketutkimus]] toteutetaan, sekä kerättävien tietojen tyyppi. Tutkimuksen laadun varmistamisen kannalta tärkeitä tekijöitä on punnittava huolellisesti jokaisessa kliinisessä lääketutkimuksessa. Periaatteiden tarkoituksena on tukea tehokkaita tapoja suunnitella ja toteuttaa tutkimus. Esimerkiksi digitaaliset terveysteknologiat, kuten puettavat laitteet ja anturit, voivat tarjota uusia mahdollisuuksia tutkimuksen toteuttamiseen. Tällaiset teknologiat voidaan sisällyttää olemassa oleviin terveydenhuollon infrastruktuureihin, ja ne mahdollistavat erilaisten tietolähteiden käytön kliinisissä lääketutkimuksissa. Tämä auttaa pitämään kliinisen lääketutkimuksen toteutuksen tieteen ja teknologian kehityksen mukaisena. Teknologian käyttö kliinisissä lääketutkimuksissa tulee mukauttaa tutkimukseen osallistujien erityispiirteisiin ja kyseessä olevaan tutkimusasetelmaan. Tämän ohjeen on tarkoitus olla teknologianeutraali, jotta eri teknologioita voidaan käyttää. Kliinisen lääketutkimuksen suunnittelua ja toteuttamista voidaan tukea pyytämällä näkemyksiä asianomaisilta osapuolilta, kuten potilailta ja heidän yhteisöiltään, potilasjärjestöiltä ja terveydenhuollon ammattilaisilta. Heidän panoksensa voi vähentää tarpeetonta monimutkaisuutta, parantaa tutkimuksen toteutettavuutta ja lisätä merkityksellisten tutkimustulosten todennäköisyyttä. Innovatiivisten tutkimusasetelmien ja tutkimusteknologioiden käyttö voi mahdollistaa laajan ja monimuotoisemman tutkimukseen osallistujien joukon ja siten laajentaa tutkimustulosten sovellettavuutta. Kliiniset lääketutkimukset tulee suunnitella niin, että osallistujien oikeudet, turvallisuus ja hyvinvointi voidaan turvata ja tutkimustulosten luotettavuus varmistaa. Laadun tulee olla osa suunnittelua, jotta tunnistetaan tutkimuksen laadun varmistamisen kannalta kriittiset tekijät (eli tiedot ja prosessit) ja riskit, jotka uhkaavat näiden tekijöiden eheyttä ja viime kädessä tutkimustulosten luotettavuutta. Kliinisen lääketutkimuksen prosessien ja tutkimuksen toteuttamista tukevien riskienhallintamenettelyiden tulee olla oikeassa suhteessa kerättävän tiedon tärkeyteen ja riskeihin, jotka liittyvät tutkimukseen osallistuvien turvallisuuteen ja tutkimustulosten luotettavuuteen. Tutkimusasetelmien tulee olla toiminnallisesti toteuttamiskelpoisia ja välttää tarpeetonta monimutkaisuutta. Ylätason periaatteet muodostavat joustavan viitekehyksen kliinisten lääketutkimusten toteuttamiselle. Ne on jäsennelty antamaan ohjausta koko kliinisen lääketutkimuksen elinkaaren ajan. Näitä periaatteita sovelletaan ihmisillä tehtäviin tutkimuksiin. Periaatteet ovat toisistaan riippuvaisia, ja ne tulee ottaa huomioon kokonaisuudessaan tutkimuksen eettisen toteuttamisen ja luotettavien tulosten varmistamiseksi.
+
+## Liittyvät käsitteet
+
+Katso tekstissä linkitetyt sanastokäsitteet.
+
+> [!quote]- Alkuperäinen englanninkielinen lähdeteksti
+>
+> <div lang="en">
+>
+> II. Principles of ICH GCP Clinical trials are a fundamental part of clinical research that support the development of new medicines or uses of existing medicines. Well-designed and conducted clinical trials help answer key questions in healthcare and drug development. Their results are essential for evidence-based healthcare decisions. Trials with inadequate design and/or poorly conducted trials may place participant safety at risk, yield inadequate or unreliable results and are unethical. They waste resources and the efforts and time of investigators and participants. The Principles of GCP are designed to be flexible and applicable to a broad range of clinical trials. This guideline, along with ICH E8(R1), encourages thoughtful consideration and planning to address specific and potentially unique aspects of an individual clinical trial. This includes evaluation of trial characteristics, such as the design elements, the investigational product being evaluated, the medical condition being addressed, the characteristics of the participants, the setting in which the clinical trial is being conducted, and the type of data being collected. Careful consideration of factors relevant to ensuring trial quality is needed for each clinical trial. The principles are intended to support efficient approaches to trial design and conduct. For example, digital health technologies, such as wearables and sensors, may expand the possible approaches to trial conduct. Such technologies can be incorporated into existing healthcare infrastructures and enable the use of a variety of relevant data sources in clinical trials. This will aid in keeping clinical trial conduct in line with advancing science and technological developments. The use of technology in the conduct of clinical trials should be adapted to fit the participant characteristics and the particular trial design. This guideline is intended to be media neutral to enable the use of different technologies. The design and conduct of the clinical trial may be supported by obtaining the perspectives of interested parties, such as patients and their communities, patient advocacy groups and healthcare professionals. Their input can help to reduce unnecessary complexity, improve feasibility and increase the likelihood of meaningful trial outcomes. The use of innovative trial designs and technologies may enable the inclusion of a wider and more diverse population of participants and thereby broaden the applicability of trial outcomes. Clinical trials should be designed to protect the rights, safety and well-being of participants and assure the reliability of results. Quality by design should be implemented to identify the factors (i.e., data and processes) that are critical to ensuring trial quality and the risks that threaten the integrity of those factors and ultimately the reliability of the trial results. Clinical trial processes and risk mitigation strategies implemented to support the conduct of the trial should be proportionate to the importance of the data being collected and the risks to trial participant safety and the reliability of trial results. Trial designs should be operationally feasible and avoid unnecessary complexity. The overarching principles provide a flexible framework for clinical trial conduct. They are structured to provide guidance throughout the life cycle of the clinical trial. These principles are applicable to trials involving human participants. The principles are interdependent and should be considered in their totality to assure ethical trial conduct and reliable results.
+>
+> </div>
+>
+> **Lähde:** ICH E6(R3), section periaatteiden-johdanto, pages 7–7.

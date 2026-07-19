@@ -41,6 +41,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 4.3.7 Technical support
+>
 > - (a) Where appropriate, there should be mechanisms (e.g., help desk support) in place to document, evaluate and manage issues with the computerised systems (e.g., raised by users), and there should be periodic review of these cumulative issues to identify those that are repeated and/or systemic.
 >
 > - (b) Defects and issues should be resolved according to their criticality. Issues with high criticality should be resolved in a timely manner.

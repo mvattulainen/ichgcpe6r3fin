@@ -50,6 +50,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.16.3 Record keeping and retention
+>
 > - (a) The sponsor (or subsequent owners of the data) should retain the sponsor-specific essential records pertaining to the trial in accordance with the applicable regulatory requirement(s) (see Appendix C).
 >
 > - (b) The sponsor should inform the investigator(s)/institution(s) and service providers, when appropriate, in writing of the requirements for the retention of essential records and should notify the investigator(s)/institution(s) and service providers, when appropriate, in writing when the trial-related records are no longer needed in accordance with applicable regulatory requirements.

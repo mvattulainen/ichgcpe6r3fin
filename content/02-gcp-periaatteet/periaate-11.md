@@ -74,6 +74,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 11. Investigational products used in a clinical trial should be manufactured in accordance with applicable Good Manufacturing Practice (GMP) standards and be managed in accordance with the product specifications and the trial protocol.
+>
 > **11.1**
 >
 > Investigational products used in a clinical trial should be manufactured in accordance with applicable GMP standards.

@@ -190,6 +190,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.16.1 Data handling
+>
 > - (a) The sponsor should ensure the integrity and confidentiality of data generated and managed.
 >
 > - (b) The sponsor should apply quality control to the relevant stages of data handling to ensure that the data are of sufficient quality to generate reliable results. The sponsor should focus their quality assurance and quality control activities, including data review, on data of higher criticality and relevant metadata.

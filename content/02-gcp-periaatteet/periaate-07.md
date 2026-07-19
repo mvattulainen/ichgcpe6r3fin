@@ -58,6 +58,8 @@ Tutkimusprosessien tulee olla toiminnallisesti toteuttamiskelpoisia. Niissä tul
 >
 > <div lang="en">
 >
+> 7. Clinical trial processes, measures and approaches should be implemented in a way that is proportionate to the risks to participants and to the importance of the data collected and that avoids unnecessary burden on participants and investigators.
+>
 > **7.1**
 >
 > Trial processes should be proportionate to the risks inherent in the trial and the importance of the information collected. Risks in this context include risks to the rights, safety and well-being of trial participants as well as risks to the reliability of the trial results.

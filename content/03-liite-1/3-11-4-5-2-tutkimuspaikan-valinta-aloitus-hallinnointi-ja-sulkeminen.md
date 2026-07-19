@@ -78,6 +78,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.11.4.5.2 Investigator Site Selection, Initiation, Management and Close-out
+>
 > - (a) Selecting the site and confirming that the investigator and individuals or parties involved in the trial conduct have adequate qualifications, resources (see sections 2.1, 2.2 and 3.7) and facilities, including laboratories, equipment and investigator site staff, to conduct the trial safely and properly.
 >
 > - (b) Confirming, with consideration of their delegated activities and experience, that the investigator, investigator site staff and other parties, and individuals involved in the trial conduct are adequately informed about the trial and follow the current approved protocol and other protocol-related documents, such as the current Investigator’s Brochure and relevant information related to the investigational product.

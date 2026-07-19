@@ -46,6 +46,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 3.11.4.6 Monitoring report
+>
 > - (a) Reports of monitoring activities should include a summary of what was reviewed, a description of significant findings, conclusions and actions required to resolve them and follow-up on their resolution including those not resolved in previous reports. The requirements of monitoring reports (including their content and frequency) should be described in the sponsor’s procedures.
 >
 > - (b) Reports of investigator site and/or centralised monitoring should be provided to the appropriate sponsor staff as described in the sponsor’s procedures in a timely manner for review and follow-up.

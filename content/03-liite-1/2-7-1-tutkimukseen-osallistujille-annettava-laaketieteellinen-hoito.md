@@ -50,6 +50,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 2.7.1 Medical Care of Trial Participants
+>
 > - (a) A qualified physician or, where appropriate, a qualified dentist (or other qualified healthcare professionals in accordance with local regulatory requirements) who is an investigator or a sub-investigator for the trial should have the responsibility for trial- related medical care and decisions.
 >
 > - (b) Other appropriately qualified healthcare professionals may be involved in the medical care of trial participants, in line with their normal activities and in accordance with local regulatory requirements.

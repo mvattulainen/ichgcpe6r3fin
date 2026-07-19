@@ -62,6 +62,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.17.2 Clinical trial/study reports
+>
 > - (a) Whether the trial is completed or prematurely terminated, or an interim analysis is undertaken for regulatory submission, the sponsor should ensure that the clinical trial reports, including interim reports, are prepared and provided to the regulatory authority(ies) as required by the applicable regulatory requirement(s). The sponsor should also ensure that the clinical trial reports in marketing applications meet the standards of ICH E3 or are otherwise in accordance with applicable regulatory requirements. (Note: ICH E3 specifies that abbreviated trial reports may be acceptable in certain cases.)
 >
 > - (b) Where a coordinating investigator is involved in a trial, consideration should be given to them being a signatory on the clinical trial report (see ICH E3).

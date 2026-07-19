@@ -57,6 +57,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.14 Insurance/indemnification/compensation to participants and investigators
+>
 > **3.14.1**
 >
 > If required by the applicable regulatory requirement(s), the sponsor should provide insurance or should indemnify (legal and financial coverage) the investigator/the institution against claims arising from the trial except for claims that arise from malpractice and/or negligence.

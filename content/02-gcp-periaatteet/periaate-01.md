@@ -75,6 +75,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 1. Clinical trials should be conducted in accordance with the ethical principles that have their origin in the Declaration of Helsinki and that are consistent with GCP and applicable regulatory requirement(s). Clinical trials should be designed and conducted in ways that ensure the rights, safety and well-being of participants.
+>
 > **1.1**
 >
 > The rights, safety and well-being of the participants are the most important considerations and should prevail over interests of science and society.

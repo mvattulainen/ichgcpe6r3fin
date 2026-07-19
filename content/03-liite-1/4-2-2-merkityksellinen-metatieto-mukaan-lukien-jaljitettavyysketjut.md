@@ -68,7 +68,7 @@ Vastuullisen osapuolen käyttämään lähestymistapaan, jolla toteutetaan, arvi
 >
 > <div lang="en">
 >
-> The approach used by the responsible party for implementing, evaluating, accessing, managing and reviewing relevant metadata associated with data of higher criticality should entail:
+> 4.2.2 Relevant metadata, including audit trails The approach used by the responsible party for implementing, evaluating, accessing, managing and reviewing relevant metadata associated with data of higher criticality should entail:
 >
 > - (a) Evaluating the system for the types and content of metadata available to ensure that:
 >

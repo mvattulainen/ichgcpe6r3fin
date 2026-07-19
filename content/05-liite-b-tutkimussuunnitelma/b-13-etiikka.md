@@ -34,7 +34,7 @@ Tutkimukseen liittyvien eettisten kysymysten kuvaus.
 >
 > <div lang="en">
 >
-> Description of ethical considerations relating to the trial.
+> B.13 Ethics Description of ethical considerations relating to the trial.
 >
 > </div>
 >

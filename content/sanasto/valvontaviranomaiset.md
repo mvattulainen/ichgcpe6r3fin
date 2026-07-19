@@ -26,7 +26,7 @@ Bodies having the power to regulate, including those that review submitted proto
 
 ## Esiintyminen ohjeessa
 
-- [[03-liite-1/1-3-kokoonpano-tehtavat-ja-toiminta|1.3 Kokoonpano, tehtävät ja toiminta]]
+- [[03-liite-1/1-5-tallenteet|1.5 Tallenteet]]
 - [[03-liite-1/3-11-2-2-auditointimenettelyt|3.11.2.2 Auditointimenettelyt]]
 - [[03-liite-1/3-16-1-tietojen-kasittely|3.16.1 Tietojen käsittely]]
 - [[04-liite-a-tutkijan-tietopaketti/a-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]

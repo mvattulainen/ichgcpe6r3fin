@@ -27,13 +27,13 @@ A pharmaceutical form of an active ingredient or placebo being tested or used as
 ## Esiintyminen ohjeessa
 
 - [[01-johdanto/soveltamisala|Ohjeen soveltamisala]]
+- [[02-gcp-periaatteet/johdanto|II. ICH:n määrittelemät hyvän kliinisen tutkimustavan periaatteet]]
 - [[02-gcp-periaatteet/periaate-01|1. Kliiniset lääketutkimukset tulee toteuttaa noudattaen eettisiä periaatteita, jotka perustuvat Helsingin julistukseen ja ovat hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisia. Kliiniset lääketutkimukset tulee suunnitella ja toteuttaa tavoilla, joilla varmistetaan tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.]]
 - [[02-gcp-periaatteet/periaate-04|4. Kliinisten lääketutkimusten tulee olla tieteellisesti perusteltuja niiden aiottuun tarkoitukseen nähden ja perustua asianmukaiselle ja ajantasaiselle tieteelliselle tietämykselle ja lähestymistavoille.]]
 - [[02-gcp-periaatteet/periaate-07|7. Kliinisen lääketutkimuksen prosessien, toimenpiteiden ja lähestymistapojen toteutuksen tulee olla oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja kerättyjen tietojen tärkeyteen, jotta vältetään tutkimukseen osallistujille ja tutkijoille aiheutuva tarpeeton rasite.]]
 - [[02-gcp-periaatteet/periaate-11|11. Kliinisessä lääketutkimuksessa käytettävät tutkimusvalmisteet tulee valmistaa sovellettavien hyvien tuotantotapojen (GMP) standardien mukaisesti, ja niitä tulee hallinnoida valmisteyhteenvedon ja tutkimussuunnitelman mukaisesti.]]
-- [[03-liite-1/1-4-toimintatavat|1.4 Toimintatavat]]
-- [[03-liite-1/3-2-resurssit|3.2 Resurssit]]
-- [[03-liite-1/2-tutkija|2 Tutkija]]
+- [[03-liite-1/2-1-patevyys-ja-koulutus|2.1 Pätevyys ja koulutus]]
+- [[03-liite-1/2-3-vastuut|2.3 Vastuut]]
 - [[03-liite-1/2-7-2-turvallisuusraportointi|2.7.2 Turvallisuusraportointi]]
 - [[03-liite-1/2-8-tutkimukseen-osallistujien-tietoon-perustuva-suostumus|2.8 Tutkimukseen osallistujien tietoon perustuva suostumus]]
 - [[03-liite-1/2-9-kliiniseen-laaketutkimukseen-osallistumisen-paattyminen|2.9 Kliiniseen lääketutkimukseen osallistumisen päättyminen]]

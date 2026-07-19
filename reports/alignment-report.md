@@ -1,7 +1,7 @@
 # Kohdistusraportti
 
-- Automaattisesti varmennettu: 143
-- Avoin tai suomalainen lisärakenne: 2
+- Monikriteerisesti varmennettu: 146/146
+- Virheitä: 0
+- Varoituksia: 12
 
-- ich-e6-r3-introduction-soveltamisala: finnish_only_structure
-- ich-e6-r3-introduction-rakenne: finnish_only_structure
+Yksityiskohtainen menettely ja havainnot: `alignment-verification-report.md`.

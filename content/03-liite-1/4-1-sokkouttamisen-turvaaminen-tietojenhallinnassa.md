@@ -61,6 +61,8 @@ Mahdollisen sokkoutuksen purkautumisen tulee olla osa sokkoutetun tutkimuksen ri
 >
 > <div lang="en">
 >
+> 4.1 Safeguard blinding in data governance
+>
 > **4.1.1**
 >
 > Maintaining the integrity of the blinding is important in particular in the design of systems, management of users’ accounts, delegation of responsibilities with respect to data handling and provision of data access at sites, data transfers, database review prior to planned unblinding and statistical analysis across all appropriate stages of the trial.

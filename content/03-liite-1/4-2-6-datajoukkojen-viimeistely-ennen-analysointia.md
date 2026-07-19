@@ -45,6 +45,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 4.2.6 Finalisation of data sets prior to analysis
+>
 > - (a) Data of sufficient quality for interim and final analysis should be defined and are achieved by implementing timely and reliable processes for data capture, verification, validation, review and rectification of errors and, where possible, omissions that have a meaningful impact on the safety of trial participants and/or the reliability of the trial results.
 >
 > - (b) Activities undertaken to finalise the data sets prior to analysis should be confirmed and documented in accordance with pre-specified procedures. These activities may include reconciliation of entered data and data sets or reconciliation of relevant databases, rectification of data errors and, where possible, omissions, medical coding and compilation of and addressing the impact of noncompliance issues, including protocol deviations.

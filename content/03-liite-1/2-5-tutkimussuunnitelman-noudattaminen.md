@@ -68,6 +68,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 2.5 Compliance with Protocol
+>
 > **2.5.1**
 >
 > The investigator/institution should sign the protocol or an alternative contract to confirm agreement with the sponsor.

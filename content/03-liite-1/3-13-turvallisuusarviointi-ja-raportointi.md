@@ -39,7 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The sponsor is responsible for the ongoing safety evaluation of the investigational product(s). The Investigator’s Brochure or, where applicable, the current scientific information such as a basic product information brochure, forms the basis of safety assessment and reporting for the clinical trial. For further information, see Appendix A.
+> 3.13 Safety assessment and reporting The sponsor is responsible for the ongoing safety evaluation of the investigational product(s). The Investigator’s Brochure or, where applicable, the current scientific information such as a basic product information brochure, forms the basis of safety assessment and reporting for the clinical trial. For further information, see Appendix A.
 >
 > </div>
 >

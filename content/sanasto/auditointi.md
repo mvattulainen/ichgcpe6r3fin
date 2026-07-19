@@ -26,7 +26,7 @@ A systematic and independent examination of trial-related activities and records
 
 ## Esiintyminen ohjeessa
 
-- [[03-liite-1/2-tutkija|2 Tutkija]]
+- [[03-liite-1/2-3-vastuut|2.3 Vastuut]]
 - [[03-liite-1/3-11-2-auditointi|3.11.2 Auditointi]]
 - [[03-liite-1/3-11-2-2-auditointimenettelyt|3.11.2.2 Auditointimenettelyt]]
 - [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]

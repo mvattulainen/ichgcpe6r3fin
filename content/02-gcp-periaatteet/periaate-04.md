@@ -56,6 +56,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 4. Clinical trials should be scientifically sound for their intended purpose and based on adequate and current scientific knowledge and approaches.
+>
 > **4.1**
 >
 > The available nonclinical and clinical information on an investigational product(s) should be adequate to support the proposed clinical trial.

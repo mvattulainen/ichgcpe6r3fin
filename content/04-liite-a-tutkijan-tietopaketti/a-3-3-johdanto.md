@@ -34,7 +34,7 @@ Lyhyt johdanto, jossa mainitaan kunkin tutkimusvalmisteen kemiallinen nimi (ja g
 >
 > <div lang="en">
 >
-> A brief introductory statement should be provided that contains the chemical name (and generic and trade name(s) when approved) of the investigational product(s); all active ingredients; the pharmacological class of the investigational product(s) and its expected position within this class (e.g., advantages); the rationale for performing research with the investigational product(s); and the anticipated prophylactic, therapeutic or diagnostic indication(s). Finally, the introductory statement should provide the general approach to be followed in evaluating the investigational product.
+> A.3.3 Introduction A brief introductory statement should be provided that contains the chemical name (and generic and trade name(s) when approved) of the investigational product(s); all active ingredients; the pharmacological class of the investigational product(s) and its expected position within this class (e.g., advantages); the rationale for performing research with the investigational product(s); and the anticipated prophylactic, therapeutic or diagnostic indication(s). Finally, the introductory statement should provide the general approach to be followed in evaluating the investigational product.
 >
 > </div>
 >

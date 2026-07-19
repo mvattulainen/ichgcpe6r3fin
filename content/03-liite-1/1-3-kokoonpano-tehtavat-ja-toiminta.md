@@ -12,7 +12,6 @@ authoritative_language: "en"
 finnish_pages:
   - 20
   - 21
-  - 22
 english_pages:
   - 13
 english_section_number: "1.3"
@@ -79,112 +78,6 @@ Vain eettisen toimikunnan arviointiin ja keskusteluun osallistuvien jäsenten tu
 
 Eettinen toimikunta voi kutsua muita kuin jäseniä avustamaan asiantuntijoina johonkin erityisalaan liittyvissä kysymyksissä.
 
-<a id="ich-e6-r3-a1-1-3-1-4"></a>
-
-### 1.4
-
-Toimintatavat Eettisen toimikunnan tulee laatia ja dokumentoida toimintaohjeet, joita se noudattaa. Niistä tulee käydä ilmi ainakin seuraavat seikat:
-
-<a id="ich-e6-r3-a1-1-3-1-4-1"></a>
-
-### 1.4.1
-
-eettisen toimikunnan kokoonpano (jäsenten nimet ja pätevyys) ja kenen valtuuttamana se toimii
-
-<a id="ich-e6-r3-a1-1-3-1-4-2"></a>
-
-### 1.4.2
-
-kokousten aikataulu, jäsenten koollekutsuminen ja kokouskäytännöt
-
-<a id="ich-e6-r3-a1-1-3-1-4-3"></a>
-
-### 1.4.3
-
-tutkimusten ensimmäisen ja toistuvien arviointien tekeminen
-
-<a id="ich-e6-r3-a1-1-3-1-4-4"></a>
-
-### 1.4.4
-
-toistuvan arvioinnin tiheys, mikäli tarpeen
-
-<a id="ich-e6-r3-a1-1-3-1-4-5"></a>
-
-### 1.4.5
-
-meneillään olevien eettisen toimikunnan hyväksymien / puoltavan lausunnon saaneiden tutkimusten vähäisten muutosten nopeutettu arviointi ja hyväksyntä / puoltavien lausuntojen antaminen lainsäädännön vaatimusten mukaisesti
-
-<a id="ich-e6-r3-a1-1-3-1-4-6"></a>
-
-### 1.4.6
-
-nimenomainen maininta siitä, että ketään tutkimukseen osallistujaa ei tule ottaa mukaan tutkimukseen ennen kuin eettinen toimikunta on antanut tutkimuksesta kirjallisen hyväksyntänsä / puoltavan lausuntonsa
-
-<a id="ich-e6-r3-a1-1-3-1-4-7"></a>
-
-### 1.4.7
-
-nimenomainen maininta siitä, että tutkimussuunnitelmasta ei tule poiketa eikä siihen tulee tehdä muutoksia ennen kuin eettinen toimikunta on kirjallisesti hyväksynyt muutoksen / antanut siitä puoltavan lausunnon, lukuun ottamatta tilanteita, joissa se on välttämätöntä tutkimuksen osallistujiin kohdistuvan välittömän vaaran välttämiseksi tai, lainsäädännön vaatimusten mukaan, muutoksessa on kyse ainoastaan tutkimuksen logististen tai hallinnollisten seikkojen muuttamisesta
-
-<a id="ich-e6-r3-a1-1-3-1-4-8"></a>
-
-### 1.4.8
-
-nimenomainen maininta siitä, että tutkijan/tutkimuslaitoksen tulee viipymättä raportoida eettiselle toimikunnalle (katso kappale 1.1):
-
-<a id="ich-e6-r3-a1-1-3-item-a"></a>
-
-- (a) tutkimussuunnitelmasta poikkeamisesta, jonka tarkoitus on estää välittömän vaaran aiheuttaminen tutkimukseen osallistujille (katso kappaleet 1.4.7, 2.5.4 ja 2.5.5);
-
-<a id="ich-e6-r3-a1-1-3-item-b"></a>
-
-- (b) muutoksista, jotka lisäävät tutkimukseen osallistujiin kohdistuvaa riskiä ja/tai vaikuttavat merkittävästi tutkimuksen toteuttamiseen (katso kappale 2.4.6);
-
-<a id="ich-e6-r3-a1-1-3-item-c"></a>
-
-- (c) kaikki epäillyt odottamattomat vakavat haittavaikutukset lainsäädännön vaatimusten mukaisesti;
-
-<a id="ich-e6-r3-a1-1-3-item-d"></a>
-
-- (d) uusista tiedoista, joilla voi olla haitallinen vaikutus tutkimukseen osallistujien turvallisuuteen tai tutkimuksen toteuttamiseen.
-
-<a id="ich-e6-r3-a1-1-3-1-4-9"></a>
-
-### 1.4.9
-
-varmistuminen siitä, että eettinen toimikunta (katso kappale 1.1) ilmoittaa kirjallisesti (paperilla tai sähköisesti) viipymättä tutkijalle/laitokselle:
-
-<a id="ich-e6-r3-a1-1-3-item-a"></a>
-
-- (a) omat tutkimusta koskevat päätöksensä/lausuntonsa;
-
-<a id="ich-e6-r3-a1-1-3-item-b"></a>
-
-- (b) omien päätöstensä/lausuntojensa perustelut;
-
-<a id="ich-e6-r3-a1-1-3-item-c"></a>
-
-- (c) omia päätöksiään/lausuntojaan koskevat valitusmenettelyt.
-
-<a id="ich-e6-r3-a1-1-3-1-5"></a>
-
-### 1.5
-
-Tallenteet
-
-<a id="ich-e6-r3-a1-1-3-1-5-1"></a>
-
-### 1.5.1
-
-Eettisen toimikunnan tulee säilyttää kaikki asiaankuuluvat tallenteet (mm. kirjalliset toimintaohjeet, jäsenluettelot, luettelot jäsenten ammateista/sidonnaisuuksista, esitetyt asiakirjat, kokousten pöytäkirjat ja kirjeenvaihto) lainsäädännön vaatimusten mukaisesti ja esittää ne pyynnöstä valvontaviranomaisille.
-
-<a id="ich-e6-r3-a1-1-3-1-5-2"></a>
-
-### 1.5.2
-
-Tutkijat, toimeksiantajat tai [[sanasto/valvontaviranomaiset|valvontaviranomaiset]] voivat pyytää eettistä toimikuntaa toimittamaan dokumentoidut toimintaohjeet ja jäsenluettelot.
-
 ## Liittyvät käsitteet
 
 Katso tekstissä linkitetyt sanastokäsitteet.
@@ -192,6 +85,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
+>
+> 1.3 Composition, functions and operations
 >
 > **1.3.1**
 >

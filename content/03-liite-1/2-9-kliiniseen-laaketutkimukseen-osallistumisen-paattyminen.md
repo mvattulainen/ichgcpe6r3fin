@@ -58,6 +58,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 2.9 End of participation in a clinical trial
+>
 > **2.9.1**
 >
 > When a participant decides to stop treatment with the investigational product or withdraw from a trial; is discontinued from the trial; or reaches the routine end of the trial, the investigator should follow the protocol and/or other protocol-related documents. For participants who did not reach the routine end of the trial, this may include instructions to avoid loss of already collected data, in accordance with applicable regulatory requirements, to ensure that trial results are reliable. In general, loss of already collected data may bias results and may lead to, for example, inaccurate conclusions regarding the safety profile of the investigational product.

@@ -49,6 +49,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.7 Investigator selection
+>
 > **3.7.1**
 >
 > The sponsor is responsible for selecting the investigator(s)/institution(s). Each investigator should be qualified by education, training and experience and should demonstrate they have adequate resources and facilities to properly conduct the trial. If a coordinating committee and/or coordinating investigator(s) are to be utilised in multicentre trials, their organisation and/or selection are the sponsor’s responsibility, and their roles and responsibilities should be documented prior to their involvement in the trial.

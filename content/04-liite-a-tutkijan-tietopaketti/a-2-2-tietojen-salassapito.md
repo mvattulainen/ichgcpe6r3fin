@@ -38,7 +38,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The sponsor may wish to include a statement instructing the investigator and other recipients to treat the IB as a confidential document for the sole information and use of the investigator/institution, investigator site staff, regulatory authorities and the IRB/IEC.
+> A.2.2 Confidentiality statement The sponsor may wish to include a statement instructing the investigator and other recipients to treat the IB as a confidential document for the sole information and use of the investigator/institution, investigator site staff, regulatory authorities and the IRB/IEC.
 >
 > </div>
 >

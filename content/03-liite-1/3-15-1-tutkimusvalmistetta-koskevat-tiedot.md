@@ -36,7 +36,7 @@ Toimeksiantajan tulee varmistaa, että tutkijan tietopakettia kehitetään ja p�
 >
 > <div lang="en">
 >
-> The sponsor should ensure that an Investigator’s Brochure is developed and updated as significant new information on the investigational product becomes available. Alternatively, for authorised medicinal products, the sponsor should identify the basic product information to be used in the trial (see Appendix A, section A.1.1).
+> 3.15.1 Information on Investigational Product(s) The sponsor should ensure that an Investigator’s Brochure is developed and updated as significant new information on the investigational product becomes available. Alternatively, for authorised medicinal products, the sponsor should identify the basic product information to be used in the trial (see Appendix A, section A.1.1).
 >
 > </div>
 >

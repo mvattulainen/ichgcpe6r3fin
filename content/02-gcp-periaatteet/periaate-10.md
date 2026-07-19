@@ -56,6 +56,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 10. Roles and responsibilities in clinical trials should be clear and documented appropriately.
+>
 > **10.1**
 >
 > The sponsor may transfer or the investigator may delegate their tasks, duties or functions (hereafter referred to as activities), but they retain overall responsibility for their respective activities.

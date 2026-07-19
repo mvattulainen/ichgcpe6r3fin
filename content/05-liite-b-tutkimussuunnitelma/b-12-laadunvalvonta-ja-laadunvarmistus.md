@@ -52,6 +52,8 @@ Kuvaus tutkimussuunnitelman tai hyvän kliinisen tutkimustavan vaatimusten laimi
 >
 > <div lang="en">
 >
+> B.12 Quality control and quality assurance
+>
 > **B.12.1**
 >
 > Description of identified critical to quality factors, associated risks and risk mitigation strategies in the trial unless documented elsewhere.

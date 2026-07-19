@@ -50,6 +50,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.11.4.1 Investigator site monitoring
+>
 > - (a) Monitoring may be performed in relation to the clinical trial activities at the investigator sites (including their pharmacies and local laboratories, as appropriate). The frequency of monitoring activities should also be determined based on identified risks. Monitoring activities and their frequency should be modified as appropriate using knowledge gained.
 >
 > - (b) This monitoring activity may be performed on-site and/or remotely depending on the nature of the activity and its objectives.

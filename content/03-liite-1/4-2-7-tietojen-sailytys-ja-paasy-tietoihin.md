@@ -39,7 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The trial data and relevant metadata should be archived in a way that allows for their retrieval and readability and should be protected from unauthorised access and alterations throughout the retention period.
+> 4.2.7 Retention and access The trial data and relevant metadata should be archived in a way that allows for their retrieval and readability and should be protected from unauthorised access and alterations throughout the retention period.
 >
 > </div>
 >

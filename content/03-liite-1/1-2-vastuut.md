@@ -112,13 +112,7 @@ Eettisen toimikunnan tulee arvioida jokaista käynnissä olevaa tutkimusta niin 
 
 ### 1.2.5
 
-Eettinen toimikunta voi vaatia annettavaksi enemmän tietoja kuin kappaleessa
-
-<a id="ich-e6-r3-a1-1-2-2-8-11"></a>
-
-### 2.8.11
-
-tutkimukseen osallistujille edellytetään annettavan, mikäli se katsoo, että lisätietojen antamisella turvattaisiin huomattavasti paremmin tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.
+Eettinen toimikunta voi vaatia annettavaksi enemmän tietoja kuin kappaleessa 2.8.11 tutkimukseen osallistujille edellytetään annettavan, mikäli se katsoo, että lisätietojen antamisella turvattaisiin huomattavasti paremmin tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.
 
 <a id="ich-e6-r3-a1-1-2-6"></a>
 
@@ -151,6 +145,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
+>
+> 1.2 Responsibilities
 >
 > **1.2.1**
 >

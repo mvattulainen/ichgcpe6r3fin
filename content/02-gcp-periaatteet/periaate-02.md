@@ -64,6 +64,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 2. Informed consent is an integral feature of the ethical conduct of a trial. Clinical trial participation should be voluntary and based on a consent process that ensures participants (or their legally acceptable representatives, where applicable) are well- informed.
+>
 > **2.1**
 >
 > Freely given informed consent should be obtained and documented from every participant prior to clinical trial participation. For potential participants unable to provide informed consent, their legally acceptable representatives, acting in the participants’ best interest, should provide consent prior to clinical trial participation. These potential participants should be informed about the trial in a manner that facilitates their understanding. In the event that a minor is a participant, assent should be collected from that minor, as appropriate, and in accordance with local regulatory requirements (see ICH E11(R1) Clinical Investigation of Medicinal Products in the Pediatric Population).

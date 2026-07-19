@@ -35,7 +35,7 @@ Laadunvarmistusta tulee toteuttaa koko kliinisen lääketutkimuksen ajan. Siihen
 >
 > <div lang="en">
 >
-> Quality assurance should be applied throughout the clinical trial and includes implementing risk-based strategies to identify potential or actual causes of serious noncompliance with the protocol, GCP and/or applicable regulatory requirements to enable their corrective and preventive actions.
+> 3.11.1 Quality assurance Quality assurance should be applied throughout the clinical trial and includes implementing risk-based strategies to identify potential or actual causes of serious noncompliance with the protocol, GCP and/or applicable regulatory requirements to enable their corrective and preventive actions.
 >
 > </div>
 >

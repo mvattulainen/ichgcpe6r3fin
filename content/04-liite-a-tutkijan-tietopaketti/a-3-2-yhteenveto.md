@@ -34,7 +34,7 @@ Lyhyt yhteenveto (joka ei saisi olla yli kahden sivun pituinen), jossa mainitaan
 >
 > <div lang="en">
 >
-> A brief summary (preferably not exceeding two pages) should be given, highlighting the significant physical, chemical, pharmaceutical, pharmacological, toxicological, pharmacokinetic, metabolic and clinical information available that is relevant to the stage of clinical development of the investigational product.
+> A.3.2 Summary A brief summary (preferably not exceeding two pages) should be given, highlighting the significant physical, chemical, pharmaceutical, pharmacological, toxicological, pharmacokinetic, metabolic and clinical information available that is relevant to the stage of clinical development of the investigational product.
 >
 > </div>
 >

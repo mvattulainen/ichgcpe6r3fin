@@ -63,6 +63,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.11.4.5.4 Monitoring of clinical trial data
+>
 > - (a) Verifying that the investigator is enrolling only eligible trial participants.
 >
 > - (b) Checking the accuracy, completeness and consistency of the reported trial data against the source records and other trial-related records and whether these were reported in a timely manner. This can be done on the basis of using samples and supported by data analytics, as appropriate. The sample size and the types of data or records may need adjustment based on previous monitoring results or other indications of insufficient data quality. Monitoring should:

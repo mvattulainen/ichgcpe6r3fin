@@ -113,6 +113,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> C.2 Management of essential records
+>
 > **C.2.1**
 >
 > Records should be identifiable and version controlled (when appropriate) and should include authors, reviewers and approvers as appropriate, along with date and signature (electronic or physical), where necessary.

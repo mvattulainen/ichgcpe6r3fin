@@ -27,8 +27,7 @@ The act of overseeing the progress of a clinical trial and of ensuring that the 
 ## Esiintyminen ohjeessa
 
 - [[02-gcp-periaatteet/periaate-08|8. Kliiniset lääketutkimukset tulee kuvata selkeässä, tiiviissä, tieteellisesti perustellussa ja toiminnallisesti toteuttamiskelpoisessa tutkimussuunnitelmassa.]]
-- [[03-liite-1/3-2-resurssit|3.2 Resurssit]]
-- [[03-liite-1/2-tutkija|2 Tutkija]]
+- [[03-liite-1/2-3-vastuut|2.3 Vastuut]]
 - [[03-liite-1/3-10-1-3-riskien-hallinta|3.10.1.3 Riskien hallinta]]
 - [[03-liite-1/3-11-3-laadunvalvonta|3.11.3 Laadunvalvonta]]
 - [[03-liite-1/3-11-4-monitorointi|3.11.4 Monitorointi]]

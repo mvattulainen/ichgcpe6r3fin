@@ -27,9 +27,6 @@ A process by which a participant or their legally acceptable representative volu
 ## Esiintyminen ohjeessa
 
 - [[02-gcp-periaatteet/periaate-02|2. Tietoon perustuva suostumus on olennainen osa tutkimuksen eettistä toteuttamista. Kliiniseen lääketutkimukseen osallistumisen tulee olla vapaaehtoista ja perustua suostumusprosessiin, jolla varmistetaan, että tutkimukseen osallistujat (tai tarvittaessa heidän lailliset edustajansa) ovat saaneet kaiken tarvittavan tiedon.]]
-- [[03-liite-1/1-5-tallenteet|1.5 Tallenteet]]
-- [[03-liite-1/2-1-patevyys-ja-koulutus|2.1 Pätevyys ja koulutus]]
-- [[03-liite-1/2-3-vastuut|2.3 Vastuut]]
 - [[03-liite-1/1-2-vastuut|1.2 Vastuut]]
 - [[03-liite-1/2-8-tutkimukseen-osallistujien-tietoon-perustuva-suostumus|2.8 Tutkimukseen osallistujien tietoon perustuva suostumus]]
 - [[03-liite-1/3-11-4-5-2-tutkimuspaikan-valinta-aloitus-hallinnointi-ja-sulkeminen|3.11.4.5.2 Tutkimuspaikan valinta, aloitus, hallinnointi ja sulkeminen]]

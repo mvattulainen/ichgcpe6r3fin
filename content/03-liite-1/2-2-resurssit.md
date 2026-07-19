@@ -10,7 +10,7 @@ lang: "fi"
 translation_status: "unofficial"
 authoritative_language: "en"
 finnish_pages:
-  - 14
+  - 23
 english_pages:
   - 15
 english_section_number: "2.2"
@@ -30,11 +30,23 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-tavoitteena on antaa mahdollisille tutkimukseen osallistujille mahdollisuus arvioida tutkimukseen osallistumisen hyötyjä, riskejä ja rasitteita sekä tehdä tietoon perustuva päätös tutkimukseen osallistumisesta. Suostumusprosessin aikana annettavien tietojen tulee olla selkeitä ja tiiviitä, jotta mahdolliset tutkimukseen osallistujat tai lailliset edustajat ymmärtävät ne.
+<a id="ich-e6-r3-a1-2-2-1"></a>
+
+### 2.2.1
+
+Tutkijan tulee pystyä osoittamaan (esim. aikaisempien tai tällä hetkellä saatavilla olevien tietojen perusteella), että hänellä on mahdollisuus rekrytoida ehdotettu määrä tutkimukseen soveltuvia osallistujia toimeksiantajan kanssa sovitun rekrytointiajan kuluessa.
+
+<a id="ich-e6-r3-a1-2-2-2"></a>
+
+### 2.2.2
+
+Tutkijalla tulee olla riittävästi aikaa, ja hänellä tulee olla käytettävissään riittävä määrä pätevää henkilöstöä ja asianmukaiset tilat koko ennakoiduksi tutkimusajaksi, jotta hän pystyy toteuttamaan tutkimuksen asianmukaisesti ja turvallisesti.
 
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
+>
+> 2.2 Resources
 >
 > **2.2.1**
 >

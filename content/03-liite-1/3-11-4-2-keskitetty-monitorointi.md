@@ -52,6 +52,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.11.4.2 Centralised monitoring
+>
 > - (a) Centralised monitoring is an evaluation of accumulated data, performed in a timely manner, by the sponsor’s qualified and trained persons (e.g., medical monitor, data scientist/data manager, biostatistician).
 >
 > - (b) Centralised monitoring processes provide additional monitoring capabilities that can complement and reduce the extent and/or frequency of site monitoring or be used on its own. Use of centralised data analytics can help identify systemic or site-specific issues, including protocol noncompliance and potentially unreliable data.

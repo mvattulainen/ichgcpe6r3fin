@@ -50,6 +50,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 4.3.3 Security
+>
 > - (a) The security of the trial data and records should be managed throughout the data life cycle.
 >
 > - (b) The responsible party should ensure that security controls are implemented and maintained for computerised systems. These controls should include user management and ongoing measures to prevent, detect and/or mitigate security breaches. Aspects such as user authentication requirements and password management, firewall settings, antivirus software, security patching, system monitoring and penetration testing should be considered.

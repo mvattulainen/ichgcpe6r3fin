@@ -93,6 +93,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.9 Sponsor oversight
+>
 > **3.9.1**
 >
 > The sponsor should ensure that the trial design and trial conduct, the processes undertaken and the information and data generated are of sufficient quality to ensure reliable trial results, trial participants’ safety and appropriate decision making.

@@ -38,7 +38,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> This should provide the sponsor’s name, the identity of each investigational product (i.e., research number, chemical or approved generic name and trade name(s) where legally permissible and desired by the sponsor) and the release date. It is also suggested that an edition number and a reference to the number and date of the edition it supersedes be provided along with the cut-off date for data inclusion in the version. Where appropriate, a signature page may be included.
+> A.2.1 Title Page This should provide the sponsor’s name, the identity of each investigational product (i.e., research number, chemical or approved generic name and trade name(s) where legally permissible and desired by the sponsor) and the release date. It is also suggested that an edition number and a reference to the number and date of the edition it supersedes be provided along with the cut-off date for data inclusion in the version. Where appropriate, a signature page may be included.
 >
 > </div>
 >

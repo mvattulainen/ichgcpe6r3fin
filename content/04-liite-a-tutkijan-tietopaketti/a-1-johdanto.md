@@ -38,7 +38,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The Investigator’s Brochure (IB) is a compilation of the clinical and nonclinical data on the investigational product(s) (1) that are relevant to the study of the product(s) in human participants. Its purpose is to provide the investigators and others involved in the trial with the information to facilitate their understanding of the rationale for and their compliance with many key features of the protocol, such as the dose, dose frequency/interval, methods of administration and safety monitoring procedures.
+> A.1 Introduction The Investigator’s Brochure (IB) is a compilation of the clinical and nonclinical data on the investigational product(s) (1) that are relevant to the study of the product(s) in human participants. Its purpose is to provide the investigators and others involved in the trial with the information to facilitate their understanding of the rationale for and their compliance with many key features of the protocol, such as the dose, dose frequency/interval, methods of administration and safety monitoring procedures.
 >
 > </div>
 >

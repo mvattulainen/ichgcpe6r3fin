@@ -37,7 +37,7 @@ Toimeksiantajan vaatimusten ja monitorointisuunnitelman mukaisen monitoroinnin t
 >
 > <div lang="en">
 >
-> Monitoring in accordance with the sponsor’s requirements and monitoring plan should generally include the following activities across the clinical trial life cycle, as applicable.
+> 3.11.4.5 Monitoring activities Monitoring in accordance with the sponsor’s requirements and monitoring plan should generally include the following activities across the clinical trial life cycle, as applicable.
 >
 > </div>
 >

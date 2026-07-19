@@ -27,7 +27,6 @@ Essential records are the documents and data (and relevant metadata), in any for
 ## Esiintyminen ohjeessa
 
 - [[02-gcp-periaatteet/periaate-09|9. Kliinisten lääketutkimusten tulee tuottaa luotettavia tuloksia.]]
-- [[03-liite-1/3-2-resurssit|3.2 Resurssit]]
 - [[03-liite-1/2-12-tallenteet|2.12 Tallenteet]]
 - [[03-liite-1/3-6-sopimukset|3.6 Sopimukset]]
 - [[03-liite-1/3-16-3-tallenteiden-yllapito-ja-sailyttaminen|3.16.3 Tallenteiden ylläpito ja säilyttäminen]]

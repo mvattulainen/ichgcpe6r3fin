@@ -63,6 +63,8 @@ Maininta siitä, että kaikki poikkeamat tilastointisuunnitelmasta selostetaan j
 >
 > <div lang="en">
 >
+> B.10 Statistical considerations
+>
 > **B.10.1**
 >
 > A description of the statistical methods to be employed, including timing and purpose of any planned interim analysis(ses) and the statistical criteria for the stopping of the trial.

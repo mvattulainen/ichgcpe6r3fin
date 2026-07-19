@@ -63,6 +63,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 2.6 Premature termination or suspension of a trial
+>
 > **2.6.1**
 >
 > If the trial is prematurely terminated or suspended for any reason, the investigator/institution should promptly inform the trial participants and should ensure appropriate therapy and follow- up for the participants.
@@ -77,11 +79,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > **2.6.4**
 >
-> If the IRB/IEC terminates or suspends its approval/favourable opinion of a trial (see sections
->
-> **1.2.3**
->
-> and 1.4.9), the investigator should inform the institution, where applicable, and the investigator/institution should promptly notify the sponsor.
+> If the IRB/IEC terminates or suspends its approval/favourable opinion of a trial (see sections 1.2.3 and 1.4.9), the investigator should inform the institution, where applicable, and the investigator/institution should promptly notify the sponsor.
 >
 > </div>
 >

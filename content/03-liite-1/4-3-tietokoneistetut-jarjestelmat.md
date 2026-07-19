@@ -35,7 +35,7 @@ Kuten kappaleissa 2 ja 3 on kuvattu, toimeksiantajan ja tutkijan vastuiden sekä
 >
 > <div lang="en">
 >
-> As described in sections 2 and 3, the responsibilities of the sponsor, investigator and the activities of other parties with respect to a computerised system used in clinical trials should be clear and documented. The responsible party should ensure that those developing computerised systems for clinical trials on their behalf are aware of the intended purpose and the regulatory requirements that apply to them. It is recommended that representatives of intended participant populations and healthcare professionals are involved in the design of the system, where relevant, to ensure that computerised systems are suitable for use by the intended user population.
+> 4.3 Computerised systems As described in sections 2 and 3, the responsibilities of the sponsor, investigator and the activities of other parties with respect to a computerised system used in clinical trials should be clear and documented. The responsible party should ensure that those developing computerised systems for clinical trials on their behalf are aware of the intended purpose and the regulatory requirements that apply to them. It is recommended that representatives of intended participant populations and healthcare professionals are involved in the design of the system, where relevant, to ensure that computerised systems are suitable for use by the intended user population.
 >
 > </div>
 >

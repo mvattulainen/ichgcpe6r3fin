@@ -13,7 +13,7 @@ finnish_pages:
   - 57
 english_pages:
   - 38
-english_section_number: null
+english_section_number: "3.16"
 permalink: "/03-liite-1/3-16-tiedot-ja-tallenteet/"
 aliases:
   - "Tiedot ja tallenteet"
@@ -31,4 +31,12 @@ is_based_on:
 
 
 
-> [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.
+> [!quote]- Alkuperäinen englanninkielinen lähdeteksti
+>
+> <div lang="en">
+>
+> 3.16 Data and records
+>
+> </div>
+>
+> **Lähde:** ICH E6(R3), section 3.16, pages 38–38.

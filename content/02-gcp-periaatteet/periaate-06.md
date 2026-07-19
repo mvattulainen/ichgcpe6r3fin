@@ -50,6 +50,8 @@ Käytössä tulee olla toimintatavat, joilla ehkäistään, havaitaan ja käsite
 >
 > <div lang="en">
 >
+> 6. Quality should be built into the scientific and operational design and conduct of clinical trials.
+>
 > **6.1**
 >
 > Quality of a clinical trial is considered in this guideline as fitness for purpose.

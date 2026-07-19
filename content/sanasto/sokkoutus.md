@@ -27,7 +27,6 @@ A procedure in which one or more parties to the trial are kept unaware of the tr
 ## Esiintyminen ohjeessa
 
 - [[02-gcp-periaatteet/periaate-11|11. Kliinisessä lääketutkimuksessa käytettävät tutkimusvalmisteet tulee valmistaa sovellettavien hyvien tuotantotapojen (GMP) standardien mukaisesti, ja niitä tulee hallinnoida valmisteyhteenvedon ja tutkimussuunnitelman mukaisesti.]]
-- [[03-liite-1/3-2-resurssit|3.2 Resurssit]]
 - [[03-liite-1/2-11-satunnaistamismenettelyt-ja-sokkoutuksen-purkaminen|2.11 Satunnaistamismenettelyt ja sokkoutuksen purkaminen]]
 - [[03-liite-1/3-10-1-1-riskien-tunnistaminen|3.10.1.1 Riskien tunnistaminen]]
 - [[03-liite-1/3-11-4-monitorointi|3.11.4 Monitorointi]]

@@ -26,6 +26,7 @@ Any interventional investigation in human participants intended to discover or v
 
 ## Esiintyminen ohjeessa
 
+- [[02-gcp-periaatteet/johdanto|II. ICH:n määrittelemät hyvän kliinisen tutkimustavan periaatteet]]
 - [[03-liite-1/1-2-vastuut|1.2 Vastuut]]
 
 ## Lähdeviitteet

@@ -53,6 +53,10 @@ def markdown_body(value: str) -> str:
 
 def finnish_source_body(value: str) -> str:
     body = markdown_body(value)
+    # A titled container section can have no Finnish body before its English
+    # source callout. In that case the callout starts at the first body byte.
+    if body.startswith("> [!quote]- "):
+        return ""
     for marker in (
         "\n## Liittyvät käsitteet",
         "\n> [!quote]- Alkuperäinen englanninkielinen lähdeteksti",
@@ -80,6 +84,7 @@ def main() -> None:
     obligations = load("obligations.json")
     records = load("essential-records.json")
     alignments = load("alignments.json")
+    alignment_verification = load("alignment-verification.json")
 
     ids = [x["id"] for x in sections]
     if len(ids) != len(set(ids)):
@@ -96,7 +101,7 @@ def main() -> None:
         errors.append("Termisanaston kaikki sivut 106–111 eivät näy lähdeviitteissä.")
 
     required_data = {
-        "documents.json", "sections.json", "alignments.json", "glossary.json", "terminology.json",
+        "documents.json", "sections.json", "alignments.json", "alignment-verification.json", "glossary.json", "terminology.json",
         "term-variants.json", "roles.json", "obligations.json", "essential-records.json", "extraction-report.json",
     }
     missing_data = sorted(name for name in required_data if not (DATA / name).exists())
@@ -181,6 +186,10 @@ def main() -> None:
         errors.append("Kaikkien johdettujen velvoitteiden tarkistustilan tulee olla pending.")
     if any(x.get("classification") != "derived" or x.get("review_status") != "pending" for x in alignments):
         errors.append("Kaikkien johdettujen kohdistusten tarkistustilan tulee olla pending.")
+    if alignment_verification.get("status") != "passed" or alignment_verification.get("summary", {}).get("errors") != 0:
+        errors.append("Suomi–englanti-osiokohdistusten monikriteerinen varmennus ei ole hyväksytty.")
+    if any(x.get("alignment_status") != "automatically_verified" for x in alignments):
+        errors.append("Kaikkia suomi–englanti-osiokohdistuksia ei ole varmennettu automaattisesti.")
     if any(x.get("classification") != "derived" or x.get("review_status") != "pending" for x in records):
         errors.append("Kaikkien johdettujen oleellisten tallenteiden tarkistustilan tulee olla pending.")
     if not records or any(not x["name_fi"] or not x["name_en"] for x in records):
@@ -251,7 +260,7 @@ def main() -> None:
         "source-manifest-report.md", "section-coverage-report.md", "alignment-report.md", "normalization-report.md",
         "glossary-link-report.md", "unresolved-term-report.md", "obligation-review-report.md",
         "role-view-review-report.md", "broken-link-report.md", "build-report.md",
-        "source-exactness-report.md",
+        "source-exactness-report.md", "alignment-verification-report.md",
     }
     missing_reports = sorted(name for name in expected_reports if not (REPORTS / name).exists())
     if missing_reports:

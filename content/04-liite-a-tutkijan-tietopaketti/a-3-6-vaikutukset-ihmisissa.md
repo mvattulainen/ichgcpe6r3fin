@@ -62,7 +62,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> Introduction A thorough discussion of the known effects of the investigational product(s) in humans should be provided, including information on pharmacokinetics, metabolism, pharmacodynamics, dose response, safety, efficacy and other pharmacological activities. Where possible, a summary of each completed clinical trial and ongoing trials where interim results are available that may inform the safety evaluation should be provided. Information should also be provided regarding results of any use of the investigational product(s) other than from clinical trials, such as from experience during marketing.
+> A.3.6 Effects in humans Introduction A thorough discussion of the known effects of the investigational product(s) in humans should be provided, including information on pharmacokinetics, metabolism, pharmacodynamics, dose response, safety, efficacy and other pharmacological activities. Where possible, a summary of each completed clinical trial and ongoing trials where interim results are available that may inform the safety evaluation should be provided. Information should also be provided regarding results of any use of the investigational product(s) other than from clinical trials, such as from experience during marketing.
 >
 > - (a) Pharmacokinetics and product metabolism in humans A summary of information on the pharmacokinetics of the investigational product(s) should be presented, including the following, if available:
 >

@@ -1,5 +1,5 @@
 # Velvoitteiden tarkistusraportti
 
-- Poimittuja ehdokkaita: 166
-- Matalamman varmuuden tai yhdistelmäkohtia: 100
+- Poimittuja ehdokkaita: 134
+- Matalamman varmuuden tai yhdistelmäkohtia: 60
 - Kaikkien johdettujen kohtien tarkistustila on `pending`.

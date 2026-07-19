@@ -1,0 +1,3218 @@
+{
+  "procedure_version": "1.0",
+  "status": "passed",
+  "criteria": [
+    "exact section identifier and descendant numbering sequence",
+    "Finnish and English table-of-contents start page",
+    "heading boundary isolation",
+    "complete assignment of every in-scope PDF text line",
+    "EN/FI length-ratio outlier detection",
+    "bilingual glossary and terminology concept correspondence",
+    "shared ICH references and abbreviations"
+  ],
+  "summary": {
+    "sections": 146,
+    "automatically_verified": 146,
+    "verification_failed": 0,
+    "errors": 0,
+    "warnings": 12,
+    "unassigned_finnish_lines": 0,
+    "unassigned_english_lines": 0
+  },
+  "sections": [
+    {
+      "section_id": "ich-e6-r3-introduction-johdanto",
+      "section_number": "johdanto",
+      "status": "automatically_verified",
+      "confidence": 0.9069,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9331,
+        "bilingual_concept_score": 0.5347,
+        "bilingual_concepts_matched": 54,
+        "bilingual_concepts_expected": 101,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-introduction-soveltamisala",
+      "section_number": "soveltamisala",
+      "status": "automatically_verified",
+      "confidence": 0.8825,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8209,
+        "bilingual_concept_score": 0.4127,
+        "bilingual_concepts_matched": 26,
+        "bilingual_concepts_expected": 63,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-introduction-rakenne",
+      "section_number": "rakenne",
+      "status": "automatically_verified",
+      "confidence": 0.8226,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8816,
+        "bilingual_concept_score": 0.1132,
+        "bilingual_concepts_matched": 6,
+        "bilingual_concepts_expected": 53,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "semantic_concept_mismatch"
+      ],
+      "issues": [
+        "semantic_concept_mismatch"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-principles-introduction",
+      "section_number": "periaatteiden-johdanto",
+      "status": "automatically_verified",
+      "confidence": 0.887,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8808,
+        "bilingual_concept_score": 0.4348,
+        "bilingual_concepts_matched": 50,
+        "bilingual_concepts_expected": 115,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-01",
+      "section_number": "1",
+      "status": "automatically_verified",
+      "confidence": 0.8936,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8847,
+        "bilingual_concept_score": 0.4681,
+        "bilingual_concepts_matched": 44,
+        "bilingual_concepts_expected": 94,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-02",
+      "section_number": "2",
+      "status": "automatically_verified",
+      "confidence": 0.9095,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9733,
+        "bilingual_concept_score": 0.5474,
+        "bilingual_concepts_matched": 52,
+        "bilingual_concepts_expected": 95,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-03",
+      "section_number": "3",
+      "status": "automatically_verified",
+      "confidence": 0.8783,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9644,
+        "bilingual_concept_score": 0.3913,
+        "bilingual_concepts_matched": 18,
+        "bilingual_concepts_expected": 46,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-04",
+      "section_number": "4",
+      "status": "automatically_verified",
+      "confidence": 0.8735,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9256,
+        "bilingual_concept_score": 0.3673,
+        "bilingual_concepts_matched": 18,
+        "bilingual_concepts_expected": 49,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-05",
+      "section_number": "5",
+      "status": "automatically_verified",
+      "confidence": 0.8702,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.7917,
+        "bilingual_concept_score": 0.3509,
+        "bilingual_concepts_matched": 20,
+        "bilingual_concepts_expected": 57,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-06",
+      "section_number": "6",
+      "status": "automatically_verified",
+      "confidence": 0.912,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9034,
+        "bilingual_concept_score": 0.56,
+        "bilingual_concepts_matched": 42,
+        "bilingual_concepts_expected": 75,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-07",
+      "section_number": "7",
+      "status": "automatically_verified",
+      "confidence": 0.9176,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8906,
+        "bilingual_concept_score": 0.5882,
+        "bilingual_concepts_matched": 50,
+        "bilingual_concepts_expected": 85,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-08",
+      "section_number": "8",
+      "status": "automatically_verified",
+      "confidence": 0.9133,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.7784,
+        "bilingual_concept_score": 0.5667,
+        "bilingual_concepts_matched": 34,
+        "bilingual_concepts_expected": 60,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-09",
+      "section_number": "9",
+      "status": "automatically_verified",
+      "confidence": 0.9357,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9078,
+        "bilingual_concept_score": 0.6786,
+        "bilingual_concepts_matched": 114,
+        "bilingual_concepts_expected": 168,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-10",
+      "section_number": "10",
+      "status": "automatically_verified",
+      "confidence": 0.8918,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0474,
+        "bilingual_concept_score": 0.459,
+        "bilingual_concepts_matched": 28,
+        "bilingual_concepts_expected": 61,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-principle-11",
+      "section_number": "11",
+      "status": "automatically_verified",
+      "confidence": 0.9224,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9536,
+        "bilingual_concept_score": 0.6118,
+        "bilingual_concepts_matched": 52,
+        "bilingual_concepts_expected": 85,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-1",
+      "section_number": "1",
+      "status": "automatically_verified",
+      "confidence": 0.8828,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.6,
+        "bilingual_concept_score": 0.4138,
+        "bilingual_concepts_matched": 12,
+        "bilingual_concepts_expected": 29,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-1.1",
+      "section_number": "1.1",
+      "status": "automatically_verified",
+      "confidence": 0.912,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.1015,
+        "bilingual_concept_score": 0.56,
+        "bilingual_concepts_matched": 28,
+        "bilingual_concepts_expected": 50,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-1.2",
+      "section_number": "1.2",
+      "status": "automatically_verified",
+      "confidence": 0.9134,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8688,
+        "bilingual_concept_score": 0.5669,
+        "bilingual_concepts_matched": 72,
+        "bilingual_concepts_expected": 127,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [
+          "2.8.11"
+        ],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "foreign_number_at_line_start"
+      ],
+      "issues": [
+        "foreign_number_at_line_start"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-a1-1.3",
+      "section_number": "1.3",
+      "status": "automatically_verified",
+      "confidence": 0.9129,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.902,
+        "bilingual_concept_score": 0.5647,
+        "bilingual_concepts_matched": 48,
+        "bilingual_concepts_expected": 85,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-1.4",
+      "section_number": "1.4",
+      "status": "automatically_verified",
+      "confidence": 0.9057,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8679,
+        "bilingual_concept_score": 0.5287,
+        "bilingual_concepts_matched": 46,
+        "bilingual_concepts_expected": 87,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-1.5",
+      "section_number": "1.5",
+      "status": "automatically_verified",
+      "confidence": 0.9273,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0041,
+        "bilingual_concept_score": 0.6364,
+        "bilingual_concepts_matched": 28,
+        "bilingual_concepts_expected": 44,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2",
+      "section_number": "2",
+      "status": "automatically_verified",
+      "confidence": 0.8842,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.6667,
+        "bilingual_concept_score": 0.4211,
+        "bilingual_concepts_matched": 8,
+        "bilingual_concepts_expected": 19,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.1",
+      "section_number": "2.1",
+      "status": "automatically_verified",
+      "confidence": 0.92,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0518,
+        "bilingual_concept_score": 0.6,
+        "bilingual_concepts_matched": 30,
+        "bilingual_concepts_expected": 50,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.2",
+      "section_number": "2.2",
+      "status": "automatically_verified",
+      "confidence": 0.9,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8659,
+        "bilingual_concept_score": 0.5,
+        "bilingual_concepts_matched": 26,
+        "bilingual_concepts_expected": 52,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.3",
+      "section_number": "2.3",
+      "status": "automatically_verified",
+      "confidence": 0.9362,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9926,
+        "bilingual_concept_score": 0.6812,
+        "bilingual_concepts_matched": 94,
+        "bilingual_concepts_expected": 138,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.4",
+      "section_number": "2.4",
+      "status": "automatically_verified",
+      "confidence": 0.9379,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9278,
+        "bilingual_concept_score": 0.6897,
+        "bilingual_concepts_matched": 60,
+        "bilingual_concepts_expected": 87,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.5",
+      "section_number": "2.5",
+      "status": "automatically_verified",
+      "confidence": 0.9182,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8951,
+        "bilingual_concept_score": 0.5909,
+        "bilingual_concepts_matched": 52,
+        "bilingual_concepts_expected": 88,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.6",
+      "section_number": "2.6",
+      "status": "automatically_verified",
+      "confidence": 0.9455,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9633,
+        "bilingual_concept_score": 0.7273,
+        "bilingual_concepts_matched": 40,
+        "bilingual_concepts_expected": 55,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": [
+          "1.2.3"
+        ]
+      },
+      "errors": [],
+      "warnings": [
+        "foreign_number_at_line_start"
+      ],
+      "issues": [
+        "foreign_number_at_line_start"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.7",
+      "section_number": "2.7",
+      "status": "automatically_verified",
+      "confidence": 0.8364,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.5326,
+        "bilingual_concept_score": 0.1818,
+        "bilingual_concepts_matched": 4,
+        "bilingual_concepts_expected": 22,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "semantic_concept_mismatch"
+      ],
+      "issues": [
+        "semantic_concept_mismatch"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.7.1",
+      "section_number": "2.7.1",
+      "status": "automatically_verified",
+      "confidence": 0.9091,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9469,
+        "bilingual_concept_score": 0.5455,
+        "bilingual_concepts_matched": 36,
+        "bilingual_concepts_expected": 66,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.7.2",
+      "section_number": "2.7.2",
+      "status": "automatically_verified",
+      "confidence": 0.9289,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9148,
+        "bilingual_concept_score": 0.6444,
+        "bilingual_concepts_matched": 58,
+        "bilingual_concepts_expected": 90,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.8",
+      "section_number": "2.8",
+      "status": "automatically_verified",
+      "confidence": 0.9415,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.965,
+        "bilingual_concept_score": 0.7075,
+        "bilingual_concepts_matched": 150,
+        "bilingual_concepts_expected": 212,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.9",
+      "section_number": "2.9",
+      "status": "automatically_verified",
+      "confidence": 0.9155,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9552,
+        "bilingual_concept_score": 0.5773,
+        "bilingual_concepts_matched": 56,
+        "bilingual_concepts_expected": 97,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.10",
+      "section_number": "2.10",
+      "status": "automatically_verified",
+      "confidence": 0.9345,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0207,
+        "bilingual_concept_score": 0.6727,
+        "bilingual_concepts_matched": 74,
+        "bilingual_concepts_expected": 110,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.11",
+      "section_number": "2.11",
+      "status": "automatically_verified",
+      "confidence": 0.9424,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8507,
+        "bilingual_concept_score": 0.7119,
+        "bilingual_concepts_matched": 42,
+        "bilingual_concepts_expected": 59,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.12",
+      "section_number": "2.12",
+      "status": "automatically_verified",
+      "confidence": 0.9361,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9328,
+        "bilingual_concept_score": 0.6804,
+        "bilingual_concepts_matched": 132,
+        "bilingual_concepts_expected": 194,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [
+          "3.16.1"
+        ],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "foreign_number_at_line_start"
+      ],
+      "issues": [
+        "foreign_number_at_line_start"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-a1-2.13",
+      "section_number": "2.13",
+      "status": "automatically_verified",
+      "confidence": 0.8941,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9121,
+        "bilingual_concept_score": 0.4706,
+        "bilingual_concepts_matched": 16,
+        "bilingual_concepts_expected": 34,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3",
+      "section_number": "3",
+      "status": "automatically_verified",
+      "confidence": 0.878,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9625,
+        "bilingual_concept_score": 0.3902,
+        "bilingual_concepts_matched": 16,
+        "bilingual_concepts_expected": 41,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.1",
+      "section_number": "3.1",
+      "status": "automatically_verified",
+      "confidence": 0.917,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8218,
+        "bilingual_concept_score": 0.5849,
+        "bilingual_concepts_matched": 62,
+        "bilingual_concepts_expected": 106,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.2",
+      "section_number": "3.2",
+      "status": "automatically_verified",
+      "confidence": 0.8381,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9583,
+        "bilingual_concept_score": 0.1905,
+        "bilingual_concepts_matched": 4,
+        "bilingual_concepts_expected": 21,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "semantic_concept_mismatch"
+      ],
+      "issues": [
+        "semantic_concept_mismatch"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.3",
+      "section_number": "3.3",
+      "status": "automatically_verified",
+      "confidence": 0.8625,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9503,
+        "bilingual_concept_score": 0.3125,
+        "bilingual_concepts_matched": 10,
+        "bilingual_concepts_expected": 32,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.4",
+      "section_number": "3.4",
+      "status": "automatically_verified",
+      "confidence": 0.8696,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8882,
+        "bilingual_concept_score": 0.3478,
+        "bilingual_concepts_matched": 24,
+        "bilingual_concepts_expected": 69,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.4.1",
+      "section_number": "3.4.1",
+      "status": "automatically_verified",
+      "confidence": 0.8545,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.785,
+        "bilingual_concept_score": 0.2727,
+        "bilingual_concepts_matched": 6,
+        "bilingual_concepts_expected": 22,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.5",
+      "section_number": "3.5",
+      "status": "automatically_verified",
+      "confidence": 0.9294,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0373,
+        "bilingual_concept_score": 0.6471,
+        "bilingual_concepts_matched": 22,
+        "bilingual_concepts_expected": 34,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.6",
+      "section_number": "3.6",
+      "status": "automatically_verified",
+      "confidence": 0.9587,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9349,
+        "bilingual_concept_score": 0.7933,
+        "bilingual_concepts_matched": 142,
+        "bilingual_concepts_expected": 179,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.7",
+      "section_number": "3.7",
+      "status": "automatically_verified",
+      "confidence": 0.9263,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8692,
+        "bilingual_concept_score": 0.6316,
+        "bilingual_concepts_matched": 36,
+        "bilingual_concepts_expected": 57,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.8",
+      "section_number": "3.8",
+      "status": "automatically_verified",
+      "confidence": 0.9333,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9375,
+        "bilingual_concept_score": 0.6667,
+        "bilingual_concepts_matched": 4,
+        "bilingual_concepts_expected": 6,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.8.1",
+      "section_number": "3.8.1",
+      "status": "automatically_verified",
+      "confidence": 0.9283,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0221,
+        "bilingual_concept_score": 0.6415,
+        "bilingual_concepts_matched": 34,
+        "bilingual_concepts_expected": 53,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.8.2",
+      "section_number": "3.8.2",
+      "status": "automatically_verified",
+      "confidence": 0.9037,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8961,
+        "bilingual_concept_score": 0.5185,
+        "bilingual_concepts_matched": 28,
+        "bilingual_concepts_expected": 54,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.9",
+      "section_number": "3.9",
+      "status": "automatically_verified",
+      "confidence": 0.9353,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.906,
+        "bilingual_concept_score": 0.6765,
+        "bilingual_concepts_matched": 92,
+        "bilingual_concepts_expected": 136,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.10",
+      "section_number": "3.10",
+      "status": "automatically_verified",
+      "confidence": 0.9185,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9062,
+        "bilingual_concept_score": 0.5926,
+        "bilingual_concepts_matched": 48,
+        "bilingual_concepts_expected": 81,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.10.1",
+      "section_number": "3.10.1",
+      "status": "automatically_verified",
+      "confidence": 0.9,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.009,
+        "bilingual_concept_score": 0.5,
+        "bilingual_concepts_matched": 4,
+        "bilingual_concepts_expected": 8,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.10.1.1",
+      "section_number": "3.10.1.1",
+      "status": "automatically_verified",
+      "confidence": 0.9319,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8617,
+        "bilingual_concept_score": 0.6596,
+        "bilingual_concepts_matched": 62,
+        "bilingual_concepts_expected": 94,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.10.1.2",
+      "section_number": "3.10.1.2",
+      "status": "automatically_verified",
+      "confidence": 0.8783,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8744,
+        "bilingual_concept_score": 0.3913,
+        "bilingual_concepts_matched": 18,
+        "bilingual_concepts_expected": 46,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.10.1.3",
+      "section_number": "3.10.1.3",
+      "status": "automatically_verified",
+      "confidence": 0.9275,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8913,
+        "bilingual_concept_score": 0.6377,
+        "bilingual_concepts_matched": 44,
+        "bilingual_concepts_expected": 69,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.10.1.4",
+      "section_number": "3.10.1.4",
+      "status": "automatically_verified",
+      "confidence": 0.9103,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8302,
+        "bilingual_concept_score": 0.5517,
+        "bilingual_concepts_matched": 16,
+        "bilingual_concepts_expected": 29,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.10.1.5",
+      "section_number": "3.10.1.5",
+      "status": "automatically_verified",
+      "confidence": 0.95,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8534,
+        "bilingual_concept_score": 0.75,
+        "bilingual_concepts_matched": 18,
+        "bilingual_concepts_expected": 24,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.10.1.6",
+      "section_number": "3.10.1.6",
+      "status": "automatically_verified",
+      "confidence": 0.9273,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8648,
+        "bilingual_concept_score": 0.6364,
+        "bilingual_concepts_matched": 14,
+        "bilingual_concepts_expected": 22,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11",
+      "section_number": "3.11",
+      "status": "automatically_verified",
+      "confidence": 0.8963,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9761,
+        "bilingual_concept_score": 0.4815,
+        "bilingual_concepts_matched": 26,
+        "bilingual_concepts_expected": 54,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.1",
+      "section_number": "3.11.1",
+      "status": "automatically_verified",
+      "confidence": 0.9071,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8303,
+        "bilingual_concept_score": 0.5357,
+        "bilingual_concepts_matched": 30,
+        "bilingual_concepts_expected": 56,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.2",
+      "section_number": "3.11.2",
+      "status": "automatically_verified",
+      "confidence": 0.8944,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9598,
+        "bilingual_concept_score": 0.4722,
+        "bilingual_concepts_matched": 34,
+        "bilingual_concepts_expected": 72,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.2.1",
+      "section_number": "3.11.2.1",
+      "status": "automatically_verified",
+      "confidence": 0.896,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8942,
+        "bilingual_concept_score": 0.48,
+        "bilingual_concepts_matched": 12,
+        "bilingual_concepts_expected": 25,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.2.2",
+      "section_number": "3.11.2.2",
+      "status": "automatically_verified",
+      "confidence": 0.9086,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9028,
+        "bilingual_concept_score": 0.5432,
+        "bilingual_concepts_matched": 44,
+        "bilingual_concepts_expected": 81,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.3",
+      "section_number": "3.11.3",
+      "status": "automatically_verified",
+      "confidence": 0.9096,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.931,
+        "bilingual_concept_score": 0.5479,
+        "bilingual_concepts_matched": 40,
+        "bilingual_concepts_expected": 73,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4",
+      "section_number": "3.11.4",
+      "status": "automatically_verified",
+      "confidence": 0.9275,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9574,
+        "bilingual_concept_score": 0.6377,
+        "bilingual_concepts_matched": 88,
+        "bilingual_concepts_expected": 138,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.1",
+      "section_number": "3.11.4.1",
+      "status": "automatically_verified",
+      "confidence": 0.915,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9858,
+        "bilingual_concept_score": 0.575,
+        "bilingual_concepts_matched": 46,
+        "bilingual_concepts_expected": 80,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.2",
+      "section_number": "3.11.4.2",
+      "status": "automatically_verified",
+      "confidence": 0.9165,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8449,
+        "bilingual_concept_score": 0.5823,
+        "bilingual_concepts_matched": 46,
+        "bilingual_concepts_expected": 79,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.3",
+      "section_number": "3.11.4.3",
+      "status": "automatically_verified",
+      "confidence": 0.9106,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.83,
+        "bilingual_concept_score": 0.5532,
+        "bilingual_concepts_matched": 52,
+        "bilingual_concepts_expected": 94,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.4",
+      "section_number": "3.11.4.4",
+      "status": "automatically_verified",
+      "confidence": 0.9556,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8554,
+        "bilingual_concept_score": 0.7778,
+        "bilingual_concepts_matched": 14,
+        "bilingual_concepts_expected": 18,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.5",
+      "section_number": "3.11.4.5",
+      "status": "automatically_verified",
+      "confidence": 0.9429,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9953,
+        "bilingual_concept_score": 0.7143,
+        "bilingual_concepts_matched": 20,
+        "bilingual_concepts_expected": 28,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.5.1",
+      "section_number": "3.11.4.5.1",
+      "status": "automatically_verified",
+      "confidence": 0.9208,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9109,
+        "bilingual_concept_score": 0.6042,
+        "bilingual_concepts_matched": 58,
+        "bilingual_concepts_expected": 96,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.5.2",
+      "section_number": "3.11.4.5.2",
+      "status": "automatically_verified",
+      "confidence": 0.9393,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9366,
+        "bilingual_concept_score": 0.6964,
+        "bilingual_concepts_matched": 78,
+        "bilingual_concepts_expected": 112,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.5.3",
+      "section_number": "3.11.4.5.3",
+      "status": "automatically_verified",
+      "confidence": 0.9378,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0028,
+        "bilingual_concept_score": 0.6889,
+        "bilingual_concepts_matched": 62,
+        "bilingual_concepts_expected": 90,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.5.4",
+      "section_number": "3.11.4.5.4",
+      "status": "automatically_verified",
+      "confidence": 0.9345,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9006,
+        "bilingual_concept_score": 0.6726,
+        "bilingual_concepts_matched": 76,
+        "bilingual_concepts_expected": 113,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.11.4.6",
+      "section_number": "3.11.4.6",
+      "status": "automatically_verified",
+      "confidence": 0.9101,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8999,
+        "bilingual_concept_score": 0.5507,
+        "bilingual_concepts_matched": 38,
+        "bilingual_concepts_expected": 69,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.12",
+      "section_number": "3.12",
+      "status": "automatically_verified",
+      "confidence": 0.95,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8829,
+        "bilingual_concept_score": 0.75,
+        "bilingual_concepts_matched": 60,
+        "bilingual_concepts_expected": 80,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.13",
+      "section_number": "3.13",
+      "status": "automatically_verified",
+      "confidence": 0.927,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0922,
+        "bilingual_concept_score": 0.6349,
+        "bilingual_concepts_matched": 40,
+        "bilingual_concepts_expected": 63,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.13.1",
+      "section_number": "3.13.1",
+      "status": "automatically_verified",
+      "confidence": 0.9318,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8356,
+        "bilingual_concept_score": 0.6591,
+        "bilingual_concepts_matched": 58,
+        "bilingual_concepts_expected": 88,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.13.2",
+      "section_number": "3.13.2",
+      "status": "automatically_verified",
+      "confidence": 0.9313,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8955,
+        "bilingual_concept_score": 0.6567,
+        "bilingual_concepts_matched": 88,
+        "bilingual_concepts_expected": 134,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.13.3",
+      "section_number": "3.13.3",
+      "status": "automatically_verified",
+      "confidence": 0.9443,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9319,
+        "bilingual_concept_score": 0.7213,
+        "bilingual_concepts_matched": 44,
+        "bilingual_concepts_expected": 61,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.14",
+      "section_number": "3.14",
+      "status": "automatically_verified",
+      "confidence": 0.96,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9512,
+        "bilingual_concept_score": 0.8,
+        "bilingual_concepts_matched": 40,
+        "bilingual_concepts_expected": 50,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.15",
+      "section_number": "3.15",
+      "status": "automatically_verified",
+      "confidence": 0.9217,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.24,
+        "bilingual_concept_score": 0.6087,
+        "bilingual_concepts_matched": 14,
+        "bilingual_concepts_expected": 23,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.15.1",
+      "section_number": "3.15.1",
+      "status": "automatically_verified",
+      "confidence": 0.9098,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.952,
+        "bilingual_concept_score": 0.549,
+        "bilingual_concepts_matched": 28,
+        "bilingual_concepts_expected": 51,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.15.2",
+      "section_number": "3.15.2",
+      "status": "automatically_verified",
+      "confidence": 0.9371,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9807,
+        "bilingual_concept_score": 0.6857,
+        "bilingual_concepts_matched": 96,
+        "bilingual_concepts_expected": 140,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.15.3",
+      "section_number": "3.15.3",
+      "status": "automatically_verified",
+      "confidence": 0.9359,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0031,
+        "bilingual_concept_score": 0.6796,
+        "bilingual_concepts_matched": 70,
+        "bilingual_concepts_expected": 103,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.16",
+      "section_number": "3.16",
+      "status": "automatically_verified",
+      "confidence": 0.8571,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.84,
+        "bilingual_concept_score": 0.2857,
+        "bilingual_concepts_matched": 2,
+        "bilingual_concepts_expected": 7,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.16.1",
+      "section_number": "3.16.1",
+      "status": "automatically_verified",
+      "confidence": 0.9571,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8613,
+        "bilingual_concept_score": 0.7857,
+        "bilingual_concepts_matched": 176,
+        "bilingual_concepts_expected": 224,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.16.2",
+      "section_number": "3.16.2",
+      "status": "automatically_verified",
+      "confidence": 0.9324,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8383,
+        "bilingual_concept_score": 0.6618,
+        "bilingual_concepts_matched": 90,
+        "bilingual_concepts_expected": 136,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.16.3",
+      "section_number": "3.16.3",
+      "status": "automatically_verified",
+      "confidence": 0.9292,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0194,
+        "bilingual_concept_score": 0.6462,
+        "bilingual_concepts_matched": 42,
+        "bilingual_concepts_expected": 65,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.16.4",
+      "section_number": "3.16.4",
+      "status": "automatically_verified",
+      "confidence": 0.9451,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8403,
+        "bilingual_concept_score": 0.7253,
+        "bilingual_concepts_matched": 66,
+        "bilingual_concepts_expected": 91,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.17",
+      "section_number": "3.17",
+      "status": "automatically_verified",
+      "confidence": 0.8,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9231,
+        "bilingual_concept_score": 0.0,
+        "bilingual_concepts_matched": 0,
+        "bilingual_concepts_expected": 2,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.17.1",
+      "section_number": "3.17.1",
+      "status": "automatically_verified",
+      "confidence": 0.9309,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0472,
+        "bilingual_concept_score": 0.6545,
+        "bilingual_concepts_matched": 36,
+        "bilingual_concepts_expected": 55,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-3.17.2",
+      "section_number": "3.17.2",
+      "status": "automatically_verified",
+      "confidence": 0.9363,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9815,
+        "bilingual_concept_score": 0.6813,
+        "bilingual_concepts_matched": 62,
+        "bilingual_concepts_expected": 91,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4",
+      "section_number": "4",
+      "status": "automatically_verified",
+      "confidence": 0.9133,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.911,
+        "bilingual_concept_score": 0.5664,
+        "bilingual_concepts_matched": 64,
+        "bilingual_concepts_expected": 113,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.1",
+      "section_number": "4.1",
+      "status": "automatically_verified",
+      "confidence": 0.9273,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8037,
+        "bilingual_concept_score": 0.6364,
+        "bilingual_concepts_matched": 70,
+        "bilingual_concepts_expected": 110,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.2",
+      "section_number": "4.2",
+      "status": "automatically_verified",
+      "confidence": 0.8,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8532,
+        "bilingual_concept_score": 0.0,
+        "bilingual_concepts_matched": 0,
+        "bilingual_concepts_expected": 5,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "semantic_concept_mismatch"
+      ],
+      "issues": [
+        "semantic_concept_mismatch"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.2.1",
+      "section_number": "4.2.1",
+      "status": "automatically_verified",
+      "confidence": 0.9029,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9121,
+        "bilingual_concept_score": 0.5143,
+        "bilingual_concepts_matched": 18,
+        "bilingual_concepts_expected": 35,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.2.2",
+      "section_number": "4.2.2",
+      "status": "automatically_verified",
+      "confidence": 0.8675,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.864,
+        "bilingual_concept_score": 0.3377,
+        "bilingual_concepts_matched": 26,
+        "bilingual_concepts_expected": 77,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.2.3",
+      "section_number": "4.2.3",
+      "status": "automatically_verified",
+      "confidence": 0.8667,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.76,
+        "bilingual_concept_score": 0.3333,
+        "bilingual_concepts_matched": 12,
+        "bilingual_concepts_expected": 36,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.2.4",
+      "section_number": "4.2.4",
+      "status": "automatically_verified",
+      "confidence": 0.8552,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.844,
+        "bilingual_concept_score": 0.2759,
+        "bilingual_concepts_matched": 8,
+        "bilingual_concepts_expected": 29,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.2.5",
+      "section_number": "4.2.5",
+      "status": "automatically_verified",
+      "confidence": 0.929,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8441,
+        "bilingual_concept_score": 0.6452,
+        "bilingual_concepts_matched": 20,
+        "bilingual_concepts_expected": 31,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.2.6",
+      "section_number": "4.2.6",
+      "status": "automatically_verified",
+      "confidence": 0.8747,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8496,
+        "bilingual_concept_score": 0.3733,
+        "bilingual_concepts_matched": 28,
+        "bilingual_concepts_expected": 75,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.2.7",
+      "section_number": "4.2.7",
+      "status": "automatically_verified",
+      "confidence": 0.8286,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0441,
+        "bilingual_concept_score": 0.1429,
+        "bilingual_concepts_matched": 4,
+        "bilingual_concepts_expected": 28,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "semantic_concept_mismatch"
+      ],
+      "issues": [
+        "semantic_concept_mismatch"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.2.8",
+      "section_number": "4.2.8",
+      "status": "automatically_verified",
+      "confidence": 0.8696,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.1022,
+        "bilingual_concept_score": 0.3478,
+        "bilingual_concepts_matched": 8,
+        "bilingual_concepts_expected": 23,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.3",
+      "section_number": "4.3",
+      "status": "automatically_verified",
+      "confidence": 0.9015,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9637,
+        "bilingual_concept_score": 0.5075,
+        "bilingual_concepts_matched": 34,
+        "bilingual_concepts_expected": 67,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.3.1",
+      "section_number": "4.3.1",
+      "status": "automatically_verified",
+      "confidence": 0.9032,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.7821,
+        "bilingual_concept_score": 0.5161,
+        "bilingual_concepts_matched": 16,
+        "bilingual_concepts_expected": 31,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.3.2",
+      "section_number": "4.3.2",
+      "status": "automatically_verified",
+      "confidence": 0.85,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9846,
+        "bilingual_concept_score": 0.25,
+        "bilingual_concepts_matched": 2,
+        "bilingual_concepts_expected": 8,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.3.3",
+      "section_number": "4.3.3",
+      "status": "automatically_verified",
+      "confidence": 0.837,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8424,
+        "bilingual_concept_score": 0.1852,
+        "bilingual_concepts_matched": 10,
+        "bilingual_concepts_expected": 54,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "semantic_concept_mismatch"
+      ],
+      "issues": [
+        "semantic_concept_mismatch"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.3.4",
+      "section_number": "4.3.4",
+      "status": "automatically_verified",
+      "confidence": 0.8966,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8796,
+        "bilingual_concept_score": 0.4828,
+        "bilingual_concepts_matched": 42,
+        "bilingual_concepts_expected": 87,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.3.5",
+      "section_number": "4.3.5",
+      "status": "automatically_verified",
+      "confidence": 0.9091,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8829,
+        "bilingual_concept_score": 0.5455,
+        "bilingual_concepts_matched": 24,
+        "bilingual_concepts_expected": 44,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.3.6",
+      "section_number": "4.3.6",
+      "status": "automatically_verified",
+      "confidence": 0.8414,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.7553,
+        "bilingual_concept_score": 0.2069,
+        "bilingual_concepts_matched": 6,
+        "bilingual_concepts_expected": 29,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.3.7",
+      "section_number": "4.3.7",
+      "status": "automatically_verified",
+      "confidence": 0.8741,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9226,
+        "bilingual_concept_score": 0.3704,
+        "bilingual_concepts_matched": 10,
+        "bilingual_concepts_expected": 27,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-a1-4.3.8",
+      "section_number": "4.3.8",
+      "status": "automatically_verified",
+      "confidence": 0.8842,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8597,
+        "bilingual_concept_score": 0.4211,
+        "bilingual_concepts_matched": 32,
+        "bilingual_concepts_expected": 76,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-1",
+      "section_number": "A.1",
+      "status": "automatically_verified",
+      "confidence": 0.9027,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0883,
+        "bilingual_concept_score": 0.5135,
+        "bilingual_concepts_matched": 38,
+        "bilingual_concepts_expected": 74,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-1.1",
+      "section_number": "A.1.1",
+      "status": "automatically_verified",
+      "confidence": 0.9317,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9975,
+        "bilingual_concept_score": 0.6585,
+        "bilingual_concepts_matched": 54,
+        "bilingual_concepts_expected": 82,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-1.2",
+      "section_number": "A.1.2",
+      "status": "automatically_verified",
+      "confidence": 0.931,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.803,
+        "bilingual_concept_score": 0.6552,
+        "bilingual_concepts_matched": 76,
+        "bilingual_concepts_expected": 116,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-2",
+      "section_number": "A.2",
+      "status": "automatically_verified",
+      "confidence": 0.8914,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0223,
+        "bilingual_concept_score": 0.4571,
+        "bilingual_concepts_matched": 16,
+        "bilingual_concepts_expected": 35,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-2.1",
+      "section_number": "A.2.1",
+      "status": "automatically_verified",
+      "confidence": 0.9182,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9782,
+        "bilingual_concept_score": 0.5909,
+        "bilingual_concepts_matched": 26,
+        "bilingual_concepts_expected": 44,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-2.2",
+      "section_number": "A.2.2",
+      "status": "automatically_verified",
+      "confidence": 0.9077,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.7686,
+        "bilingual_concept_score": 0.5385,
+        "bilingual_concepts_matched": 28,
+        "bilingual_concepts_expected": 52,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-3",
+      "section_number": "A.3",
+      "status": "automatically_verified",
+      "confidence": 0.9103,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.1802,
+        "bilingual_concept_score": 0.5517,
+        "bilingual_concepts_matched": 16,
+        "bilingual_concepts_expected": 29,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-3.1",
+      "section_number": "A.3.1",
+      "status": "automatically_verified",
+      "confidence": 1.0,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0455,
+        "bilingual_concept_score": 1.0,
+        "bilingual_concepts_matched": 0,
+        "bilingual_concepts_expected": 0,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-3.2",
+      "section_number": "A.3.2",
+      "status": "automatically_verified",
+      "confidence": 0.8914,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.985,
+        "bilingual_concept_score": 0.4571,
+        "bilingual_concepts_matched": 16,
+        "bilingual_concepts_expected": 35,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-3.3",
+      "section_number": "A.3.3",
+      "status": "automatically_verified",
+      "confidence": 0.9081,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.2059,
+        "bilingual_concept_score": 0.5405,
+        "bilingual_concepts_matched": 20,
+        "bilingual_concepts_expected": 37,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-3.4",
+      "section_number": "A.3.4",
+      "status": "automatically_verified",
+      "confidence": 0.8957,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0261,
+        "bilingual_concept_score": 0.4783,
+        "bilingual_concepts_matched": 22,
+        "bilingual_concepts_expected": 46,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-3.5",
+      "section_number": "A.3.5",
+      "status": "automatically_verified",
+      "confidence": 0.9045,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9713,
+        "bilingual_concept_score": 0.5227,
+        "bilingual_concepts_matched": 46,
+        "bilingual_concepts_expected": 88,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-3.6",
+      "section_number": "A.3.6",
+      "status": "automatically_verified",
+      "confidence": 0.8935,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9459,
+        "bilingual_concept_score": 0.4673,
+        "bilingual_concepts_matched": 50,
+        "bilingual_concepts_expected": 107,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-a-3.7",
+      "section_number": "A.3.7",
+      "status": "automatically_verified",
+      "confidence": 0.9182,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.926,
+        "bilingual_concept_score": 0.5909,
+        "bilingual_concepts_matched": 78,
+        "bilingual_concepts_expected": 132,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-1",
+      "section_number": "B.1",
+      "status": "automatically_verified",
+      "confidence": 0.8824,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9006,
+        "bilingual_concept_score": 0.4118,
+        "bilingual_concepts_matched": 14,
+        "bilingual_concepts_expected": 34,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-2",
+      "section_number": "B.2",
+      "status": "automatically_verified",
+      "confidence": 0.9314,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9641,
+        "bilingual_concept_score": 0.6571,
+        "bilingual_concepts_matched": 46,
+        "bilingual_concepts_expected": 70,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-3",
+      "section_number": "B.3",
+      "status": "automatically_verified",
+      "confidence": 0.8211,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0633,
+        "bilingual_concept_score": 0.1053,
+        "bilingual_concepts_matched": 2,
+        "bilingual_concepts_expected": 19,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "semantic_concept_mismatch"
+      ],
+      "issues": [
+        "semantic_concept_mismatch"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-4",
+      "section_number": "B.4",
+      "status": "automatically_verified",
+      "confidence": 0.9055,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0144,
+        "bilingual_concept_score": 0.5275,
+        "bilingual_concepts_matched": 48,
+        "bilingual_concepts_expected": 91,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-5",
+      "section_number": "B.5",
+      "status": "automatically_verified",
+      "confidence": 0.8235,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8407,
+        "bilingual_concept_score": 0.1176,
+        "bilingual_concepts_matched": 2,
+        "bilingual_concepts_expected": 17,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "semantic_concept_mismatch"
+      ],
+      "issues": [
+        "semantic_concept_mismatch"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-6",
+      "section_number": "B.6",
+      "status": "automatically_verified",
+      "confidence": 0.9224,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9071,
+        "bilingual_concept_score": 0.6122,
+        "bilingual_concepts_matched": 30,
+        "bilingual_concepts_expected": 49,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-7",
+      "section_number": "B.7",
+      "status": "automatically_verified",
+      "confidence": 0.9143,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9841,
+        "bilingual_concept_score": 0.5714,
+        "bilingual_concepts_matched": 28,
+        "bilingual_concepts_expected": 49,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-10",
+      "section_number": "B.10",
+      "status": "automatically_verified",
+      "confidence": 0.8656,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.783,
+        "bilingual_concept_score": 0.3279,
+        "bilingual_concepts_matched": 20,
+        "bilingual_concepts_expected": 61,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-8",
+      "section_number": "B.8",
+      "status": "automatically_verified",
+      "confidence": 0.8711,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0483,
+        "bilingual_concept_score": 0.3556,
+        "bilingual_concepts_matched": 16,
+        "bilingual_concepts_expected": 45,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-9",
+      "section_number": "B.9",
+      "status": "automatically_verified",
+      "confidence": 0.8833,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8649,
+        "bilingual_concept_score": 0.4167,
+        "bilingual_concepts_matched": 20,
+        "bilingual_concepts_expected": 48,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-11",
+      "section_number": "B.11",
+      "status": "automatically_verified",
+      "confidence": 0.9435,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0936,
+        "bilingual_concept_score": 0.7174,
+        "bilingual_concepts_matched": 66,
+        "bilingual_concepts_expected": 92,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-12",
+      "section_number": "B.12",
+      "status": "automatically_verified",
+      "confidence": 0.9273,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9134,
+        "bilingual_concept_score": 0.6364,
+        "bilingual_concepts_matched": 42,
+        "bilingual_concepts_expected": 66,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-13",
+      "section_number": "B.13",
+      "status": "automatically_verified",
+      "confidence": 0.8,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.1077,
+        "bilingual_concept_score": 0.0,
+        "bilingual_concepts_matched": 0,
+        "bilingual_concepts_expected": 12,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [
+        "semantic_concept_mismatch"
+      ],
+      "issues": [
+        "semantic_concept_mismatch"
+      ]
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-14",
+      "section_number": "B.14",
+      "status": "automatically_verified",
+      "confidence": 0.8873,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0163,
+        "bilingual_concept_score": 0.4364,
+        "bilingual_concepts_matched": 24,
+        "bilingual_concepts_expected": 55,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-15",
+      "section_number": "B.15",
+      "status": "automatically_verified",
+      "confidence": 0.9,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.9896,
+        "bilingual_concept_score": 0.5,
+        "bilingual_concepts_matched": 2,
+        "bilingual_concepts_expected": 4,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-b-16",
+      "section_number": "B.16",
+      "status": "automatically_verified",
+      "confidence": 0.9217,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8389,
+        "bilingual_concept_score": 0.6087,
+        "bilingual_concepts_matched": 14,
+        "bilingual_concepts_expected": 23,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-c-1",
+      "section_number": "C.1",
+      "status": "automatically_verified",
+      "confidence": 0.937,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 1.0349,
+        "bilingual_concept_score": 0.6852,
+        "bilingual_concepts_matched": 74,
+        "bilingual_concepts_expected": 108,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-c-2",
+      "section_number": "C.2",
+      "status": "automatically_verified",
+      "confidence": 0.9527,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.92,
+        "bilingual_concept_score": 0.7634,
+        "bilingual_concepts_matched": 142,
+        "bilingual_concepts_expected": 186,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    },
+    {
+      "section_id": "ich-e6-r3-app-c-3",
+      "section_number": "C.3",
+      "status": "automatically_verified",
+      "confidence": 0.97,
+      "criteria": {
+        "section_numbering_match": true,
+        "toc_start_page_match": true,
+        "heading_boundary_match": true,
+        "length_ratio_en_fi": 0.8877,
+        "bilingual_concept_score": 0.8498,
+        "bilingual_concepts_matched": 266,
+        "bilingual_concepts_expected": 313,
+        "reference_token_score": 1.0,
+        "foreign_numbers_fi": [],
+        "foreign_numbers_en": []
+      },
+      "errors": [],
+      "warnings": [],
+      "issues": []
+    }
+  ],
+  "findings": [
+    {
+      "severity": "warning",
+      "code": "semantic_concept_mismatch",
+      "section_id": "ich-e6-r3-introduction-rakenne",
+      "message": "Kaksikielisten käsitteiden vastaavuus 0.11 (6/53) on liian matala."
+    },
+    {
+      "severity": "warning",
+      "code": "foreign_number_at_line_start",
+      "section_id": "ich-e6-r3-a1-1.2",
+      "message": "Osion ulkopuolinen numero alkaa PDF-poiminnan rivin: FI=['2.8.11'], EN=[]. Julkaisumuodon otsikkotarkistus ratkaisee, onko kyse ristiviitteestä."
+    },
+    {
+      "severity": "warning",
+      "code": "foreign_number_at_line_start",
+      "section_id": "ich-e6-r3-a1-2.6",
+      "message": "Osion ulkopuolinen numero alkaa PDF-poiminnan rivin: FI=[], EN=['1.2.3']. Julkaisumuodon otsikkotarkistus ratkaisee, onko kyse ristiviitteestä."
+    },
+    {
+      "severity": "warning",
+      "code": "semantic_concept_mismatch",
+      "section_id": "ich-e6-r3-a1-2.7",
+      "message": "Kaksikielisten käsitteiden vastaavuus 0.18 (4/22) on liian matala."
+    },
+    {
+      "severity": "warning",
+      "code": "foreign_number_at_line_start",
+      "section_id": "ich-e6-r3-a1-2.12",
+      "message": "Osion ulkopuolinen numero alkaa PDF-poiminnan rivin: FI=['3.16.1'], EN=[]. Julkaisumuodon otsikkotarkistus ratkaisee, onko kyse ristiviitteestä."
+    },
+    {
+      "severity": "warning",
+      "code": "semantic_concept_mismatch",
+      "section_id": "ich-e6-r3-a1-3.2",
+      "message": "Kaksikielisten käsitteiden vastaavuus 0.19 (4/21) on liian matala."
+    },
+    {
+      "severity": "warning",
+      "code": "semantic_concept_mismatch",
+      "section_id": "ich-e6-r3-a1-4.2",
+      "message": "Kaksikielisten käsitteiden vastaavuus 0.00 (0/5) on liian matala."
+    },
+    {
+      "severity": "warning",
+      "code": "semantic_concept_mismatch",
+      "section_id": "ich-e6-r3-a1-4.2.7",
+      "message": "Kaksikielisten käsitteiden vastaavuus 0.14 (4/28) on liian matala."
+    },
+    {
+      "severity": "warning",
+      "code": "semantic_concept_mismatch",
+      "section_id": "ich-e6-r3-a1-4.3.3",
+      "message": "Kaksikielisten käsitteiden vastaavuus 0.19 (10/54) on liian matala."
+    },
+    {
+      "severity": "warning",
+      "code": "semantic_concept_mismatch",
+      "section_id": "ich-e6-r3-app-b-3",
+      "message": "Kaksikielisten käsitteiden vastaavuus 0.11 (2/19) on liian matala."
+    },
+    {
+      "severity": "warning",
+      "code": "semantic_concept_mismatch",
+      "section_id": "ich-e6-r3-app-b-5",
+      "message": "Kaksikielisten käsitteiden vastaavuus 0.12 (2/17) on liian matala."
+    },
+    {
+      "severity": "warning",
+      "code": "semantic_concept_mismatch",
+      "section_id": "ich-e6-r3-app-b-13",
+      "message": "Kaksikielisten käsitteiden vastaavuus 0.00 (0/12) on liian matala."
+    }
+  ]
+}

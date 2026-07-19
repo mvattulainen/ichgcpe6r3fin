@@ -35,7 +35,7 @@ Tutkimustiedot ja metatiedot voidaan h채vitt채채 pysyv채sti, kun niit채 ei en채�
 >
 > <div lang="en">
 >
-> The trial data and metadata may be permanently destroyed when no longer required as determined by applicable regulatory requirements.
+> 4.2.8 Destruction The trial data and metadata may be permanently destroyed when no longer required as determined by applicable regulatory requirements.
 >
 > </div>
 >

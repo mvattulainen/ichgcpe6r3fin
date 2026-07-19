@@ -149,15 +149,30 @@ def extract_lines(pdf: pdfplumber.PDF, start: int, end: int) -> list[PageLine]:
     return result
 
 
+def parse_toc_line(text: str) -> tuple[str, str, int] | None:
+    # The Finnish PDF sometimes positions the digits of a two-digit TOC
+    # page number far enough apart that pdfplumber returns e.g. ``2 3``.
+    # Treat the final run of digits and layout spaces after the dot leader as
+    # one page number. The dot leader removes ambiguity with digits in titles.
+    match = re.match(
+        r"^((?:\d+|[ABC])(?:\.\d+)+)\s+(.+?)\s*\.{2,}\s*((?:\d\s*)+)\s*$",
+        text,
+    )
+    if not match:
+        return None
+    title = match.group(2).strip(" .")
+    if not title:
+        return None
+    return match.group(1), title, int(re.sub(r"\s+", "", match.group(3)))
+
+
 def parse_toc(pdf: pdfplumber.PDF, start: int, end: int) -> dict[str, dict[str, Any]]:
     result: dict[str, dict[str, Any]] = {}
     for line in extract_lines(pdf, start, end):
-        match = re.match(r"^((?:\d+|[ABC])(?:\.\d+)+)\s+(.+?)\s+(\d+)\s*$", line.text)
-        if not match:
-            continue
-        title = re.split(r"\s*\.{2,}\s*", match.group(2))[0].strip(" .")
-        if title:
-            result[match.group(1)] = {"title": title, "page": int(match.group(3))}
+        parsed = parse_toc_line(line.text)
+        if parsed:
+            number, title, page = parsed
+            result[number] = {"title": title, "page": page}
     return result
 
 
@@ -166,13 +181,22 @@ def title_key(text: str) -> str:
 
 
 def find_start(
-    lines: list[PageLine], section: str, title: str | None = None, expected_page: int | None = None
+    lines: list[PageLine],
+    section: str,
+    title: str | None = None,
+    expected_page: int | None = None,
+    min_page: int | None = None,
+    max_page: int | None = None,
 ) -> int | None:
     pattern = re.compile(rf"^{re.escape(section)}(?:\.|\s)\s*(.+)$") if section.isdigit() else re.compile(
         rf"^{re.escape(section)}\s+(.+)$"
     )
     candidates: list[tuple[int, int]] = []
     for index, line in enumerate(lines):
+        if min_page is not None and line.page < min_page:
+            continue
+        if max_page is not None and line.page > max_page:
+            continue
         match = pattern.match(line.text)
         if not match:
             continue
@@ -273,7 +297,9 @@ def anchor(section_id: str, suffix: str) -> str:
     return f"{prefix}-{clean}"
 
 
-def publication_text(lines: list[PageLine], section_id: str, language: str) -> str:
+def publication_text(
+    lines: list[PageLine], section_id: str, language: str, root_number: str | None = None
+) -> str:
     paragraphs: list[str] = []
     current = ""
     current_anchor: str | None = None
@@ -290,7 +316,7 @@ def publication_text(lines: list[PageLine], section_id: str, language: str) -> s
         line = item.text
         clause = re.match(r"^((?:\d+|[ABC])(?:\.\d+)+)\s+(.+)$", line)
         letter = re.match(r"^\(([a-z]|[ivx]+)\)\s*(.+)$", line, re.I)
-        if clause:
+        if clause and root_number and clause.group(1).startswith(root_number + "."):
             flush()
             cid, rest = clause.groups()
             paragraphs.append(
@@ -630,6 +656,10 @@ def link_glossary(text: str, glossary: list[dict[str, Any]]) -> tuple[str, int]:
 def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: list[dict[str, Any]]) -> list[dict[str, Any]]:
     fi_lines, en_lines = extract_lines(fi_pdf, 10, 94), extract_lines(en_pdf, 6, 63)
     fi_toc, en_toc = parse_toc(fi_pdf, 5, 9), parse_toc(en_pdf, 3, 5)
+    fi_annex_start = next(i for i, line in enumerate(fi_lines) if line.text.startswith("III. "))
+    en_annex_start = next(i for i, line in enumerate(en_lines) if line.text.startswith("III. "))
+    fi_annex_page = fi_lines[fi_annex_start].page
+    en_annex_page = en_lines[en_annex_start].page
     identifiers = list(en_toc)
     for extra in EXTRA_TITLED:
         if extra not in identifiers:
@@ -637,8 +667,20 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
     definitions: list[dict[str, Any]] = []
     for number in identifiers:
         fi_info, en_info = fi_toc.get(number, {}), en_toc.get(number, {})
-        fi_start = find_start(fi_lines, number, fi_info.get("title"), fi_info.get("page"))
-        en_start = find_start(en_lines, number, en_info.get("title"), en_info.get("page"))
+        fi_start = find_start(
+            fi_lines,
+            number,
+            fi_info.get("title"),
+            fi_info.get("page"),
+            min_page=fi_annex_page,
+        )
+        en_start = find_start(
+            en_lines,
+            number,
+            en_info.get("title"),
+            en_info.get("page"),
+            min_page=en_annex_page,
+        )
         if fi_start is None:
             continue
         fi_title = collect_title(fi_lines, fi_start, fi_info.get("title", ""))
@@ -651,7 +693,8 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
         ("3", "Toimeksiantaja", "Sponsor", 38, 25),
         ("4", "Tietojenhallinta – tutkija ja toimeksiantaja", "Data Governance – Investigator and Sponsor", 65, 43),
     ]:
-        fs, es = find_start(fi_lines, number, fi_title, fi_page), find_start(en_lines, number, en_title, en_page)
+        fs = find_start(fi_lines, number, fi_title, fi_page, min_page=fi_annex_page)
+        es = find_start(en_lines, number, en_title, en_page, min_page=en_annex_page)
         if fs is not None:
             definitions.append({"number": number, "kind": "main", "fi_start": fs, "en_start": es, "fi_title": fi_title, "en_title": en_title})
 
@@ -666,8 +709,11 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
         fi_body = strip_heading(fi_unit, item["fi_title"])
         en_body = strip_heading(en_unit, item["en_title"])
         sid = stable_id(item["number"])
-        exact_text_fi = publication_text(fi_body, sid, "fi")
-        exact_text_en = publication_text(en_body, sid, "en")
+        exact_text_fi = publication_text(fi_body, sid, "fi", item["number"])
+        # Keep the exact English heading in the English source block. Some
+        # titled container sections have no body before their first child, so
+        # dropping the heading would incorrectly make the alignment look empty.
+        exact_text_en = publication_text(en_unit, sid, "en", item["number"])
         fi_text, links = link_glossary(exact_text_fi, glossary)
         sections.append({
             "id": sid, "kind": "main", "section_number": item["number"],
@@ -676,38 +722,98 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
             "finnish_pages": sorted(set(x.page for x in fi_unit)), "english_pages": sorted(set(x.page for x in en_unit)),
             "text_fi": fi_text, "text_en": exact_text_en, "exact_text_fi": exact_text_fi,
             "exact_text_en": exact_text_en, "raw_body_fi": "\n".join(x.text for x in fi_body),
-            "raw_body_en": "\n".join(x.text for x in en_body), "raw_text_fi": "\n".join(x.text for x in fi_unit),
+            "raw_body_en": "\n".join(x.text for x in en_unit), "raw_text_fi": "\n".join(x.text for x in fi_unit),
             "raw_text_en": "\n".join(x.text for x in en_unit), "glossary_link_count": links,
-            "alignment_status": "automatically_verified" if en_unit else "unresolved",
+            "alignment_status": "alignment_candidate" if en_unit else "unresolved",
         })
 
-    # Introduction and its Finnish-only structural subheadings.
-    intro_boundaries: list[tuple[str, str, int]] = []
-    for key, title in [("johdanto", "I. Johdanto"), ("soveltamisala", "Ohjeen soveltamisala"), ("rakenne", "Ohjeen rakenne")]:
-        idx = next((i for i, line in enumerate(fi_lines) if line.text == title), None)
-        if idx is not None:
-            intro_boundaries.append((key, title, idx))
-    intro_end = next((i for i, line in enumerate(fi_lines) if line.text.startswith("II. ")), 0)
-    en_intro_start = next((i for i, line in enumerate(en_lines) if line.text == "I. Introduction"), 0)
-    en_intro_end = next((i for i, line in enumerate(en_lines) if line.text.startswith("II. ")), en_intro_start)
-    for i, (key, title, start) in enumerate(intro_boundaries):
-        end = intro_boundaries[i + 1][2] if i + 1 < len(intro_boundaries) else intro_end
-        unit = fi_lines[start:end]
+    # Split the introduction symmetrically by the explicit headings used in
+    # both sources. These are not Finnish-only structures.
+    intro_definitions = [
+        ("johdanto", "I. Johdanto", "I. Introduction"),
+        ("soveltamisala", "Ohjeen soveltamisala", "Guideline scope"),
+        ("rakenne", "Ohjeen rakenne", "Guideline structure"),
+    ]
+    intro_end = next(i for i, line in enumerate(fi_lines) if line.text.startswith("II. "))
+    en_intro_end = next(i for i, line in enumerate(en_lines) if line.text.startswith("II. "))
+    fi_intro_boundaries = [
+        next(i for i, line in enumerate(fi_lines[:intro_end]) if line.text == title_fi)
+        for _, title_fi, _ in intro_definitions
+    ]
+    en_intro_boundaries = [
+        next(i for i, line in enumerate(en_lines[:en_intro_end]) if line.text == title_en)
+        for _, _, title_en in intro_definitions
+    ]
+    fi_intro_units: dict[str, list[PageLine]] = {}
+    en_intro_units: dict[str, list[PageLine]] = {}
+    for index, (key, _, _) in enumerate(intro_definitions):
+        fi_end = fi_intro_boundaries[index + 1] if index + 1 < len(fi_intro_boundaries) else intro_end
+        en_end = en_intro_boundaries[index + 1] if index + 1 < len(en_intro_boundaries) else en_intro_end
+        fi_intro_units[key] = fi_lines[fi_intro_boundaries[index]:fi_end]
+        en_intro_units[key] = en_lines[en_intro_boundaries[index]:en_end]
+
+    # The English page footnote is visually attached to Guideline scope but
+    # pdfplumber places it after Guideline structure because it sits at the
+    # bottom of the same page. Reattach it to the section it annotates.
+    structure_unit = en_intro_units["rakenne"]
+    footnote_start = next(
+        (index for index, line in enumerate(structure_unit) if line.text.startswith("1 For the purpose of this guideline")),
+        None,
+    )
+    if footnote_start is not None:
+        en_intro_units["soveltamisala"].extend(structure_unit[footnote_start:])
+        en_intro_units["rakenne"] = structure_unit[:footnote_start]
+
+    for key, title_fi, title_en in intro_definitions:
+        fi_unit = fi_intro_units[key]
+        en_unit = en_intro_units[key]
         sid = stable_id(key, "intro")
-        exact_text_fi = publication_text(unit[1:], sid, "fi")
+        exact_text_fi = publication_text(fi_unit[1:], sid, "fi")
+        exact_text_en = publication_text(en_unit, sid, "en")
         fi_text, links = link_glossary(exact_text_fi, glossary)
-        en_unit = en_lines[en_intro_start:en_intro_end] if key == "johdanto" else []
-        en_text = publication_text(en_unit[1:], sid, "en") if en_unit else ""
         sections.append({
-            "id": sid, "kind": "intro", "section_number": key, "title_fi": title,
-            "title_en": "I. Introduction" if key == "johdanto" else None, "parent_id": None,
-            "folder": "01-johdanto", "finnish_pages": sorted(set(x.page for x in unit)),
-            "english_pages": sorted(set(x.page for x in en_unit)), "text_fi": fi_text, "text_en": en_text,
-            "exact_text_fi": exact_text_fi, "exact_text_en": en_text,
-            "raw_body_fi": "\n".join(x.text for x in unit[1:]), "raw_body_en": "\n".join(x.text for x in en_unit[1:]),
-            "raw_text_fi": "\n".join(x.text for x in unit), "raw_text_en": "\n".join(x.text for x in en_unit),
-            "glossary_link_count": links, "alignment_status": "automatically_verified" if en_unit else "finnish_only_structure",
+            "id": sid, "kind": "intro", "section_number": key, "title_fi": title_fi,
+            "title_en": title_en, "parent_id": None, "folder": "01-johdanto",
+            "finnish_pages": sorted(set(x.page for x in fi_unit)),
+            "english_pages": sorted(set(x.page for x in en_unit)), "text_fi": fi_text,
+            "text_en": exact_text_en, "exact_text_fi": exact_text_fi,
+            "exact_text_en": exact_text_en, "raw_body_fi": "\n".join(x.text for x in fi_unit[1:]),
+            "raw_body_en": "\n".join(x.text for x in en_unit),
+            "raw_text_fi": "\n".join(x.text for x in fi_unit),
+            "raw_text_en": "\n".join(x.text for x in en_unit), "glossary_link_count": links,
+            "alignment_status": "alignment_candidate",
         })
+
+    # Preserve the complete preamble under II in both languages. It is
+    # substantive source text, not merely a folder heading.
+    principle_one_fi = next(
+        i for i, line in enumerate(fi_lines[intro_end + 1:], intro_end + 1)
+        if re.match(r"^1\.\s+", line.text)
+    )
+    principle_one_en = next(
+        i for i, line in enumerate(en_lines[en_intro_end + 1:], en_intro_end + 1)
+        if re.match(r"^1\.\s+", line.text)
+    )
+    fi_principles_intro = fi_lines[intro_end:principle_one_fi]
+    en_principles_intro = en_lines[en_intro_end:principle_one_en]
+    principles_sid = "ich-e6-r3-principles-introduction"
+    principles_exact_fi = publication_text(fi_principles_intro[1:], principles_sid, "fi")
+    principles_exact_en = publication_text(en_principles_intro, principles_sid, "en")
+    principles_text_fi, principles_links = link_glossary(principles_exact_fi, glossary)
+    sections.append({
+        "id": principles_sid, "kind": "principles_intro", "section_number": "periaatteiden-johdanto",
+        "title_fi": fi_principles_intro[0].text, "title_en": en_principles_intro[0].text,
+        "parent_id": None, "folder": "02-gcp-periaatteet",
+        "finnish_pages": sorted(set(x.page for x in fi_principles_intro)),
+        "english_pages": sorted(set(x.page for x in en_principles_intro)),
+        "text_fi": principles_text_fi, "text_en": principles_exact_en,
+        "exact_text_fi": principles_exact_fi, "exact_text_en": principles_exact_en,
+        "raw_body_fi": "\n".join(x.text for x in fi_principles_intro[1:]),
+        "raw_body_en": "\n".join(x.text for x in en_principles_intro),
+        "raw_text_fi": "\n".join(x.text for x in fi_principles_intro),
+        "raw_text_en": "\n".join(x.text for x in en_principles_intro),
+        "glossary_link_count": principles_links, "alignment_status": "alignment_candidate",
+    })
 
     # Principles are titled in the body but omitted as individual entries from the English TOC.
     for number in range(1, 12):
@@ -725,8 +831,11 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
         fi_title = " ".join(re.sub(rf"^{number}\.\s+", "", x.text) if i == 0 else x.text for i, x in enumerate(fi_unit[:fi_clause]))
         en_title = " ".join(re.sub(rf"^{number}\.\s+", "", x.text) if i == 0 else x.text for i, x in enumerate(en_unit[:en_clause]))
         sid = stable_id(str(number), "principle")
-        exact_text_fi = publication_text(fi_unit[fi_clause:], sid, "fi")
-        exact_text_en = publication_text(en_unit[en_clause:], sid, "en")
+        exact_text_fi = publication_text(fi_unit[fi_clause:], sid, "fi", str(number))
+        # The principle heading is substantive normative source text. It is
+        # already the Finnish page title, but must appear in the English source
+        # quotation so the two language sections are complete counterparts.
+        exact_text_en = publication_text(en_unit, sid, "en", str(number))
         fi_text, links = link_glossary(exact_text_fi, glossary)
         sections.append({
             "id": sid, "kind": "principle", "section_number": str(number), "title_fi": f"{number}. {fi_title}",
@@ -734,9 +843,9 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
             "finnish_pages": sorted(set(x.page for x in fi_unit)), "english_pages": sorted(set(x.page for x in en_unit)),
             "text_fi": fi_text, "text_en": exact_text_en, "exact_text_fi": exact_text_fi,
             "exact_text_en": exact_text_en, "raw_body_fi": "\n".join(x.text for x in fi_unit[fi_clause:]),
-            "raw_body_en": "\n".join(x.text for x in en_unit[en_clause:]),
+            "raw_body_en": "\n".join(x.text for x in en_unit),
             "raw_text_fi": "\n".join(x.text for x in fi_unit), "raw_text_en": "\n".join(x.text for x in en_unit),
-            "glossary_link_count": links, "alignment_status": "automatically_verified",
+            "glossary_link_count": links, "alignment_status": "alignment_candidate",
         })
     return sorted(sections, key=lambda x: (list(FOLDERS).index(x["folder"]), min(x["finnish_pages"] or [999]), x["id"]))
 
@@ -751,6 +860,8 @@ def write_section_pages(sections: list[dict[str, Any]]) -> None:
         filename = f"{number.replace('.', '-').lower()}-{ascii_slug(title_without_number)[:70]}.md"
         if section["kind"] == "intro":
             filename = f"{ascii_slug(number)}.md"
+        elif section["kind"] == "principles_intro":
+            filename = "johdanto.md"
         elif section["kind"] == "principle":
             filename = f"periaate-{int(number):02d}.md"
         permalink = f"/{section['folder']}/{filename[:-3]}/"

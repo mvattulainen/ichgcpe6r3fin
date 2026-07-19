@@ -71,6 +71,8 @@ is_based_on:
 >
 > <div lang="en">
 >
+> 4.3.4 Validation
+>
 > - (a) The responsible party is responsible for the validation status of the system throughout its life cycle. The approach to validation of computerised systems should be based on a risk assessment that considers the intended use of the system; the purpose and importance of the data/record that are collected/generated, maintained and retained in the system; and the potential of the system to affect the well-being, rights and safety of trial participants and the reliability of trial results.
 >
 > - (b) Validation should demonstrate that the system conforms to the established requirements for completeness, accuracy and reliability and that its performance is consistent with its intended purpose.

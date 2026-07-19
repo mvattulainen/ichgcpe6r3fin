@@ -35,7 +35,7 @@ Tutkimuksen taloudelliset seikat tulee dokumentoida toimeksiantajan ja tutkijan/
 >
 > <div lang="en">
 >
-> The financial aspects of the trial should be documented in an agreement between the sponsor and the investigator/institution.
+> 3.5 Financing The financial aspects of the trial should be documented in an agreement between the sponsor and the investigator/institution.
 >
 > </div>
 >

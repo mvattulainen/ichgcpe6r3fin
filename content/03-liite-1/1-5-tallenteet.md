@@ -10,7 +10,7 @@ lang: "fi"
 translation_status: "unofficial"
 authoritative_language: "en"
 finnish_pages:
-  - 13
+  - 22
 english_pages:
   - 14
 english_section_number: "1.5"
@@ -29,13 +29,17 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-hammaslääkärillä (tai muulla pätevällä terveydenhuollon ammattilaisella paikallisten lakisääteisten vaatimusten mukaisesti) tulee olla kokonaisvastuu tutkimukseen liittyvästä lääketieteellisestä hoidosta ja tutkimukseen osallistujien puolesta tehdyistä lääketieteellisistä päätöksistä; asianmukaisenpätevyyden saaneet terveydenhuollon ammattilaiset voivat kuitenkin olla käytännön vuorovaikutuksessa, antaa lääketieteellistä hoitoa ja tehdä lääketieteellisiä päätöksiä lainsäädännön vaatimusten mukaisesti.
+<a id="ich-e6-r3-a1-1-5-1"></a>
 
-<a id="ich-e6-r3-a1-1-5-1-6"></a>
+### 1.5.1
 
-### 1.6
+Eettisen toimikunnan tulee säilyttää kaikki asiaankuuluvat tallenteet (mm. kirjalliset toimintaohjeet, jäsenluettelot, luettelot jäsenten ammateista/sidonnaisuuksista, esitetyt asiakirjat, kokousten pöytäkirjat ja kirjeenvaihto) lainsäädännön vaatimusten mukaisesti ja esittää ne pyynnöstä valvontaviranomaisille.
 
-Sellaisten tietojen [[sanasto/luottamuksellisuus|luottamuksellisuus]], jotka mahdollistavat tutkimukseen osallistujien tunnistamisen, tulee suojata sovellettavien yksityisyys- ja tietosuojavaatimusten mukaisesti. 2. [[sanasto/tietoon-perustuva-suostumus|Tietoon perustuva suostumus]] on olennainen osa tutkimuksen eettistä toteuttamista. Kliiniseen lääketutkimukseen osallistumisen tulee olla vapaaehtoista ja perustua suostumusprosessiin, jolla varmistetaan, että tutkimukseen osallistujat (tai tarvittaessa heidän lailliset edustajansa) ovat saaneet kaiken tarvittavan tiedon.
+<a id="ich-e6-r3-a1-1-5-2"></a>
+
+### 1.5.2
+
+Tutkijat, toimeksiantajat tai [[sanasto/valvontaviranomaiset|valvontaviranomaiset]] voivat pyytää eettistä toimikuntaa toimittamaan dokumentoidut toimintaohjeet ja jäsenluettelot.
 
 ## Liittyvät käsitteet
 
@@ -44,6 +48,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
+>
+> 1.5 Records
 >
 > **1.5.1**
 >

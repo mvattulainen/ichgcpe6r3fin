@@ -50,6 +50,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.8.2 Confirmation of Review by IRB/IEC
+>
 > - (a) Where reference is made to a submission to the IRB/IEC, this can be made by the investigator/institution or sponsor in accordance with applicable regulatory requirements (see section 1.1).
 >
 > - (b) The sponsor should ensure that the following is obtained:

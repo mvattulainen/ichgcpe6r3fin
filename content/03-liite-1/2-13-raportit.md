@@ -36,7 +36,7 @@ Kun tutkimus on saatu päätökseen, tutkijan tulee ilmoittaa siitä tutkimuslai
 >
 > <div lang="en">
 >
-> Upon completion of the trial, the investigator, where applicable, should inform the institution. The investigator/institution should provide the IRB/IEC with a summary of the trial’s outcome and, if applicable, the regulatory authority(ies) with any required reports.
+> 2.13 Reports Upon completion of the trial, the investigator, where applicable, should inform the institution. The investigator/institution should provide the IRB/IEC with a summary of the trial’s outcome and, if applicable, the regulatory authority(ies) with any required reports.
 >
 > </div>
 >

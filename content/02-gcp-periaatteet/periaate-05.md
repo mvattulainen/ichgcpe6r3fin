@@ -39,6 +39,8 @@ Henkilöitä, joilla on erilaista asiantuntemusta ja koulutusta, saatetaan tarvi
 >
 > <div lang="en">
 >
+> 5. Clinical trials should be designed and conducted by qualified individuals.
+>
 > **5.1**
 >
 > Individuals with different expertise and training may be needed across all phases of a clinical trial, such as physicians, nurses, pharmacists, scientists, ethicists, technology experts, trial coordinators, monitors, auditors and biostatisticians. Individuals involved in a trial should be qualified by education, training and experience to perform their respective task(s).

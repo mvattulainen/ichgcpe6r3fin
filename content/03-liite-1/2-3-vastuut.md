@@ -10,7 +10,8 @@ lang: "fi"
 translation_status: "unofficial"
 authoritative_language: "en"
 finnish_pages:
-  - 14
+  - 23
+  - 24
 english_pages:
   - 15
   - 16
@@ -21,6 +22,8 @@ aliases:
 tags:
   - "ich-e6-r3"
 roles:
+  - "monitoroija"
+  - "palveluntarjoaja"
   - "tutkija"
   - "tutkimuspaikan-henkilosto"
 review_status: "source_extracted"
@@ -31,13 +34,35 @@ is_based_on:
   - "ich-e6-r3-en-step5"
 ---
 
-kuten tutkimukseen osallistujien erityispiirteet, tutkimusasetelma, lääketieteellisistä interventioista syntyvät odotetut hyödyt ja riskit, tutkimuksen toteutusasetelma ja - ympäristö (esim. tutkimukset hätätilanteissa) ja sellaisen teknologian mahdollinen käyttö, jolla tutkimukseen osallistujille (tai heidän laillisille edustajilleen) välitetään tietoa tai jolla heiltä hankitaan [[sanasto/tietoon-perustuva-suostumus|tietoon perustuva suostumus]].
+<a id="ich-e6-r3-a1-2-3-1"></a>
 
-<a id="ich-e6-r3-a1-2-3-2-4"></a>
+### 2.3.1
 
-### 2.4
+[[sanasto/tutkija|Tutkija]] voi delegoida tutkimukseen liittyviä toimia muille henkilöille tai tahoille. [[sanasto/toimeksiantaja|Toimeksiantaja]] voi tukea tutkijaa sopivan palveluntarjoajan tunnistamisessa, mutta tutkijalla on kuitenkin lopullinen päätösvalta siitä, onko tutkijan tueksi tarkoitettu [[sanasto/palveluntarjoaja|palveluntarjoaja]] tarkoituksenmukainen toimeksiantajan tarjoaman tiedon perusteella (katso kappale 3.6.5). Tutkijalla säilyy kokonaisvastuu, ja hänen on valvottava asianmukaisesti henkilöitä tai tahoja, joille toimia on delegoitu, jotta tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi sekä tietojen luotettavuus voidaan taata. Tutkijan delegoituihin toimiin kohdistuvan valvonnan tason tulee perustua delegoitujen toimien luonteeseen ja olla oikeassa suhteessa kerättävien tietojen tärkeyteen sekä tutkimukseen osallistujien turvallisuuteen ja tietojen luotettavuuteen kohdistuviin riskeihin.
 
-Hätätilanteissa, joissa suostumusta ei voida saada ennen tutkimukseen osallistumista, suostumus tulee saada tutkimukseen osallistujalta tai hänen lailliselta edustajaltaan heti, kun se on mahdollista lainsäädännön vaatimusten ja eettisen toimikunnan hyväksymän prosessin mukaisesti. 3. Eettisen toimikunnan tulee arvioida kliiniset lääketutkimukset riippumattomasti.
+<a id="ich-e6-r3-a1-2-3-2"></a>
+
+### 2.3.2
+
+Tutkijan tulee varmistaa, että henkilöt tai tahot, joille [[sanasto/tutkija|tutkija]] on delegoinut tutkimukseen liittyviä toimia, ovat asianmukaisesti päteviä ja että heidät on perehdytetty riittävästi tutkimussuunnitelmaan, tutkimusvalmisteeseen ja heille osoitettuihin tutkimustehtäviin liittyviin asioihin (mukaan lukien muiden osapuolten tarjoaman henkilöstön toteuttamat toimet paikallisten lainsäädännön vaatimusten mukaisesti). Tutkimusta avustaville henkilöille annettavan tutkimuskohtaisen koulutuksen tulee vastata sitä, mikä on tarpeen, jotta he pystyvät asianmukaisesti suorittamaan delegoidut tutkimukseen liittyvät toimensa siltä osin kuin ne ylittävät heidän tavanomaisen koulutuksensa ja kokemuksensa.
+
+<a id="ich-e6-r3-a1-2-3-3"></a>
+
+### 2.3.3
+
+Tutkijan tulee varmistaa, että henkilöistä ja tahoista, joille [[sanasto/tutkija|tutkija]] on delegoinut tutkimukseen liittyviä toimia, pidetään kirjaa. Delegoinnin dokumentoinnin tulee olla oikeassa suhteessa tutkimukseen liittyvien toimien merkittävyyteen. Tilanteissa, joissa toimia suoritetaan osana kliinistä käytäntöä, delegointidokumentaatiota ei välttämättä vaadita.
+
+<a id="ich-e6-r3-a1-2-3-4"></a>
+
+### 2.3.4
+
+Tutkijan/tutkimuslaitoksen palveluntarjoajien kanssa tekemät sopimukset tutkimukseen liittyvistä toimista tulee dokumentoida.
+
+<a id="ich-e6-r3-a1-2-3-5"></a>
+
+### 2.3.5
+
+Tutkijan/tutkimuslaitoksen tulee sallia toimeksiantajan [[sanasto/monitorointi|monitorointi]] ja [[sanasto/auditointi|auditointi]], asianmukaisten valvontaviranomaisten tarkastukset sekä lainsäädännön vaatimusten mukaisesti eettisen toimikunnan arviointi.
 
 ## Liittyvät käsitteet
 
@@ -46,6 +71,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
+>
+> 2.3 Responsibilities
 >
 > **2.3.1**
 >

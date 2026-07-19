@@ -108,7 +108,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> The scientific integrity of the trial and the reliability of the results from the trial substantially depend on the trial design. A description of the trial design should include:
+> B.4 Trial design The scientific integrity of the trial and the reliability of the results from the trial substantially depend on the trial design. A description of the trial design should include:
 >
 > **B.4.1**
 >

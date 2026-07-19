@@ -35,7 +35,7 @@ Toimeksiantajalla tulee olla helposti saatavilla lääketieteen asiantuntijoita,
 >
 > <div lang="en">
 >
-> The sponsor should have medical personnel readily available who will be able to advise on specific trial- related medical questions or problems.
+> 3.4.1 Medical Expertise The sponsor should have medical personnel readily available who will be able to advise on specific trial- related medical questions or problems.
 >
 > </div>
 >

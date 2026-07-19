@@ -13,7 +13,8 @@ finnish_pages:
   - 10
   - 11
 english_pages:
-english_section_number: null
+  - 6
+english_section_number: "soveltamisala"
 permalink: "/01-johdanto/soveltamisala/"
 aliases:
   - "Ohjeen soveltamisala"
@@ -34,4 +35,12 @@ Tätä ohjetta sovelletaan sellaisiin tutkimusvalmisteiden interventiotutkimuksi
 
 Katso tekstissä linkitetyt sanastokäsitteet.
 
-> [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.
+> [!quote]- Alkuperäinen englanninkielinen lähdeteksti
+>
+> <div lang="en">
+>
+> Guideline scope This guideline applies to interventional clinical trials of investigational products that are intended to be submitted to regulatory authorities. The Principles of GCP in this guideline may also be applicable to other interventional clinical trials of investigational products1 that are not intended to support marketing authorisation applications in accordance with local requirements. The Annexes provide the basis for the appropriate interpretation and application of the principles and should therefore be appropriately considered; however, various approaches to the provisions in the Annexes may be considered provided they are justified and achieve the intended purpose of the application of the principles. This guideline encourages a risk-based and proportionate approach to the conduct of a clinical trial. 1 For the purpose of this guideline, the term “investigational products” should be considered synonymous with drugs, medicines, medicinal products, vaccines and biological products.
+>
+> </div>
+>
+> **Lähde:** ICH E6(R3), section soveltamisala, pages 6–6.

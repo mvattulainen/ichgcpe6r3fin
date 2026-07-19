@@ -13,7 +13,7 @@ finnish_pages:
   - 26
 english_pages:
   - 17
-english_section_number: null
+english_section_number: "2.7"
 permalink: "/03-liite-1/2-7-tutkimukseen-osallistujille-annettava-laaketieteellinen-hoito-ja/"
 aliases:
   - "Tutkimukseen osallistujille annettava lääketieteellinen hoito ja"
@@ -32,4 +32,12 @@ is_based_on:
 
 turvallisuusraportointi
 
-> [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.
+> [!quote]- Alkuperäinen englanninkielinen lähdeteksti
+>
+> <div lang="en">
+>
+> 2.7 Participant medical care and safety reporting
+>
+> </div>
+>
+> **Lähde:** ICH E6(R3), section 2.7, pages 17–17.

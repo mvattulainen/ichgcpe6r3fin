@@ -36,13 +36,7 @@ is_based_on:
 
 <a id="ich-e6-r3-a1-3-16-4-item-b"></a>
 
-- (b) Toimeksiantajan tulee varmistaa, että tutkimukseen osallistujat ovat antaneet suostumuksensa suoraan pääsyyn lähdetallenteisiin kappaleen
-
-<a id="ich-e6-r3-a1-3-16-4-3-16-4"></a>
-
-### 3.16.4
-
-alakohdassa (a) esitettyihin tarkoituksiin (ks. kappaleen 2.8.10 alakohta (n)).
+- (b) Toimeksiantajan tulee varmistaa, että tutkimukseen osallistujat ovat antaneet suostumuksensa suoraan pääsyyn lähdetallenteisiin kappaleen 3.16.4 alakohdassa (a) esitettyihin tarkoituksiin (ks. kappaleen 2.8.10 alakohta (n)).
 
 ## Liittyvät käsitteet
 
@@ -51,6 +45,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
+>
+> 3.16.4 Record access
 >
 > - (a) The sponsor should ensure that it is specified in the protocol or other documented agreement that the investigator(s)/institution(s) provide direct access to source records for trial-related monitoring, audits, regulatory inspection and, in accordance with applicable regulatory requirements, IRB/IEC review.
 >

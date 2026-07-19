@@ -40,7 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
-> Quality control should be applied using a risk-based approach to each stage of the data handling to ensure that data are reliable and have been processed correctly. Within clinical trials, monitoring and data management processes are the main quality control activities. Where appropriate, quality control activities may also be applied to facilities outside of investigator sites (e.g., central image reading facilities).
+> 3.11.3 Quality control Quality control should be applied using a risk-based approach to each stage of the data handling to ensure that data are reliable and have been processed correctly. Within clinical trials, monitoring and data management processes are the main quality control activities. Where appropriate, quality control activities may also be applied to facilities outside of investigator sites (e.g., central image reading facilities).
 >
 > </div>
 >

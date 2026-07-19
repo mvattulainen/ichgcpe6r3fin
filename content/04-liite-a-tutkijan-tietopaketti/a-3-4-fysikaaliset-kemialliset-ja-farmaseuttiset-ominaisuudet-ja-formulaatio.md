@@ -35,7 +35,7 @@ Tutkimusvalmisteen ainesosa(t) (mukaan luettuna kemiallinen kaava ja/tai rakenne
 >
 > <div lang="en">
 >
-> A description should be provided of the investigational product substance(s) (including the chemical and/or structural formula(e)), and a brief summary should be given of the relevant physical, chemical and pharmaceutical properties. To permit appropriate safety measures to be taken in the course of the trial, a description of the formulation(s) to be used, including excipients, should be provided and justified if clinically relevant. Instructions for the storage and handling of the dosage form(s) should also be given. Any structural similarities to other known compounds should be mentioned.
+> A.3.4 Physical, chemical and pharmaceutical properties and formulation A description should be provided of the investigational product substance(s) (including the chemical and/or structural formula(e)), and a brief summary should be given of the relevant physical, chemical and pharmaceutical properties. To permit appropriate safety measures to be taken in the course of the trial, a description of the formulation(s) to be used, including excipients, should be provided and justified if clinically relevant. Instructions for the storage and handling of the dosage form(s) should also be given. Any structural similarities to other known compounds should be mentioned.
 >
 > </div>
 >

@@ -36,7 +36,7 @@ Jos tutkimus lopetetaan tai keskeytetään ennenaikaisesti, toimeksiantajan tule
 >
 > <div lang="en">
 >
-> If a trial is prematurely terminated or suspended, the sponsor should promptly inform the investigators/institutions and the regulatory authority(ies) of the termination or suspension and the reason(s) for the termination or suspension. The IRB/IEC should also be informed promptly and provided with the reason(s) for the termination or suspension by the sponsor or by the investigator/institution, in accordance with applicable regulatory requirement(s). Where appropriate, the sponsor should provide the investigator with information about potential subsequent therapy(ies) and follow-up for the participants.
+> 3.17.1 Premature termination or suspension of a trial If a trial is prematurely terminated or suspended, the sponsor should promptly inform the investigators/institutions and the regulatory authority(ies) of the termination or suspension and the reason(s) for the termination or suspension. The IRB/IEC should also be informed promptly and provided with the reason(s) for the termination or suspension by the sponsor or by the investigator/institution, in accordance with applicable regulatory requirement(s). Where appropriate, the sponsor should provide the investigator with information about potential subsequent therapy(ies) and follow-up for the participants.
 >
 > </div>
 >

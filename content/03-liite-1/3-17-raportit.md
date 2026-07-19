@@ -13,7 +13,7 @@ finnish_pages:
   - 63
 english_pages:
   - 42
-english_section_number: null
+english_section_number: "3.17"
 permalink: "/03-liite-1/3-17-raportit/"
 aliases:
   - "Raportit"
@@ -31,4 +31,12 @@ is_based_on:
 
 
 
-> [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.
+> [!quote]- Alkuperäinen englanninkielinen lähdeteksti
+>
+> <div lang="en">
+>
+> 3.17 Reports
+>
+> </div>
+>
+> **Lähde:** ICH E6(R3), section 3.17, pages 42–42.

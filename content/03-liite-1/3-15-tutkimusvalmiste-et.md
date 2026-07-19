@@ -13,7 +13,7 @@ finnish_pages:
   - 55
 english_pages:
   - 36
-english_section_number: null
+english_section_number: "3.15"
 permalink: "/03-liite-1/3-15-tutkimusvalmiste-et/"
 aliases:
   - "Tutkimusvalmiste(et)"
@@ -31,4 +31,12 @@ is_based_on:
 
 
 
-> [!warning] Englanninkielistä vastinetta ei voitu kohdistaa automaattisesti.
+> [!quote]- Alkuperäinen englanninkielinen lähdeteksti
+>
+> <div lang="en">
+>
+> 3.15 Investigational Product(s)
+>
+> </div>
+>
+> **Lähde:** ICH E6(R3), section 3.15, pages 36–36.

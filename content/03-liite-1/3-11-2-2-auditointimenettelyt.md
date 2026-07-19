@@ -57,6 +57,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 3.11.2.2 Auditing procedures
+>
 > - (a) The sponsor should ensure that the auditing of clinical trials/processes is conducted in accordance with the sponsor’s documented procedures on what to audit, how to audit (i.e., on-site and/or remote), the frequency of audits and the form and content of audit reports.
 >
 > - (b) The sponsor’s audit plan, program and procedures for a trial audit should be guided, for example, by the importance of the trial to submissions to regulatory authorities, the number of participants in the trial, the type and complexity of the trial, the level of risks to the trial participants and any identified problem(s).

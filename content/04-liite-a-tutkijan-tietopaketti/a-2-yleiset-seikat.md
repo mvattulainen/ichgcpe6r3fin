@@ -34,7 +34,7 @@ Tässä kuvataan ne tiedot, jotka tutkijan tietopaketin tulee vähintään sisä
 >
 > <div lang="en">
 >
-> These considerations delineate the minimum information that should be included in an IB. It is expected that the type and extent of information available will vary with the stage of development of the investigational product. The IB should include:
+> A.2 General considerations These considerations delineate the minimum information that should be included in an IB. It is expected that the type and extent of information available will vary with the stage of development of the investigational product. The IB should include:
 >
 > </div>
 >

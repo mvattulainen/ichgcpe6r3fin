@@ -34,7 +34,7 @@ Rahoitus ja vakuutus, ellei niitä määritellä erillisessä sopimuksessa.
 >
 > <div lang="en">
 >
-> Financing and insurance, if not addressed in a separate agreement.
+> B.15 Financing and insurance Financing and insurance, if not addressed in a separate agreement.
 >
 > </div>
 >

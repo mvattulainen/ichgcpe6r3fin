@@ -75,6 +75,8 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 >
 > <div lang="en">
 >
+> 2.4 Communication with IRB/IEC
+>
 > **2.4.1**
 >
 > Submission to the IRB/IEC may be made by the investigator/institution or sponsor in accordance with applicable regulatory requirements (see section 1.1).

@@ -52,6 +52,8 @@ Strategiat, joilla seurataan tutkimukseen osallistujan sitoutumista hoitoon.
 >
 > <div lang="en">
 >
+> B.7 Treatment and interventions for participants
+>
 > **B.7.1**
 >
 > The treatment(s) to be administered, including the name(s) of all the product(s), the dose(s), the dosing schedule(s), the criteria for dose adjustment(s), the route/mode(s) of administration and the treatment period(s), including the follow-up period(s) for participants for each investigational product treatment/trial treatment group/arm of the trial.
