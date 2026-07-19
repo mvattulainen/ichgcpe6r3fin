@@ -1,0 +1,16 @@
+{
+  "corpus_id": "ich-e6-r3-fin",
+  "corpus_version": "2026.07.1",
+  "schema_version": "1.0.0",
+  "api_version": "v1",
+  "pipeline_version": "1.0.0",
+  "release_date": "2026-07-19",
+  "title": "ICH E6(R3) Finnish Knowledge Base",
+  "canonical_site": "https://mvattulainen.github.io/ichgcpe6r3fin",
+  "repository": "https://github.com/mvattulainen/ichgcpe6r3fin",
+  "authoritative_language": "en",
+  "available_languages": [
+    "en",
+    "fi"
+  ]
+}

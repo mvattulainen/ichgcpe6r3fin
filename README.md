@@ -23,7 +23,15 @@ Versioitu, kaksikielinen ja koneellisesti luettava tietopohja Fimean tarkistamas
 
 Sivuston etusivua muokataan tiedostossa `content/index.md`. Generointiputki säilyttää tämän tiedoston, muut `content/`-hakemiston juuressa olevat Markdown-sivut sekä piilotetut sovellusasetushakemistot muuttamattomina. Muut alikansioiden sivut tuotetaan automaattisesti.
 
+Hakemisto, jossa on `.manual`-tiedosto, säilytetään myös muuttamattomana. Tätä käytetään käsin ylläpidettäviin kehittäjä-, agentti- ja oikeussivuihin.
+
 `npm run validate` tarkistaa lisäksi, että julkaistavaksi tarkoitettu suomen- ja englanninkielinen lähdeteksti vastaa PDF-poimintaa. Tulokset tallennetaan tiedostoon `reports/source-exactness-report.md`.
+
+## Koneluettava korpus
+
+`npm run build` julkaisee Quartz-sivuston lisäksi versionoidut JSON-aineistot ja JSON Schemat, yksittäiset tietueet, JSONL-lataukset, OpenAPI-kuvauksen, `llms.txt`-tiedoston, korpusmanifestin, oikeustiedot, tarkistustyöarkit, muutos- ja julkaisutiedot sekä offline-paketin. Koonti validoidaan komennolla `python scripts/validate_machine_resources.py`.
+
+Normatiivinen määrittely on tiedostossa `machinereadability/machine-readable-corpus-specification.md`. Versiot luetaan tiedostosta `machine-readable-config.json`.
 
 ## Lähde- ja tulkintahuomautus
 

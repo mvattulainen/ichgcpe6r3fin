@@ -482,7 +482,9 @@ def semantic_records(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF) -> list[dic
             "source_section": "C.3",
             "source_pages_fi": [entry["page"]],
             "source_pages_en": [en_entry["page"]] if en_entry else [],
-            "review_status": "automatically_aligned_by_table_order" if en_entry else "english_alignment_pending",
+            "classification": "derived",
+            "alignment_status": "automatically_aligned_by_table_order" if en_entry else "english_alignment_pending",
+            "review_status": "pending",
         })
     return result
 
@@ -508,7 +510,7 @@ def roles_for(section: str, text: str) -> list[str]:
 def extract_clauses(text: str) -> dict[str, str]:
     matches = list(
         re.finditer(
-            r'(?m)^(?:<a id="[^"]+"></a>\n\n)?###\s+((?:\d+|[ABC])(?:\.\d+)+)\s*\n\n',
+            r'(?m)^(?:<a id="[^"]+"></a>\n\n)?(?:###\s+|\*\*)((?:\d+|[ABC])(?:\.\d+)+)(?:\*\*)?\s*\n\n',
             text,
         )
     )
@@ -565,7 +567,10 @@ def build_obligations(sections: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "evidence_status": "illustrative_not_source_requirement",
                 "compound_clause": len(modalities) > 1,
                 "confidence": 0.76 if len(modalities) > 1 or not en_text else 0.92,
-                "review_status": "awaiting_expert_review",
+                "classification": "derived",
+                "authoritative": False,
+                "derivation_method": "rule_based_modality_extraction",
+                "review_status": "pending",
             })
     return obligations
 
@@ -802,12 +807,13 @@ def write_role_pages(obligations: list[dict[str, Any]]) -> None:
     }
     for role in ROLE_IDS:
         items = [x for x in obligations if role in x["responsible_actor"] + x["supporting_actors"]]
-        list_items = "\n".join(f"- {x['normalized_action_fi']} ([{x['source_section']}](../vastuutaulukot/index.md#{ascii_slug(x['obligation_id'])}))" for x in items) or "- Automaattisesti kohdistettuja velvoitteita ei löytynyt."
+        list_items = "\n".join(f"- **{x['obligation_id']}** — {x['normalized_action_fi']} ([lähdekohta {x['source_section']}](../vastuutaulukot/index.md#{ascii_slug(x['obligation_id'])}))" for x in items) or "- Automaattisesti kohdistettuja velvoitteita ei löytynyt."
         records = sorted({e for x in items for e in x["example_evidence"]})
         evidence = "\n".join(f"- {x} _(havainnollistava esimerkki, ei lähdevaatimus)_" for x in records) or "- Ei automaattisesti johdettuja esimerkkejä."
         front = {
-            "title": labels[role], "id": f"ich-e6-r3-role-{role}", "content_type": "role_view", "language": "fi", "lang": "fi",
-            "schema_type": "CollectionPage", "content_status": "ai_generated", "review_status": "awaiting_expert_review",
+            "title": labels[role], "id": f"ich-e6-r3-role-{role}", "content_type": "derived_role_view", "language": "fi", "lang": "fi",
+            "schema_type": "CollectionPage", "content_status": "ai_generated", "classification": "derived",
+            "review_status": "pending", "authoritative": False, "generated": True,
             "source_refs": sorted({x["source_section"] for x in items}), "publish": True,
             "permalink": f"/roolipohjaiset-nakymat/{role}/",
         }
@@ -816,6 +822,7 @@ def write_role_pages(obligations: list[dict[str, Any]]) -> None:
 > [!warning] Johdettu näkymä
 > Tämä sivu on muodostettu lähdetekstistä automaattisesti ja sivu tulee käsitellä kokeellisena.
 > Sivua ei ole sisältötarkastettu.
+> Tarkistustila on `pending`; sivu ei ole auktoritatiivinen tulkinta eikä sitä tule käyttää yksin sääntelyä, kliinistä toimintaa, oikeudellisia kysymyksiä tai vaatimustenmukaisuutta koskevien päätösten perusteena.
 
 ## Keskeiset vastuut
 
@@ -887,13 +894,14 @@ def write_register(obligations: list[dict[str, Any]], sections: list[dict[str, A
         )
     front = {
         "title": "Velvoite- ja näyttörekisteri", "id": "ich-e6-r3-obligation-register", "content_type": "obligation_register",
-        "language": "fi", "lang": "fi", "schema_type": "Dataset", "review_status": "awaiting_expert_review", "publish": True,
+        "language": "fi", "lang": "fi", "schema_type": "Dataset", "classification": "derived",
+        "review_status": "pending", "authoritative": False, "generated": True, "publish": True,
         "permalink": "/vastuutaulukot/",
     }
     body = f"""{yaml_frontmatter(front)}
 
 > [!warning] Johdettu aineisto
-> Normalisoidut toimet ja esimerkkitallenteet ovat automaattisesti johdettuja. Esimerkkitallenteet eivät ole lähdevaatimuksia.
+> Normalisoidut toimet ja esimerkkitallenteet ovat automaattisesti johdettuja ja niiden tarkistustila on `pending`. Aineisto ei ole auktoritatiivinen tulkinta. Esimerkkitallenteet eivät ole lähdevaatimuksia.
 
 <table><thead><tr><th>Tunniste</th><th>Vastuutaho</th><th>Lähdekohta</th><th>Toimi</th></tr></thead><tbody>
 {''.join(rows)}
@@ -933,11 +941,12 @@ def write_reports(documents: list[dict[str, Any]], sections: list[dict[str, Any]
         "normalization-report.md": "# Normalisointiraportti\n\n- Teksti normalisoitiin Unicode NFC -muotoon.\n- Toistuvat sivuotsikot ja -alatunnisteet poistettiin.\n- Rivien väliset välilyönnit yhdistettiin.\n- Rivinvaihtotavut säilytettiin, koska niiden poistamista ei voitu varmistaa yksiselitteisesti.\n- Raaka, otsikoista puhdistettu tekstiversio säilytetään `sections.json`-aineistossa.",
         "glossary-link-report.md": f"# Sanastolinkkien raportti\n\n- Linkkejä lisättiin {sum(x['glossary_link_count'] for x in sections)}.\n- Linkitys käyttää pisintä täsmällistä lähdetekstin muotoa eikä koske englanninkielisiä lainauksia.",
         "unresolved-term-report.md": "# Ratkaisemattomien termien raportti\n\n- Suomen taivutusmuotoja ei tuotettu arvaamalla. `term-variants.json` sisältää vain lähdeaineistossa varmennetut täsmälliset muodot.\n- Asiantuntijan tulee täydentää taivutusmuodot ennen kuin linkkikattavuus voidaan merkitä täydelliseksi.",
-        "obligation-review-report.md": f"# Velvoitteiden tarkistusraportti\n\n- Poimittuja ehdokkaita: {len(obligations)}\n- Matalamman varmuuden tai yhdistelmäkohtia: {sum(x['confidence'] < .9 for x in obligations)}\n- Kaikki kohdat odottavat asiantuntijan tarkistusta.",
-        "role-view-review-report.md": "# Roolinäkymien tarkistusraportti\n\n- Seitsemän hallittua roolia on luotu.\n- Kaikki roolinäkymät on merkitty AI-tuotetuiksi ja asiantuntijan tarkistusta odottaviksi.\n- Kuvitteellisia ajantasaisia tehtävä- tai tilatietoja ei ole lisätty.",
+        "obligation-review-report.md": f"# Velvoitteiden tarkistusraportti\n\n- Poimittuja ehdokkaita: {len(obligations)}\n- Matalamman varmuuden tai yhdistelmäkohtia: {sum(x['confidence'] < .9 for x in obligations)}\n- Kaikkien johdettujen kohtien tarkistustila on `pending`.",
+        "role-view-review-report.md": "# Roolinäkymien tarkistusraportti\n\n- Seitsemän hallittua roolia on luotu.\n- Kaikki roolinäkymät on merkitty AI-tuotetuiksi ja niiden tarkistustila on `pending`.\n- Kuvitteellisia ajantasaisia tehtävä- tai tilatietoja ei ole lisätty.",
         "source-exactness-report.md": "# Lähdetekstin täsmällisyysraportti\n\nRaportti päivitetään komennolla `python scripts/validate_kb.py`.",
         "broken-link-report.md": "# Rikkinäisten linkkien raportti\n\nRaportti päivitetään komennolla `python scripts/validate_kb.py`.",
         "build-report.md": "# Koontiraportti\n\nRaportti päivitetään validoinnin ja Quartz-koonnin yhteydessä.",
+        "machine-readability-report.md": "# Koneluettavuuden validointiraportti\n\nRaportti päivitetään komennolla `python scripts/validate_machine_resources.py`.",
     }
     for name, body in reports.items():
         write_text(REPORTS / name, body)
@@ -949,7 +958,9 @@ def main() -> None:
     if not manual_index.exists():
         raise SystemExit("Manuaalisesti ylläpidettävä content/index.md puuttuu.")
     manual_root_entries = set(CONTENT.glob("*.md")) | {
-        child for child in CONTENT.iterdir() if child.name.startswith(".")
+        child
+        for child in CONTENT.iterdir()
+        if child.name.startswith(".") or (child.is_dir() and (child / ".manual").exists())
     }
     for directory in [DATA, REPORTS]:
         if directory.exists():
@@ -977,7 +988,7 @@ def main() -> None:
 
     dump_json(DATA / "documents.json", documents)
     dump_json(DATA / "sections.json", sections)
-    dump_json(DATA / "alignments.json", [{"finnish_id": x["id"], "english_section": x["section_number"] if x["text_en"] else None, "method": "section_identifier", "confidence": 1.0 if x["text_en"] else 0.0, "review_status": x["alignment_status"]} for x in sections])
+    dump_json(DATA / "alignments.json", [{"id": f"alignment-{x['id']}", "finnish_id": x["id"], "english_section": x["section_number"] if x["text_en"] else None, "method": "section_identifier", "confidence": 1.0 if x["text_en"] else 0.0, "classification": "derived", "alignment_status": x["alignment_status"], "review_status": "pending"} for x in sections])
     dump_json(DATA / "glossary.json", glossary)
     dump_json(DATA / "terminology.json", terminology)
     dump_json(DATA / "term-variants.json", {x["slug"]: {"preferred": x["preferred_term_fi"], "variants": [x["preferred_term_fi"]], "status": "source_attested_exact_form"} for x in glossary})

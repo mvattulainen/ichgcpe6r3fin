@@ -1,0 +1,40 @@
+name: Julkaise koneellisesti luettava korpusversio
+
+on:
+  push:
+    tags:
+      - "corpus-*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.13" }
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: python -m pip install -r requirements.txt
+      - run: npm ci
+      - run: npm run build
+      - name: Lue korpusversio
+        id: version
+        shell: bash
+        run: echo "value=$(python -c 'import json; print(json.load(open("machine-readable-config.json", encoding="utf-8"))["corpus_version"])')" >> "$GITHUB_OUTPUT"
+      - name: Luo GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CORPUS_VERSION: ${{ steps.version.outputs.value }}
+        shell: bash
+        run: >-
+          gh release create "$GITHUB_REF_NAME"
+          "public/releases/$CORPUS_VERSION/ich-e6-r3-fin-$CORPUS_VERSION.zip"
+          "public/releases/$CORPUS_VERSION/manifest.json"
+          "public/releases/$CORPUS_VERSION/changes.json"
+          --title "ICH E6(R3) Finnish corpus $CORPUS_VERSION"
+          --generate-notes

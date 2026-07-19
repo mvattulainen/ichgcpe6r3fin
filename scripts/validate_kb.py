@@ -79,6 +79,7 @@ def main() -> None:
     terminology = load("terminology.json")
     obligations = load("obligations.json")
     records = load("essential-records.json")
+    alignments = load("alignments.json")
 
     ids = [x["id"] for x in sections]
     if len(ids) != len(set(ids)):
@@ -135,7 +136,9 @@ def main() -> None:
             errors.append(f"Generoitu sivu sisältää frontmatter-otsikon toistavan H1-otsikon: {path.relative_to(ROOT)}")
         if re.search(r"(?m)^#{1,6}[^\n]*\^[a-zA-Z0-9._-]+", raw):
             errors.append(f"Näkyvä tekninen ankkuri otsikossa: {path.relative_to(ROOT)}")
-        if fm.get("content_type") == "role_view":
+        if fm.get("classification") == "derived" and fm.get("review_status") != "pending":
+            errors.append(f"Johdetun sivun tarkistustila ei ole pending: {path.relative_to(ROOT)}")
+        if fm.get("content_type") in {"role_view", "derived_role_view"}:
             required_notice = (
                 "Tämä sivu on muodostettu lähdetekstistä automaattisesti ja sivu tulee käsitellä kokeellisena.\n"
                 "> Sivua ei ole sisältötarkastettu."
@@ -174,8 +177,12 @@ def main() -> None:
         errors.append("Velvoitteen suomalainen modaliteetti ei esiinny tarkassa lähdetekstissä.")
     if any(x["evidence_status"] != "illustrative_not_source_requirement" for x in obligations):
         errors.append("Esimerkkitallenne on merkitty lähdevaatimukseksi.")
-    if any(x["review_status"] == "expert_reviewed" for x in obligations):
-        errors.append("Velvoite on merkitty asiantuntijan tarkistamaksi ilman tarkistustapahtumaa.")
+    if any(x.get("classification") != "derived" or x.get("review_status") != "pending" for x in obligations):
+        errors.append("Kaikkien johdettujen velvoitteiden tarkistustilan tulee olla pending.")
+    if any(x.get("classification") != "derived" or x.get("review_status") != "pending" for x in alignments):
+        errors.append("Kaikkien johdettujen kohdistusten tarkistustilan tulee olla pending.")
+    if any(x.get("classification") != "derived" or x.get("review_status") != "pending" for x in records):
+        errors.append("Kaikkien johdettujen oleellisten tallenteiden tarkistustilan tulee olla pending.")
     if not records or any(not x["name_fi"] or not x["name_en"] for x in records):
         errors.append("Oleellisten tallenteiden kaksikielinen rakenneaineisto on vajaa.")
 

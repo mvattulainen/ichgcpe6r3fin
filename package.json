@@ -15,7 +15,7 @@
     "quartz": "./quartz/bootstrap-cli.mjs",
     "generate": "python scripts/build_kb.py",
     "validate": "python scripts/validate_kb.py && python -m unittest discover -s tests -v",
-    "build": "python scripts/build_kb.py && python scripts/validate_kb.py && python -m unittest discover -s tests -v && node quartz/bootstrap-cli.mjs build && python scripts/validate_site.py",
+    "build": "python scripts/build_kb.py && python scripts/validate_kb.py && python -m unittest discover -s tests -v && node quartz/bootstrap-cli.mjs build && python scripts/generate_machine_resources.py && python scripts/validate_site.py && python scripts/validate_machine_resources.py",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
