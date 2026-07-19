@@ -1,7 +1,7 @@
 # Koontiraportti
 
 - Tietopohjan validointi: **HYVÄKSYTTY**
-- Markdown-sivuja: 229
+- Markdown-sivuja: 228
 - Rakenteellisia lähdeosioita: 145
 - Sanastomerkintöjä: 62
 - Termikohdistuksia: 194

@@ -11,7 +11,9 @@ permalink: "/"
 
 # Sisällysluettelo
 
-Tämän sivuston tarkoituksena on a) tukea ICH GCP E6(R3) -ohjeistuksen opiskelua ja b) tarjota ohjeistus [[tekoälyagenteja]] tukevassa rakenteellisessa ja koneluettavassa muodossa.
+Tämän sivuston tarkoituksena on
+- tukea ICH GCP E6(R3) -ohjeistuksen opiskelua
+- tarjota rajapinta, [[miten-sivusto-tukee-tekoalyagentteja]].
 
 Ohjeistus
 - [[01-johdanto/index|Johdanto]]
@@ -30,7 +32,9 @@ Ohjeistuksesta riippumaton automaattisesti tuotettu sisältö:
 - [[vastuutaulukot/index|Vastuutaulukot]]
 
 Ylläpitäjä Markus Vattulainen
-Päivitetty: 18.7.2026
+Päivitetty: 19.7.2026
+
+[[rajapinnan-kayttajalle]]
 
 > [!important] Lähde- ja käyttöhuomautus
 > Sivuston lähteenä on käytetty Fimean laatimaa GCP-ohjeistuksen suomennosta. Sivusto on ICH:stä, EMA:sta ja Fimeasta riippumaton, eikä sillä ole virallista yhteyttä ko. organisaatioihin. ICH, EMA ja Fimea eivät ole osallistuneet sivuston laatimiseen eivätkä tarkastaneet, arvioineet, hyväksyneet, valtuuttaneet, sponsoroineet tai suositelleet sivustoa tai sen sisältöä. Organisaatioiden nimet mainitaan ainoastaan lähdeaineiston yksilöimiseksi.

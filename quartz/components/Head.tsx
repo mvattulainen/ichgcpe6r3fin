@@ -15,7 +15,7 @@ function jsonLd(fileData: QuartzComponentProps["fileData"], baseUrl?: string) {
     "@context": "https://schema.org",
     "@type": schemaType,
     "@id": `${pageUrl.replace(/\/$/, "")}/#page`,
-    identifier: frontmatter.id,
+    identifier: frontmatter.id ?? pageUrl,
     name: frontmatter.title,
     headline: frontmatter.title,
     inLanguage: (frontmatter.language as string | undefined) ?? "fi",
