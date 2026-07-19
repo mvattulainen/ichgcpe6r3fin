@@ -257,7 +257,7 @@ def build_records() -> dict[str, list[dict[str, Any]]]:
                 "child_ids": sorted(children + clause_ids_by_section.get(item["id"], [])),
                 "related_concepts": concepts,
                 "related_roles": sorted(related_roles_by_section.get(item["id"], set())),
-                "canonical_url": f"{BASE}{item['permalink']}",
+                "canonical_url": f"{BASE}{item['permalink'].rstrip('/')}",
                 "api_url": f"{BASE}/api/{API_VERSION}/sections/{item['id']}.json",
             },
             "source_based",
@@ -277,7 +277,7 @@ def build_records() -> dict[str, list[dict[str, Any]]]:
                 "preferred_label_en": item.get("preferred_term_en"),
                 "definition_en": item.get("definition_en"),
                 "source_type": "formal_glossary",
-                "canonical_url": f"{BASE}/sanasto/{item['slug']}/",
+                "canonical_url": f"{BASE}/sanasto/{item['slug']}",
                 "api_url": f"{BASE}/api/{API_VERSION}/concepts/{item['slug']}.json",
             }
         )
@@ -355,7 +355,7 @@ def build_records() -> dict[str, list[dict[str, Any]]]:
                 "obligation_ids": sorted(x["id"] for x in related),
                 "concept_ids": concept_ids,
                 "review_status": "pending",
-                "canonical_url": f"{BASE}/roolipohjaiset-nakymat/{role_id}/",
+                "canonical_url": f"{BASE}/roolipohjaiset-nakymat/{role_id}",
                 "api_url": f"{BASE}/api/{API_VERSION}/roles/{role_id}.json",
             },
             "derived",
@@ -976,8 +976,16 @@ def enrich_jsonld(records: dict[str, list[dict[str, Any]]]) -> None:
         if not match:
             continue
         data = json.loads(html.unescape(match.group(1)))
-        page_url = str(data.get("url") or "").rstrip("/")
-        data["@id"] = data.get("url")
+        relative = path.relative_to(PUBLIC).as_posix()
+        if relative == "index.html":
+            actual_url = f"{BASE}/"
+        elif relative.endswith("/index.html"):
+            actual_url = f"{BASE}/{relative[:-10]}"
+        else:
+            actual_url = f"{BASE}/{relative[:-5]}"
+        data["url"] = actual_url
+        data["@id"] = actual_url
+        page_url = actual_url.rstrip("/")
         data["version"] = VERSION
         data["dateModified"] = RELEASE_DATE
         data["license"] = RIGHTS_URL
@@ -1005,8 +1013,12 @@ def enrich_jsonld(records: dict[str, list[dict[str, Any]]]) -> None:
                 data["isBasedOn"] = [{"@type": "TechArticle", "@id": url} for url in sorted(set(source_urls))]
         replacement = f'<script type="application/ld+json">{json.dumps(data, ensure_ascii=False, separators=(",", ":"))}</script>'
         text = text[: match.start()] + replacement + text[match.end() :]
-        if data.get("url") and 'rel="canonical"' not in text:
-            text = text.replace("</head>", f'<link rel="canonical" href="{html.escape(str(data["url"]), quote=True)}"></head>', 1)
+        if data.get("url"):
+            canonical = f'<link rel="canonical" href="{html.escape(str(data["url"]), quote=True)}">'
+            if 'rel="canonical"' in text:
+                text = re.sub(r'<link rel="canonical" href="[^"]*">', canonical, text, count=1)
+            else:
+                text = text.replace("</head>", canonical + "</head>", 1)
         path.write_text(text, encoding="utf-8", newline="\n")
 
 

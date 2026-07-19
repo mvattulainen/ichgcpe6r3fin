@@ -288,6 +288,9 @@ def main() -> None:
                 errors.append(f"Enriched JSON-LD field {key} missing: {path.relative_to(PUBLIC)}")
         if data.get("@id") != data.get("url"):
             errors.append(f"JSON-LD @id differs from canonical URL: {path.relative_to(PUBLIC)}")
+        canonical_target = local_url(str(data.get("url", "")))
+        if canonical_target is None or not canonical_target.exists():
+            errors.append(f"JSON-LD canonical URL does not resolve locally: {path.relative_to(PUBLIC)}")
         canonical_match = re.search(r'<link rel="canonical" href="([^"]+)">', text)
         if not canonical_match:
             errors.append(f"Canonical HTML link missing: {path.relative_to(PUBLIC)}")

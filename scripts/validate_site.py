@@ -135,6 +135,7 @@ def main() -> None:
         encoding="utf-8",
     )
     previous = (REPORTS / "build-report.md").read_text(encoding="utf-8")
+    previous = re.sub(r"\n\n## Quartz-tuotantokoonti\n.*?(?=\n\n## |\Z)", "", previous, flags=re.S)
     status = "HYVÄKSYTTY" if not errors else "HYLÄTTY"
     (REPORTS / "build-report.md").write_text(
         previous.rstrip() + f"\n\n## Quartz-tuotantokoonti\n\n- Tila: **{status}**\n- HTML-sivuja: {len(html_files)}\n- Kelvollisia JSON-LD-lohkoja: {jsonld_count}\n" + ("- Edustavan osion 2.8 kieli-, otsikko- ja semantiikkatarkistukset läpäistiin.\n" if not errors else "\n".join(f"- {x}" for x in errors) + "\n"),
