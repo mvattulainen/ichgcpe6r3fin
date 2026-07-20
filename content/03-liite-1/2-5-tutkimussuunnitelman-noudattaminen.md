@@ -60,10 +60,6 @@ Tutkijan tulee noudattaa tutkimussuunnitelmaa ja poiketa siitä vain, jos poikke
 
 Tutkijan tulee raportoida eettiselle toimikunnalle ja tarvittaessa myös valvontaviranomaisille tiedot välittömästä vaarasta, toteutetusta muutoksesta ja mahdollisesta tutkimussuunnitelmaan myöhemmin tehtävästä muutosehdotuksesta (ks. kappale 1.1).
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -93,3 +89,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.5, pages 16–16.
+
+Edellinen sivu: [[03-liite-1/2-4-yhteydenpito-riippumattomaan-eettiseen-toimikuntaan|2.4 Yhteydenpito riippumattomaan eettiseen toimikuntaan]]
+
+Seuraava sivu: [[03-liite-1/2-6-tutkimuksen-ennenaikainen-lopettaminen-tai-keskeyttaminen|2.6 Tutkimuksen ennenaikainen lopettaminen tai keskeyttäminen]]

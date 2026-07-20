@@ -41,3 +41,7 @@ Jos tutkimus lopetetaan tai keskeytetään ennenaikaisesti, toimeksiantajan tule
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.17.1, pages 42–42.
+
+Edellinen sivu: [[03-liite-1/3-17-raportit|3.17 Raportit]]
+
+Seuraava sivu: [[03-liite-1/3-17-2-kliinisen-laaketutkimuksen-raportit|3.17.2 Kliinisen lääketutkimuksen raportit]]

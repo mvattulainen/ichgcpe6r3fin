@@ -77,3 +77,7 @@ Tutkimukseen osallistujien jatkoseurannan tyyppi ja kesto haittatapahtumien ja m
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.9, pages 56–56.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-8-tehokkuuden-arviointi|B.8 Tehokkuuden arviointi]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-11-suora-paasy-lahdetallenteisiin|B.11 Suora pääsy lähdetallenteisiin]]

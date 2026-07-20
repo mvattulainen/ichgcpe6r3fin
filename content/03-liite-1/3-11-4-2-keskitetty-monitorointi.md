@@ -44,10 +44,6 @@ is_based_on:
 
 - (c) Keskitetty [[sanasto/monitorointi|monitorointi]] voi auttaa tutkimuspaikan ja/tai prosessien valinnassa kohdennettua paikan päällä tehtävää monitorointia varten.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -63,3 +59,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4.2, pages 31–32.
+
+Edellinen sivu: [[03-liite-1/3-11-4-1-tutkimuspaikan-monitorointi|3.11.4.1 Tutkimuspaikan monitorointi]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-3-monitorointisuunnitelma|3.11.4.3 Monitorointisuunnitelma]]

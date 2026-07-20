@@ -10,12 +10,12 @@ permalink: "/"
 ---
 ## Tarkoitus
 
-Tervetuloa ICH GCP E6(R3) -sivustolle. Sivuston tarkoitus on:
+Tervetuloa ICH GCP E6(R3) -ohjeistuksen suomenkieliselle sivustolle. Sivuston tarkoitus on:
 - tukea ohjeistuksen opiskelua
-- tarjota ohjeistukseen koneluettava rajapinta.
+- tarjota ohjeistus koneluettavassa muodossa
 
-Kts. [[miten-sivusto-tukee-tekoalyagentteja]] ja [[rajapinnan-kayttajalle]]
-Sivusto on kokeellinen.
+Kts. [[miten-sivusto-tukee-tekoalyagentteja]]. 
+
 ## Ohjeistus ##
 
 - [[01-johdanto/index|Johdanto]]
@@ -26,13 +26,21 @@ Sivusto on kokeellinen.
 - [[06-liite-c-oleelliset-tallenteet/index|Täydentävä liite C – Oleelliset tallenteet]]
 - [[sanasto/index|Sanasto]]
 - [[termisanasto/index|EN–FI-termisanasto]]
-## Automaattisesti tuotettu sisältö ##
+- [[termivertailut/index|Termivertailut]]
+## Kokeellinen sisältö ##
+
+Kokeellinen automaattisesti generoitu osio hyödyntää laajaa kielimallia ohjeistusta koskevan opetusmateriaalin tuottamisessa. Kokeellista sisältöä ei ole verifioitu (20.7.2026).
 
 - [[roolipohjaiset-nakymat/index|Roolipohjaiset näkymät]]
 - [[vastuutaulukot/index|Vastuutaulukot]]
+- [[periaatteet-oppiminen/index|Periaatteiden oppiminen]]
+- [[esimerkkeja|Esimerkkejä]]
+- [[opeta-minua|Opeta minua]]
 
+
+[[rajapinnan-kayttajalle|Koneellisen rajapinnan käyttäjälle]]
 Ylläpitäjä Markus Vattulainen
-Päivitetty: 19.7.2026
+Päivitetty: 20.7.2026
 
 
 

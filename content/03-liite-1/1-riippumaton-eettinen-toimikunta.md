@@ -40,3 +40,5 @@ Tutkimuslaitoksen arviointilautakunta (IRB) / riippumaton eettinen toimikunta (I
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 1, pages 11–11.
+
+Seuraava sivu: [[03-liite-1/1-1-hakeminen-ja-tiedoksi-antaminen|1.1 Hakeminen ja tiedoksi antaminen]]

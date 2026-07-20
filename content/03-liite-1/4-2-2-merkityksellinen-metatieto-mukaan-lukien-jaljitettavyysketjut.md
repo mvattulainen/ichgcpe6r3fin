@@ -89,3 +89,7 @@ Vastuullisen osapuolen käyttämään lähestymistapaan, jolla toteutetaan, arvi
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.2.2, pages 44–45.
+
+Edellinen sivu: [[03-liite-1/4-2-1-tietojen-keraaminen|4.2.1 Tietojen kerääminen]]
+
+Seuraava sivu: [[03-liite-1/4-2-3-tietojen-ja-metatiedon-tarkastaminen|4.2.3 Tietojen ja metatiedon tarkastaminen]]

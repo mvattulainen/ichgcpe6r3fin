@@ -48,10 +48,6 @@ is_based_on:
 
 - (d) [[sanasto/tutkija|Tutkija]] voi delegoida turvallisuusraportointiin liittyviä toimia pätevälle tutkimusta suorittavalle henkilölle, mutta tutkijalla säilyy kokonaisvastuu hänen vastuullaan olevien tutkimukseen osallistujien turvallisuudesta ja raportointivaatimusten noudattamisesta.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -69,3 +65,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.7.2, pages 17–18.
+
+Edellinen sivu: [[03-liite-1/2-7-1-tutkimukseen-osallistujille-annettava-laaketieteellinen-hoito|2.7.1 Tutkimukseen osallistujille annettava lääketieteellinen hoito]]
+
+Seuraava sivu: [[03-liite-1/2-8-tutkimukseen-osallistujien-tietoon-perustuva-suostumus|2.8 Tutkimukseen osallistujien tietoon perustuva suostumus]]

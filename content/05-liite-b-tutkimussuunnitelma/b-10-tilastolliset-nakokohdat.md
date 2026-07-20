@@ -88,3 +88,7 @@ Maininta siitä, että kaikki poikkeamat tilastointisuunnitelmasta selostetaan j
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.10, pages 56–56.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-7-tutkimukseen-osallistujille-annettava-hoito-ja-interventiot|B.7 Tutkimukseen osallistujille annettava hoito ja interventiot]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-8-tehokkuuden-arviointi|B.8 Tehokkuuden arviointi]]

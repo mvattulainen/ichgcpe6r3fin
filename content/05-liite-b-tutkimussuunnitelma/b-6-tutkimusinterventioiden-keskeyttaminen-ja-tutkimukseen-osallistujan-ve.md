@@ -46,10 +46,6 @@ tutkimuksesta [[sanasto/tutkija|Tutkija]] voi päättää keskeyttää tutkimuks
 
 - (d) niiden tutkimukseen osallistujien seuranta, jotka ovat lopettaneet tutkimusvalmisteen käytön.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -67,3 +63,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.6, pages 55–55.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-5-tutkimukseen-osallistujien-valinta|B.5 Tutkimukseen osallistujien valinta]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-7-tutkimukseen-osallistujille-annettava-hoito-ja-interventiot|B.7 Tutkimukseen osallistujille annettava hoito ja interventiot]]

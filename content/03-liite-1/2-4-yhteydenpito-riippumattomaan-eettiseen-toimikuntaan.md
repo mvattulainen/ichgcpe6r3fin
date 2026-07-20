@@ -67,10 +67,6 @@ Tutkijan tai toimeksiantajan tulee lähettää eettiselle toimikunnalle dokument
 
 Tutkijan tai toimeksiantajan tulee viipymättä ilmoittaa eettiselle toimikunnalle (ks. Kappale 1.4.8) ja tarvittaessa myös tutkimuslaitokselle kaikki muutokset, jotka vaikuttavat merkittävästi tutkimuksen toteuttamiseen ja/tai lisäävät tutkimukseen osallistujille aiheutuvaa riskiä.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -104,3 +100,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.4, pages 16–16.
+
+Edellinen sivu: [[03-liite-1/2-3-vastuut|2.3 Vastuut]]
+
+Seuraava sivu: [[03-liite-1/2-5-tutkimussuunnitelman-noudattaminen|2.5 Tutkimussuunnitelman noudattaminen]]

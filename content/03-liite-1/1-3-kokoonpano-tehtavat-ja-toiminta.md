@@ -78,10 +78,6 @@ Vain eettisen toimikunnan arviointiin ja keskusteluun osallistuvien jäsenten tu
 
 Eettinen toimikunta voi kutsua muita kuin jäseniä avustamaan asiantuntijoina johonkin erityisalaan liittyvissä kysymyksissä.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -121,3 +117,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 1.3, pages 13–13.
+
+Edellinen sivu: [[03-liite-1/1-2-vastuut|1.2 Vastuut]]
+
+Seuraava sivu: [[03-liite-1/1-4-toimintatavat|1.4 Toimintatavat]]

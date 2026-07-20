@@ -66,10 +66,6 @@ Toimeksiantajien ja tutkijoiden tulee säilyttää [[sanasto/oleelliset-tallente
 
 Kliinisten lääketutkimusten läpinäkyvyyteen kuuluu sekä oikea-aikainen rekisteröinti julkisesti saatavilla oleviin ja tunnustettuihin tietokantoihin että kliinisten lääketutkimusten tulosten julkaiseminen. Tutkimustulosten ilmoittamista tutkimukseen osallistujille tulee harkita. Tällaisen viestinnän tulee olla objektiivista eikä sillä saa pyrkiä myynninedistämiseen.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -103,3 +99,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 9, pages 10–10.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-08|8. Kliiniset lääketutkimukset tulee kuvata selkeässä, tiiviissä, tieteellisesti perustellussa ja toiminnallisesti toteuttamiskelpoisessa tutkimussuunnitelmassa.]]
+
+Seuraava sivu: [[02-gcp-periaatteet/periaate-10|10. Kliinisten lääketutkimusten tehtävien ja vastuiden tulee olla selkeitä ja asianmukaisesti dokumentoituja.]]

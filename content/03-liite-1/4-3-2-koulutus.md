@@ -40,3 +40,7 @@ Vastuutahon tulee varmistaa, että tietokoneistettuja järjestelmiä käyttävä
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.3.2, pages 46–46.
+
+Edellinen sivu: [[03-liite-1/4-3-1-tietokoneistettujen-jarjestelmien-kayttoa-koskevat-menettelyt|4.3.1 Tietokoneistettujen järjestelmien käyttöä koskevat menettelyt]]
+
+Seuraava sivu: [[03-liite-1/4-3-3-tietoturva|4.3.3 Tietoturva]]

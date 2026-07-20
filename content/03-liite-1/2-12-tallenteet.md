@@ -139,10 +139,6 @@ Tutkijan/laitoksen tulee ilmoittaa toimeksiantajalle sen henkilön nimi, joka va
 
 Tutkijan/tutkimuslaitoksen tulee antaa tutkimuksen monitoroijan, auditoijan, eettisen toimikunnan tai valvontaviranomaisen pyynnöstä [[sanasto/suora-paasy|suora pääsy]] kaikkiin tutkimusta koskeviin tallenteisiin.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -218,3 +214,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.12, pages 23–24.
+
+Edellinen sivu: [[03-liite-1/2-11-satunnaistamismenettelyt-ja-sokkoutuksen-purkaminen|2.11 Satunnaistamismenettelyt ja sokkoutuksen purkaminen]]
+
+Seuraava sivu: [[03-liite-1/2-13-raportit|2.13 Raportit]]

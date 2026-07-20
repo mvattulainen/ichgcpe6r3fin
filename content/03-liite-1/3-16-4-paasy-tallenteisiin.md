@@ -38,10 +38,6 @@ is_based_on:
 
 - (b) Toimeksiantajan tulee varmistaa, että tutkimukseen osallistujat ovat antaneet suostumuksensa suoraan pääsyyn lähdetallenteisiin kappaleen 3.16.4 alakohdassa (a) esitettyihin tarkoituksiin (ks. kappaleen 2.8.10 alakohta (n)).
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -55,3 +51,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.16.4, pages 42–42.
+
+Edellinen sivu: [[03-liite-1/3-16-3-tallenteiden-yllapito-ja-sailyttaminen|3.16.3 Tallenteiden ylläpito ja säilyttäminen]]
+
+Seuraava sivu: [[03-liite-1/3-17-raportit|3.17 Raportit]]

@@ -69,3 +69,7 @@ Strategiat, joilla seurataan tutkimukseen osallistujan sitoutumista hoitoon.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.7, pages 55–56.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-6-tutkimusinterventioiden-keskeyttaminen-ja-tutkimukseen-osallistujan-ve|B.6 Tutkimusinterventioiden keskeyttäminen ja tutkimukseen osallistujan vetäytyminen]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-10-tilastolliset-nakokohdat|B.10 Tilastolliset näkökohdat]]

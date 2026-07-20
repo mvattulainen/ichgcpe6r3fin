@@ -31,10 +31,6 @@ is_based_on:
 
 Eettiselle toimikunnalle tehtävä hakemus tai tiedoksi antaminen ja hakemus toimivaltaiselle viranomaiselle voidaan useimmilla sellaisilla alueilla, joilla edellytetään molempia, lainsäädännön vaatimusten mukaisesti yhdistää yhdeksi hakemukseksi. Alueesta riippuen [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]] tai [[sanasto/toimeksiantaja|toimeksiantaja]] vastaa hakemisesta ja tiedoksi antamisesta eettiselle toimikunnalle ja valvontaviranomaisille lainsäädännön vaatimusten mukaisesti.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -44,3 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 1.1, pages 11–11.
+
+Edellinen sivu: [[03-liite-1/1-riippumaton-eettinen-toimikunta|1 Riippumaton eettinen toimikunta]]
+
+Seuraava sivu: [[03-liite-1/1-2-vastuut|1.2 Vastuut]]

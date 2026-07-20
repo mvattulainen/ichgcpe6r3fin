@@ -41,3 +41,7 @@ Toimeksiantajan tulee varmistaa, että tutkijan tietopakettia kehitetään ja p�
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.15.1, pages 36–37.
+
+Edellinen sivu: [[03-liite-1/3-15-tutkimusvalmiste-et|3.15 Tutkimusvalmiste(et)]]
+
+Seuraava sivu: [[03-liite-1/3-15-2-tutkimusvalmisteen-valmistus-pakkaaminen-merkinta-ja-koodaus|3.15.2 Tutkimusvalmisteen valmistus, pakkaaminen, merkintä ja koodaus]]

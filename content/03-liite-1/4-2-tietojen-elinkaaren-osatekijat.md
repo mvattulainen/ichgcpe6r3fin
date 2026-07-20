@@ -40,3 +40,7 @@ Käytössä tulee olla menettelyitä, joilla katetaan tietojen koko elinkaari.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.2, pages 44–44.
+
+Edellinen sivu: [[03-liite-1/4-1-sokkouttamisen-turvaaminen-tietojenhallinnassa|4.1 Sokkouttamisen turvaaminen tietojenhallinnassa]]
+
+Seuraava sivu: [[03-liite-1/4-2-1-tietojen-keraaminen|4.2.1 Tietojen kerääminen]]

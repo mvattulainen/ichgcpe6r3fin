@@ -42,3 +42,7 @@ Toimeksiantajan vaatimusten ja monitorointisuunnitelman mukaisen monitoroinnin t
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4.5, pages 32–32.
+
+Edellinen sivu: [[03-liite-1/3-11-4-4-monitorointimenettelyt|3.11.4.4 Monitorointimenettelyt]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-5-1-viestinta-tutkimuksen-toteuttajien-kanssa|3.11.4.5.1 Viestintä tutkimuksen toteuttajien kanssa]]

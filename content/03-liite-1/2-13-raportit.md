@@ -41,3 +41,7 @@ Kun tutkimus on saatu päätökseen, tutkijan tulee ilmoittaa siitä tutkimuslai
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.13, pages 24–24.
+
+Edellinen sivu: [[03-liite-1/2-12-tallenteet|2.12 Tallenteet]]
+
+Seuraava sivu: [[03-liite-1/3-toimeksiantaja|3 Toimeksiantaja]]

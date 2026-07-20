@@ -6,7 +6,10 @@ import re
 import unicodedata
 from pathlib import Path
 
-from build_kb import CONTENT, DATA, REPORTS, ROOT, verify_manifest, write_text
+from build_kb import (
+    CONTENT, DATA, DERIVED_NOTICE, REPORTS, ROLE_IDS, ROLE_WORKFLOW, ROOT,
+    TERM_COMPARISON_SPECS, verify_manifest, write_text,
+)
 
 
 def load(name: str):
@@ -85,6 +88,7 @@ def main() -> None:
     records = load("essential-records.json")
     alignments = load("alignments.json")
     alignment_verification = load("alignment-verification.json")
+    term_comparisons = load("term-comparisons.json")
 
     ids = [x["id"] for x in sections]
     if len(ids) != len(set(ids)):
@@ -102,7 +106,8 @@ def main() -> None:
 
     required_data = {
         "documents.json", "sections.json", "alignments.json", "alignment-verification.json", "glossary.json", "terminology.json",
-        "term-variants.json", "roles.json", "obligations.json", "essential-records.json", "extraction-report.json",
+        "term-variants.json", "roles.json", "obligations.json", "essential-records.json", "term-comparisons.json",
+        "extraction-report.json",
     }
     missing_data = sorted(name for name in required_data if not (DATA / name).exists())
     if missing_data:
@@ -152,6 +157,14 @@ def main() -> None:
                 errors.append(f"Roolinäkymän kokeellisuusilmoitus on väärä: {path.relative_to(ROOT)}")
             if "## Keskeiset velvoitteet" in raw:
                 errors.append(f"Roolinäkymässä on poistettavaksi määrätty Keskeiset velvoitteet -osio: {path.relative_to(ROOT)}")
+            heading_positions = [raw.find(f"### {heading}") for heading, _ in ROLE_WORKFLOW]
+            if any(position < 0 for position in heading_positions) or heading_positions != sorted(heading_positions):
+                errors.append(f"Roolinäkymän työnkulkuotsikot puuttuvat tai ovat väärässä järjestyksessä: {path.relative_to(ROOT)}")
+        if fm.get("content_type") in {"derived_examples", "derived_learning_page"} and DERIVED_NOTICE not in raw:
+            errors.append(f"Johdetulta oppimissivulta puuttuu kokeellisuusilmoitus: {path.relative_to(ROOT)}")
+        if fm.get("content_type") == "source_term_comparison":
+            if fm.get("classification") != "source_compilation" or "Johdettu näkymä" in raw:
+                errors.append(f"Lähdepohjainen termivertailu on merkitty johdetuksi: {path.relative_to(ROOT)}")
         if fm.get("content_type") == "obligation_register":
             if any(header in raw for header in ("<th>Modaliteetti</th>", "<th>Tarkistus</th>")):
                 errors.append("Velvoiterekisterissä on poistettu sarake.")
@@ -175,6 +188,81 @@ def main() -> None:
 
     if len(permalink_values) != len(set(permalink_values)):
         errors.append("Pysyväisosoitteissa on päällekkäisyyksiä.")
+
+    navigation_folders = {
+        "02-gcp-periaatteet", "03-liite-1", "04-liite-a-tutkijan-tietopaketti",
+        "05-liite-b-tutkimussuunnitelma", "06-liite-c-oleelliset-tallenteet",
+    }
+    for folder in navigation_folders:
+        ordered = [section for section in sections if section["folder"] == folder]
+        for index, section in enumerate(ordered):
+            page = ROOT / section["path"]
+            raw = page.read_text(encoding="utf-8")
+            if "## Liittyvät käsitteet" in raw:
+                errors.append(f"Lähdesivulla on poistettavaksi määrätty Liittyvät käsitteet -osio: {section['path']}")
+            if index:
+                previous = ordered[index - 1]
+                expected = f"Edellinen sivu: [[{previous['path'][8:-3]}|{previous['title_fi']}]]"
+                if expected not in raw:
+                    errors.append(f"Lähdesivun edellinen-linkki on väärä: {section['path']}")
+            elif "Edellinen sivu:" in raw:
+                errors.append(f"Lähdejakson ensimmäisellä sivulla on edellinen-linkki: {section['path']}")
+            if index + 1 < len(ordered):
+                following = ordered[index + 1]
+                expected = f"Seuraava sivu: [[{following['path'][8:-3]}|{following['title_fi']}]]"
+                if expected not in raw:
+                    errors.append(f"Lähdesivun seuraava-linkki on väärä: {section['path']}")
+            elif "Seuraava sivu:" in raw:
+                errors.append(f"Lähdejakson viimeisellä sivulla on seuraava-linkki: {section['path']}")
+
+    if len(term_comparisons) != 10 or len(TERM_COMPARISON_SPECS) != 10:
+        errors.append("Termivertailuja ei ole täsmälleen kymmenen.")
+    for comparison in term_comparisons:
+        page = CONTENT / "termivertailut" / f"{comparison['slug']}.md"
+        if not page.exists():
+            errors.append(f"Termivertailusivu puuttuu: {comparison['slug']}")
+            continue
+        raw = page.read_text(encoding="utf-8")
+        for term in comparison["terms"]:
+            if f"## {term['term_fi']}" not in raw:
+                errors.append(f"Termivertailusta puuttuu suomalainen termi {term['term_fi']}: {comparison['slug']}")
+            for source in term["sources"]:
+                if source["excerpt"] not in raw or f"[[{source['target']}|" not in raw:
+                    errors.append(f"Termivertailun lähdeote tai linkki poikkeaa lähteestä: {comparison['slug']} / {source['title']}")
+
+    examples_page = CONTENT / "esimerkkeja.md"
+    if not examples_page.exists():
+        errors.append("Esimerkkejä-sivu puuttuu.")
+    else:
+        examples_text = examples_page.read_text(encoding="utf-8")
+        for entry in glossary:
+            marker = f"## [[sanasto/{entry['slug']}|{entry['preferred_term_fi']}]]"
+            if examples_text.count(marker) != 1:
+                errors.append(f"Esimerkkejä-sivun sanastotermi puuttuu tai toistuu: {entry['slug']}")
+                continue
+            block = examples_text.split(marker, 1)[1].split("\n## [[sanasto/", 1)[0]
+            if len(re.findall(r"(?m)^### [123]\. ", block)) != 3 or "### Yleisiä sudenkuoppia" not in block:
+                errors.append(f"Esimerkkejä-sivun skenaariot tai sudenkuopat ovat vajaat: {entry['slug']}")
+
+    learning_pages = sorted((CONTENT / "periaatteet-oppiminen").glob("periaate-*.md"))
+    if len(learning_pages) != 11:
+        errors.append("Periaatteet (oppiminen) -sivuja ei ole yksitoista.")
+    for page in learning_pages:
+        raw = page.read_text(encoding="utf-8")
+        if len(re.findall(r"(?m)^## [1-6]\. ", raw)) != 6:
+            errors.append(f"Periaatteen oppimissivulla ei ole kuutta skenaariota: {page.relative_to(ROOT)}")
+        if raw.count("Noudattaminen:") != 3 or raw.count("Noudattamatta jättäminen:") != 3:
+            errors.append(f"Periaatteen oppimissivun myönteiset ja kielteiset skenaariot eivät jakaudu tasan: {page.relative_to(ROOT)}")
+
+    teach_page = CONTENT / "opeta-minua.md"
+    if not teach_page.exists():
+        errors.append("Opeta minua -sivu puuttuu.")
+    else:
+        teach_text = teach_page.read_text(encoding="utf-8")
+        for token in ("Learning log.md", "lähikehityksen vyöhyke", "tosielämän käytännön", "varsinaisia ICH E6(R3) -lähdesivuja"):
+            if token not in teach_text:
+                errors.append(f"Opeta minua -sivulta puuttuu toiminnallisuus {token!r}.")
+
     for token in ["tietoon perustuva suostumus", "tietokoneistetut järjestelmät", "EN–FI-termisanasto"]:
         if token not in all_text:
             errors.append(f"Unicode-testimerkkijono puuttuu: {token}")

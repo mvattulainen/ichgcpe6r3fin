@@ -108,3 +108,7 @@ Viittaukset kirjallisuuteen ja tietoihin, joilla on merkitystä tutkimuksen kann
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.2, pages 54–54.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-1-yleiset-tiedot|B.1 Yleiset tiedot]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-3-tutkimuksen-tavoitteet-ja-tarkoitus|B.3 Tutkimuksen tavoitteet ja tarkoitus]]

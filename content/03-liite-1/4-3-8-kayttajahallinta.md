@@ -44,10 +44,6 @@ is_based_on:
 
 - (c) Valtuutetut käyttäjät ja käyttöoikeudet tulee dokumentoida selkeästi, ja tietoja tulee ylläpitää ja säilyttää. Näiden tietojen tulee sisältää käyttäjän roolien ja käyttöoikeuksien mahdolliset päivitykset sekä käyttöluvan myöntämisajankohta (esim. aikaleima). Täydentävät liitteet Täydentävä liite A. [[sanasto/tutkijan-tietopaketti|Tutkijan tietopaketti]]
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -63,3 +59,5 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.3.8, pages 48–49.
+
+Edellinen sivu: [[03-liite-1/4-3-7-tekninen-tuki|4.3.7 Tekninen tuki]]

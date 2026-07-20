@@ -39,3 +39,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.3.1, pages 50–50.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-tutkijan-tietopaketin-sisalto|A.3 Tutkijan tietopaketin sisältö]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-2-yhteenveto|A.3.2 Yhteenveto]]

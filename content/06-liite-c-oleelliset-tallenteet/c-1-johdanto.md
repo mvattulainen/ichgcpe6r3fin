@@ -47,10 +47,6 @@ Tallenteiden oleellisuuden määrittäminen perustuu tämän liitteen ohjeisiin.
 
 [[sanasto/oleelliset-tallenteet|Oleelliset tallenteet]] mahdollistavat ja tukevat tutkimuksen toteuttamisen arviointia, kun arvioidaan tutkijan ja toimeksiantajan hyvän kliinisen tutkimustavan ja lainsäädännön vaatimuksien noudattamista sekä tuotettujen tulosten luotettavuutta. Oleellisia tallenteita käytetään osana tutkijan ja toimeksiantajan valvontaa (mukaan lukien [[sanasto/monitorointi|monitorointi]]). Näitä tallenteita käytetään toimeksiantajan riippumattomassa auditoinnissa ja valvontaviranomaisten tekemien tarkastusten aikana tutkimuksen toteuttamisen ja tutkimustulosten luotettavuuden arvioimiseksi. Myös eettinen toimikunta voi tarkastaa tietyt [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] lainsäädännön vaatimusten mukaisesti. Tutkijalla/tutkimuslaitoksella tulee olla pääsy tutkijan/tutkimuslaitoksen tuottamiin oleellisiin tallenteisiin ja kyky ylläpitää niitä ennen tutkimuksen toteuttamista ja tutkimuksen toteuttamisen aikana ja säilyttää niitä lainsäädännön vaatimusten mukaisesti.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -72,3 +68,5 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section C.1, pages 57–57.
+
+Seuraava sivu: [[06-liite-c-oleelliset-tallenteet/c-2-oleellisten-tallenteiden-hallinta|C.2 Oleellisten tallenteiden hallinta]]

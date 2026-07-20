@@ -63,3 +63,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.7.1, pages 17–17.
+
+Edellinen sivu: [[03-liite-1/2-7-tutkimukseen-osallistujille-annettava-laaketieteellinen-hoito-ja|2.7 Tutkimukseen osallistujille annettava lääketieteellinen hoito ja]]
+
+Seuraava sivu: [[03-liite-1/2-7-2-turvallisuusraportointi|2.7.2 Turvallisuusraportointi]]

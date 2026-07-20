@@ -76,3 +76,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.13.2, pages 35–36.
+
+Edellinen sivu: [[03-liite-1/3-13-1-toimeksiantajan-suorittama-turvallisuustietojen-tarkistus|3.13.1 Toimeksiantajan suorittama turvallisuustietojen tarkistus]]
+
+Seuraava sivu: [[03-liite-1/3-13-3-valittoman-vaaran-hallinta|3.13.3 Välittömän vaaran hallinta]]

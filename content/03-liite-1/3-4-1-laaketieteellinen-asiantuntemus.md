@@ -40,3 +40,7 @@ Toimeksiantajalla tulee olla helposti saatavilla lääketieteen asiantuntijoita,
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.4.1, pages 25–25.
+
+Edellinen sivu: [[03-liite-1/3-4-patevyys-ja-koulutus|3.4 Pätevyys ja koulutus]]
+
+Seuraava sivu: [[03-liite-1/3-5-rahoitus|3.5 Rahoitus]]

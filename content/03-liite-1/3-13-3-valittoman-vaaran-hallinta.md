@@ -40,3 +40,7 @@ Toimeksiantajan tulee ryhtyä pikaisiin toimiin, jotta tutkimukseen osallistujil
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.13.3, pages 36–36.
+
+Edellinen sivu: [[03-liite-1/3-13-2-turvallisuusraportointi|3.13.2 Turvallisuusraportointi]]
+
+Seuraava sivu: [[03-liite-1/3-14-tutkimukseen-osallistujille-ja-tutkijoille-annettava-vakuutus-ja-makse|3.14 Tutkimukseen osallistujille ja tutkijoille annettava vakuutus ja maksettavat]]

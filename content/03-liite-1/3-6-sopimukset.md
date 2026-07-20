@@ -116,10 +116,6 @@ Palveluntarjoajien suorittamat tutkimukseen liittyvät toimet tulee toteuttaa hy
 
 Kliinisessä lääketutkimuksessa voi olla yksi tai useampi [[sanasto/toimeksiantaja|toimeksiantaja]], jos se on sallittua lainsäädännön vaatimusten mukaan. Tutkimuksissa, joissa on useampi kuin yksi [[sanasto/toimeksiantaja|toimeksiantaja]], toimeksiantajilla tulee olla dokumentoitu [[sanasto/sopimus|sopimus]], jossa määritellään toimeksiantajien vastuualueetpaikallisten lainsäädännön vaatimusten ja/tai käytäntöjen mukaisesti. Jos dokumentoidussa sopimuksessa ei täsmennetä, kenelle toimeksiantajalle jokin tietty vastuu kuuluu, vastuu on kaikilla toimeksiantajilla.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -181,3 +177,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.6, pages 26–27.
+
+Edellinen sivu: [[03-liite-1/3-5-rahoitus|3.5 Rahoitus]]
+
+Seuraava sivu: [[03-liite-1/3-7-tutkijan-valinta|3.7 Tutkijan valinta]]

@@ -82,3 +82,7 @@ Mahdollisen sokkoutuksen purkautumisen tulee olla osa sokkoutetun tutkimuksen ri
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.1, pages 43–44.
+
+Edellinen sivu: [[03-liite-1/4-tietojenhallinta-tutkija-ja-toimeksiantaja|4 Tietojenhallinta – tutkija ja toimeksiantaja]]
+
+Seuraava sivu: [[03-liite-1/4-2-tietojen-elinkaaren-osatekijat|4.2 Tietojen elinkaaren osatekijät]]

@@ -30,10 +30,6 @@ is_based_on:
 
 [[sanasto/tutkijan-tietopaketti|Tutkijan tietopaketti]] (IB) on yhteenveto tutkimusvalmistetta ja -valmisteita2 koskevista kliinisistä ja ei-kliinisistä tiedoista, jotka ovat olennaisia tutkittaessa kyseisten valmisteiden vaikutuksia ihmisessä. Sen tarkoituksena on antaa tutkijalle ja muille tutkimukseen osallistuville tietoa, joka auttaa heitä ymmärtämään ja noudattamaan tutkimussuunnitelman yksityiskohtia, joita ovat mm. annos, annosväli, antotavat ja turvallisuuden seurannassa käytettävät menetelmät.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -43,3 +39,5 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.1, pages 49–49.
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]

@@ -67,3 +67,7 @@ Käytössä tulee olla toimintatavat, joilla ehkäistään, havaitaan ja käsite
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 6, pages 9–9.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-05|5. Pätevien henkilöiden tulee suunnitella ja toteuttaa kliiniset lääketutkimukset.]]
+
+Seuraava sivu: [[02-gcp-periaatteet/periaate-07|7. Kliinisen lääketutkimuksen prosessien, toimenpiteiden ja lähestymistapojen toteutuksen tulee olla oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja kerättyjen tietojen tärkeyteen, jotta vältetään tutkimukseen osallistujille ja tutkijoille aiheutuva tarpeeton rasite.]]

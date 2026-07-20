@@ -55,10 +55,6 @@ is_based_on:
 
 - (c) tunnistaa merkittävät tiedonkeruun ja raportoinnin virheet tutkimuspaikassa tai tutkimuspaikkojen välillä sekä mahdolliset tietojen manipulointiin ja luotettavuuteen liittyvät ongelmat.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -80,3 +76,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4.5.4, pages 34–34.
+
+Edellinen sivu: [[03-liite-1/3-11-4-5-3-tutkimusvalmisteen-hallinnoinnin-monitorointi|3.11.4.5.3 Tutkimusvalmisteen hallinnoinnin monitorointi]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-6-monitorointiraportti|3.11.4.6 Monitorointiraportti]]

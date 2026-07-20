@@ -1,0 +1,297 @@
+[
+  {
+    "id": "ich-e6-r3-term-comparison-haittatapahtuma-ja-laakkeen-haittavaikutus",
+    "title": "Haittatapahtuma (AE) ja lääkkeen haittavaikutus (ADR)",
+    "slug": "haittatapahtuma-ja-laakkeen-haittavaikutus",
+    "terms": [
+      {
+        "term_fi": "Haittatapahtuma (AE)",
+        "sources": [
+          {
+            "title": "Haittatapahtumat (adverse events, AEs) ja haittavaikutuksiin (adverse reaction) liittyvät määritelmät",
+            "excerpt": "Haittatapahtuma: Mikä tahansa epäsuotuisa lääketieteellinen tapahtuma tutkimukseen osallistujalla, jolle on annettu tutkimusvalmistetta. Haittatapahtumalla ei välttämättä ole syy- yhteyttä hoitoon.",
+            "target": "sanasto/haittatapahtumat-adverse-events-aes-ja-haittavaikutuksiin-adverse-reaction-liittyvat-maaritelmat"
+          }
+        ]
+      },
+      {
+        "term_fi": "Lääkkeen haittavaikutus (ADR)",
+        "sources": [
+          {
+            "title": "Lääkkeen haittavaikutus",
+            "excerpt": "• Ennen myyntiluvan hyväksymistä kertyneessä kliinisessä kokemuksessa uudesta tutkimusvalmisteesta tai sen uusista käyttötarkoituksista (erityisesti silloin, kun terapeuttista hoitoannosta ei ole vielä voitu määrittää): epäsuotuisa ja tahaton vaste, kuten mittausarvo (esim. laboratoriotulokset), oire tai sairaus, joka liittyy mihin tahansa lääkevalmisteen annokseen ja jossa lääkevalmisteen ja haittatapahtuman välinen syy- seuraussuhde on kohtuudella mahdollista. Varmuuden taso lääkkeen haittavaikutuksen yhteydestä tutkimusvalmisteeseen vaihtelee. Jos haittavaikutuksen epäillään liittyvän tutkimusvalmisteeseen suurella varmuudella, se tulee sisällyttää turvallisuutta koskeviin viitetietoihin (RSI) ja/tai tutkijan tietopakettiin. • Markkinoilla olevat lääkevalmisteet: haitallinen ja tahaton reaktio lääkkeeseen, joka esiintyy annoksilla, joita tavallisesti käytetään ihmisillä sairauksien ennaltaehkäisyyn, diagnosointiin tai sairauden hoitoon tai fysiologisen toiminnon muuttamiseen. (Katso ohje ICH E2A Clinical Safety Data Management: Definitions and Standards for Expedited Reporting.)",
+            "target": "sanasto/laakkeen-haittavaikutus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ich-e6-r3-term-comparison-vakava-haittatapahtuma-ja-vakava-haittavaikutus",
+    "title": "Vakava haittatapahtuma (SAE) ja vakava haittavaikutus",
+    "slug": "vakava-haittatapahtuma-ja-vakava-haittavaikutus",
+    "terms": [
+      {
+        "term_fi": "Vakava haittatapahtuma (SAE)",
+        "sources": [
+          {
+            "title": "Vakava haittatapahtuma",
+            "excerpt": "Mikä tahansa epäsuotuisa lääketieteellinen tapahtuma, joka katsotaan vakavaksi annoksesta riippumatta, jos se: • johtaa kuolemaan, • on hengenvaarallinen, • vaatii sairaalahoidon aloittamista tai jatkamista, • aiheuttaa pysyvän tai merkittävän vamman tai haitan, • aiheuttaa synnynnäisen anomalian tai epämuodostuman. (katso ICH E2A) Merkittävää lääketieteellistä tapahtumaa, joka ei välttämättä ole välittömästi hengenvaarallinen tai johda kuolemaan tai sairaalahoitoon, mutta joka voi vaarantaa tutkimukseen osallistujan tai edellyttää interventiota vakavien tapahtumien ehkäisemiseksi (ks. ICH E2A ja E19), tulee yleensä pitää vakavana.",
+            "target": "sanasto/vakava-haittatapahtuma"
+          }
+        ]
+      },
+      {
+        "term_fi": "Vakava haittavaikutus",
+        "sources": [
+          {
+            "title": "Lääkkeen haittavaikutus",
+            "excerpt": "• Ennen myyntiluvan hyväksymistä kertyneessä kliinisessä kokemuksessa uudesta tutkimusvalmisteesta tai sen uusista käyttötarkoituksista (erityisesti silloin, kun terapeuttista hoitoannosta ei ole vielä voitu määrittää): epäsuotuisa ja tahaton vaste, kuten mittausarvo (esim. laboratoriotulokset), oire tai sairaus, joka liittyy mihin tahansa lääkevalmisteen annokseen ja jossa lääkevalmisteen ja haittatapahtuman välinen syy- seuraussuhde on kohtuudella mahdollista. Varmuuden taso lääkkeen haittavaikutuksen yhteydestä tutkimusvalmisteeseen vaihtelee. Jos haittavaikutuksen epäillään liittyvän tutkimusvalmisteeseen suurella varmuudella, se tulee sisällyttää turvallisuutta koskeviin viitetietoihin (RSI) ja/tai tutkijan tietopakettiin. • Markkinoilla olevat lääkevalmisteet: haitallinen ja tahaton reaktio lääkkeeseen, joka esiintyy annoksilla, joita tavallisesti käytetään ihmisillä sairauksien ennaltaehkäisyyn, diagnosointiin tai sairauden hoitoon tai fysiologisen toiminnon muuttamiseen. (Katso ohje ICH E2A Clinical Safety Data Management: Definitions and Standards for Expedited Reporting.)",
+            "target": "sanasto/laakkeen-haittavaikutus"
+          },
+          {
+            "title": "Epäilty odottamaton vakava haittavaikutus",
+            "excerpt": "haittavaikutus, joka täyttää kolme kriteeriä: epäilty, odottamaton ja vakava. • Epäilty: On olemassa kohtuullinen mahdollisuus, että lääke on aiheuttanut haittavaikutuksen. • Odottamaton: Haittavaikutus, jonka luonne tai vakavuus ei vastaa sovellettavia valmistetietoja (esim. tutkijan tietopaketti tai vaihtoehtoiset muut lainsäädännön vaatimukset täyttävät sovellettavat asiakirjat; ks. turvallisuutta koskevat viitetiedot, RSI). • Vakava: Ks. vakava haittatapahtuma edellä.",
+            "target": "sanasto/epailty-odottamaton-vakava-haittavaikutus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ich-e6-r3-term-comparison-lahdetallenne-ja-oleellinen-tallenne",
+    "title": "Lähdetallenne ja oleellinen tallenne",
+    "slug": "lahdetallenne-ja-oleellinen-tallenne",
+    "terms": [
+      {
+        "term_fi": "Lähdetallenne",
+        "sources": [
+          {
+            "title": "Lähdetallenteet",
+            "excerpt": "Alkuperäiset asiakirjat tai tiedot (jotka sisältävät asiaankuuluvat metatiedot) tai varmennetut kopiot alkuperäisestä asiakirjasta tai tiedoista, käytetyistä tietovälineistä riippumatta. Näillä voidaan tarkoittaa tutkimukseen osallistujien lääketieteellisiä ja terveyteen liittyviä tallenteita/kirjauksia/asiakirjoja, tutkimukseen osallistujien toimittamia/syöttämiä tietoja (esim. potilaan sähköisesti raportoimia tuloksia, ePRO), terveydenhuollon ammattilaisten kirjauksia apteekeista, laboratorioista ja muilta kliiniseen lääketutkimukseen osallistuvilta tahoilta sekä automatisoiduista välineistä, kuten puettavista elektronisista laitteista ja antureista saatuja tietoja.",
+            "target": "sanasto/lahdetallenteet"
+          }
+        ]
+      },
+      {
+        "term_fi": "Oleellinen tallenne",
+        "sources": [
+          {
+            "title": "Oleelliset tallenteet",
+            "excerpt": "Oleelliset tallenteet ovat missä tahansa muodossa olevia asiakirjoja ja tietoja (ja asiaankuuluvaa metatietoa), jotka liittyvät kliiniseen lääketutkimukseen. Ne helpottavat tutkimuksen jatkuvaa hallinnointia ja yhdessä käytettynä mahdollistavat käytettyjen menetelmien, tutkimukseen vaikuttavien tekijöiden ja tutkimuksen aikana tehtyjen toimenpiteiden arvioinnin. Niiden avulla voidaan varmistaa tuotettujen tutkimustulosten luotettavuus ja se, että tutkimus on toteutettu hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisesti (ks. täydentävä liite C).",
+            "target": "sanasto/oleelliset-tallenteet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ich-e6-r3-term-comparison-laadunvarmistus-ja-laadunvalvonta",
+    "title": "Laadunvarmistus ja laadunvalvonta",
+    "slug": "laadunvarmistus-ja-laadunvalvonta",
+    "terms": [
+      {
+        "term_fi": "Laadunvarmistus",
+        "sources": [
+          {
+            "title": "Laadunvarmistus",
+            "excerpt": "Kaikki suunnitellut ja järjestelmälliset toimenpiteet, joilla voidaan varmistaa, että tutkimuksen toteuttaminen sekä tuotettu tutkimustieto on tallennettu ja raportoitu hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisesti.",
+            "target": "sanasto/laadunvarmistus"
+          }
+        ]
+      },
+      {
+        "term_fi": "Laadunvalvonta",
+        "sources": [
+          {
+            "title": "Laadunvalvonta",
+            "excerpt": "Laadunvarmistusjärjestelmän mukaiset menetelmät ja toimenpiteet, joilla varmistutaan siitä, että tutkimuksiin liittyvän toiminnan laatuvaatimuksia on noudatettu.",
+            "target": "sanasto/laadunvalvonta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ich-e6-r3-term-comparison-delegointi-ja-toimintojen-siirtaminen",
+    "title": "Delegointi ja toimintojen siirtäminen",
+    "slug": "delegointi-ja-toimintojen-siirtaminen",
+    "terms": [
+      {
+        "term_fi": "Delegointi",
+        "sources": [
+          {
+            "title": "Lähdekohta 10.1",
+            "excerpt": "Toimeksiantaja voi siirtää tai tutkija voi delegoida tehtäviään, velvollisuuksiaan tai toimintojaan (jäljempänä toimet), mutta kumpikin säilyttää kokonaisvastuun omista toimistaan.",
+            "target": "02-gcp-periaatteet/periaate-10#ich-e6-r3-principle-10-1"
+          },
+          {
+            "title": "Lähdekohta 2.3.1",
+            "excerpt": "Tutkija voi delegoida tutkimukseen liittyviä toimia muille henkilöille tai tahoille. Toimeksiantaja voi tukea tutkijaa sopivan palveluntarjoajan tunnistamisessa, mutta tutkijalla on kuitenkin lopullinen päätösvalta siitä, onko tutkijan tueksi tarkoitettu palveluntarjoaja tarkoituksenmukainen toimeksiantajan tarjoaman tiedon perusteella (katso kappale 3.6.5). Tutkijalla säilyy kokonaisvastuu, ja hänen on valvottava asianmukaisesti henkilöitä tai tahoja, joille toimia on delegoitu, jotta tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi sekä tietojen luotettavuus voidaan taata. Tutkijan delegoituihin toimiin kohdistuvan valvonnan tason tulee perustua delegoitujen toimien luonteeseen ja olla oikeassa suhteessa kerättävien tietojen tärkeyteen sekä tutkimukseen osallistujien turvallisuuteen ja tietojen luotettavuuteen kohdistuviin riskeihin.",
+            "target": "03-liite-1/2-3-vastuut#ich-e6-r3-a1-2-3-1"
+          }
+        ]
+      },
+      {
+        "term_fi": "Toimintojen siirtäminen",
+        "sources": [
+          {
+            "title": "Lähdekohta 10.1",
+            "excerpt": "Toimeksiantaja voi siirtää tai tutkija voi delegoida tehtäviään, velvollisuuksiaan tai toimintojaan (jäljempänä toimet), mutta kumpikin säilyttää kokonaisvastuun omista toimistaan.",
+            "target": "02-gcp-periaatteet/periaate-10#ich-e6-r3-principle-10-1"
+          },
+          {
+            "title": "Lähdekohta 3.6.6",
+            "excerpt": "Toimeksiantaja voi siirtää osan tai kaikki tutkimukseen liittyvät toimet palveluntarjoajalle lainsäädännön vaatimusten mukaisesti, mutta toimeksiantajalla säilyy vastuu tutkimukseen liittyvistä toimista, mukaan lukien tutkimukseen osallistujien oikeuksien, turvallisuuden ja hyvinvoinnin sekä tutkimustulosten luotettavuuden suojeleminen. Kaikkien kliinisen lääketutkimuksen toimien suorittamiseen käytettyjen palveluntarjoajien tulee toteuttaa asianmukaista laadunhallintaa ja raportoida toimeksiantajalle tapahtumista, joilla saattaa olla vaikutusta tutkimukseen osallistujien turvallisuuteen ja/tai tutkimustuloksiin.",
+            "target": "03-liite-1/3-6-sopimukset#ich-e6-r3-a1-3-6-6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ich-e6-r3-term-comparison-validointi-ja-tarkoitukseen-sopivuus",
+    "title": "Validointi ja tarkoitukseen sopivuus",
+    "slug": "validointi-ja-tarkoitukseen-sopivuus",
+    "terms": [
+      {
+        "term_fi": "Validointi",
+        "sources": [
+          {
+            "title": "Tietokoneistettujen järjestelmien validointi",
+            "excerpt": "Prosessi, jossa osoitetaan ja dokumentoidaan, että tietokoneistettu järjestelmä täyttää määritellyt vaatimukset johdonmukaisesti järjestelmän suunnittelusta sen käytöstä poistamiseen tai uuteen järjestelmään siirtymiseen saakka. Validointitavan tulee perustua riskinarviointiin, jossa huomioidaan järjestelmän aiottu käyttötarkoitus sekä järjestelmän mahdollinen vaikutus tutkimukseen osallistujien suojaukseen ja tutkimustulosten luotettavuuteen.",
+            "target": "sanasto/tietokoneistettujen-jarjestelmien-validointi"
+          },
+          {
+            "title": "Lähdekohta 4.3.4",
+            "excerpt": "<a id=\"ich-e6-r3-a1-4-3-4-item-a\"></a>\n\n- (a) Vastuutaho vastaa järjestelmän validoinnin tilasta koko sen elinkaaren ajan. Tietokoneistettujen järjestelmien validointitavan tulee perustua riskinarviointiin. Riskinarvioinnissa tulee ottaa huomioon järjestelmän aiottu käyttötarkoitus, järjestelmässä kerättävien/tuotettavien tietojen/tallenteiden sekä järjestelmässä ylläpidettävien ja säilytettävien tietojen/tallenteiden tarkoitus ja merkitys sekä järjestelmän mahdollisuus vaikuttaa tutkimukseen osallistujien hyvinvointiin, oikeuksiin ja turvallisuuteen ja tutkimustulosten luotettavuuteen.\n\n<a id=\"ich-e6-r3-a1-4-3-4-item-b\"></a>\n\n- (b) Validoinnissa tulee osoittaa, että järjestelmä täyttää täydellisyydelle, tarkkuudelle ja luotettavuudelle asetetut vaatimukset ja että sen suorituskyky vastaa käyttötarkoitusta.\n\n<a id=\"ich-e6-r3-a1-4-3-4-item-c\"></a>\n\n- (c) Järjestelmät tulee validoida asianmukaisesti ennen käyttöä. Myöhemmin järjestelmään tehdyt muutokset tulee validoida riskiperusteisesti. Validoinnissa tulee ottaa huomioon sekä aiemmin kerätyt tiedot että uudet tiedot muutoksenhallintamenettelyiden mukaisesti.\n\n<a id=\"ich-e6-r3-a1-4-3-4-item-d\"></a>\n\n- (d) Määräaikaistarkistukset voivat olla riittäviä sen varmistamiseksi, että tietokoneistetut järjestelmät pysyvät validoituina koko järjestelmän elinkaaren ajan.\n\n<a id=\"ich-e6-r3-a1-4-3-4-item-e\"></a>\n\n- (e) Sekä järjestelmän vakiotoiminnallisuudet että tutkimussuunnitelmakohtaiset konfiguraatiot ja mukautukset, mukaan lukien automaattiset tiedonsyötön tarkistukset ja laskelmat, tulee validoida. Myös järjestelmien väliset rajapinnat tulee määritellä ja validoida. Validoinnin laajuus voi vaihdella sen mukaan, onko kyse räätälöidystä järjestelmästä, konfiguroitavaksi suunnitellusta järjestelmästä vai järjestelmästä, johon ei tarvita muutoksia.\n\n<a id=\"ich-e6-r3-a1-4-3-4-item-f\"></a>\n\n- (f) Validointimenettelyiden tulee kattaa (käytöstä poistamiseen asti) seuraavat asiat, jos sovellettavissa: järjestelmäsuunnittelu, järjestelmävaatimukset, toiminnallisuuden testaus, konfigurointi, julkaisu, asennus, käyttöönotto ja muutosten hallinta.\n\n<a id=\"ich-e6-r3-a1-4-3-4-item-g\"></a>\n\n- (g) Vastuullisen osapuolen tulee varmistaa, että tietokoneistetut järjestelmät, mukaan lukien muiden osapuolten kehittämät järjestelmät, on validoitu tarkoitukseensa sopiviksi tutkimuskäyttöä varten. Vastuullisen osapuolen tulee varmistaa, että validointidokumentaatiota ylläpidetään ja säilytetään asianmukaisesti.\n\n<a id=\"ich-e6-r3-a1-4-3-4-item-h\"></a>\n\n- (h) Validoinnin tulee yleensä sisältää järjestelmää koskevien vaatimusten ja spesifikaatioiden määrittely ja testaaminen sekä niihin liittyvä dokumentaatio, jotta voidaan varmistaa, että järjestelmä soveltuu käyttötarkoitukseensa tutkimuksessa. Tämä koskee erityisesti kriittisiä toiminnallisuuksia, kuten satunnaistamista, annostelua, annosten muuttamista ja vähentämistä sekä päätetapahtumatietojen keräämistä.\n\n<a id=\"ich-e6-r3-a1-4-3-4-item-i\"></a>\n\n- (i) Mahdolliset ratkaisemattomat asiat tulee perustella ja, jos tarpeen, niihin liittyviin tunnistettuihin riskeihin tulee puuttua vähentämisstrategioiden avulla ennen järjestelmän käyttöä ja/tai järjestelmän käytön jatkamisen aikana.",
+            "target": "03-liite-1/4-3-4-validointi"
+          }
+        ]
+      },
+      {
+        "term_fi": "Tarkoitukseen sopivuus",
+        "sources": [
+          {
+            "title": "Lähdekohta 6.1",
+            "excerpt": "Tässä ohjeessa kliinisen lääketutkimuksen laatu käsitetään tarkoitukseen sopivuutena.",
+            "target": "02-gcp-periaatteet/periaate-06#ich-e6-r3-principle-06-6-1"
+          },
+          {
+            "title": "Lähdekohta 9.3",
+            "excerpt": "Kliinisissä lääketutkimuksissa käytettävien tietokoneistettujen järjestelmien tulee olla tarkoitukseen sopivia (esim. validoitu tarvittaessa riskiperusteisesti), ja niiden laadun kannalta kriittiset tekijät tulee huomioida suunnittelussa tai mukauttamisessa kliinisiin lääketutkimuksiin, jotta asiaankuuluvien tutkimustietojen eheys voidaan varmistaa.",
+            "target": "02-gcp-periaatteet/periaate-09#ich-e6-r3-principle-09-9-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ich-e6-r3-term-comparison-monitorointi-ja-auditointi",
+    "title": "Monitorointi ja auditointi",
+    "slug": "monitorointi-ja-auditointi",
+    "terms": [
+      {
+        "term_fi": "Monitorointi",
+        "sources": [
+          {
+            "title": "Monitorointi",
+            "excerpt": "Kliinisen lääketutkimuksen edistymisen valvonta ja varmistaminen, että tutkimus toteutetaan, kirjataan ja raportoidaan tutkimussuunnitelman, vakioitujen toimintaohjeiden, hyvän kliinisen tutkimustavan sekä lainsäädännön vaatimusten mukaisesti.",
+            "target": "sanasto/monitorointi"
+          }
+        ]
+      },
+      {
+        "term_fi": "Auditointi",
+        "sources": [
+          {
+            "title": "Auditointi",
+            "excerpt": "Tutkimukseen liittyvän toiminnan ja kirjattujen tietojen systemaattinen ja riippumaton tarkastelu. Auditoinnin suorittaa toimeksiantaja, palveluntarjoaja (mukaan lukien sopimustutkimusorganisaatio, CRO) tai tutkimuslaitos. Sen tarkoitus on määrittää, onko arvioitu tutkimukseen liittyvä toiminta toteutettu ja tiedot kirjattu, analysoitu ja raportoitu tarkasti tutkimussuunnitelman, vakioitujen toimintaohjeiden (SOP), hyvän kliinisen tutkimustavan (GCP) ja lainsäädännön vaatimusten mukaisesti.",
+            "target": "sanasto/auditointi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ich-e6-r3-term-comparison-tietoon-perustuva-suostumus-ja-alaikaisen-suostumus",
+    "title": "Tietoon perustuva suostumus ja alaikäisen suostumus",
+    "slug": "tietoon-perustuva-suostumus-ja-alaikaisen-suostumus",
+    "terms": [
+      {
+        "term_fi": "Tietoon perustuva suostumus",
+        "sources": [
+          {
+            "title": "Tietoon perustuva suostumus",
+            "excerpt": "Prosessi, jossa tutkimukseen osallistuja tai tämän laillinen edustaja vapaaehtoisesti vahvistaa halukkuutensa osallistua tiettyyn tutkimukseen sen jälkeen, kun hän on saanut tiedot tutkimuksesta ja hänelle on tarjottu mahdollisuus keskustella kaikista tutkimukseen liittyvistä seikoista, joilla on merkitystä hänen osallistumispäätökseensä. Erilaisia tapoja antaa tietoa ja keskustella tutkimuksesta voidaan hyödyntää. Niitä voivat olla esimerkiksi eri muodossa olevien tekstien, kuvien ja videoiden tarjoaminen sekä puhelin- tai videoneuvottelut tutkimusta suorittavan henkilöstön kanssa. Tietoon perustuva suostumus dokumentoidaan kirjallisella (paperisella tai sähköisellä) suostumuslomakkeella, joka allekirjoitetaan ja päivätään. Suostumuksen saamista etänä voidaan harkita silloin, kun se on soveltuvaa.",
+            "target": "sanasto/tietoon-perustuva-suostumus"
+          }
+        ]
+      },
+      {
+        "term_fi": "Alaikäisen suostumus",
+        "sources": [
+          {
+            "title": "Alaikäisen suostumus",
+            "excerpt": "Alaikäisen suostumus osallistua kliiniseen lääketutkimukseen. Hyväksynnän tai kieltäytymisen ilmaisematta jättämistä ei tule tulkita alaikäisen suostumukseksi.",
+            "target": "sanasto/alaikaisen-suostumus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ich-e6-r3-term-comparison-tutkija-ja-toimeksiantaja-tutkija",
+    "title": "Tutkija ja toimeksiantaja-tutkija",
+    "slug": "tutkija-ja-toimeksiantaja-tutkija",
+    "terms": [
+      {
+        "term_fi": "Tutkija",
+        "sources": [
+          {
+            "title": "Tutkija",
+            "excerpt": "Henkilö, joka on vastuussa kliinisen lääketutkimuksen toteuttamisesta, sekä niistä tutkimukseen osallistujista, jotka ovat hänen vastuullaan tutkimuksen ajan. Jos tutkimuksen suorittaa useista henkilöistä koostuva ryhmä, tutkija on ryhmän vastuullinen johtaja, ja häntä voidaan kutsua päätutkijaksi tai johtavaksi tutkijaksi (principal investigator). Tämän ohjeen kohdissa, joissa viitataan tutkijaan/tutkimuslaitokseen, kuvataan edellytyksiä, jotka voivat koskea tutkijaa ja/tai tutkimuslaitosta joillakin alueilla (eri maissa). Siellä missä lainsäädännön vaatimukset vaativat, niin ”tutkija” tulee tulkita ”tutkijaksi ja/tai tutkimuslaitokseksi”.",
+            "target": "sanasto/tutkija"
+          }
+        ]
+      },
+      {
+        "term_fi": "Toimeksiantaja-tutkija",
+        "sources": [
+          {
+            "title": "Toimeksiantaja-tutkija",
+            "excerpt": "Henkilö, joka sekä käynnistää että toteuttaa kliinisen lääketutkimuksen joko yksin tai muiden kanssa ja jonka välittömässä johdossa tutkimusvalmistetta annostellaan tai annetaan tutkimukseen osallistujalle tai tutkimukseen osallistujien käyttöön. Tämä määritelmä koskee ainoastaan yksilöitä (henkilöitä, ei esimerkiksi yhtiöitä tai laitoksia). Toimeksiantaja-tutkijan velvollisuuksiin kuuluvat sekä toimeksiantajan että tutkijan velvollisuudet.",
+            "target": "sanasto/toimeksiantaja-tutkija"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ich-e6-r3-term-comparison-tutkimussuunnitelma-ja-tutkimussuunnitelman-muutos",
+    "title": "Tutkimussuunnitelma ja tutkimussuunnitelman muutos",
+    "slug": "tutkimussuunnitelma-ja-tutkimussuunnitelman-muutos",
+    "terms": [
+      {
+        "term_fi": "Tutkimussuunnitelma",
+        "sources": [
+          {
+            "title": "Tutkimussuunnitelma",
+            "excerpt": "Asiakirja, jossa esitetään tutkimuksen tavoitteet, tutkimusasetelma, menetelmät, tilastolliset näkökohdat ja tutkimuksen rakenne. Tutkimussuunnitelmassa esitetään yleensä myös tutkimuksen taustat ja tieteelliset syyt, mutta ne voidaan esittää myös muissa tutkimussuunnitelmassa viitatuissa asiakirjoissa. ICH:n hyvää kliinistä tutkimustapaa koskevissa ohjeissa tutkimussuunnitelmalla tarkoitetaan tutkimussuunnitelmaa ja sen muutosversioita.",
+            "target": "sanasto/tutkimussuunnitelma"
+          }
+        ]
+      },
+      {
+        "term_fi": "Tutkimussuunnitelman muutos",
+        "sources": [
+          {
+            "title": "Tutkimussuunnitelman muutos",
+            "excerpt": "Tutkimussuunnitelman muutoksia koskeva kirjallinen selostus.",
+            "target": "sanasto/tutkimussuunnitelman-muutos"
+          }
+        ]
+      }
+    ]
+  }
+]

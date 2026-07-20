@@ -39,3 +39,7 @@ Selkeä kuvaus tutkimuksen tavoitteista ja tarkoituksesta. Tiedot estimandeista,
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.3, pages 54–54.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-2-taustatiedot|B.2 Taustatiedot]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-4-tutkimusasetelma|B.4 Tutkimusasetelma]]

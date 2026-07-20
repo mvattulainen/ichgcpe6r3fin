@@ -48,10 +48,6 @@ Kliinisten lääketutkimusten tulee olla tieteellisesti päteviä ja vastata tut
 
 Ajantasaisia tieteellisiä tietoja ja lähestymistapoja tulee arvioida uudelleen säännöllisesti, jotta voidaan päättää, onko tutkimusta muutettava, koska uutta tai odottamatonta tietoa voi ilmaantua tutkimuksen alkamisen jälkeen.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -73,3 +69,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4, pages 9–9.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-03|3. Eettisen toimikunnan tulee arvioida kliiniset lääketutkimukset riippumattomasti.]]
+
+Seuraava sivu: [[02-gcp-periaatteet/periaate-05|5. Pätevien henkilöiden tulee suunnitella ja toteuttaa kliiniset lääketutkimukset.]]

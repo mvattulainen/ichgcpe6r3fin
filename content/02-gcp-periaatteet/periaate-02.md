@@ -56,10 +56,6 @@ Suostumusprosessissa tulee ottaa huomioon tutkimuksen olennaiset näkökohdat, k
 
 Hätätilanteissa, joissa suostumusta ei voida saada ennen tutkimukseen osallistumista, suostumus tulee saada tutkimukseen osallistujalta tai hänen lailliselta edustajaltaan heti, kun se on mahdollista lainsäädännön vaatimusten ja eettisen toimikunnan hyväksymän prosessin mukaisesti.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -85,3 +81,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2, pages 8–9.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-01|1. Kliiniset lääketutkimukset tulee toteuttaa noudattaen eettisiä periaatteita, jotka perustuvat Helsingin julistukseen ja ovat hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisia. Kliiniset lääketutkimukset tulee suunnitella ja toteuttaa tavoilla, joilla varmistetaan tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi.]]
+
+Seuraava sivu: [[02-gcp-periaatteet/periaate-03|3. Eettisen toimikunnan tulee arvioida kliiniset lääketutkimukset riippumattomasti.]]

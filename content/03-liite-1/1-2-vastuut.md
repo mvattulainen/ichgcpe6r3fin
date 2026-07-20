@@ -138,10 +138,6 @@ Jos tutkimukseen osallistujille maksetaan korvausta tutkimukseen osallistumisest
 
 Eettisen toimikunnan tulee varmistaa, että tutkimukseen osallistujille maksettavaa korvausta koskevat tiedot, mukaan lukien maksutavat, korvausten määrät ja maksuaikataulu, esitetään tietoon perustuvaa suostumusta koskevissa asiakirjoissa sekä muussa osallistujille annettavassa tiedossa.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -213,3 +209,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 1.2, pages 12–13.
+
+Edellinen sivu: [[03-liite-1/1-1-hakeminen-ja-tiedoksi-antaminen|1.1 Hakeminen ja tiedoksi antaminen]]
+
+Seuraava sivu: [[03-liite-1/1-3-kokoonpano-tehtavat-ja-toiminta|1.3 Kokoonpano, tehtävät ja toiminta]]

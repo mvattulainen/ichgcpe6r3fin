@@ -57,3 +57,7 @@ Tehokkuusparametrien arvioinnin, kirjaamisen ja analysoinnin menetelmät ja ajoi
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.8, pages 56–56.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-10-tilastolliset-nakokohdat|B.10 Tilastolliset näkökohdat]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-9-turvallisuuden-arviointi|B.9 Turvallisuuden arviointi]]

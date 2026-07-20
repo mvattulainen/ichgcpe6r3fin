@@ -56,3 +56,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.2.6, pages 45–45.
+
+Edellinen sivu: [[03-liite-1/4-2-5-tietojen-siirto-vaihto-ja-tuominen-toiseen-jarjestelmaan|4.2.5 Tietojen siirto, vaihto ja tuominen toiseen järjestelmään]]
+
+Seuraava sivu: [[03-liite-1/4-2-7-tietojen-sailytys-ja-paasy-tietoihin|4.2.7 Tietojen säilytys ja pääsy tietoihin]]

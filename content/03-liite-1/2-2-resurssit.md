@@ -59,3 +59,7 @@ Tutkijalla tulee olla riittävästi aikaa, ja hänellä tulee olla käytettävis
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.2, pages 15–15.
+
+Edellinen sivu: [[03-liite-1/2-1-patevyys-ja-koulutus|2.1 Pätevyys ja koulutus]]
+
+Seuraava sivu: [[03-liite-1/2-3-vastuut|2.3 Vastuut]]

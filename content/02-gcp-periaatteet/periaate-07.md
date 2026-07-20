@@ -79,3 +79,7 @@ Tutkimusprosessien tulee olla toiminnallisesti toteuttamiskelpoisia. Niissä tul
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 7, pages 9–10.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-06|6. Laatu tulee sisällyttää tieteelliseen ja toiminnalliseen suunnitteluun ja kliinisten lääketutkimusten toteuttamiseen.]]
+
+Seuraava sivu: [[02-gcp-periaatteet/periaate-08|8. Kliiniset lääketutkimukset tulee kuvata selkeässä, tiiviissä, tieteellisesti perustellussa ja toiminnallisesti toteuttamiskelpoisessa tutkimussuunnitelmassa.]]

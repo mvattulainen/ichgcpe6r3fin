@@ -40,3 +40,7 @@ Toimeksiantajan tulee laatia asianmukainen laadunhallintajärjestelmä, joka kat
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.10, pages 28–28.
+
+Edellinen sivu: [[03-liite-1/3-9-toimeksiantajan-valvontavastuu|3.9 Toimeksiantajan valvontavastuu]]
+
+Seuraava sivu: [[03-liite-1/3-10-1-riskienhallinta|3.10.1 Riskienhallinta]]

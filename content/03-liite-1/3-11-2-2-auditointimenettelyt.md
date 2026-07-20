@@ -49,10 +49,6 @@ is_based_on:
 
 - (e) Jos [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]] sitä edellyttävät, toimeksiantajan tulee toimittaa [[sanasto/auditointitodistus|auditointitodistus]].
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -72,3 +68,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.2.2, pages 30–30.
+
+Edellinen sivu: [[03-liite-1/3-11-2-1-auditoijien-valinta-ja-patevyys|3.11.2.1 Auditoijien valinta ja pätevyys]]
+
+Seuraava sivu: [[03-liite-1/3-11-3-laadunvalvonta|3.11.3 Laadunvalvonta]]

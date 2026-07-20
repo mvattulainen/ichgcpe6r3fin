@@ -40,3 +40,7 @@ Käytössä tulee olla dokumentoidut menettelyt sen varmistamiseksi, että tieto
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.3.1, pages 46–46.
+
+Edellinen sivu: [[03-liite-1/4-3-tietokoneistetut-jarjestelmat|4.3 Tietokoneistetut järjestelmät]]
+
+Seuraava sivu: [[03-liite-1/4-3-2-koulutus|4.3.2 Koulutus]]

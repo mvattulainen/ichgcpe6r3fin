@@ -40,3 +40,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.15, pages 36–36.
+
+Edellinen sivu: [[03-liite-1/3-14-tutkimukseen-osallistujille-ja-tutkijoille-annettava-vakuutus-ja-makse|3.14 Tutkimukseen osallistujille ja tutkijoille annettava vakuutus ja maksettavat]]
+
+Seuraava sivu: [[03-liite-1/3-15-1-tutkimusvalmistetta-koskevat-tiedot|3.15.1 Tutkimusvalmistetta koskevat tiedot]]

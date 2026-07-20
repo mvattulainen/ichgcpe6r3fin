@@ -32,10 +32,6 @@ is_based_on:
 
 Laadunvalvontaa tulee soveltaa riskiperusteisesti jokaisessa vaiheessa, jossa tietoja käsitellään, jotta voidaan varmistaa, että tiedot ovat luotettavia ja että niitä on käsitelty oikein. Kliinisissä lääketutkimuksissa [[sanasto/monitorointi|monitorointi]] ja tiedonhallintaprosessit ovat tärkeimpiä laadunvalvontatoimia. Tarvittaessa laadunvalvontatoimia voidaan soveltaa myös muualla kuin varsinaisissa tutkimuspaikoissa (esim. keskitetyt kuvantamisen tulkintaa tekevät yksiköt).
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -45,3 +41,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.3, pages 31–31.
+
+Edellinen sivu: [[03-liite-1/3-11-2-2-auditointimenettelyt|3.11.2.2 Auditointimenettelyt]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-monitorointi|3.11.4 Monitorointi]]

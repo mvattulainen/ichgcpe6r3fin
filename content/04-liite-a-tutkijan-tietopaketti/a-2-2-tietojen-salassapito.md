@@ -30,10 +30,6 @@ is_based_on:
 
 [[sanasto/toimeksiantaja|Toimeksiantaja]] voi halutessaan liittää tutkijan tietopakettiin luottamuksellisuuslausekkeen, jossa tutkijoita/vastaanottajia kehotetaan pitämään tutkijan tietopakettia luottamuksellisena asiakirjana, joka on tarkoitettu yksinomaan tutkijan/tutkimuslaitoksen, tutkimusta suorittavan henkilöstön, valvontaviranomaisten ja eettisen toimikunnan tiedoksi ja käyttöön.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -43,3 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.2.2, pages 50–50.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-2-1-kansilehti|A.2.1 Kansilehti]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-tutkijan-tietopaketin-sisalto|A.3 Tutkijan tietopaketin sisältö]]

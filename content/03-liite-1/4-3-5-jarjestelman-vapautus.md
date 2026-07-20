@@ -40,3 +40,7 @@ Tutkimuskohtaiset järjestelmät (mukaan lukien tutkimussuunnitelman muutoksista
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.3.5, pages 47–47.
+
+Edellinen sivu: [[03-liite-1/4-3-4-validointi|4.3.4 Validointi]]
+
+Seuraava sivu: [[03-liite-1/4-3-6-jarjestelmavika|4.3.6 Järjestelmävika]]

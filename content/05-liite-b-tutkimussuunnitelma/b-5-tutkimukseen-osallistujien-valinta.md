@@ -67,3 +67,7 @@ Tutkimukseen osallistujien seulontatavat ja tarvittaessa esiseulonnan kuvaus.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.5, pages 55–55.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-4-tutkimusasetelma|B.4 Tutkimusasetelma]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-6-tutkimusinterventioiden-keskeyttaminen-ja-tutkimukseen-osallistujan-ve|B.6 Tutkimusinterventioiden keskeyttäminen ja tutkimukseen osallistujan vetäytyminen]]

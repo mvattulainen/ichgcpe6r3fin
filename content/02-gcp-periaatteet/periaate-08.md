@@ -47,10 +47,6 @@ Jokaisen tutkimuksen tieteelliset tavoitteet tulee ilmaista tutkimussuunnitelmas
 
 Kliinisen lääketutkimuksen [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] sekä tutkimussuunnitelman toteuttamista koskevien suunnitelmien tai asiakirjojen (esim. tilastollinen analyysisuunnitelma, tiedonhallintasuunnitelma, [[sanasto/monitorointisuunnitelma|monitorointisuunnitelma]]) tulee olla selkeitä, tiiviitä ja toiminnallisesti toteuttamiskelpoisia.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -72,3 +68,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 8, pages 10–10.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-07|7. Kliinisen lääketutkimuksen prosessien, toimenpiteiden ja lähestymistapojen toteutuksen tulee olla oikeassa suhteessa tutkimukseen osallistujille aiheutuviin riskeihin ja kerättyjen tietojen tärkeyteen, jotta vältetään tutkimukseen osallistujille ja tutkijoille aiheutuva tarpeeton rasite.]]
+
+Seuraava sivu: [[02-gcp-periaatteet/periaate-09|9. Kliinisten lääketutkimusten tulee tuottaa luotettavia tuloksia.]]

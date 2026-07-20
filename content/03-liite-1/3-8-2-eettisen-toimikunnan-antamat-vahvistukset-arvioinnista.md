@@ -42,10 +42,6 @@ is_based_on:
 
 - (i) eettisen toimikunnan nimi ja osoite sekä: (aa) lausunto, jossa todetaan, että toimikunta on järjestäytynyt ja toimii hyvän kliinisen tutkimustavan periaatteiden ja lainsäädännön vaatimusten mukaan; (bb) dokumentoitu eettisen toimikunnan alkuperäinen ja myöhempi hyväksyntä/puoltava lausunto sekä tutkimuksen mahdollinen päättäminen tai hyväksynnän/puoltavan lausunnon keskeyttäminen.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -61,3 +57,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.8.2, pages 27–27.
+
+Edellinen sivu: [[03-liite-1/3-8-1-ilmoitukset-ja-hakemukset-valvontaviranomaisille|3.8.1 Ilmoitukset ja hakemukset valvontaviranomaisille]]
+
+Seuraava sivu: [[03-liite-1/3-9-toimeksiantajan-valvontavastuu|3.9 Toimeksiantajan valvontavastuu]]

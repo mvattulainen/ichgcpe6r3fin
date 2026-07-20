@@ -41,10 +41,6 @@ Eettisen toimikunnan tulee säilyttää kaikki asiaankuuluvat tallenteet (mm. ki
 
 Tutkijat, toimeksiantajat tai [[sanasto/valvontaviranomaiset|valvontaviranomaiset]] voivat pyytää eettistä toimikuntaa toimittamaan dokumentoidut toimintaohjeet ja jäsenluettelot.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -62,3 +58,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 1.5, pages 14–14.
+
+Edellinen sivu: [[03-liite-1/1-4-toimintatavat|1.4 Toimintatavat]]
+
+Seuraava sivu: [[03-liite-1/2-tutkija|2 Tutkija]]

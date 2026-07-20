@@ -41,3 +41,7 @@ Toimeksiantajan tulee hyödyntää asianmukaisen pätevyyden omaavia henkilöit�
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.4, pages 25–25.
+
+Edellinen sivu: [[03-liite-1/3-3-toimien-jakaminen|3.3 Toimien jakaminen]]
+
+Seuraava sivu: [[03-liite-1/3-4-1-laaketieteellinen-asiantuntemus|3.4.1 Lääketieteellinen asiantuntemus]]

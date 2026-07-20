@@ -40,3 +40,7 @@ Toimeksiantajan tulee varmistaa, että tutkimuksen asianmukaiseen toteuttamiseen
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.2, pages 25–25.
+
+Edellinen sivu: [[03-liite-1/3-1-tutkimusasetelma|3.1 Tutkimusasetelma]]
+
+Seuraava sivu: [[03-liite-1/3-3-toimien-jakaminen|3.3 Toimien jakaminen]]

@@ -66,10 +66,6 @@ Tutkimusvalmisteiden pakkausmerkintöjen tulee olla lainsäädännön vaatimuste
 
 Tutkimusvalmisteiden käsittelyä, kuljetusta, varastointia, jakelua, palauttamista ja tuhoamista tai vaihtoehtoisesti muuta käytöstä poistamista varten tulee ottaa käyttöön asianmukaiset prosessit.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -103,3 +99,5 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 11, pages 11–11.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-10|10. Kliinisten lääketutkimusten tehtävien ja vastuiden tulee olla selkeitä ja asianmukaisesti dokumentoituja.]]

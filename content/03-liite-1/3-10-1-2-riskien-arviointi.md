@@ -58,3 +58,7 @@ Toimeksiantajan tulee arvioida tunnistetut riskit ja käytössä olevat valvonta
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.10.1.2, pages 29–29.
+
+Edellinen sivu: [[03-liite-1/3-10-1-1-riskien-tunnistaminen|3.10.1.1 Riskien tunnistaminen]]
+
+Seuraava sivu: [[03-liite-1/3-10-1-3-riskien-hallinta|3.10.1.3 Riskien hallinta]]

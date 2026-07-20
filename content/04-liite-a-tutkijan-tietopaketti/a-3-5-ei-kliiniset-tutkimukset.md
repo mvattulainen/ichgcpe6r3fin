@@ -124,3 +124,7 @@ Johdanto Kaikkien olennaisten ei-kliinisten farmakologiaa, toksikologiaa, farmak
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.3.5, pages 51–52.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-4-fysikaaliset-kemialliset-ja-farmaseuttiset-ominaisuudet-ja-formulaatio|A.3.4 Fysikaaliset, kemialliset ja farmaseuttiset ominaisuudet ja formulaatio]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-6-vaikutukset-ihmisissa|A.3.6 Vaikutukset ihmisissä]]

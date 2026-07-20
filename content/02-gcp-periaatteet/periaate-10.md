@@ -48,10 +48,6 @@ Sopimuksissa tulee määritellä selkeästi kliinisen lääketutkimuksen roolit,
 
 Toimeksiantajan tai tutkijan tulee valvoa edellä mainittua toimintaa asianmukaisesti.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -73,3 +69,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 10, pages 11–11.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-09|9. Kliinisten lääketutkimusten tulee tuottaa luotettavia tuloksia.]]
+
+Seuraava sivu: [[02-gcp-periaatteet/periaate-11|11. Kliinisessä lääketutkimuksessa käytettävät tutkimusvalmisteet tulee valmistaa sovellettavien hyvien tuotantotapojen (GMP) standardien mukaisesti, ja niitä tulee hallinnoida valmisteyhteenvedon ja tutkimussuunnitelman mukaisesti.]]

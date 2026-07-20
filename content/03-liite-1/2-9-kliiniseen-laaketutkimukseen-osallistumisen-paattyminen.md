@@ -50,10 +50,6 @@ Vaikka tutkimukseen osallistujan ei tarvitse ilmoittaa syytä ennenaikaiselle ve
 
 Tutkijan tulee tarvittaessa ilmoittaa osallistujalle tutkimuksen tuloksista ja saadusta hoidosta, sitten kun nämä tiedot ovat saatavilla toimeksiantajalta sokkoutuksen purkamisen jälkeen, noudattaen tutkimukseen osallistujan valintaa saada asiasta tietoa.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -75,3 +71,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.9, pages 21–22.
+
+Edellinen sivu: [[03-liite-1/2-8-tutkimukseen-osallistujien-tietoon-perustuva-suostumus|2.8 Tutkimukseen osallistujien tietoon perustuva suostumus]]
+
+Seuraava sivu: [[03-liite-1/2-10-tutkimusvalmisteen-hallinta|2.10 Tutkimusvalmisteen hallinta]]

@@ -174,3 +174,7 @@ varmistuminen siitä, että eettinen toimikunta (katso kappale 1.1) ilmoittaa ki
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 1.4, pages 13–14.
+
+Edellinen sivu: [[03-liite-1/1-3-kokoonpano-tehtavat-ja-toiminta|1.3 Kokoonpano, tehtävät ja toiminta]]
+
+Seuraava sivu: [[03-liite-1/1-5-tallenteet|1.5 Tallenteet]]

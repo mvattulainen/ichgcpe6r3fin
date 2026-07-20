@@ -42,10 +42,6 @@ is_based_on:
 
 - (c) Toimeksiantajan tulee ilmoittaa asianmukaisille viranomaisille oleellisten tallenteiden omistajuuden mahdollisesta siirtämisestä lainsäädännön vaatimusten mukaisesti. Toimeksiantajan tulee myös ilmoittaa tutkijalle, jos tutkimuksen toimeksiantajasuhteessa tapahtuu muutoksia.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -61,3 +57,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.16.3, pages 42–42.
+
+Edellinen sivu: [[03-liite-1/3-16-2-tilastollinen-kasittely-ja-tietojen-analysointi|3.16.2 Tilastollinen käsittely ja tietojen analysointi]]
+
+Seuraava sivu: [[03-liite-1/3-16-4-paasy-tallenteisiin|3.16.4 Pääsy tallenteisiin]]

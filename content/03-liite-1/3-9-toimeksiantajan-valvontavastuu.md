@@ -85,10 +85,6 @@ Toimeksiantajat voivat tarvittaessa myös perustaa tiettyihin tutkimuksiin (pä�
 
 Komiteoissa, jotka tarkastelevat tekijöitä, jotka voivat vaikuttaa tutkimukseen osallistujien turvallisuuteen tai tutkimustulosten luotettavuuteen, tulee olla jäseniä, joilla on asiaankuuluvaa asiantuntemusta ja joilla ei ole eturistiriitoja. Komiteoilla tulee olla kirjalliset toimintaohjeet, ja niiden tulee dokumentoida päätöksensä.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -134,3 +130,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.9, pages 28–28.
+
+Edellinen sivu: [[03-liite-1/3-8-2-eettisen-toimikunnan-antamat-vahvistukset-arvioinnista|3.8.2 Eettisen toimikunnan antamat vahvistukset arvioinnista]]
+
+Seuraava sivu: [[03-liite-1/3-10-laadunhallinta|3.10 Laadunhallinta]]

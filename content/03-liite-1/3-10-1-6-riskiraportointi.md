@@ -40,3 +40,7 @@ Toimeksiantajan tulee esittää yhteenveto ja raportoida tärkeät laatuongelmat
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.10.1.6, pages 29–29.
+
+Edellinen sivu: [[03-liite-1/3-10-1-5-riskien-katselmointi|3.10.1.5 Riskien katselmointi]]
+
+Seuraava sivu: [[03-liite-1/3-11-laadunvarmistus-ja-laadunvalvonta|3.11 Laadunvarmistus ja laadunvalvonta]]

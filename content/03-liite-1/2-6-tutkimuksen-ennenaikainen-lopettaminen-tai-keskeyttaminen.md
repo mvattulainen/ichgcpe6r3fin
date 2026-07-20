@@ -55,10 +55,6 @@ Jos [[sanasto/toimeksiantaja|toimeksiantaja]] lopettaa tai keskeyttää tutkimuk
 
 Jos eettinen toimikunta peruuttaa tai epää tutkimusta koskevan hyväksyntänsä / puoltavan lausuntonsa (ks. kappaleet 1.2.3 ja 1.4.9), tutkijan tulee ilmoittaa asiasta tutkimuslaitokselle ja tutkijan/tutkimuslaitoksen tulee ilmoittaa asiasta viipymättä toimeksiantajalle.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -84,3 +80,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.6, pages 17–17.
+
+Edellinen sivu: [[03-liite-1/2-5-tutkimussuunnitelman-noudattaminen|2.5 Tutkimussuunnitelman noudattaminen]]
+
+Seuraava sivu: [[03-liite-1/2-7-tutkimukseen-osallistujille-annettava-laaketieteellinen-hoito-ja|2.7 Tutkimukseen osallistujille annettava lääketieteellinen hoito ja]]

@@ -105,10 +105,6 @@ Tallenteiden jakamista on harkittava huolellisesti silloin, kun niihin liittyy s
 
 Tietyt [[sanasto/oleelliset-tallenteet|oleelliset tallenteet]] eivät välttämättä ole tutkimuskohtaisia, vaan ne voivat liittyä tutkimusvalmisteeseen, tiloihin tai prosesseihin ja järjestelmiin, mukaan lukien tietokoneistetut järjestelmät, joita käytetään useiden tutkimusten toteuttamisessa. Tällaisia tallenteita voidaan säilyttää tutkimuskohtaisten tietokantojen/tallennuspaikkojen ulkopuolella (esim. [[sanasto/tutkijan-tietopaketti|tutkijan tietopaketti]], palveluiden puitesopimukset, toimintaohjeet, validointitiedot).
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -166,3 +162,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section C.2, pages 58–59.
+
+Edellinen sivu: [[06-liite-c-oleelliset-tallenteet/c-1-johdanto|C.1 Johdanto]]
+
+Seuraava sivu: [[06-liite-c-oleelliset-tallenteet/c-3-tutkimuksen-tallenteiden-oleellisuus|C.3 Tutkimuksen tallenteiden oleellisuus]]

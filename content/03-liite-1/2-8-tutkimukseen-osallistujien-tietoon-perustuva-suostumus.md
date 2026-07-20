@@ -226,10 +226,6 @@ Jos alaikäinen osallistuu tutkimukseen, hänelle tulee antaa ikätasoiset alaik
 
 Jos kliiniseen lääketutkimukseen osallistuu henkilöitä, jotka voivat osallistua tutkimukseen vain laillisen edustajan suostumuksella, tutkimukseen osallistujille tulee tiedottaa tutkimuksesta tavalla, joka tukee heidän ymmärrystään ja, jos [[sanasto/tutkimukseen-osallistuja|tutkimukseen osallistuja]] kykenee, hänen tulee tarvittaessa allekirjoittaa ja päivätä tietoon perustuvan suostumuksen lomake tai alaikäisen/vajaakykyisen suostumuslomake.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -345,3 +341,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.8, pages 18–21.
+
+Edellinen sivu: [[03-liite-1/2-7-2-turvallisuusraportointi|2.7.2 Turvallisuusraportointi]]
+
+Seuraava sivu: [[03-liite-1/2-9-kliiniseen-laaketutkimukseen-osallistumisen-paattyminen|2.9 Kliiniseen lääketutkimukseen osallistumisen päättyminen]]

@@ -47,10 +47,6 @@ Tässä kappaleessa annetaan vastuutahoille (eli tutkijoille ja toimeksiantajill
 
 - (d) prosessit, joilla tuetaan keskeistä päätöksentekoa, kuten tietojen viimeistelyä ennen analyysiä, sokkoutuksen purkamista, tietojen kohdentamista analyysiaineistoihin, muutoksia kliinisen lääketutkimuksen koeasetelmaan, ja mikäli sovellettavissa, esimerkiksi riippumattoman tietojenseurantatoimikunnan (IDMC) toimia.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -68,3 +64,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4, pages 43–43.
+
+Edellinen sivu: [[03-liite-1/3-17-2-kliinisen-laaketutkimuksen-raportit|3.17.2 Kliinisen lääketutkimuksen raportit]]
+
+Seuraava sivu: [[03-liite-1/4-1-sokkouttamisen-turvaaminen-tietojenhallinnassa|4.1 Sokkouttamisen turvaaminen tietojenhallinnassa]]

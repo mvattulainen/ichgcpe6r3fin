@@ -40,3 +40,7 @@ Käytössä tulee olla menettelyt tutkimuskohtaisten tietojen, jäljitettävyysk
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.2.3, pages 45–45.
+
+Edellinen sivu: [[03-liite-1/4-2-2-merkityksellinen-metatieto-mukaan-lukien-jaljitettavyysketjut|4.2.2 Merkityksellinen metatieto, mukaan lukien jäljitettävyysketjut]]
+
+Seuraava sivu: [[03-liite-1/4-2-4-tietojen-korjaukset|4.2.4 Tietojen korjaukset]]

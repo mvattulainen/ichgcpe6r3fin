@@ -54,10 +54,6 @@ is_based_on:
 
 - (iii) antaa tutkijoille tutkimustulokset. Jos tutkimustuloksista annetaan yhteenveto tutkimukseen osallistujille, yhteenvedon kielen tulee olla ei-teknistä ja maallikolle ymmärrettävää, eikä se saa tähdätä myynninedistämiseen.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -79,3 +75,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.17.2, pages 42–43.
+
+Edellinen sivu: [[03-liite-1/3-17-1-tutkimuksen-ennenaikainen-lopettaminen-tai-keskeyttaminen|3.17.1 Tutkimuksen ennenaikainen lopettaminen tai keskeyttäminen]]
+
+Seuraava sivu: [[03-liite-1/4-tietojenhallinta-tutkija-ja-toimeksiantaja|4 Tietojenhallinta – tutkija ja toimeksiantaja]]

@@ -31,10 +31,6 @@ is_based_on:
 
 Julkaisukäytännöt, ellei niitä määritellä erillisessä sopimuksessa. Täydentävä liite C. [[sanasto/oleelliset-tallenteet|Oleelliset tallenteet]] kliinisen lääketutkimuksen toteuttamista varten
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -44,3 +40,5 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.16, pages 57–57.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-15-rahoitus-ja-vakuutus|B.15 Rahoitus ja vakuutus]]

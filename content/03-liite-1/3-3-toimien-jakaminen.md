@@ -40,3 +40,7 @@ Ennen kliinisen lääketutkimuksen käynnistämistä toimeksiantajan tulee mää
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.3, pages 25–25.
+
+Edellinen sivu: [[03-liite-1/3-2-resurssit|3.2 Resurssit]]
+
+Seuraava sivu: [[03-liite-1/3-4-patevyys-ja-koulutus|3.4 Pätevyys ja koulutus]]

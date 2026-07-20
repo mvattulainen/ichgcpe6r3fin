@@ -40,3 +40,7 @@ Kuten kappaleissa 2 ja 3 on kuvattu, toimeksiantajan ja tutkijan vastuiden sekä
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.3, pages 46–46.
+
+Edellinen sivu: [[03-liite-1/4-2-8-tuhoaminen|4.2.8 Tuhoaminen]]
+
+Seuraava sivu: [[03-liite-1/4-3-1-tietokoneistettujen-jarjestelmien-kayttoa-koskevat-menettelyt|4.3.1 Tietokoneistettujen järjestelmien käyttöä koskevat menettelyt]]

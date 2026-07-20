@@ -25,9 +25,46 @@ permalink: "/roolipohjaiset-nakymat/tiedonhallinta-ja-tietokoneistetut-jarjestel
 
 ## Keskeiset vastuut
 
+### Pätevyys ja toteutettavuus
+
+- Ei automaattisesti kohdistettuja vastuita.
+
+### Tutkimuksen valmistelu ja hyväksynnät
+
+- Ei automaattisesti kohdistettuja vastuita.
+
+### Delegointi ja valvonta
+
+- Ei automaattisesti kohdistettuja vastuita.
+
+### Suostumus ja tutkimukseen osallistujien suojelu
+
+- Ei automaattisesti kohdistettuja vastuita.
+
+### Tutkimussuunnitelman noudattaminen
+
 - **GCP-018** — Kaikkien asianomaisten osapuolien roolit, vastuut ja menettelyt, jotka liittyvät sokkouttamattomien tietojen käyttöoikeuksiin, tulee määritellä ja dokumentoida tutkimussuunnitelman mukaisesti. Tämä tieto voi sisältyä myös tiedonhallintasuunnitelmiin ja tilastollisten analyysien suunnitelmiin tai muihin tutkimuskohtaisiin suunnitelmiin/ohjeisiin ja tutkimusta suorittavan henkilöstön vastuiden jakoa koskeviin tallenteisiin. Esimerkiksi sokkoutetuissa tutkimuksissa toimeksiantajan henkilöstöllä tai palveluntarjoajilla, jotka osallistuvat tutkimuksen toteuttamiseen ja ovat joko suoraan tai välillisesti yhteydessä tutkimusta suorittavaan henkilöstöön, ei tule olla pääsyä sokkouttamattomiin tietoihin, paitsi jos se on perusteltua tutkimussuunnitelman perusteella (esim. sokkouttamattomien monitoroijien käyttö). ([lähdekohta 4.1.2](../vastuutaulukot/index.md#gcp-018))
+
+### Turvallisuusraportointi
+
+- Ei automaattisesti kohdistettuja vastuita.
+
+### Tutkimusvalmisteen hallinta
+
+- Ei automaattisesti kohdistettuja vastuita.
+
+### Tiedot ja tallenteet
+
 - **GCP-019** — Tällaisissa tapauksissa tulee toteuttaa asianmukaisia toimenpiteitä, joilla voidaan vähentää sokkoutuksen tahattoman purkautumisen riskiä sokkoutetun tutkimusta suorittavan henkilöstön osalta. ([lähdekohta 4.1.3](../vastuutaulukot/index.md#gcp-019))
 - **GCP-020** — Mahdollisen sokkoutuksen purkautumisen tulee olla osa sokkoutetun tutkimuksen riskinarviointia. Kaikki suunnitellut tai suunnittelemattomat sokkoutuksen purkamiset, myös tahaton sokkoutuksen purkautuminen tai sokkoutuksen purkaminen hätätilanteessa, tulee dokumentoida. Kaikkien suunnittelemattomien sokkoutuksen purkautumisten vaikutukset tutkimustuloksiin tulee arvioida, ja tarvittaviin toimenpiteisiin tulee ryhtyä. ([lähdekohta 4.1.4](../vastuutaulukot/index.md#gcp-020))
+
+### Monitorointi, auditoinnit ja tarkastukset
+
+- Ei automaattisesti kohdistettuja vastuita.
+
+### Tutkimuksen päättäminen
+
+- Ei automaattisesti kohdistettuja vastuita.
 
 ## Ennen tutkimuksen aloittamista
 

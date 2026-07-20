@@ -40,3 +40,7 @@ Käytössä tulee olla varomenettelyitä, joilla estetään tutkimukseen osallis
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.3.6, pages 47–47.
+
+Edellinen sivu: [[03-liite-1/4-3-5-jarjestelman-vapautus|4.3.5 Järjestelmän vapautus]]
+
+Seuraava sivu: [[03-liite-1/4-3-7-tekninen-tuki|4.3.7 Tekninen tuki]]

@@ -68,3 +68,7 @@ Lausunto siitä, että tallenteita tulee säilyttää lainsäädännön vaatimus
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.14, pages 57–57.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-13-etiikka|B.13 Etiikka]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-15-rahoitus-ja-vakuutus|B.15 Rahoitus ja vakuutus]]

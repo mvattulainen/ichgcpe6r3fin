@@ -39,3 +39,7 @@ Rahoitus ja vakuutus, ellei niitä määritellä erillisessä sopimuksessa.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.15, pages 57–57.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-14-tietojen-kasittely-ja-tutkimukseen-liittyvien-tallenteiden-yllapito|B.14 Tietojen käsittely ja tutkimukseen liittyvien tallenteiden ylläpito]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-16-julkaisukaytannot|B.16 Julkaisukäytännöt]]

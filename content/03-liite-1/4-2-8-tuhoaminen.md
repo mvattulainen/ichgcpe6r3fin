@@ -40,3 +40,7 @@ Tutkimustiedot ja metatiedot voidaan hävittää pysyvästi, kun niitä ei enä�
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.2.8, pages 46–46.
+
+Edellinen sivu: [[03-liite-1/4-2-7-tietojen-sailytys-ja-paasy-tietoihin|4.2.7 Tietojen säilytys ja pääsy tietoihin]]
+
+Seuraava sivu: [[03-liite-1/4-3-tietokoneistetut-jarjestelmat|4.3 Tietokoneistetut järjestelmät]]

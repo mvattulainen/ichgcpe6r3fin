@@ -54,10 +54,6 @@ Johdanto Mukaan tulee liittää perusteellinen selostus tutkimusvalmisteen tunne
 
 - (c) Käyttökokemus Tutkijan tietopaketissa tulee mainita ne maat, joissa [[sanasto/tutkimusvalmiste|tutkimusvalmiste]] on tuotu markkinoille tai saanut myyntiluvan. Markkinoilla olevan valmisteen käytöstä saaduista merkittävistä tiedoista tulisi tehdä yhteenveto (esim. formulaatiot, annokset, antoreitit ja haittavaikutukset). Tutkijan tietopaketissa tulee myös mainita kaikki ne maat, joissa tutkimusvalmistetta ei ole hyväksytty/rekisteröity tai joissa sen myyntilupa on peruttu tai peruutettu.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -83,3 +79,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.3.6, pages 52–53.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-5-ei-kliiniset-tutkimukset|A.3.5 Ei-kliiniset tutkimukset]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-7-yhteenveto-tiedoista-ja-ohjeista|A.3.7 Yhteenveto tiedoista ja ohjeista]]

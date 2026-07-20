@@ -58,3 +58,7 @@ Eettisen toimikunnan tulee tarkastella tutkimusta myös määräajoin lainsääd
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3, pages 9–9.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-02|2. Tietoon perustuva suostumus on olennainen osa tutkimuksen eettistä toteuttamista. Kliiniseen lääketutkimukseen osallistumisen tulee olla vapaaehtoista ja perustua suostumusprosessiin, jolla varmistetaan, että tutkimukseen osallistujat (tai tarvittaessa heidän lailliset edustajansa) ovat saaneet kaiken tarvittavan tiedon.]]
+
+Seuraava sivu: [[02-gcp-periaatteet/periaate-04|4. Kliinisten lääketutkimusten tulee olla tieteellisesti perusteltuja niiden aiottuun tarkoitukseen nähden ja perustua asianmukaiselle ja ajantasaiselle tieteelliselle tietämykselle ja lähestymistavoille.]]

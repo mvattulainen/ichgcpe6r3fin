@@ -64,10 +64,6 @@ Tutkijan/tutkimuslaitoksen palveluntarjoajien kanssa tekemät sopimukset tutkimu
 
 Tutkijan/tutkimuslaitoksen tulee sallia toimeksiantajan [[sanasto/monitorointi|monitorointi]] ja [[sanasto/auditointi|auditointi]], asianmukaisten valvontaviranomaisten tarkastukset sekä lainsäädännön vaatimusten mukaisesti eettisen toimikunnan arviointi.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -97,3 +93,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.3, pages 15–16.
+
+Edellinen sivu: [[03-liite-1/2-2-resurssit|2.2 Resurssit]]
+
+Seuraava sivu: [[03-liite-1/2-4-yhteydenpito-riippumattomaan-eettiseen-toimikuntaan|2.4 Yhteydenpito riippumattomaan eettiseen toimikuntaan]]

@@ -31,10 +31,6 @@ is_based_on:
 
 Käytössä tulee olla validoituja prosesseja ja/tai muita asianmukaisia prosesseja, kuten ristiintarkistus, jotta voidaan varmistaa, että tietokoneistettujen järjestelmien välillä siirrettävien sähköisten tietojen, mukaan lukien asiaankuuluvien metatietojen, eheys ja [[sanasto/luottamuksellisuus|luottamuksellisuus]] säilyy. Tietojen vaihto-/siirtoprosessi tai tuominen toiseen järjestelmään tulee dokumentoida jäljitettävyyden varmistamiseksi, ja tietojen ristiintarkistus tulee toteuttaa tarpeen mukaan siten, että vältetään tietojen häviäminen ja tahattomat muutokset.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -44,3 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.2.5, pages 45–45.
+
+Edellinen sivu: [[03-liite-1/4-2-4-tietojen-korjaukset|4.2.4 Tietojen korjaukset]]
+
+Seuraava sivu: [[03-liite-1/4-2-6-datajoukkojen-viimeistely-ennen-analysointia|4.2.6 Datajoukkojen viimeistely ennen analysointia]]

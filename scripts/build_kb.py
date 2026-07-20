@@ -50,7 +50,114 @@ FOLDERS = {
     "termisanasto": "EN–FI-termisanasto",
     "roolipohjaiset-nakymat": "Roolipohjaiset näkymät",
     "vastuutaulukot": "Vastuutaulukot",
+    "termivertailut": "Termivertailut",
+    "periaatteet-oppiminen": "Periaatteet (oppiminen)",
 }
+
+DERIVED_NOTICE = (
+    "> [!warning] Johdettu näkymä\n"
+    "> Tämä sivu on muodostettu lähdetekstistä automaattisesti ja sivu tulee käsitellä kokeellisena.\n"
+    "> Sivua ei ole sisältötarkastettu.\n"
+    "> Tarkistustila on `pending`; sivu ei ole auktoritatiivinen tulkinta eikä sitä tule käyttää yksin "
+    "sääntelyä, kliinistä toimintaa, oikeudellisia kysymyksiä tai vaatimustenmukaisuutta koskevien "
+    "päätösten perusteena."
+)
+
+ROLE_WORKFLOW = [
+    ("Pätevyys ja toteutettavuus", "qualification"),
+    ("Tutkimuksen valmistelu ja hyväksynnät", "setup"),
+    ("Delegointi ja valvonta", "delegation"),
+    ("Suostumus ja tutkimukseen osallistujien suojelu", "consent"),
+    ("Tutkimussuunnitelman noudattaminen", "protocol"),
+    ("Turvallisuusraportointi", "safety"),
+    ("Tutkimusvalmisteen hallinta", "investigational_product"),
+    ("Tiedot ja tallenteet", "data_records"),
+    ("Monitorointi, auditoinnit ja tarkastukset", "oversight"),
+    ("Tutkimuksen päättäminen", "closure"),
+]
+
+TERM_COMPARISON_SPECS = [
+    {
+        "slug": "haittatapahtuma-ja-laakkeen-haittavaikutus",
+        "title": "Haittatapahtuma (AE) ja lääkkeen haittavaikutus (ADR)",
+        "terms": [
+            ("Haittatapahtuma (AE)", [("glossary", "haittatapahtumat-adverse-events-aes-ja-haittavaikutuksiin-adverse-reaction-liittyvat-maaritelmat")]),
+            ("Lääkkeen haittavaikutus (ADR)", [("glossary", "laakkeen-haittavaikutus")]),
+        ],
+    },
+    {
+        "slug": "vakava-haittatapahtuma-ja-vakava-haittavaikutus",
+        "title": "Vakava haittatapahtuma (SAE) ja vakava haittavaikutus",
+        "terms": [
+            ("Vakava haittatapahtuma (SAE)", [("glossary", "vakava-haittatapahtuma")]),
+            ("Vakava haittavaikutus", [("glossary", "laakkeen-haittavaikutus"), ("glossary", "epailty-odottamaton-vakava-haittavaikutus")]),
+        ],
+    },
+    {
+        "slug": "lahdetallenne-ja-oleellinen-tallenne",
+        "title": "Lähdetallenne ja oleellinen tallenne",
+        "terms": [
+            ("Lähdetallenne", [("glossary", "lahdetallenteet")]),
+            ("Oleellinen tallenne", [("glossary", "oleelliset-tallenteet")]),
+        ],
+    },
+    {
+        "slug": "laadunvarmistus-ja-laadunvalvonta",
+        "title": "Laadunvarmistus ja laadunvalvonta",
+        "terms": [
+            ("Laadunvarmistus", [("glossary", "laadunvarmistus")]),
+            ("Laadunvalvonta", [("glossary", "laadunvalvonta")]),
+        ],
+    },
+    {
+        "slug": "delegointi-ja-toimintojen-siirtaminen",
+        "title": "Delegointi ja toimintojen siirtäminen",
+        "terms": [
+            ("Delegointi", [("clause", "10.1"), ("clause", "2.3.1")]),
+            ("Toimintojen siirtäminen", [("clause", "10.1"), ("clause", "3.6.6")]),
+        ],
+    },
+    {
+        "slug": "validointi-ja-tarkoitukseen-sopivuus",
+        "title": "Validointi ja tarkoitukseen sopivuus",
+        "terms": [
+            ("Validointi", [("glossary", "tietokoneistettujen-jarjestelmien-validointi"), ("clause", "4.3.4")]),
+            ("Tarkoitukseen sopivuus", [("clause", "6.1"), ("clause", "9.3")]),
+        ],
+    },
+    {
+        "slug": "monitorointi-ja-auditointi",
+        "title": "Monitorointi ja auditointi",
+        "terms": [
+            ("Monitorointi", [("glossary", "monitorointi")]),
+            ("Auditointi", [("glossary", "auditointi")]),
+        ],
+    },
+    {
+        "slug": "tietoon-perustuva-suostumus-ja-alaikaisen-suostumus",
+        "title": "Tietoon perustuva suostumus ja alaikäisen suostumus",
+        "terms": [
+            ("Tietoon perustuva suostumus", [("glossary", "tietoon-perustuva-suostumus")]),
+            ("Alaikäisen suostumus", [("glossary", "alaikaisen-suostumus")]),
+        ],
+    },
+    {
+        "slug": "tutkija-ja-toimeksiantaja-tutkija",
+        "title": "Tutkija ja toimeksiantaja-tutkija",
+        "terms": [
+            ("Tutkija", [("glossary", "tutkija")]),
+            ("Toimeksiantaja-tutkija", [("glossary", "toimeksiantaja-tutkija")]),
+        ],
+    },
+    {
+        "slug": "tutkimussuunnitelma-ja-tutkimussuunnitelman-muutos",
+        "title": "Tutkimussuunnitelma ja tutkimussuunnitelman muutos",
+        "terms": [
+            ("Tutkimussuunnitelma", [("glossary", "tutkimussuunnitelma")]),
+            ("Tutkimussuunnitelman muutos", [("glossary", "tutkimussuunnitelman-muutos")]),
+        ],
+    },
+]
 
 HEADER_PATTERNS = [
     re.compile(r"^Ohje hyvän kliinisen tutkimustavan noudattamisesta$", re.I),
@@ -850,21 +957,45 @@ def build_sections(fi_pdf: pdfplumber.PDF, en_pdf: pdfplumber.PDF, glossary: lis
     return sorted(sections, key=lambda x: (list(FOLDERS).index(x["folder"]), min(x["finnish_pages"] or [999]), x["id"]))
 
 
+def section_filename(section: dict[str, Any]) -> str:
+    number = section["section_number"]
+    title_without_number = re.sub(r"^(?:[ABC]\.)?\d+(?:\.\d+)*\.?\s+", "", section["title_fi"])
+    # Public paths must have identical casing on Windows and Linux. Annex
+    # identifiers use capital letters in the source text, but filenames and
+    # wikilinks are deliberately lowercase.
+    filename = f"{number.replace('.', '-').lower()}-{ascii_slug(title_without_number)[:70]}.md"
+    if section["kind"] == "intro":
+        filename = f"{ascii_slug(number)}.md"
+    elif section["kind"] == "principles_intro":
+        filename = "johdanto.md"
+    elif section["kind"] == "principle":
+        filename = f"periaate-{int(number):02d}.md"
+    return filename
+
+
 def write_section_pages(sections: list[dict[str, Any]]) -> None:
+    for section in sections:
+        filename = section_filename(section)
+        section["path"] = (Path("content") / section["folder"] / filename).as_posix()
+        section["permalink"] = f"/{section['folder']}/{filename[:-3]}/"
+
+    navigation_folders = {
+        "02-gcp-periaatteet", "03-liite-1", "04-liite-a-tutkijan-tietopaketti",
+        "05-liite-b-tutkimussuunnitelma", "06-liite-c-oleelliset-tallenteet",
+    }
+    navigation: dict[str, tuple[dict[str, Any] | None, dict[str, Any] | None]] = {}
+    for folder in navigation_folders:
+        ordered = [section for section in sections if section["folder"] == folder]
+        for index, section in enumerate(ordered):
+            previous = ordered[index - 1] if index else None
+            following = ordered[index + 1] if index + 1 < len(ordered) else None
+            navigation[section["id"]] = (previous, following)
+
     for section in sections:
         number = section["section_number"]
         title_without_number = re.sub(r"^(?:[ABC]\.)?\d+(?:\.\d+)*\.?\s+", "", section["title_fi"])
-        # Public paths must have identical casing on Windows and Linux. Annex
-        # identifiers use capital letters in the source text, but filenames and
-        # wikilinks are deliberately lowercase.
-        filename = f"{number.replace('.', '-').lower()}-{ascii_slug(title_without_number)[:70]}.md"
-        if section["kind"] == "intro":
-            filename = f"{ascii_slug(number)}.md"
-        elif section["kind"] == "principles_intro":
-            filename = "johdanto.md"
-        elif section["kind"] == "principle":
-            filename = f"periaate-{int(number):02d}.md"
-        permalink = f"/{section['folder']}/{filename[:-3]}/"
+        filename = section_filename(section)
+        permalink = section["permalink"]
         frontmatter = {
             "title": section["title_fi"], "id": section["id"], "content_type": "guideline_section",
             "document_id": "ich-e6-r3-fi-v1", "section_number": str(number), "parent_id": section["parent_id"],
@@ -875,13 +1006,21 @@ def write_section_pages(sections: list[dict[str, Any]]) -> None:
             "review_status": "source_extracted", "publish": True, "schema_type": "TechArticle",
             "is_based_on": ["ich-e6-r3-fi-v1", "ich-e6-r3-en-step5"],
         }
-        related = "\n\n## Liittyvät käsitteet\n\nKatso tekstissä linkitetyt sanastokäsitteet." if section["glossary_link_count"] else ""
         callout = quote_callout(section["text_en"], section["english_pages"], str(number))
-        body = f"{yaml_frontmatter(frontmatter)}\n\n{section['text_fi']}{related}\n\n{callout}"
+        related = ""
+        if section["folder"] not in navigation_folders and section["glossary_link_count"]:
+            related = "\n\n## Liittyvät käsitteet\n\nKatso tekstissä linkitetyt sanastokäsitteet."
+        nav_lines: list[str] = []
+        if section["id"] in navigation:
+            previous, following = navigation[section["id"]]
+            if previous:
+                nav_lines.append(f"Edellinen sivu: [[{previous['path'][8:-3]}|{previous['title_fi']}]]")
+            if following:
+                nav_lines.append(f"Seuraava sivu: [[{following['path'][8:-3]}|{following['title_fi']}]]")
+        navigation_block = "\n\n" + "\n\n".join(nav_lines) if nav_lines else ""
+        body = f"{yaml_frontmatter(frontmatter)}\n\n{section['text_fi']}{related}\n\n{callout}{navigation_block}"
         path = CONTENT / section["folder"] / filename
         write_text(path, body)
-        section["path"] = path.relative_to(ROOT).as_posix()
-        section["permalink"] = permalink
 
 
 def write_glossary_pages(glossary: list[dict[str, Any]], sections: list[dict[str, Any]]) -> None:
@@ -909,6 +1048,250 @@ def write_glossary_pages(glossary: list[dict[str, Any]], sections: list[dict[str
         write_text(CONTENT / "sanasto" / f"{entry['slug']}.md", body)
 
 
+def write_term_comparison_pages(
+    glossary: list[dict[str, Any]], sections: list[dict[str, Any]]
+) -> list[dict[str, Any]]:
+    glossary_by_slug = {entry["slug"]: entry for entry in glossary}
+    clause_sources: dict[str, dict[str, str]] = {}
+    for section in sections:
+        section_number = str(section["section_number"])
+        clause_sources.setdefault(section_number, {
+            "title": f"Lähdekohta {section_number}",
+            "excerpt": section["exact_text_fi"],
+            "target": section["path"][8:-3],
+        })
+        for clause, excerpt in extract_clauses(section["exact_text_fi"]).items():
+            clause_sources[clause] = {
+                "title": f"Lähdekohta {clause}",
+                "excerpt": excerpt,
+                "target": f"{section['path'][8:-3]}#{anchor(section['id'], clause)}",
+            }
+
+    records: list[dict[str, Any]] = []
+    for comparison in TERM_COMPARISON_SPECS:
+        front = {
+            "title": comparison["title"], "id": f"ich-e6-r3-term-comparison-{comparison['slug']}",
+            "content_type": "source_term_comparison", "language": "fi", "lang": "fi",
+            "schema_type": "CollectionPage", "classification": "source_compilation",
+            "review_status": "source_extracted", "authoritative": False, "generated": True,
+            "publish": True, "permalink": f"/termivertailut/{comparison['slug']}/",
+        }
+        term_blocks: list[str] = []
+        term_records: list[dict[str, Any]] = []
+        for term_label, source_specs in comparison["terms"]:
+            source_blocks: list[str] = []
+            source_records: list[dict[str, str]] = []
+            for source_type, source_id in source_specs:
+                if source_type == "glossary":
+                    entry = glossary_by_slug[source_id]
+                    source_title = entry["preferred_term_fi"]
+                    excerpt = entry["definition_fi"]
+                    target = f"sanasto/{entry['slug']}"
+                else:
+                    source = clause_sources[source_id]
+                    source_title, excerpt, target = source["title"], source["excerpt"], source["target"]
+                source_blocks.append(
+                    f"### {source_title}\n\n{excerpt}\n\n"
+                    f"[[{target}|Lähde sivustolla: {source_title}]]"
+                )
+                source_records.append({"title": source_title, "excerpt": excerpt, "target": target})
+            term_blocks.append(f"## {term_label}\n\n" + "\n\n".join(source_blocks))
+            term_records.append({"term_fi": term_label, "sources": source_records})
+        write_text(
+            CONTENT / "termivertailut" / f"{comparison['slug']}.md",
+            f"{yaml_frontmatter(front)}\n\n" + "\n\n".join(term_blocks),
+        )
+        records.append({"id": front["id"], "title": comparison["title"], "slug": comparison["slug"], "terms": term_records})
+    return records
+
+
+def glossary_example_category(entry: dict[str, Any]) -> str:
+    text = f"{entry['preferred_term_fi']} {entry.get('preferred_term_en') or ''}".casefold()
+    if any(token in text for token in ("haitta", "turvallisuus", "adverse", "safety")):
+        return "safety"
+    if any(token in text for token in ("suostumus", "osallistuja", "todistaja", "edustaja", "consent", "participant", "witness")):
+        return "participant"
+    if any(token in text for token in ("tallenne", "tieto", "lomake", "metatieto", "järjestel", "record", "data", "metadata", "system")):
+        return "data"
+    if any(token in text for token in ("monitor", "audit", "laadun", "tarkastus", "vaatimustenmuk", "quality", "inspection", "compliance")):
+        return "quality"
+    if any(token in text for token in ("tutkimusvalmiste", "vertailuvalmiste", "tietopaketti", "investigational product", "comparator", "brochure")):
+        return "product"
+    if any(token in text for token in ("tutkija", "toimeksiantaja", "toimikunta", "palveluntarjoaja", "tutkimuslaitos", "investigator", "sponsor", "committee", "provider", "institution")):
+        return "role"
+    return "general"
+
+
+def glossary_scenarios(entry: dict[str, Any]) -> tuple[list[tuple[str, str]], list[str]]:
+    term = entry["preferred_term_fi"]
+    category = glossary_example_category(entry)
+    settings = {
+        "safety": [
+            ("Tutkimuskäynti", f"Tutkimukseen osallistuja kertoo tutkimuskäynnillä uudesta oireesta. Tutkimusryhmä arvioi, liittyykö tilanteeseen käsite {term}. Arvio kirjataan käytössä olevien menettelyjen mukaisesti. Tarvittavat jatkotoimet ratkaistaan lähdeohjeen ja tutkimuskohtaisten asiakirjojen perusteella."),
+            ("Tietojen täsmäytys", f"Tutkimuspaikan ja toimeksiantajan tiedoissa käytetään käsitettä {term}. Tiimi vertaa kirjauksia ja selvittää, kuvaavatko ne samaa tapahtumaa. Epäselvät kohdat palautetaan asianmukaiselle arvioijalle. Ratkaisu ja sen peruste dokumentoidaan."),
+            ("Koulutustilanne", f"Perehdytyksessä käsitellään kuvitteellinen turvallisuustapaus ja termi {term}. Osallistujat tunnistavat, mitä tietoja tapauksesta tarvitaan. He tarkistavat termin lähdemääritelmän ennen luokittelua. Lopuksi ryhmä perustelee valintansa lähdekohtaan viitaten."),
+        ],
+        "participant": [
+            ("Osallistujakeskustelu", f"Tutkimuspaikassa valmistellaan keskustelua mahdollisen tutkimukseen osallistujan kanssa. Henkilöstö tunnistaa, miten käsite {term} liittyy tilanteeseen. Käytettävät tiedot ja asiakirjat tarkistetaan ennen tapaamista. Keskustelun ja mahdollisten päätösten asianmukainen dokumentointi varmistetaan."),
+            ("Muuttunut tilanne", f"Tutkimukseen osallistujan tilanteessa tapahtuu tutkimuksen aikana muutos. Tiimi arvioi uudelleen käsitteen {term} merkityksen. Arvio tehdään osallistujan oikeudet, turvallisuus ja hyvinvointi huomioiden. Tarvittavat toimet perustetaan lähdeohjeeseen ja sovellettaviin vaatimuksiin."),
+            ("Perehdytys", f"Uusi työntekijä harjoittelee tilannetta, jossa käytetään termiä {term}. Hän selittää omin sanoin, mitä termi tarkoittaa käytännön kohtaamisessa. Ohjaaja vertaa vastausta lähdemääritelmään ja korjaa epätarkkuudet. Oikea toimintatapa harjoitellaan uudelleen."),
+        ],
+        "data": [
+            ("Tietojen kirjaaminen", f"Tutkimusryhmä käsittelee uutta tutkimustietoa ja termiä {term}. Ennen kirjaamista tarkistetaan tiedon alkuperä, asiayhteys ja tarvittava metatieto. Kirjaus tehdään sovittuun järjestelmään jäljitettävällä tavalla. Tiimi varmistaa, että tieto voidaan myöhemmin hakea ja arvioida."),
+            ("Korjaustilanne", f"Aiemmassa kirjauksessa havaitaan ristiriita, joka liittyy käsitteeseen {term}. Alkuperäistä tietoa ei peitetä, vaan korjaus tehdään hyväksytyllä menettelyllä. Korjauksen tekijä, ajankohta ja peruste säilyvät arvioitavina. Lopuksi tarkistetaan, vaikuttaako muutos muihin tietoihin tai raportteihin."),
+            ("Järjestelmän käyttöönotto", f"Tiimi ottaa käyttöön työkalun, jossa käsitellään käsitettä {term}. Käyttötarkoitus ja vaatimukset määritellään ennen tuotantokäyttöä. Käyttäjät koulutetaan ja käyttöoikeudet rajataan tehtävien mukaan. Toimivuudesta ja valvonnasta jää asianmukaiset tallenteet."),
+        ],
+        "quality": [
+            ("Suunniteltu tarkistus", f"Tutkimuksen laadunhallinnassa tarkastellaan käsitettä {term}. Tarkistuksen tavoite, laajuus ja vastuuhenkilöt määritellään etukäteen. Havaintoja verrataan lähdeohjeeseen ja tutkimuskohtaisiin menettelyihin. Sovitut jatkotoimet dokumentoidaan ja niiden toteutuminen varmistetaan."),
+            ("Poikkeaman käsittely", f"Tiimi havaitsee poikkeaman, johon termi {term} voi liittyä. Ensin selvitetään tapahtumat ja niiden vaikutus ilman oletuksia. Sen jälkeen arvioidaan juurisyy ja tarvittavat korjaavat tai ehkäisevät toimet. Arvioinnista ja seurannasta jää jäljitettävä tallenne."),
+            ("Johdon katselmus", f"Katselmuksessa käsitellään useita havaintoja termin {term} näkökulmasta. Yksittäisten tapausten lisäksi etsitään toistuvaa suuntausta. Vastuut ja määräajat päätetään suhteessa havaittuun riskiin. Myöhemmässä katselmuksessa varmistetaan toimien vaikuttavuus."),
+        ],
+        "product": [
+            ("Vastaanotto tutkimuspaikassa", f"Tutkimuspaikka vastaanottaa lähetyksen, johon liittyy käsite {term}. Henkilöstö tarkistaa lähetyksen, asiakirjat ja olosuhdetiedot ennen käyttöönottoa. Mahdollinen poikkeama eristetään ja selvitetään. Vastaanotosta ja ratkaisusta jää asianmukainen tallenne."),
+            ("Osallistujalle antaminen", f"Ennen suunniteltua antamista tiimi tarkistaa käsitteen {term} kannalta olennaiset tiedot. Osallistujan, valmisteen ja määrätyn hoidon vastaavuus varmistetaan. Toteutunut käyttö kirjataan viipymättä. Mahdolliset palautukset tai käyttämättä jääneet määrät käsitellään sovitusti."),
+            ("Tutkimuksen päättyminen", f"Tutkimuspaikka kokoaa käsitteeseen {term} liittyvät loppuselvitykset. Vastaanotetut, käytetyt, palautetut ja mahdollisesti hävitetyt määrät täsmäytetään, jos se on tilanteessa sovellettavaa. Ristiriidat ratkaistaan ennen sulkemista. Säilytettävät tallenteet arkistoidaan sovittuun paikkaan."),
+        ],
+        "role": [
+            ("Vastuiden sopiminen", f"Tutkimuksen valmistelukokouksessa täsmennetään käsitteen {term} asema ja vastuut. Osapuolet tarkistavat, mitä tehtäviä kukin tekee ja mitä ei tee. Sovitut järjestelyt dokumentoidaan ennen toiminnan alkamista. Epäselvät rajapinnat ratkaistaan nimetyn vastuuhenkilön kanssa."),
+            ("Toiminnan aikainen kysymys", f"Tutkimuksen aikana syntyy päätöstilanne, joka koskee termiä {term}. Henkilöstö ei oleta vastuuta pelkän tehtävänimikkeen perusteella. Sopimukset, delegoinnit ja lähdeohje tarkistetaan. Päätös ja tarvittava eskalointi dokumentoidaan."),
+            ("Muutoksenhallinta", f"Organisaatiossa tai resursoinnissa tapahtuu muutos, joka vaikuttaa käsitteeseen {term}. Tiimi arvioi pätevyyden, jatkuvuuden ja valvonnan ennen muutoksen voimaantuloa. Tarvittavat sopimukset ja käyttöoikeudet päivitetään. Muutoksesta viestitään niille, joiden työhön se vaikuttaa."),
+        ],
+        "general": [
+            ("Tutkimuksen suunnittelu", f"Suunnitteluryhmä kohtaa päätöksen, jossa käytetään termiä {term}. Ryhmä avaa termin lähdemääritelmän eikä luota arkikieliseen merkitykseen. Soveltaminen sidotaan tutkimuksen todelliseen tilanteeseen. Päätös ja käytetty lähdekohta dokumentoidaan."),
+            ("Käytännön työtilanne", f"Tutkimuksen aikana työntekijä huomaa, että termiä {term} käytetään kahdella tavalla. Hän keskeyttää epäselvän tulkinnan ja pyytää täsmennystä. Tiimi vertaa käyttötapoja lähdemääritelmään. Yhteinen käyttö kirjataan ohjeeseen tai koulutusmateriaaliin."),
+            ("Osaamisen varmistaminen", f"Perehdytyksessä työntekijälle annetaan lyhyt tapaus, johon liittyy termi {term}. Hän tunnistaa termin, kuvaa sen merkityksen ja perustelee toimintansa. Ohjaaja antaa palautteen lähdeohjeen perusteella. Tarvittaessa harjoitus toistetaan uudella tapauksella."),
+        ],
+    }
+    pitfalls = [
+        f"Termin {term} käyttäminen arkikielisessä merkityksessä tarkistamatta lähdemääritelmää.",
+        "Termin sekoittaminen lähikäsitteeseen ilman, että sovellettava lähdekohta ja tilanteen tosiseikat erotetaan toisistaan.",
+    ]
+    return settings[category], pitfalls
+
+
+def write_glossary_examples_page(glossary: list[dict[str, Any]]) -> None:
+    front = {
+        "title": "Esimerkkejä", "id": "ich-e6-r3-glossary-examples", "content_type": "derived_examples",
+        "language": "fi", "lang": "fi", "schema_type": "LearningResource", "classification": "derived",
+        "review_status": "pending", "authoritative": False, "generated": True, "publish": True,
+        "permalink": "/esimerkkeja/",
+    }
+    blocks: list[str] = []
+    for entry in glossary:
+        scenarios, pitfalls = glossary_scenarios(entry)
+        scenario_text = "\n\n".join(f"### {index}. {title}\n\n{text}" for index, (title, text) in enumerate(scenarios, 1))
+        pitfall_text = "\n".join(f"- {pitfall}" for pitfall in pitfalls)
+        blocks.append(
+            f"## [[sanasto/{entry['slug']}|{entry['preferred_term_fi']}]]\n\n"
+            f"{scenario_text}\n\n### Yleisiä sudenkuoppia\n\n{pitfall_text}"
+        )
+    write_text(CONTENT / "esimerkkeja.md", f"{yaml_frontmatter(front)}\n\n{DERIVED_NOTICE}\n\n" + "\n\n".join(blocks))
+
+
+def principle_learning_focus(number: str) -> str:
+    return {
+        "1": "tutkimukseen osallistujien oikeuksien, turvallisuuden ja hyvinvoinnin suojaaminen",
+        "2": "vapaasta tahdosta annettu tietoon perustuva suostumus",
+        "3": "riippumaton eettinen arviointi",
+        "4": "tieteellinen perusteltavuus sekä ennakoitujen hyötyjen ja riskien arviointi",
+        "5": "tehtäviä hoitavien henkilöiden koulutus, pätevyys ja kokemus",
+        "6": "laadun rakentaminen tutkimuksen suunnitteluun ja toteutukseen",
+        "7": "riskiperusteiset ja oikeasuhtaiset tutkimusprosessit",
+        "8": "selkeä, tiivis ja toteuttamiskelpoinen tutkimussuunnitelma",
+        "9": "luotettavat tiedot, järjestelmät ja tallenteet",
+        "10": "selkeät, dokumentoidut tehtävät ja vastuut",
+        "11": "tutkimusvalmisteen asianmukainen valmistus ja hallinta",
+    }[number]
+
+
+def principle_learning_scenarios(number: str) -> list[tuple[str, str, str]]:
+    focus = principle_learning_focus(number)
+    return [
+        ("Noudattaminen: suunnittelupäätös", f"Tutkimusryhmä tekee suunnittelupäätöstä, joka koskee aihetta {focus}. Ryhmä avaa periaatteen lähdesivun ja tunnistaa päätökseen vaikuttavat kohdat. Suunnitelmaa muutetaan ennen hyväksymistä niin, että tunnistettu vaatimus näkyy käytännön työssä. Päätös, perustelu ja vastuuhenkilö dokumentoidaan.", "Tilanne tukee periaatteen noudattamista, koska ratkaisu tehdään ennen toimintaa lähdekohtaan perustuen ja toteutusvastuu tehdään näkyväksi."),
+        ("Noudattaminen: tutkimuspaikan havainto", f"Tutkimuspaikan työntekijä havaitsee käytännön tilanteen, joka voi vaikuttaa aiheeseen {focus}. Hän ei jatka automaattisesti, vaan tarkistaa tutkimussuunnitelman, menettelyt ja periaatteen lähdetekstin. Tarvittava asiantuntija osallistuu arviointiin ja turvallinen jatkotapa sovitaan. Havainto ja tehdyt toimet kirjataan jäljitettävästi.", "Tilanne osoittaa periaatteen mukaista toimintaa, koska epäselvyys tunnistetaan, arvioidaan ja ratkaistaan ennen hallitsematonta jatkamista."),
+        ("Noudattaminen: valvonnassa havaittu suuntaus", f"Toimeksiantajan valvonnassa havaitaan usean tutkimuspaikan suuntaus, joka liittyy aiheeseen {focus}. Yksittäisten tapausten lisäksi arvioidaan yhteinen syy ja mahdollinen vaikutus. Ohjeita, koulutusta tai tutkimusprosessia muutetaan riskin mukaisesti. Muutoksen vaikuttavuutta seurataan ennalta sovitulla tavalla.", "Tilanne toteuttaa periaatetta järjestelmällisesti, koska havainto johtaa oikeasuhtaiseen korjaukseen ja sen vaikuttavuuden seurantaan."),
+        ("Noudattamatta jättäminen: aikataulupaine", f"Tutkimusryhmä tunnistaa päätöksen, joka koskee aihetta {focus}, mutta aikataulupaineessa lähdekohtaa ei tarkisteta. Toiminta aloitetaan oletuksen perusteella ilman dokumentoitua arviointia. Myöhemmin eri tutkimuspaikat toimivat eri tavoin. Poikkeaman syytä tai vaikutusta ei selvitetä järjestelmällisesti.", "Tilanne ei noudata periaatetta, koska kiire korvaa lähteeseen perustuvan ennakkoarvioinnin ja epäyhtenäisen toiminnan annetaan jatkua."),
+        ("Noudattamatta jättäminen: epäselvä vastuunjako", f"Usea osapuoli osallistuu tehtävään, joka liittyy aiheeseen {focus}. Kukaan ei määrittele, kuka tekee päätöksen, kuka tarkistaa sen ja kuka valvoo toteutusta. Osapuolet olettavat toisen hoitavan puuttuvan vaiheen. Ongelma havaitaan vasta, kun tarvittavaa toimintoa tai tallennetta ei ole tehty.", "Tilanne on periaatteen vastainen, koska käytännön toteutus jää epäselvien vastuiden ja valvonnan puutteen varaan."),
+        ("Noudattamatta jättäminen: signaalin sivuuttaminen", f"Tutkimuksen aikana saadaan toistuva havainto, joka voi vaikuttaa aiheeseen {focus}. Havainto luokitellaan vähäiseksi ilman riittäviä tosiseikkoja tai lähdevertailua. Päätöksestä ei jää perustelua eikä asiaa eskaloida asianmukaiselle vastuuhenkilölle. Sama tilanne toistuu ja mahdollinen vaikutus kasvaa.", "Tilanne ei noudata periaatetta, koska merkityksellinen havainto sivuutetaan ilman perusteltua arviointia, dokumentointia tai oikea-aikaista korjausta."),
+    ]
+
+
+def write_principle_learning_pages(sections: list[dict[str, Any]]) -> None:
+    principles = [section for section in sections if section["kind"] == "principle"]
+    for principle in principles:
+        number = str(principle["section_number"])
+        front = {
+            "title": principle["title_fi"], "id": f"ich-e6-r3-principle-learning-{int(number):02d}",
+            "content_type": "derived_learning_page", "language": "fi", "lang": "fi",
+            "schema_type": "LearningResource", "classification": "derived", "review_status": "pending",
+            "authoritative": False, "generated": True, "publish": True,
+            "permalink": f"/periaatteet-oppiminen/periaate-{int(number):02d}/",
+            "source_refs": [principle["id"]],
+        }
+        blocks = []
+        for index, (heading, scenario, explanation) in enumerate(principle_learning_scenarios(number), 1):
+            blocks.append(f"## {index}. {heading}\n\n{scenario}\n\n**Yhteys periaatteeseen:** {explanation}")
+        source_link = f"[[{principle['path'][8:-3]}|Avaa periaatteen lähdeteksti ja selitys]]"
+        body = f"{yaml_frontmatter(front)}\n\n{DERIVED_NOTICE}\n\n**Periaate:** {principle['title_fi']}\n\n{source_link}\n\n" + "\n\n".join(blocks)
+        write_text(CONTENT / "periaatteet-oppiminen" / f"periaate-{int(number):02d}.md", body)
+
+
+def write_teach_me_page() -> None:
+    front = {
+        "title": "Opeta minua", "id": "ich-e6-r3-teach-me", "content_type": "copy_paste_learning_skill",
+        "language": "fi", "lang": "fi", "schema_type": "LearningResource", "classification": "derived",
+        "review_status": "pending", "authoritative": False, "generated": True, "publish": True,
+        "permalink": "/opeta-minua/",
+    }
+    skill = """Olet henkilökohtainen GCP-oppimisohjaajani. Käsittele nykyistä kansiota tilallisena oppimisympäristönä.
+
+1. Käytä tietolähteenä sivuston https://mvattulainen.github.io/ichgcpe6r3fin/ varsinaisia ICH E6(R3) -lähdesivuja (osiot 01–06) ja sanastoa. Osoita aina vastauksesi tueksi täsmällinen lähdekohta ja linkki. Älä käytä johdettuja näkymiä, esimerkkejä, roolinäkymiä tai oppimissivuja auktoritatiivisena näyttönä.
+2. Kysy ensin, mitä tosielämän käytännön tuloksia haluan saavuttaa GCP:n avulla. Kirjaa tulokset paikalliseen tiedostoon `Learning log.md` ja pidä ne muuttumattomina, ellei käyttäjä nimenomaisesti muuta niitä.
+3. Selvitä nykyinen osaamiseni kysymällä yksi käytännön GCP-kysymys kerrallaan. Odota vastaustani ennen palautetta tai seuraavaa kysymystä.
+4. Anna jokaisen vastauksen jälkeen lyhyt palaute: mikä oli oikein, mitä pitää täsmentää, ja mihin sivuston lähdekohtaan palaute perustuu. Älä tee kliinistä, oikeudellista tai sääntelypäätöstä puolestani.
+5. Muodosta lähikehityksen vyöhyke tosielämän tavoitteideni ja osoittamani nykyosaamisen väliin. Valitse seuraava kysymys niin, että se on hieman nykyistä tasoani haastavampi ja liittyy suoraan tavoitteisiini. Käytä muistamista vaativia kysymyksiä ja vaihtele läheisiä aiheita.
+6. Päivitä jokaisen vastauksen jälkeen `Learning log.md`. Kirjaa päivämäärä, tosielämän tavoitteet, esitetty kysymys, vastaukseni, palautteesi, lähdelinkit ja kuvaus nykyisestä lähikehityksen vyöhykkeestä.
+
+Aloita nyt kysymällä vain tosielämän käytännön tavoitteistani."""
+    body = f"""{yaml_frontmatter(front)}
+
+Tämän sivun tekstin voi kopioida sellaisenaan koodausta tukevalle agentille, kuten ChatGPT:n tai Clauden työtilassa toimivalle agentille. Agentti aloittaa tavoitteista, käyttää varsinaisia lähdesivuja, kysyy yhden kysymyksen kerrallaan ja ylläpitää paikallista oppimislokia.
+
+## Kopioitava ohje
+
+```text
+{skill}
+```
+"""
+    write_text(CONTENT / "opeta-minua.md", body)
+
+
+def role_workflow_bucket(item: dict[str, Any]) -> str:
+    section = str(item["source_section"])
+    text = item["normalized_action_fi"].casefold()
+    if section.startswith(("2.6", "2.9", "2.13", "3.17")) or any(x in text for x in ("lopettamisesta", "keskeyttämisestä", "päättymisestä", "loppuraport")):
+        return "closure"
+    if section.startswith(("3.11", "3.12")) or any(x in text for x in ("monitoroin", "auditoin", "tarkastuk")):
+        return "oversight"
+    if section.startswith(("2.10", "2.11", "3.15")) or "tutkimusvalmiste" in text:
+        return "investigational_product"
+    if section.startswith(("2.7.2", "3.13")) or any(x in text for x in ("turvallisuusraport", "haittatapaht", "haittavaikut", "susar")):
+        return "safety"
+    if section.startswith(("2.7.1", "2.8")) or any(x in text for x in ("suostum", "osallistujien oike", "osallistujien hyvinvoin")):
+        return "consent"
+    if section.startswith(("2.3", "3.3", "3.6", "3.9")) or any(x in text for x in ("delegoi", "siirretty", "siirtää", "valvontavastuu")):
+        return "delegation"
+    if section.startswith(("2.1", "2.2", "3.2", "3.4", "3.7")) or any(x in text for x in ("pätevä", "pätevy", "koulut", "resurss")):
+        return "qualification"
+    if section.startswith(("1.", "2.4", "3.5", "3.8")) or any(x in text for x in ("hyväksynt", "puoltava lausunto", "valvontaviranomais", "eettiselle toimikunnalle")):
+        return "setup"
+    if section.startswith(("2.5", "3.1", "B.")) or "tutkimussuunnitel" in text:
+        return "protocol"
+    if section.startswith(("2.12", "3.16", "4.", "C.")) or any(x in text for x in ("tallente", "tietojen", "metatieto", "järjestelmä")):
+        return "data_records"
+    return "setup"
+
+
 def write_role_pages(obligations: list[dict[str, Any]]) -> None:
     labels = {
         "tutkija": "Tutkija", "toimeksiantaja": "Toimeksiantaja", "tutkimuspaikan-henkilosto": "Tutkimuspaikan henkilöstö",
@@ -918,7 +1301,16 @@ def write_role_pages(obligations: list[dict[str, Any]]) -> None:
     }
     for role in ROLE_IDS:
         items = [x for x in obligations if role in x["responsible_actor"] + x["supporting_actors"]]
-        list_items = "\n".join(f"- **{x['obligation_id']}** — {x['normalized_action_fi']} ([lähdekohta {x['source_section']}](../vastuutaulukot/index.md#{ascii_slug(x['obligation_id'])}))" for x in items) or "- Automaattisesti kohdistettuja velvoitteita ei löytynyt."
+        workflow_blocks: list[str] = []
+        for heading, bucket in ROLE_WORKFLOW:
+            bucket_items = [item for item in items if role_workflow_bucket(item) == bucket]
+            list_items = "\n".join(
+                f"- **{item['obligation_id']}** — {item['normalized_action_fi']} "
+                f"([lähdekohta {item['source_section']}](../vastuutaulukot/index.md#{ascii_slug(item['obligation_id'])}))"
+                for item in bucket_items
+            ) or "- Ei automaattisesti kohdistettuja vastuita."
+            workflow_blocks.append(f"### {heading}\n\n{list_items}")
+        organized_items = "\n\n".join(workflow_blocks)
         records = sorted({e for x in items for e in x["example_evidence"]})
         evidence = "\n".join(f"- {x} _(havainnollistava esimerkki, ei lähdevaatimus)_" for x in records) or "- Ei automaattisesti johdettuja esimerkkejä."
         front = {
@@ -930,14 +1322,11 @@ def write_role_pages(obligations: list[dict[str, Any]]) -> None:
         }
         body = f"""{yaml_frontmatter(front)}
 
-> [!warning] Johdettu näkymä
-> Tämä sivu on muodostettu lähdetekstistä automaattisesti ja sivu tulee käsitellä kokeellisena.
-> Sivua ei ole sisältötarkastettu.
-> Tarkistustila on `pending`; sivu ei ole auktoritatiivinen tulkinta eikä sitä tule käyttää yksin sääntelyä, kliinistä toimintaa, oikeudellisia kysymyksiä tai vaatimustenmukaisuutta koskevien päätösten perusteena.
+{DERIVED_NOTICE}
 
 ## Keskeiset vastuut
 
-{list_items}
+{organized_items}
 
 ## Ennen tutkimuksen aloittamista
 
@@ -1034,6 +1423,16 @@ def write_indexes(sections: list[dict[str, Any]], glossary: list[dict[str, Any]]
             links = "\n".join(f"- **{x['term_en']}** – {x['preferred_label_fi']}" for x in terminology)
         if folder == "roolipohjaiset-nakymat":
             links = "\n".join(f"- [[roolipohjaiset-nakymat/{role}|{role.replace('-', ' ').capitalize()}]]" for role in ROLE_IDS)
+        if folder == "termivertailut":
+            links = "\n".join(
+                f"- [[termivertailut/{comparison['slug']}|{comparison['title']}]]"
+                for comparison in TERM_COMPARISON_SPECS
+            )
+        if folder == "periaatteet-oppiminen":
+            links = "\n".join(
+                f"- [[periaatteet-oppiminen/periaate-{int(section['section_number']):02d}|{section['title_fi']}]]"
+                for section in sections if section["kind"] == "principle"
+            )
         front = {
             "title": title, "id": f"ich-e6-r3-index-{folder}", "content_type": "index", "language": "fi", "lang": "fi",
             "schema_type": "DefinedTermSet" if folder == "sanasto" else "CollectionPage", "publish": True,
@@ -1092,6 +1491,10 @@ def main() -> None:
         sections = build_sections(fi_pdf, en_pdf, glossary)
     write_section_pages(sections)
     write_glossary_pages(glossary, sections)
+    term_comparisons = write_term_comparison_pages(glossary, sections)
+    write_glossary_examples_page(glossary)
+    write_principle_learning_pages(sections)
+    write_teach_me_page()
     obligations = build_obligations(sections)
     write_role_pages(obligations)
     write_register(obligations, sections)
@@ -1106,6 +1509,7 @@ def main() -> None:
     dump_json(DATA / "roles.json", {"roles": ROLE_IDS})
     dump_json(DATA / "obligations.json", obligations)
     dump_json(DATA / "essential-records.json", records)
+    dump_json(DATA / "term-comparisons.json", term_comparisons)
     dump_json(DATA / "extraction-report.json", {"normalizations": ["unicode_nfc", "repeated_header_footer_removal", "layout_line_joining"], "hyphenation": "preserved_when_ambiguous", "section_count": len(sections), "glossary_count": len(glossary), "terminology_count": len(terminology)})
     write_reports(documents, sections, glossary, obligations)
     print(f"Luotu: {len(sections)} osiota, {len(glossary)} sanastomerkintää, {len(terminology)} termikohdistusta, {len(obligations)} velvoite-ehdokasta.")

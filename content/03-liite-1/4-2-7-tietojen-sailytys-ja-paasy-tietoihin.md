@@ -31,10 +31,6 @@ is_based_on:
 
 Tutkimustiedot ja niihin liittyvä [[sanasto/metatieto|metatieto]] tulee arkistoida siten, että tiedot voidaan hakea ja lukea, ja tietoja tulee suojata luvattomalta pääsyltä ja muutoksilta koko säilytysajan.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -44,3 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.2.7, pages 45–45.
+
+Edellinen sivu: [[03-liite-1/4-2-6-datajoukkojen-viimeistely-ennen-analysointia|4.2.6 Datajoukkojen viimeistely ennen analysointia]]
+
+Seuraava sivu: [[03-liite-1/4-2-8-tuhoaminen|4.2.8 Tuhoaminen]]

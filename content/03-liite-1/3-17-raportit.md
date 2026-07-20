@@ -40,3 +40,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.17, pages 42–42.
+
+Edellinen sivu: [[03-liite-1/3-16-4-paasy-tallenteisiin|3.16.4 Pääsy tallenteisiin]]
+
+Seuraava sivu: [[03-liite-1/3-17-1-tutkimuksen-ennenaikainen-lopettaminen-tai-keskeyttaminen|3.17.1 Tutkimuksen ennenaikainen lopettaminen tai keskeyttäminen]]

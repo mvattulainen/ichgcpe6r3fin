@@ -42,10 +42,6 @@ is_based_on:
 
 - (c) Monitorointiin voi sisältyä etäyhteydellä toteutettava, suojattu, suora ja vain lukuoikeudellinen pääsy lähdetallenteisiin, muihin tiedonkeruutyökaluihin ja oleellisten tallenteiden säilytysjärjestelmiin.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -61,3 +57,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4.1, pages 31–31.
+
+Edellinen sivu: [[03-liite-1/3-11-4-monitorointi|3.11.4 Monitorointi]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-2-keskitetty-monitorointi|3.11.4.2 Keskitetty monitorointi]]

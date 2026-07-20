@@ -50,3 +50,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.3.7, pages 47–47.
+
+Edellinen sivu: [[03-liite-1/4-3-6-jarjestelmavika|4.3.6 Järjestelmävika]]
+
+Seuraava sivu: [[03-liite-1/4-3-8-kayttajahallinta|4.3.8 Käyttäjähallinta]]

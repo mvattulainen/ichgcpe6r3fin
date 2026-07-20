@@ -31,10 +31,6 @@ is_based_on:
 
 Tutkimustulosten luotettavuuteen mahdollisesti vaikuttavien tietovirheiden korjaamiseksi tulee olla olemassa prosessit. Korjaukset tulee voida kohdistaa korjauksen tehneeseen henkilöön tai tietokoneistettuun järjestelmään. Korjaukset tulee tehdä oikea-aikaisesti ja perustella, ja niiden tueksi tulee olla [[sanasto/lahdetallenteet|lähdetallenteet]] läheltä alkuperäisen kirjauksen ajankohtaa.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -44,3 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.2.4, pages 45–45.
+
+Edellinen sivu: [[03-liite-1/4-2-3-tietojen-ja-metatiedon-tarkastaminen|4.2.3 Tietojen ja metatiedon tarkastaminen]]
+
+Seuraava sivu: [[03-liite-1/4-2-5-tietojen-siirto-vaihto-ja-tuominen-toiseen-jarjestelmaan|4.2.5 Tietojen siirto, vaihto ja tuominen toiseen järjestelmään]]

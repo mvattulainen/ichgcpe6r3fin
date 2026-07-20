@@ -31,10 +31,6 @@ is_based_on:
 
 [[sanasto/toimeksiantaja|Toimeksiantaja]] vastaa tutkimusvalmisteen jatkuvasta turvallisuusarvioinnista. [[sanasto/tutkijan-tietopaketti|Tutkijan tietopaketti]] tai tarvittaessa muu ajankohtainen tieteellinen tieto, kuten valmisteyhteenveto, on kliinisen lääketutkimuksen turvallisuusarvioinnin ja raportoinnin perusta. Katso lisätietoja täydentävästä liitteestä A.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -44,3 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.13, pages 35–35.
+
+Edellinen sivu: [[03-liite-1/3-12-vaatimusten-laiminlyonti|3.12 Vaatimusten laiminlyönti]]
+
+Seuraava sivu: [[03-liite-1/3-13-1-toimeksiantajan-suorittama-turvallisuustietojen-tarkistus|3.13.1 Toimeksiantajan suorittama turvallisuustietojen tarkistus]]

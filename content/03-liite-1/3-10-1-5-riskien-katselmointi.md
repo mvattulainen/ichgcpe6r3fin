@@ -41,3 +41,7 @@ Toimeksiantajan tulee säännöllisin väliajoin katselmoida riskienhallintatoim
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.10.1.5, pages 29–29.
+
+Edellinen sivu: [[03-liite-1/3-10-1-4-riskiviestinta|3.10.1.4 Riskiviestintä]]
+
+Seuraava sivu: [[03-liite-1/3-10-1-6-riskiraportointi|3.10.1.6 Riskiraportointi]]

@@ -88,3 +88,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4.5.3, pages 33–34.
+
+Edellinen sivu: [[03-liite-1/3-11-4-5-2-tutkimuspaikan-valinta-aloitus-hallinnointi-ja-sulkeminen|3.11.4.5.2 Tutkimuspaikan valinta, aloitus, hallinnointi ja sulkeminen]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-5-4-kliinisen-laaketutkimuksen-tietojen-monitorointi|3.11.4.5.4 Kliinisen lääketutkimuksen tietojen monitorointi]]

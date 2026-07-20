@@ -63,10 +63,6 @@ is_based_on:
 
 - (e) Jos tutkimusvalmisteeseen tehdään kliinisen kehityksen aikana merkittäviä formulaatiomuutoksia (mukaan lukien mahdollinen aktiivinen [[sanasto/vertailuvalmiste|vertailuvalmiste]] ja lumelääke), formuloidun valmisteen mahdollisten lisätutkimusten tulokset (esim. stabiilius, liukenemisnopeus, biologinen hyötyosuus) tarvitaan sen arvioimiseksi,muuttaisivatko kyseiset muutokset merkittävästi valmisteen farmakokineettistä profiilia. Tulosten tulee olla saatavilla ennen uuden formulaation käyttöä kliinisissä lääketutkimuksissa.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -92,3 +88,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.15.2, pages 37–37.
+
+Edellinen sivu: [[03-liite-1/3-15-1-tutkimusvalmistetta-koskevat-tiedot|3.15.1 Tutkimusvalmistetta koskevat tiedot]]
+
+Seuraava sivu: [[03-liite-1/3-15-3-tutkimusvalmisteen-toimittaminen-ja-kasittely|3.15.3 Tutkimusvalmisteen toimittaminen ja käsittely]]

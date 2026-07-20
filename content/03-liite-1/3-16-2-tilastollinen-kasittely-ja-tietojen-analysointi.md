@@ -58,10 +58,6 @@ Tämä kappale koskee kliinisten lääketutkimusten tilastoinnin toiminnallisten
 
 - (f) Toimeksiantajan tulisi säilyttää tilastollista ohjelmointia koskevat tallenteet, jotka liittyvät tutkimustuloksia koskevissa raporteissa esitettyihin tai käytettyihin tuotoksiin, mukaan lukien suoritetut [[sanasto/laadunvalvonta|laadunvalvonta]]- /validointitoimet. Tuotosten tulee olla jäljitettävissä tilasto-ohjelmiin, niiden tulee olla päivättyjä ja aikaleimattuja, suojattu mahdollisia muutoksia vastaan, ja käyttöoikeuksien hallinta tulee toteuttaa siten, että vältetään epäasianmukainen tietojen katselu, joka saattaa aiheuttaa harhaa.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -83,3 +79,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.16.2, pages 41–42.
+
+Edellinen sivu: [[03-liite-1/3-16-1-tietojen-kasittely|3.16.1 Tietojen käsittely]]
+
+Seuraava sivu: [[03-liite-1/3-16-3-tallenteiden-yllapito-ja-sailyttaminen|3.16.3 Tallenteiden ylläpito ja säilyttäminen]]

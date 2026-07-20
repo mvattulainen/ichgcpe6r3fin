@@ -39,3 +39,7 @@ Lyhyt johdanto, jossa mainitaan kunkin tutkimusvalmisteen kemiallinen nimi (ja g
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.3.3, pages 50–50.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-2-yhteenveto|A.3.2 Yhteenveto]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-4-fysikaaliset-kemialliset-ja-farmaseuttiset-ominaisuudet-ja-formulaatio|A.3.4 Fysikaaliset, kemialliset ja farmaseuttiset ominaisuudet ja formulaatio]]

@@ -40,3 +40,7 @@ Toimeksiantajan tulee tarvittaessa koota yhteen ja tarkastella asiaankuuluvia tu
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.13.1, pages 35–35.
+
+Edellinen sivu: [[03-liite-1/3-13-turvallisuusarviointi-ja-raportointi|3.13 Turvallisuusarviointi ja -raportointi]]
+
+Seuraava sivu: [[03-liite-1/3-13-2-turvallisuusraportointi|3.13.2 Turvallisuusraportointi]]

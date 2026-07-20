@@ -182,10 +182,6 @@ is_based_on:
 
 - (ix) varmistaa, että palveluntarjoajilla ja tutkijalla/tutkimuslaitoksella on käytössä prosessi, jolla toimeksiantajalle ilmoitetaan tapahtumista, jotka voivat mahdollisesti merkitä vakavaa kliinisen lääketutkimuksen tutkimussuunnitelman, tutkimusmenettelyiden, lainsäädännön vaatimusten tai hyvän kliinisen tutkimustavan ohjeiden vaatimusten laiminlyöntiä kappaleen 3.12 mukaisesti.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -267,3 +263,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.16.1, pages 38–41.
+
+Edellinen sivu: [[03-liite-1/3-16-tiedot-ja-tallenteet|3.16 Tiedot ja tallenteet]]
+
+Seuraava sivu: [[03-liite-1/3-16-2-tilastollinen-kasittely-ja-tietojen-analysointi|3.16.2 Tilastollinen käsittely ja tietojen analysointi]]

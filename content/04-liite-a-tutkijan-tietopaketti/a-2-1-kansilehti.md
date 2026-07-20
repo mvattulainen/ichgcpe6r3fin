@@ -30,10 +30,6 @@ is_based_on:
 
 Kansilehdeltä tulee käydä ilmi toimeksiantajan nimi, kaikki tutkimusvalmisteet yksilöityinä (ts. tutkimusnumero, kemiallinen tai hyväksytty geneerinen nimi sekä kauppanimi tai -nimet, mikäli laki sallii ja [[sanasto/toimeksiantaja|toimeksiantaja]] haluaa sen/ne ilmoittaa) ja julkaisupäivä. On suositeltavaa ilmoittaa myös version numero, korvattavan version numero ja päivä sekä versioon sisällytettävien tietojen viimeinen keräyspäivämäärä. Tutkijan tietopaketissa voi tarvittaessa olla mukana allekirjoitussivu.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -43,3 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.2.1, pages 50–50.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-2-yleiset-seikat|A.2 Yleiset seikat]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-2-2-tietojen-salassapito|A.2.2 Tietojen salassapito]]

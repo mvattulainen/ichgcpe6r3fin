@@ -30,10 +30,6 @@ is_based_on:
 
 Yleensä [[sanasto/toimeksiantaja|toimeksiantaja]] vastaa siitä, että [[sanasto/tutkijan-tietopaketti|tutkijan tietopaketti]] pidetään ajan tasalla. Jos kyseessä on [[sanasto/toimeksiantaja|toimeksiantaja]]-tutkijan tutkimus, hänen tulee selvittää, onko tietopaketti saatavilla kyseisen valmisteen lisenssin/myyntiluvan haltijalta. Jos [[sanasto/toimeksiantaja-tutkija|toimeksiantaja-tutkija]] toimittaa tutkimusvalmisteen, hänen tulee antaa tarvittavat tiedot tutkimusta suorittavalle henkilöstölle. Ajantasaiset tieteelliset tiedot, kuten olemassa olevat, hyväksytyt tuotetiedot (esim. valmisteyhteenveto, pakkausseloste tai -merkintä), jos [[sanasto/valvontaviranomaiset|valvontaviranomaiset]] sen sallivat, voivat olla sopiva vaihtoehto edellyttäen, että ne sisältävät ajantasaiset, kattavat ja yksityiskohtaiset tiedot kaikista tutkimusvalmisteeseen liittyvistä seikoista, jotka voivat olla tärkeitä tutkijalle. Jos myyntiluvan saanutta lääkevalmistetta tutkitaan uutta käyttötarkoitusta (eli uutta käyttöaihetta) varten, kyseiselle uudelle käyttötarkoitukselle tulee laatia [[sanasto/tutkijan-tietopaketti|tutkijan tietopaketti]], ellei ole perusteltua käyttää vain yhtä tutkijan tietopakettia. [[sanasto/tutkijan-tietopaketti|Tutkijan tietopaketti]] tulee tarkistaa vähintään kerran vuodessa ja päivittää aina tarvittaessa toimeksiantajan dokumentoitujen menettelytapojen mukaisesti. Päivityksiä voi olla tarpeen tehdä useammin riippuen tuotekehityksen vaiheesta ja tutkimuksessa havaituista uusista relevanteista tiedoista. Uudet tiedot voivat olla niin tärkeitä, että niistä on tarpeen tiedottaa tutkijoille ja mahdollisesti eettiselle toimikunnalle ja/tai valvontaviranomaisille ennen niiden sisällyttämistä päivitettyyn tutkijan tietopakettiin.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -43,3 +39,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.1.1, pages 49–49.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-1-johdanto|A.1 Johdanto]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-1-2-turvallisuutta-koskevat-viitetiedot-seka-riskien-ja-hyotyjen-arviointi|A.1.2 Turvallisuutta koskevat viitetiedot sekä riskien ja hyötyjen arviointi]]

@@ -40,3 +40,7 @@ Tutkijan tietopaketissa tulee olla seuraavat kappaleet, joiden loppuun lisätä�
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.3, pages 50–50.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-2-2-tietojen-salassapito|A.2.2 Tietojen salassapito]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-1-sisallysluettelo|A.3.1 Sisällysluettelo]]

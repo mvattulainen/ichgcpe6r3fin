@@ -100,10 +100,6 @@ Tutkimusvalmisteiden, myös mahdollisten lumelääkkeiden ja vertailuvalmisteide
 
 Hoitojen satunnaistamiskoodien ja koodien avaamismenettelyjen ylläpitäminen.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -157,3 +153,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.4, pages 54–55.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-3-tutkimuksen-tavoitteet-ja-tarkoitus|B.3 Tutkimuksen tavoitteet ja tarkoitus]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-5-tutkimukseen-osallistujien-valinta|B.5 Tutkimukseen osallistujien valinta]]

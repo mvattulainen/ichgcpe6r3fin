@@ -69,3 +69,7 @@ Kuvaus tutkimussuunnitelman tai hyvän kliinisen tutkimustavan vaatimusten laimi
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.12, pages 56–57.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-11-suora-paasy-lahdetallenteisiin|B.11 Suora pääsy lähdetallenteisiin]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-13-etiikka|B.13 Etiikka]]

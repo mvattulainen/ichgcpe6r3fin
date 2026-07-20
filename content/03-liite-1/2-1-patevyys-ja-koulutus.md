@@ -59,3 +59,7 @@ Tutkijan tulee tuntea tutkimusvalmisteen tarkoituksenmukainen käyttö siten kui
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.1, pages 15–15.
+
+Edellinen sivu: [[03-liite-1/2-tutkija|2 Tutkija]]
+
+Seuraava sivu: [[03-liite-1/2-2-resurssit|2.2 Resurssit]]

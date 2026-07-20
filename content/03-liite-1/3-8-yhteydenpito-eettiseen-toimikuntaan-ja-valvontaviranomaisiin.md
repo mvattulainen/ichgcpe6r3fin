@@ -40,3 +40,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.8, pages 27–27.
+
+Edellinen sivu: [[03-liite-1/3-7-tutkijan-valinta|3.7 Tutkijan valinta]]
+
+Seuraava sivu: [[03-liite-1/3-8-1-ilmoitukset-ja-hakemukset-valvontaviranomaisille|3.8.1 Ilmoitukset ja hakemukset valvontaviranomaisille]]

@@ -32,10 +32,6 @@ is_based_on:
 
 Toimeksiantajan tulee varmistaa, että tutkimussuunnitelmassa tai muussa dokumentoidussa sopimuksessa täsmennetään, että [[sanasto/tutkija|tutkija]]/[[sanasto/tutkimuslaitos|tutkimuslaitos]]/[[sanasto/palveluntarjoaja|palveluntarjoaja]] sallii tutkimukseen liittyvän monitoroinnin, auditoinnit, viranomaistarkastukset ja lainsäädännön vaatimusten mukaisesti eettisen toimikunnan suorittaman arvioinnin tarjoamalla suoran pääsyn lähdetallenteisiin.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -45,3 +41,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.11, pages 56–56.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-9-turvallisuuden-arviointi|B.9 Turvallisuuden arviointi]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-12-laadunvalvonta-ja-laadunvarmistus|B.12 Laadunvalvonta ja laadunvarmistus]]

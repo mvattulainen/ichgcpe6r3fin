@@ -49,10 +49,6 @@ Toimeksiantajan käytännöissä ja menettelytavoissa tulee ottaa huomioon lains
 
 Tutkimukseen osallistujille tehtävissä maksuissa tulee noudattaa lainsäädännön vaatimuksia.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -74,3 +70,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.14, pages 36–36.
+
+Edellinen sivu: [[03-liite-1/3-13-3-valittoman-vaaran-hallinta|3.13.3 Välittömän vaaran hallinta]]
+
+Seuraava sivu: [[03-liite-1/3-15-tutkimusvalmiste-et|3.15 Tutkimusvalmiste(et)]]

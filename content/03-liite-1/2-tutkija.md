@@ -41,3 +41,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2, pages 15–15.
+
+Edellinen sivu: [[03-liite-1/1-5-tallenteet|1.5 Tallenteet]]
+
+Seuraava sivu: [[03-liite-1/2-1-patevyys-ja-koulutus|2.1 Pätevyys ja koulutus]]

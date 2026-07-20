@@ -56,3 +56,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.2.1, pages 44–44.
+
+Edellinen sivu: [[03-liite-1/4-2-tietojen-elinkaaren-osatekijat|4.2 Tietojen elinkaaren osatekijät]]
+
+Seuraava sivu: [[03-liite-1/4-2-2-merkityksellinen-metatieto-mukaan-lukien-jaljitettavyysketjut|4.2.2 Merkityksellinen metatieto, mukaan lukien jäljitettävyysketjut]]

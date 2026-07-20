@@ -40,3 +40,7 @@ Tutkimusvalmisteen ainesosa(t) (mukaan luettuna kemiallinen kaava ja/tai rakenne
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.3.4, pages 50–51.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-3-johdanto|A.3.3 Johdanto]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-5-ei-kliiniset-tutkimukset|A.3.5 Ei-kliiniset tutkimukset]]

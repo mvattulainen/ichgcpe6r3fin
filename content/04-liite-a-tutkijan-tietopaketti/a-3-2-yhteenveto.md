@@ -39,3 +39,7 @@ Lyhyt yhteenveto (joka ei saisi olla yli kahden sivun pituinen), jossa mainitaan
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.3.2, pages 50–50.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-1-sisallysluettelo|A.3.1 Sisällysluettelo]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-3-3-johdanto|A.3.3 Johdanto]]

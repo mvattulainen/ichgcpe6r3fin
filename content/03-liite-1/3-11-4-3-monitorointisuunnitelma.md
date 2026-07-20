@@ -32,10 +32,6 @@ is_based_on:
 
 Toimeksiantajan tulee laatia [[sanasto/monitorointisuunnitelma|monitorointisuunnitelma]], joka on räätälöity tunnistettujen mahdollisten turvallisuusriskien, tietojen/datan laatuun kohdistuvien riskien ja/tai tutkimustulosten luotettavuuteen kohdistuvien muiden riskien perusteella. Erityistä huomiota tulee kiinnittää tutkimukseen osallistujien turvallisuuteen ja tutkimuksen päätetapahtumiin liittyviin menettelyihin. Suunnitelmassa tulee kuvata monitorointistrategia, kaikkien osapuolten monitorointitoimet, erilaiset käytettävät monitorointimenetelmät ja monitorointityökalut sekä niiden käytön perustelut. Monitorointistrategian tulee varmistaa tutkimuksen toteuttamisen asianmukainen valvonta ja ottaa huomioon tutkimuspaikan valmiudet ja mahdolliset rasitteet. Suunnitelmassa tulee keskittyä laadun kannalta kriittisiin seikkoihin. Monitorointisuunnitelmassa tulee viitata toimeksiantajan ohjeisiin ja menettelyihin. Tutkimuspaikan ulkopuolella (esim. keskitetyissä kuvantamisen tulkintaa tekevissä yksiköissä, keskuslaboratorioissa) suoritettu tärkeiden tietojen ja prosessien (esim. tiedot, jotka liittyvät ensisijaisiin päätetapahtumiin ja tärkeimpiin toissijaisiin tapahtumiin ja prosesseihin ja joiden tarkoituksena on varmistaa tutkimukseen osallistujien turvallisuus) [[sanasto/monitorointi|monitorointi]] tulee käsitellä monitorointisuunnitelmassa.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -45,3 +41,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4.3, pages 32–32.
+
+Edellinen sivu: [[03-liite-1/3-11-4-2-keskitetty-monitorointi|3.11.4.2 Keskitetty monitorointi]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-4-monitorointimenettelyt|3.11.4.4 Monitorointimenettelyt]]

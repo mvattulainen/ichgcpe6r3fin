@@ -50,3 +50,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.2.1, pages 30–30.
+
+Edellinen sivu: [[03-liite-1/3-11-2-auditointi|3.11.2 Auditointi]]
+
+Seuraava sivu: [[03-liite-1/3-11-2-2-auditointimenettelyt|3.11.2.2 Auditointimenettelyt]]

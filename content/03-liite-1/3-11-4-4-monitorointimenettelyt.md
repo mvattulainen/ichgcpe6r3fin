@@ -41,3 +41,7 @@ Monitorointia tekevien henkilöiden tulee noudattaa toimeksiantajan monitorointi
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4.4, pages 32–32.
+
+Edellinen sivu: [[03-liite-1/3-11-4-3-monitorointisuunnitelma|3.11.4.3 Monitorointisuunnitelma]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-5-monitorointitoimet|3.11.4.5 Monitorointitoimet]]

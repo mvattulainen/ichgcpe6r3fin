@@ -41,3 +41,7 @@ turvallisuusraportointi
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.7, pages 17–17.
+
+Edellinen sivu: [[03-liite-1/2-6-tutkimuksen-ennenaikainen-lopettaminen-tai-keskeyttaminen|2.6 Tutkimuksen ennenaikainen lopettaminen tai keskeyttäminen]]
+
+Seuraava sivu: [[03-liite-1/2-7-1-tutkimukseen-osallistujille-annettava-laaketieteellinen-hoito|2.7.1 Tutkimukseen osallistujille annettava lääketieteellinen hoito]]

@@ -40,3 +40,7 @@ Ennen tutkimuksen alkamista toimeksiantajan (tai toimeksiantajan ja tutkijan) tu
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.8.1, pages 27–27.
+
+Edellinen sivu: [[03-liite-1/3-8-yhteydenpito-eettiseen-toimikuntaan-ja-valvontaviranomaisiin|3.8 Yhteydenpito eettiseen toimikuntaan ja valvontaviranomaisiin]]
+
+Seuraava sivu: [[03-liite-1/3-8-2-eettisen-toimikunnan-antamat-vahvistukset-arvioinnista|3.8.2 Eettisen toimikunnan antamat vahvistukset arvioinnista]]

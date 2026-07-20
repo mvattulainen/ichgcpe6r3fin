@@ -70,10 +70,6 @@ is_based_on:
 
 - (j) Varmistetaan oleellisten tallenteiden säilyttämisjärjestelyt ja tutkimusvalmisteen lopullinen kulutusseuranta (esim. palauttaminen ja tuhoaminen tai tarvittaessa muu vaihtoehtoinen käsittely) tutkimuslaitoksen/paikan sulkemistoimien aikana.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -103,3 +99,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4.5.2, pages 33–33.
+
+Edellinen sivu: [[03-liite-1/3-11-4-5-1-viestinta-tutkimuksen-toteuttajien-kanssa|3.11.4.5.1 Viestintä tutkimuksen toteuttajien kanssa]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-5-3-tutkimusvalmisteen-hallinnoinnin-monitorointi|3.11.4.5.3 Tutkimusvalmisteen hallinnoinnin monitorointi]]

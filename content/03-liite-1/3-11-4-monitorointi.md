@@ -33,10 +33,6 @@ is_based_on:
 
 Monitoroinnin tavoitteena on varmistaa tutkimukseen osallistujien oikeudet, turvallisuus ja hyvinvointi sekä tutkimustulosten luotettavuus tutkimuksen edetessä. [[sanasto/monitorointi|Monitorointi]] on yksi tärkeimmistä laadunvalvontatoimista. Monitorointiin kuuluu laaja valikoima toimia, kuten viestintä tutkimuspaikan kanssa, tutkijan ja tutkimusta suorittavan henkilöstön pätevyyden ja toimipaikan resurssien todentaminen, koulutus sekä tutkimusasiakirjojen ja tiedon tarkistaminen erilaisten menettelyiden avulla, mukaan lukien lähdetietojen tarkastelu, lähdetietojen varmentaminen, data-analytiikka ja vierailut tiloihin, joissa tutkimusta tehdään. Osa näistä monitorointitoimista (esim. keskitetty [[sanasto/monitorointi|monitorointi]]) voidaan toteuttaa käyttäen avuksi eri menetelmiä ja eri rooleja omaavia henkilöitä (esim. data-analyytikko). Kuitenkin vain sellaiset henkilöt saavat osallistua monitorointiin, jotka eivät osallistu tutkimuksen kliiniseen toteuttamiseen tutkimuspaikassa. Monitoroinnissa tulee ottaa huomioon toimet ja palvelut, mukaan lukien hajautetut toimet, ja ne tulee sisällyttää monitorointisuunnitelmaan. Monitoroijien ja muun tutkimusta suorittavan henkilöstön tulee noudattaa tietosuojaa ja luottamuksellisuutta koskevia vaatimuksia lainsäädännön vaatimusten, tutkimuslaitoksen käytäntöjen ja vahvistettujen tietoturvastandardien mukaisesti. Monitorointiin voi sisältyä monitorointia tutkimuspaikassa (tehdään paikan päällä ja/tai etänä) sekä keskitettyä monitorointia riippuen monitorointistrategiasta ja kliinisen lääketutkimuksen asetelmasta. Toimeksiantajan tulee määrittää monitoroinnin asianmukainen laajuus ja luonne tunnistettujen riskien perusteella. Monitoroinnissa tulee huomioida esimerkiksi tutkimuksen tavoite, tarkoitus, (tutkimus)asetelma, monimutkaisuus, [[sanasto/sokkoutus|sokkoutus]], tutkimukseen osallistujien määrä, [[sanasto/tutkimusvalmiste|tutkimusvalmiste]], nykyinen tietämys turvallisuusprofiilista ja päätetapahtumat.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -46,3 +42,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4, pages 31–31.
+
+Edellinen sivu: [[03-liite-1/3-11-3-laadunvalvonta|3.11.3 Laadunvalvonta]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-1-tutkimuspaikan-monitorointi|3.11.4.1 Tutkimuspaikan monitorointi]]

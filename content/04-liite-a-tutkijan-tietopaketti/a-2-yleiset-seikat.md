@@ -39,3 +39,7 @@ Tässä kuvataan ne tiedot, jotka tutkijan tietopaketin tulee vähintään sisä
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.2, pages 50–50.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-1-2-turvallisuutta-koskevat-viitetiedot-seka-riskien-ja-hyotyjen-arviointi|A.1.2 Turvallisuutta koskevat viitetiedot sekä riskien ja hyötyjen arviointi]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-2-1-kansilehti|A.2.1 Kansilehti]]

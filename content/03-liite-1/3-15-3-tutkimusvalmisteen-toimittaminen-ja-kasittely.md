@@ -67,10 +67,6 @@ is_based_on:
 
 - (vi) säilyttää riittävä määrä tutkimuksissa käytettyä tutkimusvalmistetta eräkohtaisten laatuvaatimusten (spesifikaatioiden) uudelleen vahvistamiseksi, jos se on tarpeen, ja pitää kirjaa eränäytteiden analyyseistä ja ominaisuuksista. Näytteet tulee säilyttää joko siihen saakka, kunnes tutkimustietojen analyysit on saatettu valmiiksi, tai niin kauan kuin [[sanasto/lainsaadannon-vaatimukset|lainsäädännön vaatimukset]] sitä vaativat sen mukaan, kumpi säilytysaika on pidempi. Toimeksiantajan ei välttämättä tarvitse säilyttää näytteitä tutkimuksissa, joissa myyntiluvan saanutta lääkettä käytetään sellaisenaan tutkimusvalmisteena paikallisten lainsäädännön vaatimusten mukaisesti. Tällaisessa tilanteessa valmistaja tyypillisesti säilyttää näytteitä.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -98,3 +94,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.15.3, pages 37–38.
+
+Edellinen sivu: [[03-liite-1/3-15-2-tutkimusvalmisteen-valmistus-pakkaaminen-merkinta-ja-koodaus|3.15.2 Tutkimusvalmisteen valmistus, pakkaaminen, merkintä ja koodaus]]
+
+Seuraava sivu: [[03-liite-1/3-16-tiedot-ja-tallenteet|3.16 Tiedot ja tallenteet]]

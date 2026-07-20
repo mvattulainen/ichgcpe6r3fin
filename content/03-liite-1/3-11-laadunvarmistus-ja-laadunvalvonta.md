@@ -31,10 +31,6 @@ is_based_on:
 
 [[sanasto/toimeksiantaja|Toimeksiantaja]] vastaa laadunvarmistuksen ja laadunvalvonnan järjestämisestä, toteuttamisesta ja ylläpitämisestä sekä dokumentoiduista menetelmistä, joilla varmistetaan, että tutkimukset toteutetaan ja tiedot tuotetaan, kirjataan ja raportoidaan tutkimussuunnitelman, hyvän kliinisen tutkimustavan ja lainsäädännön vaatimusten mukaisesti.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -44,3 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11, pages 30–30.
+
+Edellinen sivu: [[03-liite-1/3-10-1-6-riskiraportointi|3.10.1.6 Riskiraportointi]]
+
+Seuraava sivu: [[03-liite-1/3-11-1-laadunvarmistus|3.11.1 Laadunvarmistus]]

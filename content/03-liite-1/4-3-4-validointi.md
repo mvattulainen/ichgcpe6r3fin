@@ -94,3 +94,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.3.4, pages 46–47.
+
+Edellinen sivu: [[03-liite-1/4-3-3-tietoturva|4.3.3 Tietoturva]]
+
+Seuraava sivu: [[03-liite-1/4-3-5-jarjestelman-vapautus|4.3.5 Järjestelmän vapautus]]

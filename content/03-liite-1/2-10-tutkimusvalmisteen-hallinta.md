@@ -86,10 +86,6 @@ Tutkijan tai tutkijan/tutkimuslaitoksen nimeämän henkilön tulee selostaa tutk
 
 Tutkimusvalmisteen hallinnointi tulee järjestää ja toteuttaa lainsäädännön vaatimusten mukaisesti, ja valmisteen eheyden, tutkimussuunnitelman mukaisen käytön ja tutkimukseen osallistujien turvallisuuden varmistamiseksi tulee käyttää suojatoimia.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -135,3 +131,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 2.10, pages 22–23.
+
+Edellinen sivu: [[03-liite-1/2-9-kliiniseen-laaketutkimukseen-osallistumisen-paattyminen|2.9 Kliiniseen lääketutkimukseen osallistumisen päättyminen]]
+
+Seuraava sivu: [[03-liite-1/2-11-satunnaistamismenettelyt-ja-sokkoutuksen-purkaminen|2.11 Satunnaistamismenettelyt ja sokkoutuksen purkaminen]]

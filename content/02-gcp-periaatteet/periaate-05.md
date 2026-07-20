@@ -48,3 +48,7 @@ Henkilöitä, joilla on erilaista asiantuntemusta ja koulutusta, saatetaan tarvi
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 5, pages 9–9.
+
+Edellinen sivu: [[02-gcp-periaatteet/periaate-04|4. Kliinisten lääketutkimusten tulee olla tieteellisesti perusteltuja niiden aiottuun tarkoitukseen nähden ja perustua asianmukaiselle ja ajantasaiselle tieteelliselle tietämykselle ja lähestymistavoille.]]
+
+Seuraava sivu: [[02-gcp-periaatteet/periaate-06|6. Laatu tulee sisällyttää tieteelliseen ja toiminnalliseen suunnitteluun ja kliinisten lääketutkimusten toteuttamiseen.]]

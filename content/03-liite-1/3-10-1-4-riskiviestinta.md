@@ -40,3 +40,7 @@ Toimeksiantajan tulee dokumentoida tunnistetut riskit ja niiden vähentämiseksi
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.10.1.4, pages 29–29.
+
+Edellinen sivu: [[03-liite-1/3-10-1-3-riskien-hallinta|3.10.1.3 Riskien hallinta]]
+
+Seuraava sivu: [[03-liite-1/3-10-1-5-riskien-katselmointi|3.10.1.5 Riskien katselmointi]]

@@ -49,10 +49,6 @@ Jos havaitaan, että vaatimuksia laiminlyödään, mikä vaikuttaa tai voi vaiku
 
 Jos tutkijan/tutkimuslaitoksen tai palveluntarjoajan toiminnassa havaitaan merkittäviä vaatimusten laiminlyöntejä ja ne jatkuvat, vaikka niitä on yritetty korjata, toimeksiantajan tulee harkita tutkijan/tutkimuslaitoksen tai palveluntarjoajan osallistumisen päättämistä tutkimuksessa. Näissä olosuhteissa toimeksiantajan tulee tapauksen edellyttämällä tavalla viipymättä ilmoittaa valvontaviranomaisille ja eettiselle toimikunnalle vakavista laiminlyönneistä ja ryhtyä toimiin, joilla minimoidaan vaikutukset tutkimukseen osallistujiin ja tulosten luotettavuuteen.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -74,3 +70,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.12, pages 35–35.
+
+Edellinen sivu: [[03-liite-1/3-11-4-6-monitorointiraportti|3.11.4.6 Monitorointiraportti]]
+
+Seuraava sivu: [[03-liite-1/3-13-turvallisuusarviointi-ja-raportointi|3.13 Turvallisuusarviointi ja -raportointi]]

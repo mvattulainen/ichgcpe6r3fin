@@ -41,3 +41,7 @@ Riskien hallinnan tulee olla oikeassa suhteessa riskin merkittävyyteen tutkimuk
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.10.1.3, pages 29–29.
+
+Edellinen sivu: [[03-liite-1/3-10-1-2-riskien-arviointi|3.10.1.2 Riskien arviointi]]
+
+Seuraava sivu: [[03-liite-1/3-10-1-4-riskiviestinta|3.10.1.4 Riskiviestintä]]

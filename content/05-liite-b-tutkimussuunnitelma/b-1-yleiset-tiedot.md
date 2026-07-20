@@ -46,10 +46,6 @@ Toimeksiantajan nimi ja osoite.
 
 Niiden henkilöiden nimet ja asema, joilla on oikeus allekirjoittaa [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] ja sen muutokset toimeksiantajan puolesta.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -71,3 +67,5 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.1, pages 54–54.
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-2-taustatiedot|B.2 Taustatiedot]]

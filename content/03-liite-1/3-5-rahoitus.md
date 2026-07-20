@@ -40,3 +40,7 @@ Tutkimuksen taloudelliset seikat tulee dokumentoida toimeksiantajan ja tutkijan/
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.5, pages 25–25.
+
+Edellinen sivu: [[03-liite-1/3-4-1-laaketieteellinen-asiantuntemus|3.4.1 Lääketieteellinen asiantuntemus]]
+
+Seuraava sivu: [[03-liite-1/3-6-sopimukset|3.6 Sopimukset]]

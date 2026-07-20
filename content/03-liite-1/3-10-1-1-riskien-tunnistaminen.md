@@ -33,10 +33,6 @@ is_based_on:
 
 Toimeksiantajan tulee ennen tutkimuksen aloittamista ja koko tutkimuksen toteuttamisen ajan tunnistaa riskit, jotka voivat vaikuttaa merkittävästi kriittisiin laatutekijöihin. Riskit tulee ottaa huomioon kliinisen lääketutkimuksen kaikissa toiminnoissa ja tutkimuksessa käytettävissä järjestelmissä, mukaan lukien tietokoneistetut järjestelmät (esim. tutkimusasetelma, tutkimukseen osallistujien valinta, suostumusprosessi, [[sanasto/satunnaistaminen|satunnaistaminen]], [[sanasto/sokkoutus|sokkoutus]], tutkimusvalmisteen antaminen, tietojen käsittely ja palveluntarjoajan toiminta).
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -46,3 +42,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.10.1.1, pages 29–29.
+
+Edellinen sivu: [[03-liite-1/3-10-1-riskienhallinta|3.10.1 Riskienhallinta]]
+
+Seuraava sivu: [[03-liite-1/3-10-1-2-riskien-arviointi|3.10.1.2 Riskien arviointi]]

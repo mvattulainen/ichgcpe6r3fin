@@ -40,3 +40,7 @@ Seuraavassa kuvataan oikeasuhtainen lähestymistapa riskien tunnistamiseen ja ha
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.10.1, pages 29–29.
+
+Edellinen sivu: [[03-liite-1/3-10-laadunhallinta|3.10 Laadunhallinta]]
+
+Seuraava sivu: [[03-liite-1/3-10-1-1-riskien-tunnistaminen|3.10.1.1 Riskien tunnistaminen]]

@@ -40,3 +40,7 @@ Toimeksiantajan vastuulla on ottaa käyttöön riskeihin suhteutettuja menettely
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3, pages 25–25.
+
+Edellinen sivu: [[03-liite-1/2-13-raportit|2.13 Raportit]]
+
+Seuraava sivu: [[03-liite-1/3-1-tutkimusasetelma|3.1 Tutkimusasetelma]]

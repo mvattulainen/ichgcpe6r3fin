@@ -31,10 +31,6 @@ is_based_on:
 
 Tutkijan tietopaketissa olevat [[sanasto/turvallisuutta-koskevat-viitetiedot|turvallisuutta koskevat viitetiedot]] (RSI) ovat tärkeitä kliinisessä 2 Tässä ohjeessa termillä ”[[sanasto/tutkimusvalmiste|tutkimusvalmiste]]” tarkoitetaan lääkkeitä, lääkevalmisteita, rokotteita ja biologisia valmisteita. Luettavuuden parantamiseksi suomenkielisessä käännöksessä käytetään pääasiassa yksikkömuotoa ”[[sanasto/tutkimusvalmiste|tutkimusvalmiste]]”. Tämä ei kuitenkaan rajoita termin soveltamista ainoastaan yhteen tutkimusvalmisteeseen, vaan termi on asiayhteyden mukaan ymmärrettävä myös monikollisessa merkityksessä. lääketutkimuksessa ilmenneiden epäiltyjen odottamattomien vakavien haittavaikutusten (SUSAR) nopeutettua raportointia varten. Turvallisuutta koskevissa viitetiedoissa tulee olla luettelo haittavaikutuksista, mukaan lukien tiedot niiden esiintymistiheydestä ja luonteesta. Tätä luetteloa tulee käyttää määriteltäessä epäillyn vakavan haittavaikutuksen odotettavuutta ja myöhemmin sitä, onko raportointia nopeutettava lainsäädännön vaatimusten mukaisesti (ks. kappaleen 3.13.2 alakohta c). [[sanasto/tutkijan-tietopaketti|Tutkijan tietopaketti]] tarjoaa myös tietoa tutkimukseen osallistujan hoidon tueksi kliinisen lääketutkimuksen aikana. Tutkijan tietopaketin tiedot tulee esittää tiiviissä, yksinkertaisessa, puolueettomassa, tasapainoisessa ja muussa kuin myynninedistämiseen tähtäävässä muodossa, jotta kliinikko tai mahdollinen [[sanasto/tutkija|tutkija]] ymmärtää ne ja voi tehdä harhattoman riskien ja hyötyjen arvioinnin ehdotetun kliinisen lääketutkimuksen soveltuvuudesta. Tästä syystä lääketieteellisesti pätevän henkilön tulee osallistua tutkijan tietopaketin laatimiseen, mutta kuvatut tiedot tuottaneiden asiantuntijoiden tulee hyväksyä tutkijan tietopaketin sisältö.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -44,3 +40,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section A.1.2, pages 49–49.
+
+Edellinen sivu: [[04-liite-a-tutkijan-tietopaketti/a-1-1-tutkijan-tietopaketin-laatiminen|A.1.1 Tutkijan tietopaketin laatiminen]]
+
+Seuraava sivu: [[04-liite-a-tutkijan-tietopaketti/a-2-yleiset-seikat|A.2 Yleiset seikat]]

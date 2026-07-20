@@ -39,3 +39,7 @@ Tutkimukseen liittyvien eettisten kysymysten kuvaus.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section B.13, pages 57–57.
+
+Edellinen sivu: [[05-liite-b-tutkimussuunnitelma/b-12-laadunvalvonta-ja-laadunvarmistus|B.12 Laadunvalvonta ja laadunvarmistus]]
+
+Seuraava sivu: [[05-liite-b-tutkimussuunnitelma/b-14-tietojen-kasittely-ja-tutkimukseen-liittyvien-tallenteiden-yllapito|B.14 Tietojen käsittely ja tutkimukseen liittyvien tallenteiden ylläpito]]

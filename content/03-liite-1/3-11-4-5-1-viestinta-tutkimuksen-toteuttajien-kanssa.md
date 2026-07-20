@@ -64,3 +64,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.11.4.5.1, pages 32–33.
+
+Edellinen sivu: [[03-liite-1/3-11-4-5-monitorointitoimet|3.11.4.5 Monitorointitoimet]]
+
+Seuraava sivu: [[03-liite-1/3-11-4-5-2-tutkimuspaikan-valinta-aloitus-hallinnointi-ja-sulkeminen|3.11.4.5.2 Tutkimuspaikan valinta, aloitus, hallinnointi ja sulkeminen]]

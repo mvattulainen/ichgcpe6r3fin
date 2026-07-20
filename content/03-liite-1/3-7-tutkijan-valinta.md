@@ -41,10 +41,6 @@ is_based_on:
 
 Toimeksiantajan tulee toimittaa [[sanasto/tutkimussuunnitelma|tutkimussuunnitelma]] ja ajantasainen [[sanasto/tutkijan-tietopaketti|tutkijan tietopaketti]] mahdollisille tutkijoille/tutkimuslaitoksille, joille tulee varata riittävästi aikaa tutkimussuunnitelman ja annettujen tietojen tarkasteluun.
 
-## Liittyvät käsitteet
-
-Katso tekstissä linkitetyt sanastokäsitteet.
-
 > [!quote]- Alkuperäinen englanninkielinen lähdeteksti
 >
 > <div lang="en">
@@ -62,3 +58,7 @@ Katso tekstissä linkitetyt sanastokäsitteet.
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.7, pages 27–27.
+
+Edellinen sivu: [[03-liite-1/3-6-sopimukset|3.6 Sopimukset]]
+
+Seuraava sivu: [[03-liite-1/3-8-yhteydenpito-eettiseen-toimikuntaan-ja-valvontaviranomaisiin|3.8 Yhteydenpito eettiseen toimikuntaan ja valvontaviranomaisiin]]

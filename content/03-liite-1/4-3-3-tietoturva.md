@@ -63,3 +63,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 4.3.3, pages 46–46.
+
+Edellinen sivu: [[03-liite-1/4-3-2-koulutus|4.3.2 Koulutus]]
+
+Seuraava sivu: [[03-liite-1/4-3-4-validointi|4.3.4 Validointi]]

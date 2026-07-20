@@ -40,3 +40,7 @@ is_based_on:
 > </div>
 >
 > **Lähde:** ICH E6(R3), section 3.16, pages 38–38.
+
+Edellinen sivu: [[03-liite-1/3-15-3-tutkimusvalmisteen-toimittaminen-ja-kasittely|3.15.3 Tutkimusvalmisteen toimittaminen ja käsittely]]
+
+Seuraava sivu: [[03-liite-1/3-16-1-tietojen-kasittely|3.16.1 Tietojen käsittely]]
